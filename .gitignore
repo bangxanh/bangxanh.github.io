@@ -5,3 +5,5 @@ site/sitemap.xml
 site/robots.txt
 site/data/bai/
 site/hinh/
+__pycache__/
+*.pyc
