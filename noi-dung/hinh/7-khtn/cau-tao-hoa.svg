@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="482.976pt" height="272.304pt" viewBox="0 0 482.976 272.304" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:16:11.073504</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 272.304 
+L 482.976 272.304 
+L 482.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 136.152 199.908 
+L 174.96 216.54 
+L 213.768 199.908 
+L 199.908 191.592 
+L 150.012 191.592 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #7cbf4a; stroke: #55891b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 147.24 194.364 
+L 91.8 64.08 
+L 116.748 55.764 
+L 163.872 174.96 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #f7b6c2; opacity: 0.95; stroke: #c93a58; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 202.68 194.364 
+L 258.12 64.08 
+L 233.172 55.764 
+L 186.048 174.96 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #f7b6c2; opacity: 0.95; stroke: #c93a58; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 174.96 192.978 
+C 180.106001 192.978 185.041928 191.371585 188.6807 188.51255 
+C 192.319472 185.653515 194.364 181.775286 194.364 177.732 
+C 194.364 173.688714 192.319472 169.810485 188.6807 166.95145 
+C 185.041928 164.092415 180.106001 162.486 174.96 162.486 
+C 169.813999 162.486 164.878072 164.092415 161.2393 166.95145 
+C 157.600528 169.810485 155.556 173.688714 155.556 177.732 
+C 155.556 181.775286 157.600528 185.653515 161.2393 188.51255 
+C 164.878072 191.371585 169.813999 192.978 174.96 192.978 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #bfe39a; stroke: #55891b; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 168.03 185.2164 
+C 169.279743 185.2164 170.478468 184.719872 171.36217 183.83617 
+C 172.245872 182.952468 172.7424 181.753743 172.7424 180.504 
+C 172.7424 179.254257 172.245872 178.055532 171.36217 177.17183 
+C 170.478468 176.288128 169.279743 175.7916 168.03 175.7916 
+C 166.780257 175.7916 165.581532 176.288128 164.69783 177.17183 
+C 163.814128 178.055532 163.3176 179.254257 163.3176 180.504 
+C 163.3176 181.753743 163.814128 182.952468 164.69783 183.83617 
+C 165.581532 184.719872 166.780257 185.2164 168.03 185.2164 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #ffffff; stroke: #1f5640; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 181.89 185.2164 
+C 183.139743 185.2164 184.338468 184.719872 185.22217 183.83617 
+C 186.105872 182.952468 186.6024 181.753743 186.6024 180.504 
+C 186.6024 179.254257 186.105872 178.055532 185.22217 177.17183 
+C 184.338468 176.288128 183.139743 175.7916 181.89 175.7916 
+C 180.640257 175.7916 179.441532 176.288128 178.55783 177.17183 
+C 177.674128 178.055532 177.1776 179.254257 177.1776 180.504 
+C 177.1776 181.753743 177.674128 182.952468 178.55783 183.83617 
+C 179.441532 184.719872 180.640257 185.2164 181.89 185.2164 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #ffffff; stroke: #1f5640; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 174.96 175.5144 
+C 176.209743 175.5144 177.408468 175.017872 178.29217 174.13417 
+C 179.175872 173.250468 179.6724 172.051743 179.6724 170.802 
+C 179.6724 169.552257 179.175872 168.353532 178.29217 167.46983 
+C 177.408468 166.586128 176.209743 166.0896 174.96 166.0896 
+C 173.710257 166.0896 172.511532 166.586128 171.62783 167.46983 
+C 170.744128 168.353532 170.2476 169.552257 170.2476 170.802 
+C 170.2476 172.051743 170.744128 173.250468 171.62783 174.13417 
+C 172.511532 175.017872 173.710257 175.5144 174.96 175.5144 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #ffffff; stroke: #1f5640; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 174.96 97.344 
+C 177.900572 97.344 180.721102 96.759849 182.8004 95.7202 
+C 184.879698 94.680551 186.048 93.270286 186.048 91.8 
+C 186.048 90.329714 184.879698 88.919449 182.8004 87.8798 
+C 180.721102 86.840151 177.900572 86.256 174.96 86.256 
+C 172.019428 86.256 169.198898 86.840151 167.1196 87.8798 
+C 165.040302 88.919449 163.872 90.329714 163.872 91.8 
+C 163.872 93.270286 165.040302 94.680551 167.1196 95.7202 
+C 169.198898 96.759849 172.019428 97.344 174.96 97.344 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #cde89a; stroke: #55891b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 137.538 107.739 
+C 139.192072 107.739 140.77862 106.643717 141.948225 104.694375 
+C 143.11783 102.745033 143.775 100.100786 143.775 97.344 
+C 143.775 94.587214 143.11783 91.942967 141.948225 89.993625 
+C 140.77862 88.044283 139.192072 86.949 137.538 86.949 
+C 135.883928 86.949 134.29738 88.044283 133.127775 89.993625 
+C 131.95817 91.942967 131.301 94.587214 131.301 97.344 
+C 131.301 100.100786 131.95817 102.745033 133.127775 104.694375 
+C 134.29738 106.643717 135.883928 107.739 137.538 107.739 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #f0c419; stroke: #bd7a12; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 212.382 107.739 
+C 214.036072 107.739 215.62262 106.643717 216.792225 104.694375 
+C 217.96183 102.745033 218.619 100.100786 218.619 97.344 
+C 218.619 94.587214 217.96183 91.942967 216.792225 89.993625 
+C 215.62262 88.044283 214.036072 86.949 212.382 86.949 
+C 210.727928 86.949 209.14138 88.044283 207.971775 89.993625 
+C 206.80217 91.942967 206.145 94.587214 206.145 97.344 
+C 206.145 100.100786 206.80217 102.745033 207.971775 104.694375 
+C 209.14138 106.643717 210.727928 107.739 212.382 107.739 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #f0c419; stroke: #bd7a12; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 219.312 80.1576 
+C 219.900114 80.1576 220.46422 79.92394 220.88008 79.50808 
+C 221.29594 79.09222 221.5296 78.528114 221.5296 77.94 
+C 221.5296 77.351886 221.29594 76.78778 220.88008 76.37192 
+C 220.46422 75.95606 219.900114 75.7224 219.312 75.7224 
+C 218.723886 75.7224 218.15978 75.95606 217.74392 76.37192 
+C 217.32806 76.78778 217.0944 77.351886 217.0944 77.94 
+C 217.0944 78.528114 217.32806 79.09222 217.74392 79.50808 
+C 218.15978 79.92394 218.723886 80.1576 219.312 80.1576 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #bd7a12"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 181.89 87.0876 
+C 182.478114 87.0876 183.04222 86.85394 183.45808 86.43808 
+C 183.87394 86.02222 184.1076 85.458114 184.1076 84.87 
+C 184.1076 84.281886 183.87394 83.71778 183.45808 83.30192 
+C 183.04222 82.88606 182.478114 82.6524 181.89 82.6524 
+C 181.301886 82.6524 180.73778 82.88606 180.32192 83.30192 
+C 179.90606 83.71778 179.6724 84.281886 179.6724 84.87 
+C 179.6724 85.458114 179.90606 86.02222 180.32192 86.43808 
+C 180.73778 86.85394 181.301886 87.0876 181.89 87.0876 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #bd7a12"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 170.802 88.4736 
+C 171.390114 88.4736 171.95422 88.23994 172.37008 87.82408 
+C 172.78594 87.40822 173.0196 86.844114 173.0196 86.256 
+C 173.0196 85.667886 172.78594 85.10378 172.37008 84.68792 
+C 171.95422 84.27206 171.390114 84.0384 170.802 84.0384 
+C 170.213886 84.0384 169.64978 84.27206 169.23392 84.68792 
+C 168.81806 85.10378 168.5844 85.667886 168.5844 86.256 
+C 168.5844 86.844114 168.81806 87.40822 169.23392 87.82408 
+C 169.64978 88.23994 170.213886 88.4736 170.802 88.4736 
+z
+" clip-path="url(#p9c20b018ed)" style="fill: #bd7a12"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 174.96 255.348 
+L 174.96 213.768 
+" clip-path="url(#p9c20b018ed)" style="fill: none; stroke: #55891b; stroke-width: 4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 174.96 162.486 
+L 174.96 97.344 
+" clip-path="url(#p9c20b018ed)" style="fill: none; stroke: #7cbf4a; stroke-width: 5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 158.328 183.276 
+L 138.924 102.888 
+" clip-path="url(#p9c20b018ed)" style="fill: none; stroke: #d9c48a; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 191.592 183.276 
+L 210.996 102.888 
+" clip-path="url(#p9c20b018ed)" style="fill: none; stroke: #d9c48a; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 179.118 87.642 
+L 177.732 125.064 
+L 176.346 166.644 
+" clip-path="url(#p9c20b018ed)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #bd7a12"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 324.6356 39.170794 
+Q 250.745605 64.467905 176.855611 89.765015 
+" style="fill: none; stroke: #6b7a72; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="280.296" y="34.000043" transform="rotate(-0 280.296 34.000043)">đầu nhụy (nhận hạt phấn)</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 288.640689 88.780325 
+Q 232.752656 106.618211 176.864623 124.456098 
+" style="fill: none; stroke: #6b7a72; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="291.384" y="83.649949" transform="rotate(-0 291.384 83.649949)">vòi nhụy</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 287.40544 162.948969 
+Q 240.485568 170.188224 193.565696 177.427479 
+" style="fill: none; stroke: #6b7a72; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="291.384" y="159.503754" transform="rotate(-0 291.384 159.503754)">bầu nhụy → QUẢ</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 287.387909 186.723466 
+Q 235.638622 183.672667 183.889335 180.621868 
+" style="fill: none; stroke: #6b7a72; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="291.384" y="191.637363" transform="rotate(-0 291.384 191.637363)">noãn → HẠT</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 306.535861 108.746342 
+Q 260.448799 101.80819 214.361737 94.870038 
+" style="fill: none; stroke: #6b7a72; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="291.384" y="119.929582" transform="rotate(-0 291.384 119.929582)">bao phấn (chứa hạt phấn)</text>
+   </g>
+   <g id="patch_20">
+    <path d="M 55.737185 44.997076 
+Q 81.275709 63.649751 106.814233 82.302425 
+" style="fill: none; stroke: #6b7a72; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="19.728" y="39.297949" transform="rotate(-0 19.728 39.297949)">cánh hoa</text>
+   </g>
+   <g id="patch_21">
+    <path d="M 62.541955 219.317069 
+Q 102.531156 209.843242 142.520356 200.369416 
+" style="fill: none; stroke: #6b7a72; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="19.728" y="227.793949" transform="rotate(-0 19.728 227.793949)">đài hoa</text>
+   </g>
+   <g id="patch_22">
+    <path d="M 73.217582 146.039155 
+Q 124.199806 143.909262 175.18203 141.779369 
+" style="fill: none; stroke: #6b7a72; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="19.728" y="150.421582" transform="rotate(-0 19.728 150.421582)">ống phấn</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9c20b018ed">
+   <rect x="8.64" y="8.64" width="465.696" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>

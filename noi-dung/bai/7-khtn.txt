@@ -2172,14 +2172,672 @@ TC: Kết quả, kết luận đúng | 1
 
 ## Chương VIII. Cảm ứng ở sinh vật
 ### Bài 33. Cảm ứng ở sinh vật và tập tính ở động vật
+> Cây trinh nữ cụp lá khi bị chạm, hoa hướng dương quay về phía mặt trời, chó vẫy đuôi khi thấy chủ… Tất cả là biểu hiện của cảm ứng.
+MT: Phát biểu được khái niệm cảm ứng ở sinh vật; lấy được ví dụ ở thực vật và động vật.
+MT: Nêu được vai trò của cảm ứng đối với sinh vật.
+MT: Phát biểu được khái niệm tập tính; phân biệt tập tính bẩm sinh và tập tính học được.
+LT: 1. Khái niệm cảm ứng
+- **Cảm ứng** là khả năng tiếp nhận và phản ứng lại các **kích thích** từ môi trường (bên trong và bên ngoài cơ thể), giúp sinh vật tồn tại và phát triển.
+- Kích thích thường gặp: ánh sáng, nhiệt độ, nước, chất hóa học, sự va chạm (tiếp xúc)…
+LT: 2. Cảm ứng ở thực vật
+- Thường diễn ra **chậm**, khó nhận thấy (trừ một số trường hợp như cây trinh nữ).
+- Ví dụ: ngọn cây hướng về phía ánh sáng (**hướng sáng**); rễ mọc hướng xuống đất (**hướng trọng lực**), hướng về nguồn nước (**hướng nước**); tua cuốn quấn vào giàn (**hướng tiếp xúc**); lá trinh nữ cụp lại khi bị chạm.
+HINH: 7-khtn/cam-ung-thuc-vat.svg | Các kiểu cảm ứng ở thực vật: ngọn hướng sáng, rễ hướng trọng lực và hướng nước, tua cuốn hướng tiếp xúc, lá trinh nữ cụp khi chạm.
+LT: 3. Cảm ứng ở động vật
+- Diễn ra **nhanh**, dễ nhận thấy, nhờ hệ thần kinh. Ví dụ: chạm tay vào vật nóng, tay rụt lại; mèo nghe tiếng động thì quay đầu, dựng tai.
+LT: 4. Tập tính ở động vật
+- **Tập tính** là chuỗi phản ứng của động vật trả lời kích thích từ môi trường, giúp chúng thích nghi và tồn tại.
+- **Bẩm sinh**: sinh ra đã có, đặc trưng cho loài (nhện giăng tơ, chim làm tổ, gà con mổ thức ăn).
+- **Học được**: hình thành trong đời sống qua học tập, rút kinh nghiệm (chó nghe hiệu lệnh, khỉ làm xiếc, chim non học hót).
+DB: Dạng 1. Nhận biết hiện tượng cảm ứng
+- Xác định kích thích (ánh sáng, nước, va chạm…) và phản ứng của sinh vật.
+DB: Dạng 2. Gọi tên kiểu hướng động ở thực vật
+- Theo kích thích: ánh sáng → hướng sáng; trọng lực → hướng trọng lực; nước → hướng nước; giá thể → hướng tiếp xúc.
+DB: Dạng 3. Phân loại tập tính
+- Sinh ra đã có, cả loài giống nhau → bẩm sinh; phải tập luyện, mỗi cá thể khác nhau → học được.
+VD: Đặt chậu cây cạnh cửa sổ một thời gian, ngọn cây cong về phía cửa sổ. Giải thích.
+B: Kích thích: ánh sáng chiếu từ phía cửa sổ.
+KQ: Ngọn cây sinh trưởng hướng về phía nguồn sáng (hướng sáng) để nhận nhiều ánh sáng cho quang hợp.
+VD: Tiếng kẻng báo giờ ăn ở trại nuôi gà khiến đàn gà chạy về. Đây là tập tính gì?
+B: Gà không sinh ra đã biết tiếng kẻng; chúng được người nuôi tập luyện nhiều lần.
+KQ: Đây là tập tính học được.
+GN: Cảm ứng ở thực vật chậm; ở động vật nhanh nhờ hệ thần kinh.
+GN: Tập tính bẩm sinh: di truyền, bền vững; tập tính học được: có thể thay đổi.
+GN: Vai trò chung: giúp sinh vật thích nghi với môi trường.
+Q: mc | Hiện tượng nào sau đây là cảm ứng ở thực vật?
+A) Lá cây trinh nữ cụp lại khi bị chạm vào *
+B) Cây ra hoa vào mùa xuân
+C) Hạt nảy mầm thành cây con
+D) Lá cây rụng do gió to
+E: Lá trinh nữ phản ứng với kích thích va chạm.
+Q: mc | Tập tính nào sau đây là tập tính học được?
+A) Nhện giăng tơ
+B) Chim non mới nở há miệng đòi ăn
+C) Chó cảnh ngồi xuống khi nghe lệnh "ngồi" *
+D) Ong xây tổ
+E: Chó phải được huấn luyện mới biết làm theo lệnh.
+Q: tf | Về cảm ứng ở sinh vật:
+a) Rễ cây mọc hướng về nguồn nước là hướng nước. | Đ
+b) Cảm ứng ở thực vật thường diễn ra nhanh hơn ở động vật. | S
+c) Cảm ứng giúp sinh vật thích nghi với môi trường. | Đ
+d) Tập tính bẩm sinh phải qua học tập mới có. | S
+E: Thực vật phản ứng chậm hơn; tập tính bẩm sinh sinh ra đã có.
+Q: match | Nối hiện tượng với kiểu cảm ứng ở thực vật:
+1) Ngọn cây cong về phía cửa sổ | Hướng sáng
+2) Rễ cây đâm sâu xuống đất | Hướng trọng lực
+3) Tua cuốn cây mướp quấn vào giàn | Hướng tiếp xúc
+4) Rễ cây mọc về phía có nước | Hướng nước
+E: Tên kiểu hướng động gọi theo tác nhân kích thích.
+Q: sa | Một nhóm học sinh liệt kê 12 tập tính của một con chó, trong đó có 7 tập tính học được. Có bao nhiêu tập tính bẩm sinh?
+ANS: 5
+E: 12 − 7 = 5.
+TL: Lấy 2 ví dụ về tập tính bẩm sinh và 2 ví dụ về tập tính học được ở động vật. Nêu điểm khác nhau cơ bản giữa hai loại tập tính.
+MAU: Bẩm sinh: nhện giăng tơ; vịt con mới nở biết bơi.
+MAU: Học được: chó biết bắt tay khi được huấn luyện; trâu nghe tiếng gọi thì về chuồng.
+MAU: Khác nhau: bẩm sinh sinh ra đã có, di truyền, đặc trưng cho loài, bền vững; học được hình thành trong đời sống, qua học tập, có thể thay đổi.
+TC: 2 ví dụ bẩm sinh đúng | 1
+TC: 2 ví dụ học được đúng | 1
+TC: Nêu đúng điểm khác nhau | 1
+
 ### Bài 34. Vận dụng hiện tượng cảm ứng ở sinh vật vào thực tiễn
+> Người nông dân dựng giàn cho mướp, thắp đèn cho thanh long ra hoa trái vụ; người nuôi cá gõ kẻng gọi cá ăn… Đó là vận dụng cảm ứng vào thực tiễn.
+MT: Vận dụng được hiểu biết về cảm ứng ở thực vật vào trồng trọt.
+MT: Vận dụng được hiểu biết về tập tính ở động vật vào chăn nuôi, học tập, đời sống.
+MT: Giải thích được một số biện pháp thực tế dựa trên cảm ứng.
+LT: 1. Vận dụng cảm ứng ở thực vật
+- **Hướng tiếp xúc**: làm giàn, cắm cọc cho cây leo (mướp, bầu, bí, đậu) để cây leo lên, nhận nhiều ánh sáng.
+- **Hướng sáng**: trồng cây với mật độ hợp lí; xoay chậu cây cảnh để cây mọc thẳng, cân đối.
+- **Hướng nước, hướng hóa**: tưới nước, bón phân ở vị trí thích hợp (rải quanh gốc theo tán cây) để rễ phát triển rộng, sâu.
+- **Ánh sáng ảnh hưởng ra hoa**: thắp đèn ban đêm cho thanh long, hoa cúc để điều khiển thời gian ra hoa.
+HINH: 7-khtn/van-dung-cam-ung.svg | Một số ví dụ vận dụng cảm ứng: làm giàn cho cây leo, thắp đèn cho thanh long ra hoa trái vụ, huấn luyện vật nuôi bằng tín hiệu.
+LT: 2. Vận dụng tập tính ở động vật
+- **Chăn nuôi**: tạo phản xạ cho vật nuôi bằng tín hiệu (gõ kẻng, huýt sáo) khi cho ăn; huấn luyện chó nghiệp vụ.
+- **Bảo vệ mùa màng**: dùng bù nhìn, dây phản quang để xua chim; dùng bẫy đèn bắt côn trùng (côn trùng có tập tính bay về phía ánh sáng).
+- **Học tập**: rèn thói quen tốt (học đúng giờ, ngủ đúng giờ) nhờ lặp lại nhiều lần.
+DB: Dạng 1. Giải thích biện pháp trồng trọt
+- Xác định kiểu cảm ứng mà biện pháp lợi dụng (tiếp xúc, sáng, nước, hóa).
+DB: Dạng 2. Giải thích biện pháp chăn nuôi, bảo vệ cây trồng
+- Xác định tập tính của động vật được lợi dụng (học được: phản xạ với tín hiệu; bẩm sinh: bay về ánh sáng, sợ người…).
+DB: Dạng 3. Đề xuất biện pháp
+- Từ tập tính hoặc kiểu cảm ứng đã biết, đề xuất cách làm phù hợp.
+VD: Vì sao bón phân cho cây ăn quả nên rải theo hình chiếu của tán lá thay vì đổ sát gốc?
+B: Rễ cây hướng về nơi có chất dinh dưỡng (hướng hóa), lông hút tập trung ở đầu rễ, nằm khoảng dưới mép tán.
+KQ: Rải phân theo tán giúp rễ hút được nhiều chất dinh dưỡng và kích thích rễ mọc rộng ra.
+VD: Vì sao người ta dùng bẫy đèn ban đêm ở ruộng lúa?
+B: Nhiều loài côn trùng gây hại có tập tính bay về phía ánh sáng.
+KQ: Bẫy đèn thu hút và tiêu diệt côn trùng mà không cần nhiều thuốc trừ sâu.
+GN: Dựa vào tác nhân kích thích để gọi tên kiểu cảm ứng được vận dụng.
+GN: Tập tính học được có thể hình thành qua luyện tập, lặp lại nhiều lần.
+GN: Xoay chậu cây định kì để cây không bị cong lệch.
+Q: mc | Làm giàn cho cây mướp là vận dụng kiểu cảm ứng nào?
+A) Hướng sáng
+B) Hướng tiếp xúc *
+C) Hướng nước
+D) Hướng trọng lực
+E: Tua cuốn mướp quấn vào giàn khi tiếp xúc.
+Q: mc | Thắp đèn ban đêm cho cây thanh long nhằm mục đích
+A) xua đuổi chim
+B) giúp cây ra hoa trái vụ *
+C) sưởi ấm cho cây
+D) giúp cây hút nước
+E: Kéo dài thời gian chiếu sáng giúp thanh long ra hoa trái vụ.
+Q: tf | Về vận dụng cảm ứng và tập tính:
+a) Gõ kẻng mỗi khi cho cá ăn sẽ hình thành tập tính học được ở cá. | Đ
+b) Bẫy đèn lợi dụng tập tính bay về phía ánh sáng của côn trùng. | Đ
+c) Bón phân sát gốc là cách tốt nhất cho mọi cây ăn quả. | S
+d) Xoay chậu cây cảnh định kì giúp cây mọc cân đối. | Đ
+E: Nên bón phân theo hình chiếu của tán lá.
+Q: match | Nối biện pháp với điều được vận dụng:
+1) Cắm cọc cho cây đậu leo | Hướng tiếp xúc
+2) Tưới nước quanh gốc theo tán | Hướng nước
+3) Dùng bù nhìn xua chim | Tập tính sợ người của chim
+4) Huýt sáo khi cho gà ăn | Tập tính học được
+E: Mỗi biện pháp lợi dụng một kiểu cảm ứng hoặc tập tính.
+Q: sa | Một vườn thanh long được thắp đèn 4 giờ mỗi đêm trong 25 đêm. Tổng số giờ thắp đèn là bao nhiêu?
+ANS: 100
+E: 4 × 25 = 100 giờ.
+TL: Em hãy nêu 3 biện pháp trong trồng trọt hoặc chăn nuôi ở địa phương có vận dụng cảm ứng/tập tính của sinh vật và giải thích.
+MAU: Làm giàn cho bầu, bí: lợi dụng hướng tiếp xúc, cây leo lên giàn nhận nhiều ánh sáng.
+MAU: Thắp đèn cho hoa cúc: điều khiển ánh sáng để cây ra hoa đúng dịp Tết.
+MAU: Gõ máng khi cho lợn ăn: tạo tập tính học được, lợn tụ về ăn đúng giờ.
+TC: Mỗi biện pháp đúng và giải thích hợp lí | 3
+
 ### Bài 35. Thực hành: Cảm ứng ở sinh vật
+> Gieo hạt đậu cạnh một chậu nước, đặt chậu cây trong hộp có một lỗ thủng… Những thí nghiệm nhỏ giúp em tận mắt thấy cây "cảm nhận" được môi trường.
+MT: Thực hành được thí nghiệm chứng minh tính hướng sáng, hướng nước, hướng tiếp xúc ở thực vật.
+MT: Quan sát, mô tả được một số tập tính ở động vật.
+MT: Viết được báo cáo thực hành.
+LT: 1. Thí nghiệm tính hướng sáng
+- Đặt chậu cây con (hạt đậu đã nảy mầm) vào hộp kín có khoét **một lỗ thủng ở bên cạnh**; để 4 – 5 ngày.
+- Kết quả: ngọn cây **cong về phía lỗ thủng** (nơi có ánh sáng) ⇒ thân cây có tính hướng sáng.
+HINH: 7-khtn/th-cam-ung.svg | Thí nghiệm hướng sáng: cây trong hộp cong về phía lỗ có ánh sáng. Thí nghiệm hướng nước: rễ đậu mọc nghiêng về phía cốc nước đặt trong khay đất.
+LT: 2. Thí nghiệm tính hướng nước
+- Gieo hạt đậu trong khay đất ẩm vừa phải; đặt một cốc nước (có lỗ nhỏ rỉ nước) ở một góc khay; tưới nước đều trong vài ngày đầu rồi ngừng tưới.
+- Sau 1 – 2 tuần, nhổ nhẹ cây lên: **rễ mọc nghiêng về phía cốc nước** ⇒ rễ có tính hướng nước.
+LT: 3. Thí nghiệm tính hướng tiếp xúc và quan sát tập tính
+- Trồng cây mướp (bầu, bí) cạnh cọc: tua cuốn quấn vào cọc ⇒ hướng tiếp xúc.
+- Quan sát tập tính động vật (qua video hoặc thực tế): kiến tha mồi theo đàn, gà mái ấp trứng, chó vẫy đuôi đón chủ… ghi lại và phân loại bẩm sinh/học được.
+DB: Dạng 1. Thiết kế thí nghiệm
+- Có mẫu thí nghiệm và mẫu đối chứng, chỉ khác nhau 1 yếu tố (ánh sáng hoặc nước).
+DB: Dạng 2. Dự đoán và giải thích kết quả
+- Ngọn hướng về nguồn sáng; rễ hướng về nguồn nước.
+DB: Dạng 3. Báo cáo thực hành
+- Mục đích – chuẩn bị – cách làm – kết quả – giải thích – kết luận.
+VD: Nếu xoay hộp thí nghiệm hướng sáng 180° sau 3 ngày, ngọn cây sẽ thế nào?
+B: Lỗ thủng (nguồn sáng) chuyển sang phía đối diện.
+KQ: Ngọn cây sẽ dần uốn cong ngược lại, hướng về phía lỗ thủng mới.
+VD: Vì sao trong thí nghiệm hướng nước phải ngừng tưới sau vài ngày?
+B: Nếu tưới đều, đất ẩm khắp nơi, rễ không cần tìm nước.
+KQ: Ngừng tưới làm đất khô dần, chỉ gần cốc nước còn ẩm nên thấy rõ rễ hướng về nguồn nước.
+GN: Thí nghiệm cần đối chứng: chậu cây để ngoài sáng đều mọc thẳng.
+GN: Nhổ cây nhẹ nhàng để không làm đứt rễ khi quan sát.
+GN: Ghi chép kết quả theo ngày, có thể chụp ảnh.
+Q: mc | Trong thí nghiệm hộp có lỗ thủng một bên, ngọn cây cong về phía lỗ thủng chứng tỏ
+A) thân có tính hướng sáng *
+B) rễ có tính hướng nước
+C) thân có tính hướng trọng lực
+D) cây thiếu nước
+E: Lỗ thủng là nơi ánh sáng chiếu vào.
+Q: mc | Mục đích đặt cốc nước có lỗ rỉ ở một góc khay đất là
+A) tưới cây nhanh hơn
+B) tạo nguồn nước ở một phía để kiểm tra tính hướng nước của rễ *
+C) làm mát cây
+D) cung cấp chất khoáng
+E: Rễ sẽ mọc về phía nguồn nước nếu có tính hướng nước.
+Q: ord | Sắp xếp các bước thí nghiệm chứng minh tính hướng sáng:
+1) Trồng hạt đậu đã nảy mầm vào chậu nhỏ
+2) Đặt chậu vào hộp kín có khoét một lỗ ở thành bên
+3) Để hộp ở nơi có ánh sáng trong 4 – 5 ngày
+4) Mở hộp, quan sát hướng mọc của ngọn cây
+E: Chuẩn bị cây → đặt vào hộp → chờ → quan sát.
+Q: tf | Về bài thực hành cảm ứng:
+a) Chậu cây đối chứng để nơi ánh sáng chiếu đều. | Đ
+b) Rễ đậu mọc nghiêng về phía cốc nước chứng tỏ tính hướng nước. | Đ
+c) Tua cuốn quấn vào cọc là tập tính học được. | S
+d) Gà mái ấp trứng là tập tính bẩm sinh. | Đ
+E: Tua cuốn quấn cọc là cảm ứng (hướng tiếp xúc) ở thực vật, không phải tập tính.
+Q: sa | Trong 5 ngày, ngọn cây trong hộp cong thêm đều đặn và tổng góc nghiêng đạt 40°. Trung bình mỗi ngày ngọn cây nghiêng thêm bao nhiêu độ?
+ANS: 8
+E: 40 : 5 = 8°.
+TL: Thiết kế thí nghiệm chứng minh rễ cây có tính hướng nước (nêu dụng cụ, cách làm, kết quả dự kiến).
+MAU: Dụng cụ: khay nhựa, đất, hạt đậu, cốc nhựa nhỏ có đục lỗ đáy, nước.
+MAU: Cách làm: gieo hạt đậu thành hàng trong khay; đặt cốc nước có lỗ rỉ ở một đầu khay; tưới đều 3 ngày đầu rồi ngừng tưới, chỉ châm nước vào cốc.
+MAU: Kết quả dự kiến: sau 1 – 2 tuần rễ cây mọc nghiêng về phía cốc nước ⇒ rễ có tính hướng nước.
+TC: Dụng cụ hợp lí | 1
+TC: Cách làm đúng, có nguồn nước một phía | 1
+TC: Kết quả và kết luận đúng | 1
+
 ## Chương IX. Sinh trưởng và phát triển ở sinh vật
 ### Bài 36. Khái quát về sinh trưởng và phát triển ở sinh vật
+> Từ một hạt đậu nhỏ thành cây đậu ra hoa kết quả; từ con nòng nọc thành con ếch… Sinh vật lớn lên và biến đổi không ngừng.
+MT: Phát biểu được khái niệm sinh trưởng và phát triển ở sinh vật; nêu được mối quan hệ giữa chúng.
+MT: Nêu được vai trò của mô phân sinh; chỉ ra mô phân sinh đỉnh và mô phân sinh bên.
+MT: Dựa vào hình ảnh mô tả được các giai đoạn sinh trưởng, phát triển ở thực vật và động vật.
+LT: 1. Khái niệm
+- **Sinh trưởng**: sự **tăng kích thước và khối lượng** cơ thể do tăng số lượng và kích thước tế bào.
+- **Phát triển**: những **biến đổi** diễn ra trong vòng đời, gồm sinh trưởng, **phân hóa tế bào**, **phát sinh hình thái** cơ quan và cơ thể.
+- Quan hệ: sinh trưởng gắn với phát triển và là một phần của phát triển; hai quá trình liên quan mật thiết với nhau.
+LT: 2. Mô phân sinh ở thực vật
+- **Mô phân sinh** gồm các tế bào chưa phân hóa, có khả năng phân chia.
+- **Mô phân sinh đỉnh** (ở chồi ngọn, chồi nách, đầu rễ): làm thân, rễ **dài ra**.
+- **Mô phân sinh bên** (ở thân cây hai lá mầm): làm thân **to ra**.
+HINH: 7-khtn/vong-doi.svg | Vòng đời của cây đậu (hạt → cây mầm → cây con → cây ra hoa, quả) và của ếch (trứng → nòng nọc → ếch con → ếch trưởng thành).
+LT: 3. Các giai đoạn sinh trưởng, phát triển
+- **Thực vật** (cây đậu): hạt → nảy mầm → cây mầm → cây con → cây trưởng thành ra hoa → tạo quả, hạt.
+- **Động vật**: có loài con non giống con trưởng thành (người, gà, chó); có loài phải qua **biến thái** (ếch: trứng → nòng nọc → ếch con → ếch trưởng thành; bướm: trứng → sâu → nhộng → bướm).
+DB: Dạng 1. Phân biệt sinh trưởng và phát triển
+- Tăng kích thước, khối lượng → sinh trưởng; xuất hiện cơ quan mới, biến đổi hình thái, chức năng → phát triển.
+DB: Dạng 2. Xác định vị trí, vai trò mô phân sinh
+- Dài ra → mô phân sinh đỉnh; to ra → mô phân sinh bên.
+DB: Dạng 3. Sắp xếp giai đoạn vòng đời
+- Nhớ thứ tự các giai đoạn của cây có hoa, ếch, bướm, muỗi…
+VD: Cây ngô cao thêm từ 1,2 m lên 1,8 m trong 3 tuần, sau đó trổ cờ. Đâu là sinh trưởng, đâu là phát triển?
+B: Cây tăng chiều cao 0,6 m → sinh trưởng.
+KQ: Cây trổ cờ (xuất hiện cơ quan sinh sản mới) → phát triển.
+VD: Vì sao cây lúa, cây ngô không to ra nhiều như cây xoài, cây bàng?
+B: Lúa, ngô là cây một lá mầm, không có mô phân sinh bên.
+KQ: Thân lúa, ngô chủ yếu dài ra, ít to ra; cây hai lá mầm có mô phân sinh bên nên thân to dần.
+GN: Sinh trưởng là tăng lượng; phát triển gồm cả biến đổi về chất.
+GN: Biến thái: con non khác hẳn con trưởng thành (ếch, bướm).
+GN: Cắt ngọn cây (bấm ngọn) làm mất mô phân sinh đỉnh của thân chính, cây đâm nhiều cành.
+Q: mc | Mô phân sinh đỉnh có vai trò
+A) làm thân to ra
+B) làm thân, rễ dài ra *
+C) vận chuyển nước
+D) dự trữ chất dinh dưỡng
+E: Mô phân sinh đỉnh ở chồi và đầu rễ giúp cây dài ra.
+Q: mc | Biểu hiện nào là phát triển?
+A) Con lợn tăng từ 20 kg lên 50 kg
+B) Cây bưởi ra hoa *
+C) Thân cây tre cao thêm 1 m
+D) Lá cây to thêm
+E: Ra hoa là xuất hiện cơ quan mới – phát triển.
+Q: ord | Sắp xếp các giai đoạn trong vòng đời của ếch:
+1) Trứng
+2) Nòng nọc
+3) Ếch con
+4) Ếch trưởng thành
+E: Ếch phát triển qua biến thái.
+Q: tf | Về sinh trưởng và phát triển:
+a) Sinh trưởng là sự tăng kích thước, khối lượng cơ thể. | Đ
+b) Mô phân sinh bên có ở thân cây một lá mầm như lúa, ngô. | S
+c) Sâu biến thành nhộng rồi thành bướm là phát triển qua biến thái. | Đ
+d) Sinh trưởng và phát triển không liên quan đến nhau. | S
+E: Mô phân sinh bên có ở cây hai lá mầm; sinh trưởng, phát triển liên quan mật thiết.
+Q: sa | Một cây con cao 15 cm, mỗi tuần cao thêm 4 cm. Sau 5 tuần cây cao bao nhiêu cm?
+ANS: 35
+E: 15 + 4 × 5 = 35 cm.
+TL: Quan sát vòng đời của con muỗi (trứng → bọ gậy → cung quăng → muỗi). Hãy chỉ ra giai đoạn nào sống dưới nước và đề xuất cách diệt muỗi dựa trên vòng đời.
+MAU: Trứng, bọ gậy (lăng quăng) và cung quăng sống trong nước đọng; muỗi trưởng thành sống trên cạn.
+MAU: Biện pháp: lật úp dụng cụ chứa nước, đậy kín bể nước, thả cá ăn bọ gậy, khơi thông cống rãnh – diệt muỗi từ giai đoạn sống trong nước.
+TC: Xác định đúng giai đoạn sống dưới nước | 1
+TC: Đề xuất biện pháp phù hợp với vòng đời | 2
+
 ### Bài 37. Ứng dụng sinh trưởng và phát triển ở sinh vật vào thực tiễn
+> Vì sao bấm ngọn cây rau muống lại ra nhiều nhánh? Vì sao gà được chiếu đèn ban đêm lại lớn nhanh? Hiểu sinh trưởng và phát triển giúp con người chăm sóc cây trồng, vật nuôi hiệu quả.
+MT: Nêu được các nhân tố ảnh hưởng đến sinh trưởng, phát triển: nhiệt độ, ánh sáng, nước, chất dinh dưỡng.
+MT: Vận dụng giải thích một số hiện tượng và biện pháp trong trồng trọt, chăn nuôi.
+MT: Nêu được ứng dụng trong bảo vệ sức khỏe con người (dinh dưỡng, vận động).
+LT: 1. Các nhân tố ảnh hưởng
+- **Nhiệt độ**: mỗi loài có khoảng nhiệt độ thích hợp; quá nóng hoặc quá lạnh làm sinh trưởng chậm lại.
+- **Ánh sáng**: cần cho quang hợp ở thực vật; ở động vật giúp tổng hợp vitamin D (ánh nắng sáng sớm).
+- **Nước**: thiếu nước cây héo, ngừng sinh trưởng; động vật thiếu nước dễ mắc bệnh.
+- **Chất dinh dưỡng**: cung cấp nguyên liệu và năng lượng; thiếu dinh dưỡng cơ thể chậm lớn, còi cọc.
+HINH: 7-khtn/ung-dung-st.svg | Ứng dụng sinh trưởng, phát triển: bấm ngọn cho cây ra nhiều nhánh, chiếu đèn sưởi ấm vật nuôi, ăn đủ chất và vận động giúp trẻ phát triển chiều cao.
+LT: 2. Ứng dụng trong trồng trọt
+- **Bấm ngọn** (rau muống, rau lang, đậu…): cây ra nhiều nhánh, nhiều lá; **tỉa cành** cây ăn quả.
+- Gieo trồng **đúng thời vụ**, tưới tiêu, bón phân hợp lí; che phủ, dùng nhà kính khi trời lạnh.
+LT: 3. Ứng dụng trong chăn nuôi và với con người
+- Chăn nuôi: chọn giống tốt; thức ăn đủ chất; giữ ấm (chiếu đèn) cho gà con, lợn con; chuồng trại thoáng, sạch.
+- Con người: ăn đủ chất, ngủ đủ giấc, tập thể dục (bơi, bóng rổ, nhảy dây), tắm nắng sáng sớm giúp tăng chiều cao, phát triển khỏe mạnh.
+DB: Dạng 1. Xác định nhân tố ảnh hưởng
+- Đọc tình huống: biện pháp tác động vào nhiệt độ, ánh sáng, nước hay dinh dưỡng?
+DB: Dạng 2. Giải thích biện pháp kĩ thuật
+- Bấm ngọn: loại bỏ mô phân sinh đỉnh của thân chính ⇒ chồi bên phát triển.
+DB: Dạng 3. Tính toán tăng trưởng
+- Mức tăng = giá trị sau − giá trị trước; tốc độ tăng = mức tăng : thời gian.
+VD: Vì sao mùa đông người nuôi gà thường thắp bóng đèn sợi đốt trong chuồng gà con?
+B: Gà con chưa tự giữ nhiệt tốt, nhiệt độ thấp làm gà chậm lớn, dễ chết.
+KQ: Đèn sưởi ấm (và chiếu sáng giúp gà ăn được nhiều hơn) nên gà sinh trưởng tốt.
+VD: Một lợn con nặng 12 kg, sau 60 ngày nặng 48 kg. Trung bình mỗi ngày tăng bao nhiêu kg?
+B: Khối lượng tăng: 48 − 12 = 36 kg.
+KQ: Trung bình mỗi ngày tăng 36 : 60 = 0,6 kg.
+GN: Bấm ngọn chỉ áp dụng khi muốn cây ra nhiều nhánh (rau, cây cảnh), không áp dụng cho cây lấy gỗ cần thân thẳng, cao.
+GN: Tắm nắng sáng sớm (trước 9 giờ) để có lợi, tránh nắng gắt.
+GN: Tuổi dậy thì là giai đoạn tăng chiều cao nhanh – cần dinh dưỡng và vận động hợp lí.
+Q: mc | Bấm ngọn cây rau muống nhằm mục đích
+A) cây cao nhanh hơn
+B) cây ra nhiều nhánh, nhiều lá hơn *
+C) cây ra hoa sớm
+D) cây bớt hút nước
+E: Bỏ ngọn chính thì các chồi bên phát triển thành nhánh.
+Q: mc | Nhân tố nào giúp cơ thể người tổng hợp vitamin D, hỗ trợ phát triển xương?
+A) Ánh nắng sáng sớm *
+B) Nước uống
+C) Không khí lạnh
+D) Tiếng ồn
+E: Ánh nắng giúp da tổng hợp vitamin D, giúp hấp thụ calcium.
+Q: tf | Về ứng dụng sinh trưởng và phát triển:
+a) Nhiệt độ quá thấp làm vật nuôi chậm lớn. | Đ
+b) Bấm ngọn phù hợp với mọi loại cây, kể cả cây lấy gỗ. | S
+c) Tập thể dục đều đặn giúp trẻ phát triển chiều cao. | Đ
+d) Gieo trồng đúng thời vụ giúp cây gặp điều kiện thuận lợi. | Đ
+E: Cây lấy gỗ cần thân thẳng, cao nên không bấm ngọn.
+Q: match | Nối biện pháp với nhân tố được điều chỉnh:
+1) Thắp đèn sưởi cho gà con | Nhiệt độ
+2) Tưới tiêu hợp lí | Nước
+3) Bón phân đúng lúc | Chất dinh dưỡng
+4) Trồng cây với mật độ hợp lí | Ánh sáng
+E: Mỗi biện pháp tác động vào một nhân tố chính.
+Q: sa | Một con gà nặng 0,4 kg, sau 30 ngày nuôi nặng 1,6 kg. Trung bình mỗi ngày gà tăng bao nhiêu gam?
+ANS: 40
+E: (1,6 − 0,4) kg = 1,2 kg = 1200 g; 1200 : 30 = 40 g/ngày.
+TL: Hãy lập một kế hoạch đơn giản (ăn uống, vận động, nghỉ ngơi) giúp một bạn học sinh lớp 7 phát triển chiều cao và sức khỏe.
+MAU: Ăn uống: đủ 4 nhóm chất; tăng sữa, trứng, cá, đậu, rau xanh; hạn chế đồ ngọt, nước có ga.
+MAU: Vận động: tập thể dục 30 – 60 phút mỗi ngày (bơi, bóng rổ, nhảy dây, chạy).
+MAU: Nghỉ ngơi: ngủ đủ 8 – 10 giờ, ngủ trước 22 giờ; tắm nắng sáng sớm.
+TC: Ăn uống hợp lí | 1
+TC: Vận động hợp lí | 1
+TC: Nghỉ ngơi hợp lí | 1
+
 ### Bài 38. Thực hành: Quan sát, mô tả sự sinh trưởng và phát triển ở một số sinh vật
+> Theo dõi một hạt đậu nảy mầm hay một con tằm lớn lên mỗi ngày, em sẽ ghi được "nhật kí" sinh trưởng thú vị của sinh vật.
+MT: Quan sát, mô tả được sự sinh trưởng và phát triển của một số thực vật, động vật.
+MT: Đo đạc, ghi chép số liệu và vẽ đồ thị sinh trưởng.
+MT: Viết được báo cáo thực hành.
+LT: 1. Chuẩn bị
+- Thực vật: hạt đậu xanh (đậu đen, ngô), cốc nhựa, bông hoặc đất ẩm, thước kẻ.
+- Động vật (quan sát qua thực tế hoặc video): tằm, ếch, gà con…; sổ ghi chép, cân nhỏ (nếu có).
+LT: 2. Cách tiến hành với hạt đậu
+- Ngâm hạt đậu 4 – 6 giờ, gieo vào cốc có bông/đất ẩm, đặt nơi có ánh sáng; tưới ẩm hằng ngày.
+- **Mỗi ngày** đo chiều cao cây mầm, đếm số lá, ghi vào bảng; quan sát sự xuất hiện của rễ, thân, lá.
+- Vẽ **đồ thị** chiều cao theo ngày để thấy tốc độ sinh trưởng.
+HINH: 7-khtn/do-thi-sinh-truong.svg | Đồ thị chiều cao cây đậu theo ngày: sinh trưởng chậm lúc đầu, nhanh dần, rồi chậm lại.
+LT: 3. Quan sát động vật
+- Ghi lại các giai đoạn và thời gian của từng giai đoạn (ví dụ tằm: trứng → sâu tằm → nhộng (kén) → bướm tằm).
+- So sánh hình dạng, kích thước con non và con trưởng thành.
+DB: Dạng 1. Đọc bảng số liệu, đồ thị
+- Tìm chiều cao tại một ngày; tính mức tăng giữa hai ngày; xác định giai đoạn tăng nhanh nhất.
+DB: Dạng 2. Tính tốc độ sinh trưởng trung bình
+- Tốc độ = (chiều cao sau − chiều cao trước) : số ngày.
+DB: Dạng 3. Giải thích sai số, cải tiến thí nghiệm
+- Đo cùng giờ mỗi ngày; theo dõi nhiều cây rồi lấy trung bình.
+VD: Bảng đo chiều cao cây đậu: ngày 2: 1 cm; ngày 4: 4 cm; ngày 6: 9 cm; ngày 8: 12 cm. Giai đoạn nào cây lớn nhanh nhất?
+B: Ngày 2→4: tăng 3 cm; ngày 4→6: tăng 5 cm; ngày 6→8: tăng 3 cm.
+KQ: Từ ngày 4 đến ngày 6 cây lớn nhanh nhất (5 cm trong 2 ngày).
+VD: Vì sao nên theo dõi nhiều cây đậu cùng lúc rồi lấy trung bình?
+B: Mỗi cây có thể khác nhau do hạt giống, vị trí đặt.
+KQ: Lấy trung bình giúp kết quả chính xác, đáng tin cậy hơn.
+GN: Đo từ mặt đất (bông) đến đỉnh ngọn, cùng một giờ mỗi ngày.
+GN: Không để cốc bị khô hoặc úng nước.
+GN: Đồ thị sinh trưởng thường có dạng chữ S: chậm – nhanh – chậm.
+Q: mc | Khi theo dõi sinh trưởng của cây đậu, đại lượng nên đo hằng ngày là
+A) chiều cao cây *
+B) màu của hạt
+C) nhiệt độ phòng học
+D) khối lượng cốc
+E: Chiều cao cây phản ánh rõ sự sinh trưởng.
+Q: mc | Đồ thị sinh trưởng của cây thường có dạng
+A) đường thẳng nằm ngang
+B) chữ S: chậm – nhanh – chậm *
+C) đi xuống liên tục
+D) hình tròn
+E: Giai đoạn đầu và cuối sinh trưởng chậm, giữa nhanh.
+Q: ord | Sắp xếp các giai đoạn trong vòng đời của tằm:
+1) Trứng
+2) Sâu tằm
+3) Nhộng trong kén
+4) Bướm tằm
+E: Tằm phát triển qua biến thái hoàn toàn.
+Q: tf | Về bài thực hành:
+a) Nên đo chiều cao cây vào cùng một giờ mỗi ngày. | Đ
+b) Chỉ cần theo dõi một cây là đủ chính xác. | S
+c) Có thể vẽ đồ thị chiều cao theo thời gian. | Đ
+d) Cốc gieo hạt cần giữ ẩm vừa phải. | Đ
+E: Nên theo dõi nhiều cây để lấy trung bình.
+Q: sa | Cây đậu cao 4 cm ở ngày 4 và 12 cm ở ngày 8. Tốc độ sinh trưởng trung bình là bao nhiêu cm/ngày?
+ANS: 2
+E: (12 − 4) : (8 − 4) = 2 cm/ngày.
+TL: Lập bảng ghi chép để theo dõi sự sinh trưởng của 3 cây đậu trong 10 ngày và nêu cách xử lí số liệu.
+MAU: Bảng gồm các cột: Ngày | Cây 1 (cm) | Cây 2 (cm) | Cây 3 (cm) | Trung bình (cm) | Số lá | Ghi chú.
+MAU: Mỗi ngày đo cùng giờ, ghi số liệu; tính trung bình 3 cây.
+MAU: Vẽ đồ thị chiều cao trung bình theo ngày; nhận xét giai đoạn sinh trưởng nhanh, chậm.
+TC: Bảng đủ cột hợp lí | 1
+TC: Có tính trung bình | 1
+TC: Có vẽ đồ thị và nhận xét | 1
+
 ## Chương X. Sinh sản ở sinh vật
 ### Bài 39. Sinh sản vô tính ở sinh vật
+> Cắm một đoạn cành rau muống xuống đất ẩm, vài ngày sau mọc thành cây mới; con thủy tức mọc chồi tách thành con non… Đó là sinh sản vô tính.
+MT: Phát biểu được khái niệm sinh sản vô tính; nêu được các hình thức sinh sản vô tính ở thực vật và động vật.
+MT: Nêu được vai trò và ứng dụng của sinh sản vô tính (giâm, chiết, ghép, nuôi cấy mô).
+MT: Thực hiện được giâm cành hoặc chiết cành đơn giản.
+LT: 1. Khái niệm
+- **Sinh sản vô tính** là hình thức sinh sản **không có sự kết hợp** giữa giao tử đực và giao tử cái; con sinh ra **giống nhau và giống cơ thể mẹ**.
+LT: 2. Sinh sản vô tính ở thực vật
+- **Sinh sản sinh dưỡng**: cây mới mọc từ một phần cơ quan sinh dưỡng (rễ, thân, lá): khoai lang (rễ củ), khoai tây, gừng (thân củ), lá thuốc bỏng (lá), mía, sắn (đoạn thân).
+- **Sinh sản bằng bào tử**: rêu, dương xỉ.
+- Ứng dụng: **giâm cành** (sắn, mía, hoa hồng), **chiết cành** (cam, bưởi, vải), **ghép** (ghép mắt, ghép cành), **nuôi cấy mô** (lan, chuối) – nhân giống nhanh, giữ đặc tính tốt.
+HINH: 7-khtn/sinh-san-vo-tinh.svg | Sinh sản vô tính: lá thuốc bỏng mọc cây con ở mép lá, thủy tức nảy chồi, trùng biến hình phân đôi; giâm cành và chiết cành trong trồng trọt.
+LT: 3. Sinh sản vô tính ở động vật
+- **Phân đôi**: trùng biến hình, trùng giày.
+- **Nảy chồi**: thủy tức, san hô.
+- **Phân mảnh**: sao biển, giun dẹp (từ mảnh cơ thể mọc thành cá thể mới).
+- **Trinh sản**: trứng không thụ tinh phát triển thành cá thể mới (ong đực).
+DB: Dạng 1. Nhận biết hình thức sinh sản vô tính
+- Xác định bộ phận tạo thành cá thể mới: rễ, thân, lá, bào tử, chồi, mảnh cơ thể…
+DB: Dạng 2. So sánh giâm, chiết, ghép
+- Giâm: cắm cành xuống đất; chiết: cho cành ra rễ trên cây mẹ rồi cắt; ghép: gắn mắt/cành lên gốc cây khác.
+DB: Dạng 3. Giải thích ưu điểm, nhược điểm
+- Ưu: nhanh, giữ đặc tính mẹ; nhược: con giống hệt nhau, kém thích nghi khi môi trường thay đổi.
+VD: Vì sao người trồng bưởi thường dùng cành chiết mà không gieo hạt?
+B: Cây chiết giữ nguyên đặc tính tốt của cây mẹ (quả ngọt, nhiều nước).
+KQ: Cây chiết còn cho quả sớm hơn cây trồng từ hạt (vài năm).
+VD: Nuôi cấy mô từ 1 mẫu lan, sau mỗi tháng số cây tăng gấp 3. Sau 4 tháng có bao nhiêu cây?
+B: Số cây sau 4 tháng: 1 × 3⁴.
+KQ: 3⁴ = 81 cây.
+GN: Sinh sản vô tính không có giao tử, con giống hệt mẹ.
+GN: Khi giâm cành, chọn cành bánh tẻ (không quá non, không quá già).
+GN: Nuôi cấy mô tạo số lượng lớn cây giống sạch bệnh trong thời gian ngắn.
+Q: mc | Cây nào thường được trồng bằng cách giâm đoạn thân?
+A) Sắn (khoai mì) *
+B) Lúa
+C) Ngô
+D) Đậu xanh
+E: Người ta chặt khúc thân sắn cắm xuống đất để trồng.
+Q: mc | Thủy tức sinh sản vô tính bằng hình thức
+A) phân đôi
+B) nảy chồi *
+C) bào tử
+D) trinh sản
+E: Chồi mọc ra từ thành cơ thể, lớn lên rồi tách thành thủy tức con.
+Q: tf | Về sinh sản vô tính:
+a) Con sinh ra giống hệt nhau và giống cơ thể mẹ. | Đ
+b) Sinh sản vô tính cần có sự kết hợp giao tử đực và cái. | S
+c) Chiết cành giúp cây sớm cho quả và giữ đặc tính tốt. | Đ
+d) Trùng biến hình sinh sản bằng cách phân đôi. | Đ
+E: Sinh sản vô tính không có sự kết hợp giao tử.
+Q: match | Nối sinh vật với hình thức sinh sản vô tính:
+1) Trùng giày | Phân đôi
+2) Thủy tức | Nảy chồi
+3) Sao biển | Phân mảnh
+4) Lá thuốc bỏng | Sinh sản sinh dưỡng bằng lá
+E: Mỗi sinh vật có một hình thức sinh sản vô tính đặc trưng.
+Q: sa | Nuôi cấy mô từ 1 mẫu lan, mỗi tháng số cây tăng gấp 4. Sau 3 tháng có bao nhiêu cây?
+ANS: 64
+E: 4³ = 64 cây.
+TL: Trình bày các bước giâm một cành hoa hồng (hoặc cành rau muống, cành sắn) và nêu cách chăm sóc.
+MAU: Chọn cành bánh tẻ, khỏe, không sâu bệnh, dài 15 – 20 cm, có 3 – 4 mắt.
+MAU: Cắt vát đầu dưới, tỉa bớt lá; cắm nghiêng cành vào đất ẩm (hoặc nhúng thuốc kích rễ nếu có).
+MAU: Đặt nơi râm mát, tưới giữ ẩm hằng ngày; sau 2 – 3 tuần cành ra rễ, mọc chồi mới thì đem trồng.
+TC: Chọn cành đúng | 1
+TC: Cách cắt, cắm đúng | 1
+TC: Chăm sóc hợp lí | 1
+
 ### Bài 40. Sinh sản hữu tính ở sinh vật
+> Bông hoa rực rỡ không chỉ để ngắm: đó là cơ quan sinh sản của cây. Từ hoa tạo thành quả và hạt – khởi đầu của một thế hệ mới.
+MT: Phát biểu được khái niệm sinh sản hữu tính; phân biệt với sinh sản vô tính.
+MT: Mô tả được cấu tạo hoa, quá trình thụ phấn, thụ tinh, hình thành quả và hạt.
+MT: Mô tả khái quát sinh sản hữu tính ở động vật; nêu được vai trò và ứng dụng.
+LT: 1. Khái niệm
+- **Sinh sản hữu tính** là hình thức sinh sản có sự **kết hợp giữa giao tử đực và giao tử cái** tạo thành **hợp tử**; hợp tử phát triển thành cơ thể mới.
+- Con sinh ra mang đặc điểm của cả bố và mẹ, **đa dạng**, thích nghi tốt hơn với môi trường thay đổi.
+LT: 2. Sinh sản hữu tính ở thực vật có hoa
+- Cấu tạo hoa: đài, tràng (cánh hoa), **nhị** (bao phấn chứa hạt phấn – giao tử đực), **nhụy** (đầu nhụy, vòi nhụy, bầu nhụy chứa noãn – giao tử cái).
+- **Thụ phấn**: hạt phấn rơi lên đầu nhụy (tự thụ phấn hoặc thụ phấn chéo nhờ gió, côn trùng, con người).
+- **Thụ tinh**: giao tử đực kết hợp với giao tử cái trong noãn tạo hợp tử.
+- Sau thụ tinh: **noãn → hạt** (chứa phôi), **bầu nhụy → quả**.
+HINH: 7-khtn/cau-tao-hoa.svg | Cấu tạo hoa và quá trình thụ phấn, thụ tinh: hạt phấn từ bao phấn rơi lên đầu nhụy, ống phấn mang giao tử đực đến noãn; noãn thành hạt, bầu nhụy thành quả.
+LT: 3. Sinh sản hữu tính ở động vật
+- Gồm: **hình thành giao tử** (tinh trùng, trứng) → **thụ tinh** (ngoài: cá, ếch; trong: chim, thú, người) → **phát triển phôi** thành cơ thể mới.
+- Hình thức đẻ: đẻ trứng (gà, cá) hoặc đẻ con (thú, người).
+LT: 4. Ứng dụng
+- Thụ phấn bổ sung cho ngô, bí; nuôi ong trong vườn cây ăn quả; lai tạo giống mới có năng suất, phẩm chất tốt.
+DB: Dạng 1. Phân biệt sinh sản vô tính và hữu tính
+- Có kết hợp giao tử → hữu tính; không → vô tính.
+DB: Dạng 2. Gọi tên bộ phận hoa và sự biến đổi sau thụ tinh
+- Noãn → hạt; bầu nhụy → quả; hạt phấn chứa giao tử đực.
+DB: Dạng 3. Giải thích biện pháp thụ phấn
+- Thụ phấn bổ sung khi gió, côn trùng ít ⇒ tăng tỉ lệ đậu quả.
+VD: Vì sao người trồng bí thường dùng tay lấy hoa đực úp vào hoa cái vào buổi sáng?
+B: Hoa bí là hoa đơn tính; nếu ít côn trùng thì hạt phấn khó đến đầu nhụy hoa cái.
+KQ: Thụ phấn nhân tạo giúp tăng số quả bí được tạo thành.
+VD: Một quả đậu có 6 hạt. Tối thiểu có bao nhiêu noãn đã được thụ tinh?
+B: Mỗi noãn được thụ tinh phát triển thành một hạt.
+KQ: Có ít nhất 6 noãn đã được thụ tinh.
+GN: Hạt do noãn biến đổi thành; quả do bầu nhụy biến đổi thành.
+GN: Sinh sản hữu tính tạo con cháu đa dạng, thích nghi tốt.
+GN: Nuôi ong vừa lấy mật vừa giúp cây thụ phấn, tăng năng suất quả.
+Q: mc | Sau thụ tinh, bộ phận nào của hoa phát triển thành quả?
+A) Bầu nhụy *
+B) Noãn
+C) Bao phấn
+D) Cánh hoa
+E: Bầu nhụy → quả; noãn → hạt.
+Q: mc | Đặc điểm của sinh sản hữu tính là
+A) không có giao tử
+B) có sự kết hợp giữa giao tử đực và giao tử cái *
+C) con giống hệt mẹ
+D) chỉ có ở thực vật
+E: Sinh sản hữu tính tạo hợp tử từ hai giao tử.
+Q: ord | Sắp xếp các giai đoạn từ hoa đến hạt:
+1) Hạt phấn chín trong bao phấn
+2) Thụ phấn: hạt phấn rơi lên đầu nhụy
+3) Thụ tinh: giao tử đực kết hợp giao tử cái trong noãn
+4) Noãn phát triển thành hạt, bầu nhụy thành quả
+E: Thụ phấn → thụ tinh → tạo quả, hạt.
+Q: tf | Về sinh sản hữu tính:
+a) Gà, cá đẻ trứng; chó, mèo đẻ con. | Đ
+b) Cá chép thụ tinh trong cơ thể con cái. | S
+c) Côn trùng giúp nhiều loài hoa thụ phấn. | Đ
+d) Con sinh ra từ sinh sản hữu tính đa dạng, mang đặc điểm của cả bố và mẹ. | Đ
+E: Cá chép thụ tinh ngoài (trong nước).
+Q: match | Nối bộ phận hoa với chức năng hoặc sự biến đổi:
+1) Bao phấn | Chứa hạt phấn
+2) Đầu nhụy | Nhận hạt phấn
+3) Noãn | Phát triển thành hạt
+4) Bầu nhụy | Phát triển thành quả
+E: Nhị và nhụy là bộ phận sinh sản chủ yếu của hoa.
+Q: sa | Một cây bí có 30 hoa cái, nhờ thụ phấn bổ sung 80% số hoa đậu quả. Cây có bao nhiêu quả?
+ANS: 24
+E: 30 × 0,8 = 24 quả.
+TL: So sánh sinh sản vô tính và sinh sản hữu tính (khái niệm, đặc điểm con sinh ra, ví dụ).
+MAU: Vô tính: không có kết hợp giao tử; con giống nhau và giống mẹ; ví dụ: giâm cành sắn, thủy tức nảy chồi.
+MAU: Hữu tính: có kết hợp giao tử đực và cái tạo hợp tử; con đa dạng, mang đặc điểm bố và mẹ; ví dụ: cây đậu ra hoa tạo hạt, gà đẻ trứng.
+MAU: Giống nhau: đều tạo cá thể mới, duy trì nòi giống.
+TC: Nêu đúng khác nhau về khái niệm | 1
+TC: Nêu đúng đặc điểm con sinh ra | 1
+TC: Ví dụ đúng | 1
+
 ### Bài 41. Một số yếu tố ảnh hưởng và điều hòa, điều khiển sinh sản ở sinh vật
+> Vì sao gà đẻ nhiều trứng hơn khi được chiếu sáng thêm? Vì sao người ta có thể cho cá đẻ nhân tạo? Sinh sản chịu ảnh hưởng của nhiều yếu tố – và con người có thể điều khiển được.
+MT: Nêu được các yếu tố ảnh hưởng đến sinh sản (bên trong và bên ngoài).
+MT: Nêu được vai trò của hormone trong điều hòa sinh sản (khái quát).
+MT: Vận dụng giải thích một số biện pháp điều khiển sinh sản trong trồng trọt, chăn nuôi và kế hoạch hóa gia đình.
+LT: 1. Các yếu tố ảnh hưởng đến sinh sản
+- **Yếu tố bên trong**: đặc điểm di truyền của loài, **hormone**, tuổi của cơ thể.
+- **Yếu tố bên ngoài**: nhiệt độ, ánh sáng, nước, thức ăn, độ ẩm.
+- Ví dụ: cây ra hoa phụ thuộc nhiệt độ và độ dài ngày đêm; gà đẻ nhiều khi được ăn đủ chất và chiếu sáng thêm.
+HINH: 7-khtn/dieu-khien-sinh-san.svg | Yếu tố ảnh hưởng đến sinh sản và các biện pháp điều khiển: chiếu sáng cho gà đẻ, tiêm hormone cho cá đẻ, thắp đèn cho cây ra hoa, thụ phấn bổ sung.
+LT: 2. Điều hòa sinh sản
+- Ở thực vật: các hormone thực vật điều hòa ra hoa, tạo quả.
+- Ở động vật: hormone do tuyến nội tiết tiết ra điều hòa sự hình thành giao tử, hành vi sinh sản.
+LT: 3. Điều khiển sinh sản
+- **Thực vật**: điều chỉnh ánh sáng, nhiệt độ; dùng chất kích thích để ra hoa trái vụ, tạo quả không hạt.
+- **Động vật**: thay đổi chế độ chiếu sáng, thức ăn; **tiêm hormone** cho cá đẻ nhân tạo; thụ tinh nhân tạo; chọn lọc con đực/cái phù hợp.
+- **Con người**: kế hoạch hóa gia đình, sinh đẻ có kế hoạch.
+DB: Dạng 1. Phân loại yếu tố bên trong, bên ngoài
+- Hormone, di truyền, tuổi → bên trong; nhiệt độ, ánh sáng, thức ăn → bên ngoài.
+DB: Dạng 2. Giải thích biện pháp điều khiển sinh sản
+- Biện pháp đó tác động vào yếu tố nào (ánh sáng, thức ăn, hormone…)?
+DB: Dạng 3. Tính toán năng suất sinh sản
+- Số trứng, số con, tỉ lệ nở, tỉ lệ đậu quả.
+VD: Vì sao các trang trại gà đẻ thường bật đèn để kéo dài thời gian chiếu sáng trong ngày?
+B: Thời gian chiếu sáng dài kích thích hormone sinh sản ở gà.
+KQ: Gà đẻ trứng nhiều và đều hơn.
+VD: Một đàn gà 200 con, mỗi con đẻ trung bình 25 trứng/tháng. Đàn gà đẻ bao nhiêu trứng mỗi tháng?
+B: Số trứng = 200 × 25.
+KQ: 5000 quả trứng/tháng.
+GN: Hormone là yếu tố bên trong quan trọng điều hòa sinh sản.
+GN: Điều khiển sinh sản giúp tăng năng suất, chủ động thời vụ.
+GN: Sử dụng chất kích thích phải đúng liều, an toàn thực phẩm.
+Q: mc | Yếu tố nào sau đây là yếu tố bên trong ảnh hưởng đến sinh sản?
+A) Ánh sáng
+B) Hormone *
+C) Nhiệt độ
+D) Thức ăn
+E: Hormone do cơ thể tiết ra là yếu tố bên trong.
+Q: mc | Tiêm hormone kích thích cho cá mè, cá trắm để
+A) cá lớn nhanh
+B) cá đẻ nhân tạo đúng thời điểm mong muốn *
+C) cá không bị bệnh
+D) cá bơi nhanh hơn
+E: Hormone kích thích cá rụng trứng, đẻ đồng loạt.
+Q: tf | Về điều khiển sinh sản:
+a) Thay đổi thời gian chiếu sáng có thể làm gà đẻ nhiều hơn. | Đ
+b) Nhiệt độ không ảnh hưởng đến sự ra hoa của cây. | S
+c) Kế hoạch hóa gia đình là điều khiển sinh sản ở người. | Đ
+d) Thức ăn đủ chất giúp vật nuôi sinh sản tốt. | Đ
+E: Nhiệt độ ảnh hưởng nhiều đến ra hoa (nhiều cây cần lạnh mới ra hoa).
+Q: match | Nối biện pháp với yếu tố được tác động:
+1) Bật đèn kéo dài chiếu sáng cho gà | Ánh sáng
+2) Tiêm hormone cho cá đẻ | Hormone
+3) Cho lợn nái ăn thức ăn giàu dinh dưỡng | Thức ăn
+4) Ủ ấm trứng trong máy ấp | Nhiệt độ
+E: Mỗi biện pháp tác động vào một yếu tố.
+Q: sa | Một máy ấp có 500 quả trứng, tỉ lệ nở 90%. Có bao nhiêu gà con nở ra?
+ANS: 450
+E: 500 × 0,9 = 450 con.
+TL: Nêu 3 biện pháp điều khiển sinh sản trong chăn nuôi hoặc trồng trọt mà em biết và giải thích lợi ích.
+MAU: Chiếu sáng thêm cho gà: gà đẻ nhiều trứng hơn.
+MAU: Tiêm hormone cho cá đẻ nhân tạo: chủ động có cá giống số lượng lớn.
+MAU: Thắp đèn cho hoa cúc, thanh long: ra hoa đúng dịp hoặc trái vụ, giá bán cao.
+TC: Mỗi biện pháp đúng và giải thích lợi ích | 3
+
 ### Bài 42. Cơ thể sinh vật là một thể thống nhất
+> Khi em chạy nhanh, tim đập nhanh hơn, thở gấp hơn, mồ hôi tiết nhiều hơn… Các cơ quan trong cơ thể luôn phối hợp nhịp nhàng như một đội bóng.
+MT: Nêu được mối quan hệ giữa các hoạt động sống: trao đổi chất và chuyển hóa năng lượng, cảm ứng, sinh trưởng, phát triển, sinh sản.
+MT: Chứng minh được cơ thể sinh vật là một thể thống nhất qua ví dụ.
+MT: Vận dụng giải thích hiện tượng thực tế.
+LT: 1. Các hoạt động sống cơ bản
+- **Trao đổi chất và chuyển hóa năng lượng**: cung cấp nguyên liệu, năng lượng cho mọi hoạt động.
+- **Cảm ứng**: giúp cơ thể phản ứng với môi trường.
+- **Sinh trưởng và phát triển**: cơ thể lớn lên, hoàn thiện.
+- **Sinh sản**: tạo thế hệ mới, duy trì nòi giống.
+HINH: 7-khtn/the-thong-nhat.svg | Mối quan hệ giữa các hoạt động sống: trao đổi chất và chuyển hóa năng lượng là cơ sở cho cảm ứng, sinh trưởng, phát triển và sinh sản.
+LT: 2. Mối quan hệ giữa các hoạt động sống
+- Trao đổi chất và chuyển hóa năng lượng là **cơ sở** của các hoạt động khác.
+- Sinh trưởng, phát triển tạo điều kiện cho sinh sản; cảm ứng giúp cơ thể tìm thức ăn, tránh nguy hiểm, thích nghi.
+- Các hoạt động **liên quan chặt chẽ**, chịu sự điều khiển của hệ thần kinh và hormone (ở động vật).
+LT: 3. Cơ thể là một thể thống nhất
+- Các cơ quan, hệ cơ quan **phối hợp** với nhau. Ví dụ: khi chạy, cơ hoạt động mạnh → cần nhiều O₂ và chất dinh dưỡng → hệ hô hấp thở nhanh, tim đập nhanh để vận chuyển; da tiết mồ hôi để tỏa nhiệt.
+- Ở thực vật: rễ hút nước → thân vận chuyển → lá quang hợp tạo chất hữu cơ → nuôi rễ, thân, hoa, quả.
+DB: Dạng 1. Xác định hoạt động sống
+- Đọc hiện tượng và gọi tên: trao đổi chất, cảm ứng, sinh trưởng, phát triển, sinh sản.
+DB: Dạng 2. Chứng minh tính thống nhất
+- Chỉ ra một hoạt động kéo theo sự thay đổi ở các cơ quan khác.
+DB: Dạng 3. Vận dụng giải thích thực tế
+- Giải thích hiện tượng khi vận động, khi cây thiếu nước, khi ăn uống…
+VD: Khi trời nắng nóng, cây thiếu nước, lá héo. Điều này ảnh hưởng đến các hoạt động khác thế nào?
+B: Thiếu nước, khí khổng đóng, CO₂ ít vào lá ⇒ quang hợp giảm.
+KQ: Chất hữu cơ tạo ra ít ⇒ cây sinh trưởng chậm, ra hoa, kết quả kém – các hoạt động liên quan với nhau.
+VD: Lúc nghỉ, nhịp tim của bạn An là 75 lần/phút; sau khi chạy là 120 lần/phút. Nhịp tim tăng bao nhiêu phần trăm?
+B: Tăng 120 − 75 = 45 lần/phút.
+KQ: 45 : 75 × 100% = 60%.
+GN: Trao đổi chất là cơ sở của mọi hoạt động sống.
+GN: Các cơ quan phối hợp nhờ hệ thần kinh và hormone.
+GN: Một cơ quan bị bệnh có thể ảnh hưởng đến cả cơ thể.
+Q: mc | Hoạt động sống nào là cơ sở cho các hoạt động sống khác?
+A) Cảm ứng
+B) Sinh sản
+C) Trao đổi chất và chuyển hóa năng lượng *
+D) Phát triển
+E: Trao đổi chất cung cấp nguyên liệu và năng lượng cho mọi hoạt động.
+Q: mc | Khi chạy nhanh, nhịp thở và nhịp tim tăng nhằm
+A) cung cấp đủ O₂ và chất dinh dưỡng cho cơ hoạt động *
+B) giảm nhiệt độ cơ thể
+C) tăng chiều cao
+D) tạo giao tử
+E: Cơ hoạt động mạnh cần nhiều O₂, chất dinh dưỡng; thải nhiều CO₂.
+Q: tf | Về cơ thể là thể thống nhất:
+a) Các cơ quan trong cơ thể hoạt động độc lập, không ảnh hưởng nhau. | S
+b) Cây thiếu nước sẽ quang hợp kém, sinh trưởng chậm. | Đ
+c) Sinh trưởng, phát triển tạo điều kiện cho sinh sản. | Đ
+d) Ra mồ hôi khi vận động giúp cơ thể tỏa nhiệt. | Đ
+E: Các cơ quan phối hợp, liên quan chặt chẽ với nhau.
+Q: match | Nối hiện tượng với hoạt động sống:
+1) Cây xanh lấy CO₂ tạo chất hữu cơ | Trao đổi chất và chuyển hóa năng lượng
+2) Tay rụt lại khi chạm vật nóng | Cảm ứng
+3) Cây đậu cao thêm 5 cm | Sinh trưởng
+4) Gà mái đẻ trứng | Sinh sản
+E: Mỗi hiện tượng thể hiện một hoạt động sống.
+Q: sa | Nhịp thở lúc nghỉ là 18 lần/phút, sau khi chạy là 27 lần/phút. Nhịp thở tăng bao nhiêu phần trăm?
+ANS: 50
+E: (27 − 18) : 18 × 100% = 50%.
+TL: Lấy ví dụ chứng minh cơ thể thực vật là một thể thống nhất.
+MAU: Rễ hút nước, khoáng → mạch gỗ đưa lên lá → lá quang hợp tạo chất hữu cơ → mạch rây đưa đi nuôi rễ, thân, hoa, quả.
+MAU: Nếu rễ bị hỏng (úng nước, sâu bệnh), lá thiếu nước sẽ héo, quang hợp giảm, cây chậm lớn, ít hoa quả.
+MAU: Kết luận: các cơ quan phối hợp, phụ thuộc lẫn nhau ⇒ cơ thể là một thể thống nhất.
+TC: Nêu đúng sự phối hợp các cơ quan | 2
+TC: Có ví dụ hệ quả khi một cơ quan bị ảnh hưởng | 1
+
