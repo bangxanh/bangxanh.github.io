@@ -1,5 +1,7 @@
 # Bảng Xanh – bản công khai (GitHub Pages, miễn phí)
 
+**Địa chỉ trang: https://bangxanh.github.io**
+
 Bản này đưa trang học tập lên Internet **miễn phí, chạy 24/7, ai cũng vào học được không cần tài khoản**, Google tìm thấy được, và **tự cập nhật tin giáo dục mỗi 3 giờ**.
 
 ## Cách đưa lên mạng (khoảng 10 phút, làm một lần)
