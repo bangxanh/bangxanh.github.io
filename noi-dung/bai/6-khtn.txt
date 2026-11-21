@@ -133,6 +133,9 @@ Q: ord | Sắp xếp các việc cần làm sau khi kết thúc buổi thực h�
 3) Lau dọn, sắp xếp dụng cụ về chỗ cũ
 4) Rửa tay sạch bằng xà phòng
 E: Đảm bảo an toàn trước, rồi thu dọn, cuối cùng vệ sinh cá nhân.
+Q: sa | Trong các biển: cấm lửa, cảnh báo chất độc, bắt buộc đeo găng tay, cảnh báo điện cao thế, cấm uống nước, bắt buộc đeo kính bảo hộ. Có bao nhiêu biển cấm?
+ANS: 2
+E: Biển cấm (tròn, viền đỏ): cấm lửa, cấm uống nước.
 TL: Em hãy nêu 3 việc làm sai thường gặp trong phòng thực hành và hậu quả có thể xảy ra.
 MAU: Ngửi trực tiếp hóa chất → có thể bị ngộ độc, tổn thương đường hô hấp.
 MAU: Đùa nghịch, chạy nhảy → làm đổ hóa chất, vỡ dụng cụ, gây thương tích.
@@ -1196,6 +1199,12 @@ B) Nhân
 C) Tế bào chất
 D) Lục lạp *
 E: Lục lạp (chứa diệp lục, thực hiện quang hợp) và thành tế bào chỉ có ở tế bào thực vật.
+Q: match | Nối loại tế bào với hình dạng và chức năng phù hợp:
+1) Tế bào hồng cầu | Hình đĩa lõm hai mặt, vận chuyển khí
+2) Tế bào thần kinh | Có nhiều tua dài, dẫn truyền thông tin
+3) Tế bào cơ | Hình sợi dài, co rút giúp vận động
+4) Tế bào biểu bì lá | Xếp sát nhau, bảo vệ lá
+E: Hình dạng của tế bào phù hợp với chức năng của nó.
 TL: Giải thích vì sao một cây non lớn lên thành cây trưởng thành cần có sự lớn lên và sinh sản của tế bào.
 MAU: Cơ thể cây được cấu tạo từ tế bào, nên muốn cây lớn lên thì số lượng và kích thước tế bào phải tăng.
 MAU: Tế bào lớn lên đến một kích thước nhất định thì phân chia (sinh sản) tạo thành các tế bào mới.
@@ -1524,6 +1533,9 @@ b) Hệ tuần hoàn gồm tim và mạch máu. | Đ
 c) Hoa thuộc hệ rễ. | S
 d) Mỗi cơ quan được cấu tạo từ nhiều mô. | Đ
 E: Hoa thuộc hệ chồi.
+Q: sa | Trong các cấu trúc: tim, mô cơ, dạ dày, tế bào thần kinh, lá cây, hệ tiêu hóa, rễ cây. Có bao nhiêu cấu trúc ở cấp độ cơ quan?
+ANS: 4
+E: Cơ quan: tim, dạ dày, lá cây, rễ cây. Mô cơ là mô; tế bào thần kinh là tế bào; hệ tiêu hóa là hệ cơ quan.
 TL: Lấy ví dụ về các cấp độ tổ chức từ tế bào đến cơ thể ở cây xanh.
 MAU: Tế bào: tế bào biểu bì lá.
 MAU: Mô: mô biểu bì (bảo vệ), mô dẫn (vận chuyển), mô mềm.
@@ -1662,6 +1674,9 @@ Q: match | Nối sinh vật với giới:
 3) Nấm hương | Nấm
 4) Cây dương xỉ | Thực vật
 E: Xếp theo đặc điểm cấu tạo và dinh dưỡng.
+Q: sa | Kể từ bậc Loài đến bậc Giới (tính cả hai bậc đó), hệ thống phân loại có bao nhiêu bậc?
+ANS: 7
+E: Loài – Chi – Họ – Bộ – Lớp – Ngành – Giới: 7 bậc.
 TL: Vì sao các nhà khoa học cần dùng tên khoa học thay vì tên địa phương khi nghiên cứu sinh vật?
 MAU: Một sinh vật có nhiều tên địa phương khác nhau (quả dứa/thơm/khóm), hoặc một tên địa phương dùng cho nhiều loài khác nhau → dễ nhầm lẫn.
 MAU: Tên khoa học là duy nhất, thống nhất toàn thế giới, cho biết chi và loài của sinh vật → giúp trao đổi thông tin chính xác.

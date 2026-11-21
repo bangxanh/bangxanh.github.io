@@ -29,6 +29,9 @@ VD: Bạn Lan thấy cây đặt ở góc tối lớp học lá vàng hơn cây 
 B: (1) Vấn đề: Ánh sáng có ảnh hưởng đến màu xanh của lá không? (2) Dự đoán: Thiếu ánh sáng làm lá vàng đi.
 B: (3) Kế hoạch: trồng 2 chậu cây giống nhau, cùng đất, cùng lượng nước; một chậu để nơi có nắng, một chậu đặt trong hộp kín. (4) Thực hiện: theo dõi màu lá trong 7 ngày, ghi lại.
 KQ: (5) Báo cáo: nếu chậu trong hộp kín lá vàng đi, dự đoán đúng – ánh sáng cần cho lá giữ màu xanh.
+VD: Dùng đồng hồ hiện số với hai cổng quang điện đặt cách nhau 0,5 m, đo được thời gian viên bi đi qua giữa hai cổng là 0,25 s. Tính tốc độ trung bình của viên bi.
+B: Tốc độ trung bình = quãng đường : thời gian = 0,5 : 0,25.
+KQ: v = 2 m/s.
 GN: Thí nghiệm kiểm tra chỉ thay đổi một yếu tố, các điều kiện khác giữ giống nhau.
 GN: Dự đoán có thể đúng hoặc sai; kết luận phải dựa trên kết quả thí nghiệm.
 GN: Đo thời gian ngắn nên dùng đồng hồ hiện số với cổng quang điện để giảm sai số.
@@ -60,6 +63,12 @@ E: Cổng quang điện điều khiển đồng hồ bắt đầu/dừng đếm 
 Q: sa | Trong thí nghiệm kiểm tra "hạt đậu cần nước để nảy mầm", bạn Nam chuẩn bị 2 cốc giống nhau, mỗi cốc 10 hạt. Kết quả: cốc có nước nảy mầm 9 hạt. Tỉ lệ hạt nảy mầm ở cốc có nước là bao nhiêu phần trăm?
 ANS: 90
 E: 9 : 10 × 100 = 90%.
+Q: mc | Trong phương pháp tìm hiểu tự nhiên, việc "trồng hai chậu cây giống nhau, một chậu để ngoài nắng, một chậu để trong hộp kín" thuộc bước nào?
+A) Đề xuất vấn đề
+B) Đưa ra dự đoán
+C) Lập kế hoạch kiểm tra dự đoán *
+D) Viết báo cáo
+E: Đây là thiết kế thí nghiệm có đối chứng để kiểm tra dự đoán.
 TL: Em hãy đề xuất một vấn đề gần gũi (ví dụ: "Đường tan nhanh hơn trong nước nóng hay nước lạnh?") và trình bày đủ 5 bước tìm hiểu.
 MAU: (1) Vấn đề: Đường tan nhanh hơn trong nước nóng hay nước lạnh?
 MAU: (2) Dự đoán: Đường tan nhanh hơn trong nước nóng.
@@ -1080,6 +1089,12 @@ B) phản xạ khuếch tán *
 C) ánh sáng truyền thẳng xuyên qua trang sách
 D) trang sách tự phát ra ánh sáng
 E: Mặt giấy gồ ghề làm ánh sáng phản xạ theo mọi hướng (phản xạ khuếch tán) nên ta thấy trang sách từ nhiều phía.
+Q: ord | Sắp xếp các bước vẽ tia phản xạ khi biết tia tới chiếu đến gương phẳng:
+1) Xác định điểm tới I trên gương
+2) Vẽ pháp tuyến IN vuông góc với gương tại I
+3) Đo góc tới i (góc giữa tia tới và pháp tuyến)
+4) Vẽ tia phản xạ ở phía bên kia pháp tuyến sao cho góc phản xạ bằng góc tới
+E: Tia phản xạ nằm trong mặt phẳng tới, góc phản xạ i' = i.
 TL: Muốn chiếu ánh nắng xuống đáy một cái giếng thẳng đứng bằng một gương phẳng. Tia nắng hợp với mặt đất nằm ngang một góc 40°. Phải đặt gương hợp với mặt đất một góc bao nhiêu? Vẽ hình minh họa.
 MAU: Tia phản xạ cần có phương thẳng đứng, hướng xuống. Góc giữa tia tới (kéo ngược về phía Mặt Trời) và tia phản xạ là 40° + 90° = 130°.
 MAU: Pháp tuyến là tia phân giác của góc này: 2i = 130° ⇒ i = 65°.
@@ -1484,6 +1499,9 @@ Q: match | Nối bộ phận của lá với chức năng:
 3) Khí khổng | Trao đổi khí CO₂, O₂ và thoát hơi nước
 4) Gân lá | Vận chuyển nước và chất hữu cơ
 E: Cấu tạo của lá phù hợp với chức năng quang hợp.
+Q: sa | Khi được chiếu sáng, một cành rong đuôi chó thải ra khoảng 12 mL khí oxygen mỗi giờ. Trong 5 giờ chiếu sáng như vậy, cành rong thải ra khoảng bao nhiêu mL oxygen?
+ANS: 60
+E: 12 × 5 = 60 mL.
 TL: Vì sao nói "rừng là lá phổi xanh của Trái Đất"? Em có thể làm gì để bảo vệ "lá phổi" đó?
 MAU: Cây xanh quang hợp hấp thụ CO₂ và thải O₂, giúp không khí trong lành, cân bằng khí O₂ – CO₂.
 MAU: Rừng có diện tích lá rất lớn nên tạo nhiều O₂, giống như lá phổi giúp Trái Đất "thở".
