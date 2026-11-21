@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-21T11:00:43.716421</dc:date>
+    <dc:date>2026-11-21T11:05:00.825015</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,27 +35,27 @@ L 190.548 201.15
 L 190.548 22.59 
 L 183.852 22.59 
 z
-" clip-path="url(#p5270590dfa)" style="fill: url(#h100ee40375); stroke: #2f6fde; stroke-linejoin: miter"/>
+" clip-path="url(#p2c2cb84657)" style="fill: url(#h0adf155070); stroke: #2f6fde; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 89.55 171.250392 
 Q 89.55 124.42496 89.55 80.95363 
-" clip-path="url(#p5270590dfa)" style="fill: none; stroke: #c93a58; stroke-width: 3; stroke-linecap: round"/>
+" clip-path="url(#p2c2cb84657)" style="fill: none; stroke: #c93a58; stroke-width: 3; stroke-linecap: round"/>
     <path d="M 86.35 87.35363 
 L 89.55 80.95363 
 L 92.75 87.35363 
 z
-" clip-path="url(#p5270590dfa)" style="fill: #c93a58; stroke: #c93a58; stroke-width: 3; stroke-linecap: round"/>
+" clip-path="url(#p2c2cb84657)" style="fill: #c93a58; stroke: #c93a58; stroke-width: 3; stroke-linecap: round"/>
    </g>
    <g id="line2d_1">
     <path d="M 89.55 173.25 
 L 284.85 173.25 
-" clip-path="url(#p5270590dfa)" style="fill: none; stroke-dasharray: 1,1.65; stroke-dashoffset: 0; stroke: #6b7a72"/>
+" clip-path="url(#p2c2cb84657)" style="fill: none; stroke-dasharray: 1,1.65; stroke-dashoffset: 0; stroke: #6b7a72"/>
    </g>
    <g id="line2d_2">
     <path d="M 89.55 75.6 
 L 284.85 75.6 
-" clip-path="url(#p5270590dfa)" style="fill: none; stroke-dasharray: 1,1.65; stroke-dashoffset: 0; stroke: #6b7a72"/>
+" clip-path="url(#p2c2cb84657)" style="fill: none; stroke-dasharray: 1,1.65; stroke-dashoffset: 0; stroke: #6b7a72"/>
    </g>
    <g id="text_1">
     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="187.2" y="18.405" transform="rotate(-0 187.2 18.405)">gương</text>
@@ -122,12 +122,12 @@ L 276.932438 195.18
   </g>
  </g>
  <defs>
-  <clipPath id="p5270590dfa">
+  <clipPath id="p2c2cb84657">
    <rect x="8.64" y="8.64" width="357.12" height="200.88"/>
   </clipPath>
  </defs>
  <defs>
-  <pattern id="h100ee40375" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+  <pattern id="h0adf155070" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
    <rect x="0" y="0" width="73" height="73" fill="#cfe3f7"/>
    <path d="M -36 36 
 L 36 -36 

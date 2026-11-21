@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="639.361875pt" height="236.163437pt" viewBox="0 0 639.361875 236.163437" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:05:01.166545</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 236.163437 
+L 639.361875 236.163437 
+L 639.361875 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 25.120938 192.0425 
+L 321.441406 192.0425 
+L 321.441406 25.554062 
+L 25.120938 25.554062 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="text_1">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="173.281172" y="205.640625" transform="rotate(-0 173.281172 205.640625)">Cường độ ánh sáng</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="text_2">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="18.238125" y="108.798281" transform="rotate(-90 18.238125 108.798281)">Cường độ quang hợp</text>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <path d="M 38.59005 184.474844 
+L 42.651089 173.411137 
+L 46.712127 163.150723 
+L 50.773166 153.635277 
+L 54.834205 144.810711 
+L 58.895244 136.626862 
+L 62.956283 129.037211 
+L 67.017322 121.998614 
+L 71.078361 115.471063 
+L 75.139399 109.417452 
+L 79.200438 103.803369 
+L 83.261477 98.596904 
+L 87.322516 93.768459 
+L 91.383555 89.290589 
+L 95.444594 85.13784 
+L 99.505633 81.286606 
+L 103.566671 77.714994 
+L 107.62771 74.402704 
+L 111.688749 71.330906 
+L 115.749788 68.482139 
+L 121.164507 65.002903 
+L 126.579225 61.856342 
+L 131.993943 59.010646 
+L 137.408662 56.437048 
+L 142.82338 54.10953 
+L 148.238099 52.004562 
+L 153.652817 50.100865 
+L 160.421215 47.975141 
+L 167.189614 46.100374 
+L 173.958012 44.446937 
+L 182.080089 42.718399 
+L 190.202167 41.231754 
+L 198.324245 39.95315 
+L 207.800002 38.685779 
+L 218.629439 37.485652 
+L 229.458876 36.504057 
+L 241.641993 35.611724 
+L 256.532468 34.762514 
+L 272.776624 34.068164 
+L 291.728139 33.483019 
+L 307.972294 33.121719 
+L 307.972294 33.121719 
+" clip-path="url(#pbdf428f6f2)" style="fill: none; stroke: #bd7a12; stroke-width: 2.6; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 25.120938 192.0425 
+L 25.120938 25.554062 
+" style="fill: none; stroke: #1b2620; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 25.120938 192.0425 
+L 321.441406 192.0425 
+" style="fill: none; stroke: #1b2620; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7a72" x="181.362639" y="65.618559" transform="rotate(-0 181.362639 65.618559)">đạt giới hạn</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="173.281172" y="19.554062" transform="rotate(-0 173.281172 19.554062)">Ảnh hưởng của cường độ ánh sáng</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 334.401406 192.0425 
+L 630.721875 192.0425 
+L 630.721875 25.554062 
+L 334.401406 25.554062 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 482.561641 192.0425 
+L 536.438089 192.0425 
+L 536.438089 25.554062 
+L 482.561641 25.554062 
+z
+" clip-path="url(#p238efdcfd7)" style="fill: #55891b; opacity: 0.15; stroke: #55891b; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_1">
+     <g id="line2d_2">
+      <defs>
+       <path id="m3cdead7965" d="M 0 0 
+L 0 3.5 
+" style="stroke: #1b2620; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3cdead7965" x="347.870518" y="192.0425" style="fill: #1b2620; stroke: #1b2620; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="347.870518" y="208.159687" transform="rotate(-0 347.870518 208.159687)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m3cdead7965" x="401.746967" y="192.0425" style="fill: #1b2620; stroke: #1b2620; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="401.746967" y="208.159687" transform="rotate(-0 401.746967 208.159687)">10</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m3cdead7965" x="455.623416" y="192.0425" style="fill: #1b2620; stroke: #1b2620; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="455.623416" y="208.159687" transform="rotate(-0 455.623416 208.159687)">20</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m3cdead7965" x="509.499865" y="192.0425" style="fill: #1b2620; stroke: #1b2620; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="509.499865" y="208.159687" transform="rotate(-0 509.499865 208.159687)">30</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m3cdead7965" x="563.376314" y="192.0425" style="fill: #1b2620; stroke: #1b2620; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="563.376314" y="208.159687" transform="rotate(-0 563.376314 208.159687)">40</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m3cdead7965" x="617.252763" y="192.0425" style="fill: #1b2620; stroke: #1b2620; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="617.252763" y="208.159687" transform="rotate(-0 617.252763 208.159687)">50</text>
+     </g>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="482.561641" y="224.640625" transform="rotate(-0 482.561641 224.640625)">Nhiệt độ (°C)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_8">
+    <path d="M 347.870518 184.370004 
+L 362.285622 184.107522 
+L 371.295061 183.745452 
+L 378.502613 183.258481 
+L 384.809221 182.617026 
+L 390.214885 181.848172 
+L 394.719604 181.009153 
+L 399.224324 179.948373 
+L 403.729044 178.621938 
+L 407.33282 177.337282 
+L 410.936596 175.825587 
+L 414.540372 174.059599 
+L 418.144147 172.011618 
+L 421.747923 169.65416 
+L 425.351699 166.960741 
+L 428.955475 163.906781 
+L 432.559251 160.470612 
+L 436.163027 156.634567 
+L 439.766802 152.386114 
+L 443.370578 147.719015 
+L 446.974354 142.63444 
+L 450.57813 137.142023 
+L 454.181906 131.260762 
+L 458.686626 123.407708 
+L 463.191345 115.073479 
+L 468.597009 104.588874 
+L 486.615888 69.057716 
+L 490.219664 62.539013 
+L 493.82344 56.45036 
+L 496.526272 52.225699 
+L 499.229104 48.33841 
+L 501.931936 44.825936 
+L 504.634768 41.722776 
+L 507.3376 39.059919 
+L 509.139487 37.542793 
+L 510.941375 36.240337 
+L 512.743263 35.158518 
+L 514.545151 34.302315 
+L 516.347039 33.675689 
+L 518.148927 33.281546 
+L 519.950815 33.121719 
+L 520.851759 33.166064 
+L 521.752703 33.433835 
+L 522.653647 33.935213 
+L 523.554591 34.66787 
+L 524.455535 35.628411 
+L 525.356479 36.812402 
+L 526.257423 38.214405 
+L 528.059311 41.645923 
+L 529.861199 45.861114 
+L 531.663086 50.785398 
+L 533.464974 56.333659 
+L 536.167806 65.620541 
+L 538.870638 75.765373 
+L 544.276302 97.268151 
+L 548.781022 114.936766 
+L 552.384798 128.058078 
+L 555.087629 137.028128 
+L 557.790461 145.126737 
+L 560.493293 152.296884 
+L 562.295181 156.553671 
+L 564.097069 160.397861 
+L 565.898957 163.841869 
+L 567.700845 166.903273 
+L 569.502733 169.60367 
+L 571.304621 171.967593 
+L 573.106509 174.021495 
+L 574.908397 175.792851 
+L 576.710285 177.309363 
+L 578.512172 178.598298 
+L 580.31406 179.685948 
+L 583.016892 180.994038 
+L 585.719724 181.981579 
+L 588.422556 182.715475 
+L 592.026332 183.396012 
+L 595.630108 183.832709 
+L 600.134828 184.15508 
+L 606.441435 184.369268 
+L 617.252763 184.474844 
+L 617.252763 184.474844 
+" clip-path="url(#p238efdcfd7)" style="fill: none; stroke: #c93a58; stroke-width: 2.6; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 334.401406 192.0425 
+L 334.401406 25.554062 
+" style="fill: none; stroke: #1b2620; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 334.401406 192.0425 
+L 630.721875 192.0425 
+" style="fill: none; stroke: #1b2620; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #55891b" transform="translate(487.243888 157.954108)">thích hợp</text>
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #55891b" transform="translate(484.815451 169.355963)">25 – 35 °C</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="482.561641" y="19.554062" transform="rotate(-0 482.561641 19.554062)">Ảnh hưởng của nhiệt độ</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbdf428f6f2">
+   <rect x="25.120938" y="25.554062" width="296.320469" height="166.488437"/>
+  </clipPath>
+  <clipPath id="p238efdcfd7">
+   <rect x="334.401406" y="25.554062" width="296.320469" height="166.488437"/>
+  </clipPath>
+ </defs>
+</svg>

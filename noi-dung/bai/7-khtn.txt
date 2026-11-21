@@ -1155,13 +1155,475 @@ TC: Kết luận đúng 9 giờ | 1,5
 
 ## Chương VI. Từ
 ### Bài 18. Nam châm
+> Chiếc la bàn giúp thủy thủ xưa vượt đại dương, cánh cửa tủ lạnh đóng kín nhờ dải nam châm – nam châm có ở khắp quanh ta.
+MT: Nêu được nam châm có hai cực Bắc (N), Nam (S); tương tác giữa các cực từ.
+MT: Nhận biết được vật liệu bị nam châm hút (sắt, thép, nickel, cobalt) và vật liệu không bị hút.
+MT: Mô tả được cấu tạo và cách dùng la bàn để xác định hướng.
+LT: 1. Nam châm và các cực từ
+- Nam châm có thể hút sắt, thép, nickel, cobalt và một số hợp kim của chúng; **không hút** nhôm, đồng, nhựa, gỗ, giấy.
+- Mỗi nam châm có **hai cực**: cực Bắc (kí hiệu **N**, thường sơn đỏ) và cực Nam (kí hiệu **S**, thường sơn xanh). Hai đầu nam châm hút sắt mạnh nhất.
+- Khi để tự do, nam châm luôn quay về hướng Bắc – Nam địa lí: cực N chỉ hướng Bắc.
+LT: 2. Tương tác giữa hai nam châm
+- Hai cực **cùng tên đẩy nhau** (N – N, S – S); hai cực **khác tên hút nhau** (N – S).
+- Bẻ đôi một nam châm ta được hai nam châm mới, mỗi nửa đều có đủ hai cực.
+HINH: 7-khtn/nam-cham.svg | Các cực cùng tên đẩy nhau, khác tên hút nhau; kim la bàn (một nam châm nhỏ) luôn chỉ hướng Bắc – Nam.
+LT: 3. La bàn
+- Bộ phận chính là **kim nam châm** quay tự do trên trục, đặt trên mặt chia độ có ghi các hướng.
+- Cách dùng: đặt la bàn nằm ngang, xa vật bằng sắt thép; chờ kim đứng yên, xoay mặt la bàn để vạch N trùng đầu N của kim; đọc hướng cần tìm.
+DB: Dạng 1. Xác định tương tác giữa các nam châm
+- Cùng tên ⇒ đẩy; khác tên ⇒ hút; suy ngược ra tên cực khi biết hiện tượng.
+DB: Dạng 2. Nhận biết vật liệu từ
+- Sắt, thép, nickel, cobalt ⇒ bị hút; nhôm, đồng, bạc, nhựa, gỗ ⇒ không bị hút.
+DB: Dạng 3. Sử dụng la bàn
+- Đặt nằm ngang, tránh xa sắt thép và nam châm khác; cực N của kim chỉ hướng Bắc.
+VD: Đưa cực N của nam châm A lại gần một đầu X của nam châm B thì thấy chúng đẩy nhau. Đầu X là cực gì? Đầu còn lại của B là cực gì?
+B: Hai cực đẩy nhau là hai cực cùng tên ⇒ X là cực N.
+B: Mỗi nam châm có đủ hai cực ⇒ đầu còn lại của B là cực S.
+KQ: X là cực Bắc (N), đầu còn lại là cực Nam (S).
+VD: Có một đống hỗn hợp gồm đinh sắt, mẩu nhôm và hạt nhựa. Làm thế nào để tách riêng đinh sắt?
+B: Đinh sắt bị nam châm hút; nhôm và nhựa không bị hút.
+KQ: Đưa nam châm lại gần hỗn hợp để hút riêng đinh sắt ra.
+GN: Không phải mọi kim loại đều bị nam châm hút (nhôm, đồng không bị hút).
+GN: Cực N của kim la bàn chỉ hướng Bắc địa lí.
+GN: Không đặt nam châm gần thẻ từ, điện thoại, la bàn khác.
+Q: mc | Vật nào sau đây bị nam châm hút?
+A) Chiếc thìa nhôm
+B) Đồng xu bằng đồng
+C) Chiếc đinh sắt *
+D) Thước nhựa
+E: Nam châm hút sắt, thép, nickel, cobalt; nhôm, đồng, nhựa không bị hút.
+Q: mc | Đưa cực S của nam châm này lại gần cực S của nam châm kia thì chúng
+A) hút nhau
+B) đẩy nhau *
+C) không tương tác
+D) lúc hút lúc đẩy
+E: Hai cực cùng tên đẩy nhau.
+Q: tf | Về nam châm:
+a) Mỗi nam châm có hai cực Bắc và Nam. | Đ
+b) Bẻ đôi một thanh nam châm thì được một nửa chỉ có cực N và một nửa chỉ có cực S. | S
+c) Khi để tự do, cực N của nam châm chỉ hướng Bắc địa lí. | Đ
+d) Nam châm hút mạnh nhất ở chính giữa thanh. | S
+E: Mỗi nửa nam châm bẻ ra vẫn có đủ hai cực; nam châm hút mạnh nhất ở hai đầu (hai cực).
+Q: sa | Trong các vật: kéo bằng thép, nhẫn bạc, kẹp giấy bằng sắt, lon nhôm, đinh ốc bằng thép – có bao nhiêu vật bị nam châm hút?
+ANS: 3
+E: Kéo thép, kẹp giấy sắt, đinh ốc thép bị hút; nhẫn bạc và lon nhôm không bị hút.
+Q: match | Nối hai cực đặt gần nhau với hiện tượng:
+1) Cực N gần cực N | Đẩy nhau
+2) Cực N gần cực S | Hút nhau
+3) Cực N gần một miếng nhôm | Không hút, không đẩy
+E: Cùng tên đẩy, khác tên hút; nhôm không bị nam châm tác dụng.
+TL: Một thanh nam châm bị mất kí hiệu hai cực. Em hãy trình bày hai cách xác định tên cực của nó.
+MAU: Cách 1: treo thanh nam châm bằng sợi chỉ ở giữa cho quay tự do; khi đứng yên, đầu chỉ hướng Bắc địa lí là cực N.
+MAU: Cách 2: đưa một đầu lại gần cực N của một nam châm đã biết tên cực (hoặc đầu N của kim la bàn): nếu đẩy nhau thì đầu đó là cực N, nếu hút nhau thì là cực S.
+TC: Nêu đúng cách 1 | 1,5
+TC: Nêu đúng cách 2 và lập luận | 1,5
+
 ### Bài 19. Từ trường
+> Rắc mạt sắt quanh một thanh nam châm, mạt sắt tự xếp thành những đường cong tuyệt đẹp – đó là hình ảnh của từ trường mà mắt ta không thấy được.
+MT: Nêu được khái niệm từ trường; nhận biết từ trường bằng kim nam châm.
+MT: Vẽ được đường sức từ quanh nam châm thẳng; xác định chiều đường sức từ.
+MT: Nêu được Trái Đất có từ trường; giải thích vì sao la bàn chỉ hướng Bắc – Nam.
+LT: 1. Từ trường
+- Không gian xung quanh **nam châm** và xung quanh **dòng điện** có khả năng tác dụng lực từ lên kim nam châm đặt trong nó: đó là **từ trường**.
+- Nhận biết từ trường: đặt kim nam châm thử vào; nếu kim bị lệch khỏi hướng Bắc – Nam thì nơi đó có từ trường.
+LT: 2. Đường sức từ
+- Mạt sắt xếp thành những đường cong nối từ cực này sang cực kia – **từ phổ**. Mỗi đường như vậy biểu diễn một **đường sức từ**.
+- Quy ước chiều: bên ngoài nam châm, đường sức từ **đi ra từ cực Bắc (N), đi vào cực Nam (S)**.
+- Nơi đường sức từ **dày** thì từ trường **mạnh** (gần hai cực), nơi thưa thì từ trường yếu.
+HINH: 7-khtn/duong-suc-tu.svg | Đường sức từ của nam châm thẳng: đi ra ở cực N, đi vào cực S; dày ở gần hai cực. Kim nam châm nhỏ nằm dọc theo đường sức.
+LT: 3. Từ trường Trái Đất
+- Trái Đất có từ trường như một **nam châm khổng lồ**; vì vậy kim la bàn luôn chỉ hướng Bắc – Nam.
+- **Cực Bắc địa lí** ở gần **cực Nam địa từ** (nên hút cực N của kim la bàn) và ngược lại.
+- Từ trường Trái Đất giúp chim di cư, rùa biển định hướng và che chắn một phần dòng hạt từ Mặt Trời.
+DB: Dạng 1. Vẽ và xác định chiều đường sức từ
+- Đường sức đi ra ở N, vào ở S (bên ngoài nam châm); không cắt nhau.
+DB: Dạng 2. Xác định chiều kim nam châm trong từ trường
+- Kim nam châm nằm dọc đường sức từ: cực N của kim chỉ theo chiều đường sức.
+- Suy ngược: biết chiều kim ⇒ biết chiều đường sức ⇒ biết tên cực nam châm.
+DB: Dạng 3. Giải thích hiện tượng liên quan từ trường Trái Đất
+- Nhớ: cực Bắc địa lí gần cực Nam địa từ.
+VD: Đặt kim nam châm nhỏ ở bên phải đầu A của một thanh nam châm, thấy cực N của kim chỉ ra xa đầu A. Đầu A là cực gì?
+B: Kim nằm dọc đường sức, cực N của kim chỉ theo chiều đường sức.
+B: Đường sức đi ra xa đầu A ⇒ đường sức đi ra từ A.
+KQ: Đầu A là cực Bắc (N).
+VD: Vì sao không nên đặt la bàn gần loa hoặc nam châm khi xác định hướng?
+B: Loa có nam châm, tạo từ trường mạnh ở gần.
+KQ: Từ trường của loa làm kim la bàn lệch khỏi hướng Bắc – Nam của Trái Đất, chỉ sai hướng.
+GN: Đường sức từ không cắt nhau.
+GN: Bên ngoài nam châm: ra N, vào S.
+GN: Dòng điện cũng tạo ra từ trường (thí nghiệm Oersted).
+Q: mc | Từ trường tồn tại ở đâu?
+A) Chỉ xung quanh nam châm
+B) Xung quanh nam châm và xung quanh dòng điện *
+C) Chỉ trong lòng Trái Đất
+D) Xung quanh mọi vật
+E: Nam châm và dòng điện đều tạo ra từ trường.
+Q: mc | Bên ngoài thanh nam châm, đường sức từ có chiều
+A) đi ra từ cực S, đi vào cực N
+B) đi ra từ cực N, đi vào cực S *
+C) đi vòng quanh giữa thanh
+D) không có chiều xác định
+E: Quy ước: bên ngoài nam châm, đường sức đi ra ở cực Bắc, đi vào cực Nam.
+Q: tf | Về từ trường:
+a) Nơi đường sức từ dày thì từ trường mạnh. | Đ
+b) Các đường sức từ có thể cắt nhau. | S
+c) Cực Bắc địa lí nằm gần cực Nam địa từ của Trái Đất. | Đ
+d) Có thể dùng kim nam châm để nhận biết từ trường. | Đ
+E: Đường sức từ không bao giờ cắt nhau; các ý còn lại đúng.
+Q: sa | Rắc mạt sắt quanh một thanh nam châm. Có mấy vùng mạt sắt bám dày nhất?
+ANS: 2 || hai
+E: Mạt sắt bám dày nhất ở hai cực của nam châm, nơi từ trường mạnh nhất.
+Q: ord | Sắp xếp các bước làm thí nghiệm tạo từ phổ của nam châm thẳng:
+1) Đặt thanh nam châm lên bàn, đặt một tấm nhựa trong lên trên
+2) Rắc đều một lớp mạt sắt mỏng lên tấm nhựa
+3) Gõ nhẹ vào tấm nhựa
+4) Quan sát hình dạng mạt sắt sắp xếp và vẽ lại
+E: Tấm nhựa ngăn mạt sắt dính vào nam châm; gõ nhẹ giúp mạt sắt xoay theo từ trường.
+TL: Chim bồ câu đưa thư có thể tìm đường về nhà từ rất xa. Một giả thuyết cho rằng chim cảm nhận được từ trường Trái Đất. Em hãy đề xuất một thí nghiệm (mô tả ý tưởng) để kiểm tra giả thuyết này.
+MAU: Chia chim thành hai nhóm như nhau, thả ở cùng một địa điểm xa nhà, cùng thời tiết.
+MAU: Nhóm 1 gắn một miếng nam châm nhỏ (làm nhiễu từ trường quanh chim); nhóm 2 gắn miếng kim loại không có từ tính, cùng khối lượng.
+MAU: So sánh tỉ lệ chim tìm được về nhà: nếu nhóm 1 lạc nhiều hơn rõ rệt thì giả thuyết được ủng hộ.
+TC: Có nhóm thí nghiệm và nhóm đối chứng | 1
+TC: Chỉ thay đổi một yếu tố (nam châm), giữ nguyên yếu tố khác | 1
+TC: Nêu cách đánh giá kết quả | 1
+
 ### Bài 20. Chế tạo nam châm điện đơn giản
+> Cần cẩu ở bãi phế liệu nhấc bổng cả chiếc ô tô cũ rồi thả xuống chỉ bằng một nút bấm – nhờ nam châm điện. Em có thể tự làm một nam châm điện nhỏ.
+MT: Nêu được cấu tạo của nam châm điện: ống dây có dòng điện chạy qua, có lõi sắt non.
+MT: Chế tạo được nam châm điện đơn giản và kiểm tra từ tính của nó.
+MT: Nêu được cách làm tăng lực từ của nam châm điện và ứng dụng.
+LT: 1. Cấu tạo nam châm điện
+- Gồm một **ống dây dẫn** (dây đồng có vỏ cách điện quấn nhiều vòng) và một **lõi sắt non** đặt trong lòng ống dây.
+- Khi có **dòng điện** chạy qua ống dây, lõi sắt trở thành nam châm; **ngắt điện** thì lõi sắt non **mất từ tính** gần như ngay lập tức.
+HINH: 7-khtn/nam-cham-dien.svg | Nam châm điện đơn giản: đinh sắt quấn dây đồng nối với pin qua công tắc; đóng công tắc, đinh hút được kẹp giấy.
+LT: 2. Chế tạo và thử nghiệm
+- Dụng cụ: đinh sắt to (lõi), dây đồng có vỏ cách điện, pin 1,5 V (đế pin), công tắc, kẹp giấy.
+- Cách làm: quấn dây quanh đinh khoảng 30 – 50 vòng cùng một chiều, cạo vỏ hai đầu dây, nối với pin qua công tắc. Đóng công tắc, đưa đầu đinh lại gần kẹp giấy và đếm số kẹp hút được.
+- **An toàn**: chỉ dùng pin; không nối vào ổ điện trong nhà; ngắt công tắc khi không dùng (dây nóng lên, pin nhanh hết).
+LT: 3. Tăng lực từ và ứng dụng
+- Lực từ mạnh hơn khi **tăng số vòng dây** hoặc **tăng cường độ dòng điện** (thêm pin).
+- Ứng dụng: cần cẩu điện, chuông điện, khóa cửa điện từ, rơ le, loa…
+DB: Dạng 1. Nêu cấu tạo, nguyên tắc hoạt động
+- Ống dây + lõi sắt non + dòng điện ⇒ nam châm; ngắt điện ⇒ mất từ tính.
+DB: Dạng 2. So sánh độ mạnh của các nam châm điện
+- So sánh số vòng dây và cường độ dòng điện: nhiều vòng hơn, dòng điện lớn hơn ⇒ mạnh hơn.
+DB: Dạng 3. Giải thích ứng dụng
+- Ưu điểm: bật/tắt được từ tính, điều chỉnh được độ mạnh.
+VD: Hai nam châm điện giống nhau, nam châm A quấn 50 vòng, nam châm B quấn 100 vòng, dùng cùng một loại pin. Nam châm nào hút được nhiều kẹp giấy hơn?
+B: Cùng dòng điện, số vòng dây nhiều hơn thì lực từ mạnh hơn.
+KQ: Nam châm B (100 vòng) hút được nhiều kẹp giấy hơn.
+VD: Vì sao cần cẩu ở bãi phế liệu dùng nam châm điện mà không dùng nam châm vĩnh cửu?
+B: Nam châm điện có thể tắt từ tính bằng cách ngắt điện.
+KQ: Dễ dàng nhấc sắt thép lên rồi thả xuống đúng chỗ; nam châm vĩnh cửu không tự nhả vật ra được.
+GN: Lõi phải là sắt non để mất từ tính ngay khi ngắt điện.
+GN: Dây quấn phải có vỏ cách điện, quấn cùng một chiều.
+GN: Không thí nghiệm với điện lưới trong nhà.
+Q: mc | Bộ phận nào KHÔNG thuộc nam châm điện?
+A) Ống dây dẫn
+B) Lõi sắt non
+C) Dòng điện chạy qua ống dây
+D) Kim la bàn *
+E: Nam châm điện gồm ống dây có dòng điện và lõi sắt non; kim la bàn chỉ dùng để kiểm tra từ trường.
+Q: mc | Cách nào làm nam châm điện hút mạnh hơn?
+A) Giảm số vòng dây
+B) Tăng số vòng dây *
+C) Thay lõi sắt bằng lõi nhựa
+D) Ngắt công tắc
+E: Tăng số vòng dây hoặc tăng cường độ dòng điện làm lực từ mạnh hơn.
+Q: tf | Bạn Nam làm nam châm điện bằng đinh sắt quấn 40 vòng dây đồng, nối với 1 pin 1,5 V.
+a) Khi đóng công tắc, đinh hút được kẹp giấy. | Đ
+b) Khi ngắt công tắc, đinh vẫn hút mạnh như cũ. | S
+c) Mắc thêm một pin nối tiếp, đinh hút được nhiều kẹp hơn. | Đ
+d) Có thể cắm trực tiếp hai đầu dây vào ổ điện trong nhà để nam châm mạnh hơn. | S
+E: Ngắt điện thì lõi sắt non mất từ tính; thêm pin tăng dòng điện nên mạnh hơn; cắm vào điện lưới rất nguy hiểm.
+Q: sa | Một nam châm điện quấn 50 vòng hút được 6 kẹp giấy. Bạn An quấn thêm để được 100 vòng (cùng pin) thì hút được 11 kẹp. Số kẹp hút thêm được là bao nhiêu?
+ANS: 5
+E: 11 − 6 = 5 kẹp: tăng số vòng dây làm lực từ mạnh hơn.
+Q: ord | Sắp xếp các bước chế tạo nam châm điện đơn giản:
+1) Quấn dây đồng có vỏ cách điện quanh đinh sắt theo một chiều
+2) Cạo sạch vỏ cách điện ở hai đầu dây
+3) Nối hai đầu dây với pin qua công tắc
+4) Đóng công tắc và thử hút các kẹp giấy
+E: Quấn dây → chuẩn bị đầu nối → nối mạch → thử nghiệm.
+TL: Em hãy giải thích nguyên tắc hoạt động của chuông điện dùng nam châm điện (tiếng "reng reng" liên tục khi nhấn nút).
+MAU: Nhấn nút, mạch kín, dòng điện chạy qua nam châm điện, nam châm hút thanh sắt gắn búa gõ vào chuông.
+MAU: Khi thanh sắt bị hút, tiếp điểm bị tách ra làm mạch hở, nam châm mất từ tính, lò xo kéo thanh sắt trở về.
+MAU: Thanh sắt về chỗ cũ lại đóng mạch, quá trình lặp lại liên tục nên búa gõ chuông liên tiếp.
+TC: Nêu được nam châm điện hút thanh sắt khi có dòng điện | 1
+TC: Nêu được mạch bị ngắt, nam châm mất từ tính | 1
+TC: Giải thích được quá trình lặp lại | 1
+
 ## Chương VII. Trao đổi chất và chuyển hóa năng lượng ở sinh vật
 ### Bài 21. Khái quát về trao đổi chất và chuyển hóa năng lượng
+> Em ăn cơm để có sức chạy nhảy, cây xanh hút nước và cần ánh nắng để lớn lên – mọi sinh vật đều phải trao đổi chất và chuyển hóa năng lượng để sống.
+MT: Phát biểu được khái niệm trao đổi chất và chuyển hóa năng lượng.
+MT: Nêu được vai trò của trao đổi chất và chuyển hóa năng lượng trong cơ thể.
+MT: Lấy được ví dụ về các dạng năng lượng chuyển hóa trong sinh vật.
+LT: 1. Trao đổi chất
+- **Trao đổi chất** ở sinh vật là quá trình cơ thể **lấy các chất từ môi trường** (thức ăn, nước, khí oxygen…), **biến đổi** chúng thành chất cần thiết cho cơ thể và **thải ra môi trường** các chất thải (khí carbon dioxide, mồ hôi, nước tiểu, phân…).
+- Ở người: lấy thức ăn, nước, O₂ → thải CO₂, nước tiểu, phân, mồ hôi. Ở cây xanh: lấy nước, muối khoáng, CO₂, ánh sáng → thải O₂, hơi nước.
+LT: 2. Chuyển hóa năng lượng
+- **Chuyển hóa năng lượng** là sự biến đổi năng lượng từ dạng này sang dạng khác.
+- Ví dụ: cây xanh biến **quang năng** (ánh sáng) thành **hóa năng** tích lũy trong chất hữu cơ; cơ thể người biến hóa năng trong thức ăn thành **nhiệt năng** (giữ ấm), **động năng** (vận động), năng lượng cho mọi hoạt động sống.
+HINH: 7-khtn/trao-doi-chat.svg | Sơ đồ trao đổi chất ở người và ở cây xanh: lấy vào các chất cần thiết, thải ra chất thải; năng lượng được chuyển hóa từ dạng này sang dạng khác.
+LT: 3. Vai trò
+- Cung cấp **nguyên liệu** cấu tạo tế bào, cơ thể (giúp lớn lên, phát triển).
+- Cung cấp **năng lượng** cho mọi hoạt động sống (vận động, sinh sản, cảm ứng…).
+- Trao đổi chất ngừng thì sinh vật chết.
+DB: Dạng 1. Xác định chất lấy vào, chất thải ra
+- Lấy vào: thức ăn, nước, khí O₂ (động vật), CO₂ và muối khoáng (thực vật).
+- Thải ra: CO₂, nước tiểu, phân, mồ hôi (động vật); O₂, hơi nước (thực vật khi quang hợp).
+DB: Dạng 2. Xác định sự chuyển hóa năng lượng
+- Nêu dạng năng lượng ban đầu và dạng năng lượng sau: quang năng → hóa năng; hóa năng → nhiệt năng, động năng.
+DB: Dạng 3. Giải thích vai trò trong thực tế
+- Liên hệ: vì sao phải ăn uống đủ chất, vì sao cây cần ánh sáng, vì sao khi vận động cơ thể nóng lên.
+VD: Khi chạy bộ, cơ thể em nóng lên và đổ mồ hôi. Hãy chỉ ra sự chuyển hóa năng lượng và quá trình trao đổi chất.
+B: Chuyển hóa năng lượng: hóa năng trong chất dinh dưỡng → động năng (chạy) và nhiệt năng (cơ thể nóng lên).
+B: Trao đổi chất: lấy thêm O₂ (thở nhanh), thải CO₂ và mồ hôi ra môi trường.
+KQ: Chạy bộ cần nhiều năng lượng nên tăng trao đổi chất; một phần năng lượng biến thành nhiệt.
+VD: Vì sao người bị bệnh không ăn uống được lâu ngày sẽ gầy yếu?
+B: Không lấy được nguyên liệu và năng lượng từ thức ăn.
+KQ: Cơ thể phải sử dụng chất dự trữ, thiếu nguyên liệu xây dựng tế bào nên gầy yếu.
+GN: Trao đổi chất luôn gắn liền với chuyển hóa năng lượng.
+GN: Thực vật lấy năng lượng ánh sáng; động vật lấy năng lượng từ thức ăn.
+GN: Một phần năng lượng luôn bị biến thành nhiệt.
+Q: mc | Chất nào sau đây được cơ thể người thải ra môi trường?
+A) Khí oxygen
+B) Khí carbon dioxide *
+C) Nước uống
+D) Chất dinh dưỡng
+E: Người lấy vào O₂, thải ra CO₂ qua hô hấp.
+Q: mc | Khi cây xanh quang hợp, năng lượng được chuyển hóa từ
+A) hóa năng thành quang năng
+B) quang năng thành hóa năng *
+C) nhiệt năng thành điện năng
+D) động năng thành hóa năng
+E: Cây xanh hấp thụ ánh sáng (quang năng) và tích lũy trong chất hữu cơ (hóa năng).
+Q: tf | Về trao đổi chất và chuyển hóa năng lượng:
+a) Trao đổi chất cung cấp nguyên liệu cho tế bào và cơ thể. | Đ
+b) Chỉ động vật mới có trao đổi chất. | S
+c) Khi vận động, một phần năng lượng biến thành nhiệt làm cơ thể nóng lên. | Đ
+d) Trao đổi chất ngừng thì sinh vật vẫn sống bình thường. | S
+E: Mọi sinh vật đều trao đổi chất; trao đổi chất ngừng thì sinh vật chết.
+Q: sa | Trong các chất: oxygen, carbon dioxide, nước, muối khoáng, ánh sáng – có bao nhiêu chất/yếu tố cây xanh lấy từ môi trường để quang hợp và sống? (đếm cả ánh sáng; không đếm oxygen)
+ANS: 4
+E: Cây lấy CO₂, nước, muối khoáng và ánh sáng; oxygen là chất cây thải ra khi quang hợp.
+Q: match | Nối hoạt động với sự chuyển hóa năng lượng:
+1) Cây xanh quang hợp | Quang năng → hóa năng
+2) Cơ thể giữ thân nhiệt ổn định | Hóa năng → nhiệt năng
+3) Cơ bắp co để chạy, nhảy | Hóa năng → động năng
+E: Ánh sáng được tích lũy thành hóa năng; hóa năng trong thức ăn biến thành nhiệt và năng lượng vận động.
+TL: Em hãy giải thích vì sao vào mùa đông lạnh, chúng ta cần ăn nhiều hơn và mặc ấm.
+MAU: Mùa đông, cơ thể mất nhiệt ra môi trường nhanh hơn.
+MAU: Để giữ thân nhiệt ổn định, cơ thể phải tăng trao đổi chất, chuyển hóa nhiều hóa năng thành nhiệt năng ⇒ cần ăn nhiều hơn để bù năng lượng.
+MAU: Mặc ấm giúp giảm mất nhiệt, cơ thể đỡ tốn năng lượng.
+TC: Nêu được cơ thể mất nhiệt nhiều hơn | 1
+TC: Liên hệ với chuyển hóa năng lượng, nhu cầu ăn | 1
+TC: Giải thích được tác dụng của mặc ấm | 1
+
 ### Bài 22. Quang hợp ở thực vật
+> Mỗi chiếc lá xanh là một "nhà máy" thu ánh nắng để tạo ra chất dinh dưỡng và nhả khí oxygen cho chúng ta thở.
+MT: Nêu được khái niệm quang hợp, nguyên liệu, sản phẩm và điều kiện của quang hợp; viết phương trình chữ.
+MT: Mô tả được lá là cơ quan quang hợp chủ yếu (lục lạp, khí khổng, gân lá).
+MT: Nêu được mối quan hệ giữa trao đổi chất và chuyển hóa năng lượng trong quang hợp.
+LT: 1. Khái niệm quang hợp
+- **Quang hợp** là quá trình lá cây sử dụng **nước** và **khí carbon dioxide** nhờ **năng lượng ánh sáng** được **diệp lục** hấp thụ để tổng hợp **chất hữu cơ** (glucose, tinh bột) và giải phóng **khí oxygen**.
+- Phương trình chữ: **Nước + Carbon dioxide → (ánh sáng, diệp lục) Glucose + Oxygen**.
+- Năng lượng ánh sáng (quang năng) được chuyển hóa thành năng lượng hóa học (hóa năng) tích lũy trong chất hữu cơ.
+HINH: 7-khtn/quang-hop.svg | Sơ đồ quang hợp ở lá: rễ hút nước, khí khổng lấy CO₂, diệp lục hấp thụ ánh sáng; lá tạo glucose và thải O₂.
+LT: 2. Lá – cơ quan quang hợp
+- **Phiến lá** rộng, mỏng giúp nhận nhiều ánh sáng; **lục lạp** chứa diệp lục hấp thụ ánh sáng.
+- **Khí khổng** (chủ yếu ở mặt dưới lá) cho CO₂ đi vào và O₂, hơi nước đi ra.
+- **Gân lá** dẫn nước đến lá và vận chuyển chất hữu cơ đi nuôi cây.
+LT: 3. Vai trò của quang hợp
+- Tạo chất hữu cơ – nguồn thức ăn cho hầu hết sinh vật.
+- Giải phóng O₂ cho hô hấp; hấp thụ CO₂, góp phần điều hòa khí hậu.
+DB: Dạng 1. Xác định nguyên liệu, sản phẩm, điều kiện
+- Nguyên liệu: nước, CO₂; sản phẩm: glucose (chất hữu cơ), O₂; điều kiện: ánh sáng, diệp lục.
+DB: Dạng 2. Mô tả cấu tạo lá phù hợp chức năng
+- Phiến lá rộng – nhận ánh sáng; lục lạp – hấp thụ ánh sáng; khí khổng – trao đổi khí; gân lá – vận chuyển.
+DB: Dạng 3. Giải thích ý nghĩa thực tiễn
+- Trồng cây xanh để có O₂, giảm CO₂; trồng cây đúng mật độ để lá nhận đủ ánh sáng.
+VD: Viết phương trình chữ của quang hợp và chỉ rõ đâu là nguyên liệu, sản phẩm, điều kiện.
+B: Nước + Carbon dioxide → (ánh sáng, diệp lục) Glucose + Oxygen.
+B: Nguyên liệu: nước, carbon dioxide; sản phẩm: glucose, oxygen; điều kiện: ánh sáng, diệp lục.
+KQ: Phương trình trên thể hiện đầy đủ ba thành phần của quang hợp.
+VD: Vì sao lá cây ở trong tối lâu ngày bị vàng úa?
+B: Không có ánh sáng thì không quang hợp được, cây không tổng hợp được chất hữu cơ.
+KQ: Diệp lục không được tạo thành, lá thiếu chất dinh dưỡng nên vàng úa.
+GN: Quang hợp chỉ xảy ra ở phần có diệp lục khi có ánh sáng.
+GN: Khí khổng tập trung nhiều ở mặt dưới lá.
+GN: Quang hợp: lấy CO₂, thải O₂ – ngược với hô hấp.
+Q: mc | Sản phẩm của quang hợp là
+A) nước và carbon dioxide
+B) glucose và oxygen *
+C) glucose và carbon dioxide
+D) nước và oxygen
+E: Quang hợp tạo chất hữu cơ (glucose) và giải phóng khí oxygen.
+Q: mc | Bộ phận của lá giúp khí carbon dioxide đi vào lá là
+A) gân lá
+B) khí khổng *
+C) cuống lá
+D) lục lạp
+E: Khí khổng là "cửa" trao đổi khí: CO₂ vào, O₂ và hơi nước ra.
+Q: tf | Về quang hợp:
+a) Diệp lục giúp lá hấp thụ năng lượng ánh sáng. | Đ
+b) Quang hợp chuyển hóa hóa năng thành quang năng. | S
+c) Quang hợp giúp làm giảm lượng CO₂ trong không khí. | Đ
+d) Cây vẫn quang hợp bình thường trong bóng tối hoàn toàn. | S
+E: Quang hợp chuyển quang năng thành hóa năng và cần ánh sáng.
+Q: ord | Sắp xếp đường đi của nguyên liệu trong quang hợp (theo thứ tự xảy ra với nước):
+1) Rễ hút nước từ đất
+2) Nước được vận chuyển qua thân lên lá
+3) Lục lạp ở lá dùng nước và CO₂ tạo glucose nhờ ánh sáng
+4) Glucose được vận chuyển theo gân lá đi nuôi cây
+E: Nước từ rễ → thân → lá; tại lục lạp tạo chất hữu cơ; chất hữu cơ đi nuôi các bộ phận.
+Q: match | Nối bộ phận của lá với chức năng:
+1) Phiến lá rộng, mỏng | Nhận nhiều ánh sáng
+2) Lục lạp chứa diệp lục | Hấp thụ năng lượng ánh sáng
+3) Khí khổng | Trao đổi khí CO₂, O₂ và thoát hơi nước
+4) Gân lá | Vận chuyển nước và chất hữu cơ
+E: Cấu tạo của lá phù hợp với chức năng quang hợp.
+TL: Vì sao nói "rừng là lá phổi xanh của Trái Đất"? Em có thể làm gì để bảo vệ "lá phổi" đó?
+MAU: Cây xanh quang hợp hấp thụ CO₂ và thải O₂, giúp không khí trong lành, cân bằng khí O₂ – CO₂.
+MAU: Rừng có diện tích lá rất lớn nên tạo nhiều O₂, giống như lá phổi giúp Trái Đất "thở".
+MAU: Hành động: trồng và chăm sóc cây xanh, không phá rừng, tiết kiệm giấy, tuyên truyền bảo vệ rừng.
+TC: Giải thích được vai trò quang hợp với khí O₂, CO₂ | 1,5
+TC: Nêu được hành động phù hợp | 1,5
+
 ### Bài 23. Một số yếu tố ảnh hưởng đến quang hợp
+> Vì sao người nông dân trồng cây đúng mùa vụ, tưới đủ nước và không trồng quá dày? Vì ánh sáng, nước, khí CO₂ và nhiệt độ đều ảnh hưởng đến quang hợp.
+MT: Nêu được các yếu tố chủ yếu ảnh hưởng đến quang hợp: ánh sáng, nước, carbon dioxide, nhiệt độ.
+MT: Phân biệt được cây ưa sáng và cây ưa bóng.
+MT: Vận dụng hiểu biết về quang hợp để giải thích biện pháp kĩ thuật trồng trọt.
+LT: 1. Ánh sáng
+- Ánh sáng cung cấp năng lượng cho quang hợp; cường độ ánh sáng tăng thì quang hợp tăng **đến một giới hạn**, ánh sáng quá mạnh có thể làm cây héo, cháy lá.
+- **Cây ưa sáng** (lúa, ngô, hướng dương) cần nhiều ánh sáng; **cây ưa bóng** (lá lốt, vạn niên thanh, trầu không) sống tốt ở nơi ít ánh sáng.
+LT: 2. Nước, carbon dioxide và nhiệt độ
+- **Nước** là nguyên liệu; thiếu nước khí khổng đóng lại, CO₂ không vào được ⇒ quang hợp giảm.
+- **Carbon dioxide**: nồng độ CO₂ tăng thì quang hợp tăng đến một giới hạn; quá cao gây hại.
+- **Nhiệt độ**: nhiều cây quang hợp tốt ở khoảng 25 – 35 °C; quá nóng hoặc quá lạnh thì quang hợp giảm mạnh.
+HINH: 7-khtn/yeu-to-quang-hop.svg | Cường độ quang hợp tăng khi ánh sáng tăng rồi chững lại; theo nhiệt độ thì tăng đến khoảng thích hợp rồi giảm mạnh.
+LT: 3. Ứng dụng trong trồng trọt
+- Trồng cây đúng thời vụ, đúng mật độ để lá nhận đủ ánh sáng; trồng xen cây ưa bóng dưới tán cây ưa sáng.
+- Tưới nước hợp lí; làm nhà kính, chiếu đèn để tăng quang hợp khi thiếu ánh sáng.
+DB: Dạng 1. Xác định yếu tố ảnh hưởng trong tình huống
+- Đọc tình huống: thiếu sáng, khô hạn, nóng quá, đất kín khí… ⇒ yếu tố nào bị thiếu hoặc vượt giới hạn.
+DB: Dạng 2. Đọc đồ thị ảnh hưởng của yếu tố
+- Đường đi lên: quang hợp tăng; đường nằm ngang: đã đạt giới hạn; đường đi xuống: yếu tố bất lợi.
+DB: Dạng 3. Giải thích biện pháp kĩ thuật
+- Liên hệ biện pháp với yếu tố mà nó cải thiện (mật độ – ánh sáng; tưới tiêu – nước; nhà kính – nhiệt độ, ánh sáng).
+VD: Vì sao không nên trồng cây quá dày?
+B: Trồng dày, lá cây che khuất nhau, nhiều lá không nhận đủ ánh sáng.
+KQ: Quang hợp giảm, cây yếu, năng suất thấp ⇒ cần trồng đúng mật độ.
+VD: Vào trưa hè nắng gắt, nhiều cây bị héo lá, quang hợp giảm. Giải thích.
+B: Nhiệt độ quá cao, cây thoát hơi nước mạnh, thiếu nước nên khí khổng đóng lại.
+KQ: CO₂ khó vào lá và nhiệt độ vượt mức thích hợp ⇒ quang hợp giảm.
+GN: Mỗi yếu tố chỉ làm tăng quang hợp đến một giới hạn.
+GN: Các yếu tố tác động đồng thời, liên quan với nhau.
+GN: Cây ưa bóng trồng nơi quá nắng sẽ bị cháy lá.
+Q: mc | Cây nào sau đây là cây ưa bóng?
+A) Lúa
+B) Ngô
+C) Lá lốt *
+D) Hướng dương
+E: Lá lốt sống tốt dưới bóng râm; lúa, ngô, hướng dương ưa sáng.
+Q: mc | Thiếu nước, quang hợp giảm chủ yếu vì
+A) lá có nhiều diệp lục hơn
+B) khí khổng đóng lại, CO₂ khó đi vào lá *
+C) ánh sáng mạnh hơn
+D) nhiệt độ giảm
+E: Thiếu nước, cây đóng khí khổng để hạn chế mất nước nên CO₂ khó vào lá; nước cũng là nguyên liệu.
+Q: tf | Về các yếu tố ảnh hưởng đến quang hợp:
+a) Tăng cường độ ánh sáng luôn làm quang hợp tăng mãi không giới hạn. | S
+b) Nhiều cây quang hợp tốt ở khoảng 25 – 35 °C. | Đ
+c) Trồng xen cây ưa bóng dưới tán cây ưa sáng giúp tận dụng ánh sáng. | Đ
+d) Nồng độ CO₂ không ảnh hưởng đến quang hợp. | S
+E: Ánh sáng và CO₂ đều làm quang hợp tăng đến một giới hạn; nhiệt độ thích hợp khoảng 25 – 35 °C.
+Q: sa | Trong thí nghiệm, một cành rong ở 25 °C nhả 30 bọt khí/phút; ở 35 °C nhả 45 bọt khí/phút; ở 45 °C chỉ nhả 10 bọt khí/phút. Ở nhiệt độ nào trong ba mức trên rong quang hợp mạnh nhất? (ghi số °C)
+ANS: 35
+E: Số bọt khí O₂ nhiều nhất ở 35 °C; ở 45 °C quá nóng nên quang hợp giảm.
+Q: match | Nối biện pháp kĩ thuật với yếu tố được cải thiện:
+1) Trồng cây đúng mật độ | Ánh sáng
+2) Tưới tiêu hợp lí | Nước
+3) Trồng trong nhà kính vào mùa đông | Nhiệt độ
+E: Mỗi biện pháp cải thiện một yếu tố ảnh hưởng đến quang hợp.
+TL: Gia đình em muốn trồng rau trong chậu ở ban công. Hãy đề xuất cách chọn vị trí, chọn cây và chăm sóc để cây quang hợp tốt; giải thích.
+MAU: Chọn vị trí nhận nhiều nắng buổi sáng nếu trồng rau ưa sáng (rau muống, cải); nơi ít nắng thì chọn cây ưa bóng (lá lốt, rau ngót có thể chịu bóng).
+MAU: Tưới nước đều, đủ ẩm; không trồng quá dày để lá không che nhau.
+MAU: Che bớt nắng gắt buổi trưa mùa hè để tránh nhiệt độ quá cao làm cây héo.
+TC: Chọn vị trí và loại cây phù hợp với ánh sáng | 1
+TC: Biện pháp về nước, mật độ | 1
+TC: Biện pháp về nhiệt độ, giải thích hợp lí | 1
+
 ### Bài 24. Thực hành: Chứng minh quang hợp ở cây xanh
+> Làm thế nào để "nhìn thấy" lá cây tạo ra tinh bột và nhả khí oxygen? Hai thí nghiệm nhỏ dưới đây sẽ giúp em tự chứng minh.
+MT: Tiến hành được thí nghiệm chứng minh quang hợp tạo ra tinh bột.
+MT: Tiến hành được thí nghiệm chứng minh quang hợp giải phóng khí oxygen.
+MT: Viết được báo cáo thực hành: mục đích, chuẩn bị, cách tiến hành, kết quả, giải thích.
+LT: 1. Thí nghiệm chứng minh quang hợp tạo tinh bột
+- Chuẩn bị: chậu cây (khoai lang, rau muống…), giấy đen (băng dính đen), cồn 90°, dung dịch iodine, nồi đun cách thủy, đĩa petri.
+- Cách làm: để cây trong tối 2 ngày (làm hết tinh bột trong lá); dùng giấy đen bịt kín một phần lá ở cả hai mặt; đưa cây ra nắng 4 – 6 giờ; ngắt lá, bỏ giấy đen, đun cách thủy lá trong cồn để tẩy diệp lục; rửa lá rồi nhỏ dung dịch iodine.
+- Kết quả: phần lá **không bị che** có màu **xanh tím** (có tinh bột); phần **bị che** không có màu xanh tím ⇒ quang hợp cần ánh sáng và tạo ra tinh bột.
+HINH: 7-khtn/thi-nghiem-quang-hop.svg | Lá được che một phần bằng giấy đen: sau khi thử iodine, chỉ phần nhận ánh sáng chuyển màu xanh tím (có tinh bột).
+LT: 2. Thí nghiệm chứng minh quang hợp giải phóng oxygen
+- Cách làm: cho cành rong đuôi chó vào ống nghiệm đầy nước, úp ngược trong cốc nước; đặt cốc A ra chỗ có nắng, cốc B (giống hệt) trong tối.
+- Kết quả: sau một thời gian, ống A có nhiều bọt khí, mực nước trong ống hạ xuống; đưa que đóm còn tàn đỏ vào miệng ống thì **que đóm bùng cháy** ⇒ khí đó là oxygen. Ống B hầu như không có bọt khí.
+LT: 3. An toàn và báo cáo
+- Cồn dễ cháy: chỉ đun cách thủy, không đun trực tiếp trên ngọn lửa; đeo kính, găng tay.
+- Báo cáo gồm: mục đích, dụng cụ – hóa chất, các bước, kết quả (bảng, hình vẽ), giải thích, kết luận.
+DB: Dạng 1. Giải thích mục đích từng bước thí nghiệm
+- Để trong tối: làm hết tinh bột cũ; che giấy đen: tạo phần đối chứng không có ánh sáng; đun trong cồn: tẩy màu diệp lục để dễ quan sát; iodine: nhận biết tinh bột.
+DB: Dạng 2. Dự đoán, giải thích kết quả
+- Có ánh sáng ⇒ có tinh bột (xanh tím), có bọt khí O₂; không có ánh sáng ⇒ không có.
+DB: Dạng 3. Nhận biết chất bằng thuốc thử
+- Tinh bột + iodine ⇒ màu xanh tím; oxygen làm que đóm còn tàn đỏ bùng cháy.
+VD: Vì sao phải để chậu cây vào chỗ tối 2 ngày trước khi làm thí nghiệm tinh bột?
+B: Trong tối, cây không quang hợp, tinh bột có sẵn trong lá được dùng hết hoặc chuyển đi nơi khác.
+KQ: Nhờ vậy, tinh bột phát hiện được sau thí nghiệm chắc chắn là do quang hợp mới tạo ra.
+VD: Vì sao phải đun lá trong cồn trước khi nhỏ iodine?
+B: Diệp lục màu xanh tan trong cồn nóng.
+KQ: Lá mất màu xanh, khi nhỏ iodine dễ quan sát màu xanh tím của tinh bột.
+GN: Thí nghiệm luôn cần phần đối chứng (phần lá bị che, cốc để trong tối).
+GN: Iodine nhận biết tinh bột; que đóm tàn đỏ nhận biết oxygen.
+GN: Cồn dễ cháy – đun cách thủy và tuân thủ an toàn phòng thực hành.
+Q: mc | Thuốc thử dùng để nhận biết tinh bột trong lá là
+A) cồn
+B) dung dịch iodine *
+C) nước vôi trong
+D) giấm
+E: Tinh bột gặp iodine chuyển màu xanh tím.
+Q: mc | Phần lá bị bịt giấy đen sau khi thử iodine có màu gì?
+A) Xanh tím
+B) Không có màu xanh tím *
+C) Đỏ
+D) Đen
+E: Phần bị che không nhận ánh sáng nên không quang hợp, không tạo tinh bột.
+Q: tf | Trong thí nghiệm cành rong ở ngoài nắng:
+a) Bọt khí thoát ra là khí oxygen. | Đ
+b) Que đóm còn tàn đỏ đưa vào khí thu được sẽ tắt ngay. | S
+c) Cốc để trong tối là cốc đối chứng. | Đ
+d) Thí nghiệm chứng minh quang hợp cần ánh sáng và thải oxygen. | Đ
+E: Oxygen duy trì sự cháy nên que đóm tàn đỏ bùng cháy; cốc trong tối dùng để so sánh.
+Q: ord | Sắp xếp các bước thí nghiệm chứng minh quang hợp tạo tinh bột:
+1) Để chậu cây trong tối 2 ngày
+2) Bịt một phần lá bằng giấy đen rồi đưa cây ra ánh sáng
+3) Ngắt lá, đun cách thủy trong cồn để tẩy diệp lục
+4) Rửa lá và nhỏ dung dịch iodine, quan sát màu
+E: Làm hết tinh bột cũ → tạo phần đối chứng và chiếu sáng → tẩy màu → thử iodine.
+Q: sa | Trong 30 phút, ống nghiệm chứa cành rong ngoài nắng thu được 12 mL khí oxygen. Trung bình mỗi phút thu được bao nhiêu mL khí?
+ANS: 0,4 || 0.4 || 2/5
+E: 12 : 30 = 0,4 mL/phút.
+TL: Viết báo cáo ngắn cho thí nghiệm chứng minh quang hợp giải phóng khí oxygen (mục đích, cách tiến hành, kết quả, kết luận).
+MAU: Mục đích: chứng minh cây xanh quang hợp giải phóng khí oxygen.
+MAU: Cách tiến hành: hai cốc nước, mỗi cốc có cành rong đặt trong ống nghiệm đầy nước úp ngược; cốc A để ngoài nắng, cốc B để trong tối; sau 4 – 6 giờ quan sát, thử khí bằng que đóm còn tàn đỏ.
+MAU: Kết quả: ống A có nhiều bọt khí, que đóm bùng cháy; ống B hầu như không có khí.
+MAU: Kết luận: khi có ánh sáng, cây quang hợp và giải phóng khí oxygen.
+TC: Nêu đúng mục đích | 0,5
+TC: Cách tiến hành có đối chứng | 1
+TC: Kết quả và cách nhận biết oxygen đúng | 1
+TC: Kết luận đúng | 0,5
+
 ### Bài 25. Hô hấp tế bào
 ### Bài 26. Một số yếu tố ảnh hưởng đến hô hấp tế bào
 ### Bài 27. Thực hành: Hô hấp ở thực vật
