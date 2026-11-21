@@ -27,6 +27,15 @@ LT: 2. Định luật Ohm
 - Cường độ dòng điện chạy qua đoạn dây dẫn tỉ lệ thuận với hiệu điện thế đặt vào hai đầu dây và tỉ lệ nghịch với điện trở của dây: **I = U / R**.
 - Đồ thị I theo U là **đường thẳng đi qua gốc tọa độ**; đường càng dốc thì điện trở càng nhỏ.
 HINH: 9-khtn/ohm.svg | Đồ thị I – U của hai điện trở: cùng U = 6 V, dây 10 Ω cho dòng 0,6 A, dây 20 Ω chỉ cho 0,3 A.
+DB: Dạng 1. Vận dụng định luật Ohm
+- Viết I = U/R, suy ra U = I·R, R = U/I.
+- Đổi đơn vị (mA → A, kΩ → Ω) trước khi tính.
+DB: Dạng 2. Tính điện trở theo chiều dài, tiết diện, vật liệu
+- R = ρ·l/S với S đổi ra m².
+- So sánh hai dây: R tỉ lệ thuận với l, tỉ lệ nghịch với S.
+DB: Dạng 3. Đọc đồ thị I – U
+- Chọn một điểm trên đồ thị, đọc U và I.
+- R = U/I; đường dốc hơn ⇒ điện trở nhỏ hơn.
 VD: Đặt hiệu điện thế 12 V vào hai đầu một điện trở 24 Ω. Tính cường độ dòng điện chạy qua điện trở.
 B: Áp dụng định luật Ohm: I = U / R.
 B: I = 12 / 24 = 0,5 A.

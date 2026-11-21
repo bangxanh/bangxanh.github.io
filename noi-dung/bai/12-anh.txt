@@ -17,6 +17,14 @@ LT: 2. Past simple vs past continuous
 - Hành động đang diễn ra (quá khứ tiếp diễn) bị hành động khác **xen vào** (quá khứ đơn): She **was writing** her memoir **when** the phone **rang**.
 - Hai hành động diễn ra song song: **While** I **was cooking**, my brother **was studying**.
 HINH: 12-anh/past-tenses.svg | Hành động kéo dài "was writing" (quá khứ tiếp diễn) bị hành động ngắn "rang" (quá khứ đơn) xen vào.
+DB: Dạng 1. Chia quá khứ đơn – quá khứ tiếp diễn
+- Hành động dài làm nền ⇒ was/were + V-ing; hành động ngắn xen vào ⇒ V2/V-ed.
+- when + quá khứ đơn; while + quá khứ tiếp diễn.
+DB: Dạng 2. Từ vựng – từ đồng nghĩa
+- admire = look up to; pass away = die; devote = dedicate.
+DB: Dạng 3. Viết đoạn văn kể tiểu sử
+- Bố cục: giới thiệu – các mốc chính theo thời gian – lí do ngưỡng mộ.
+- Dùng mốc thời gian (In 1990, After that, Later) và từ vựng chủ đề.
 VD: Chia động từ: When the war (break) ___ out, he (study) ___ medicine in Paris.
 B: Việc "đang học y" là hành động kéo dài, làm nền ⇒ quá khứ tiếp diễn.
 B: "Chiến tranh nổ ra" là sự việc ngắn xen vào ⇒ quá khứ đơn (break → broke).

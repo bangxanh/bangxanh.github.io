@@ -60,7 +60,7 @@ const clip = (s, n) => String(s == null ? '' : s).slice(0, n);
 /* Đổi kí hiệu LaTeX mà mô hình hay dùng sang kí tự thường cho dễ đọc trên trang. */
 function wrap(x) { return /^[\w.,√π\\]+$/.test(x.trim()) ? x.trim() : '(' + x.trim() + ')'; }
 function tidy(t) {
-  const sym = { cdot: '·', times: '×', le: '≤', leq: '≤', ge: '≥', geq: '≥', ne: '≠', neq: '≠', pi: 'π', alpha: 'α', beta: 'β', gamma: 'γ', Delta: 'Δ', delta: 'δ', lambda: 'λ', omega: 'ω', varphi: 'φ', phi: 'φ', infty: '∞', Rightarrow: '⇒', Leftrightarrow: '⇔', to: '→', rightarrow: '→', approx: '≈', pm: '±', in: '∈', mathbb: '', circ: '°', degree: '°', left: '', right: '', quad: ' ', text: '', mathrm: '' };
+  const sym = { cdot: '·', times: '×', le: '≤', leq: '≤', ge: '≥', geq: '≥', ne: '≠', neq: '≠', pi: 'π', alpha: 'α', beta: 'β', gamma: 'γ', Delta: 'Δ', delta: 'δ', lambda: 'λ', omega: 'ω', varphi: 'φ', phi: 'φ', infty: '∞', dots: '…', ldots: '…', cdots: '…', implies: '⇒', iff: '⇔', perp: '⊥', parallel: '∥', angle: '∠', triangle: 'Δ', Rightarrow: '⇒', Leftrightarrow: '⇔', to: '→', rightarrow: '→', approx: '≈', pm: '±', in: '∈', mathbb: '', circ: '°', degree: '°', left: '', right: '', quad: ' ', text: '', mathrm: '' };
   let s = String(t || '');
   for (let k = 0; k < 3; k++) s = s.replace(/\\frac\{([^{}]*)\}\{([^{}]*)\}/g, (m, a, b) => wrap(a) + '/' + wrap(b)).replace(/\\sqrt\{([^{}]*)\}/g, '√($1)');
   s = s.replace(/\\(sin|cos|tan|cot|log|ln|lim|max|min)\b/g, '$1')

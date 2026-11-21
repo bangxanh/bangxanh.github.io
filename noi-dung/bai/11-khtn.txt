@@ -18,6 +18,15 @@ LT: 3. Đồ thị li độ – thời gian
 - Đồ thị x – t của dao động điều hòa là **đường hình sin**.
 - **Chu kì T**: thời gian vật thực hiện một dao động toàn phần (khoảng cách giữa hai đỉnh liên tiếp của đồ thị). Tần số f = 1/T (Hz); tần số góc ω = 2π/T (rad/s).
 HINH: 11-khtn/dao-dong.svg | Đồ thị x = 5cos(πt): biên độ 5 cm (độ cao của đỉnh), chu kì 2 s (khoảng cách giữa hai đỉnh liên tiếp).
+DB: Dạng 1. Xác định A, T, f, ω từ phương trình
+- So sánh với x = A·cos(ωt + φ).
+- T = 2π/ω, f = 1/T.
+DB: Dạng 2. Đọc đồ thị li độ – thời gian
+- Biên độ = độ cao đỉnh; chu kì = khoảng cách hai đỉnh liên tiếp.
+- Đọc li độ tại thời điểm cần tìm.
+DB: Dạng 3. Tính quãng đường
+- Một chu kì: 4A; nửa chu kì: 2A.
+- Đổi thời gian thành số chu kì rồi nhân.
 VD: Từ đồ thị trên, xác định biên độ, chu kì, tần số và li độ của vật tại các thời điểm t = 0; t = 0,5 s; t = 1 s.
 B: Biên độ A = 5 cm; chu kì T = 2 s ⇒ tần số f = 1/T = 0,5 Hz.
 B: t = 0: x = 5 cm (vật ở biên dương); t = 0,5 s: x = 0 (vật qua vị trí cân bằng); t = 1 s: x = −5 cm (vật ở biên âm).

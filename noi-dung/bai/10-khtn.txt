@@ -26,6 +26,15 @@ HINH: 10-khtn/vt-bien-doi-deu.svg | Đồ thị v – t với v₀ = 2 m/s, a = 
 LT: 3. Độ dịch chuyển
 - **d = v₀·t + ½·a·t²**.
 - Công thức liên hệ không chứa t: **v² − v₀² = 2·a·d**.
+DB: Dạng 1. Áp dụng công thức vận tốc, độ dịch chuyển
+- Chọn chiều dương, gốc thời gian; đổi đơn vị (km/h → m/s).
+- Dùng v = v₀ + at, d = v₀t + ½at², v² − v₀² = 2ad (chọn công thức có đủ dữ kiện).
+DB: Dạng 2. Bài toán hãm phanh, dừng lại
+- Lúc dừng v = 0; a ngược dấu với v₀.
+- Tính quãng đường hãm bằng v² − v₀² = 2ad.
+DB: Dạng 3. Đọc đồ thị v – t
+- Độ dốc = gia tốc.
+- Diện tích dưới đồ thị = độ dịch chuyển.
 VD: Từ đồ thị trên (v₀ = 2 m/s, a = 1,5 m/s²), tính vận tốc và độ dịch chuyển của vật sau 6 s.
 B: v = v₀ + a·t = 2 + 1,5·6 = 11 m/s.
 B: d = v₀·t + ½·a·t² = 2·6 + 0,5·1,5·36 = 12 + 27 = 39 m.
@@ -118,6 +127,15 @@ LT: 2. Khối lượng và kích thước
 - 1 amu ≈ 1,661·10⁻²⁷ kg.
 - Nguyên tử có đường kính khoảng 10⁻¹⁰ m, lớn hơn đường kính hạt nhân (khoảng 10⁻¹⁴ m) khoảng **10 000 lần**: nguyên tử có cấu tạo rỗng.
 - Đơn vị độ dài: 1 nm = 10⁻⁹ m; 1 Å = 10⁻¹⁰ m.
+DB: Dạng 1. Xác định số p, n, e và khối lượng nguyên tử
+- Nguyên tử trung hòa: số p = số e.
+- Khối lượng ≈ số p + số n (amu).
+DB: Dạng 2. Bài toán tổng số hạt
+- Gọi Z (p = e) và N; lập hệ 2Z + N = tổng, 2Z − N = hiệu (hoặc tỉ lệ đề cho).
+- Giải hệ, kết luận nguyên tố.
+DB: Dạng 3. So sánh kích thước, khối lượng
+- Tỉ số đường kính nguyên tử : hạt nhân ≈ 10⁴ – 10⁵.
+- m_p ≈ m_n ≈ 1 amu ≫ m_e.
 VD: Nguyên tử sodium (Na) có 11 proton và 12 neutron. Tính số electron, điện tích hạt nhân và khối lượng gần đúng của nguyên tử (amu).
 B: Nguyên tử trung hòa nên số e = số p = 11.
 B: Điện tích hạt nhân là +11 (theo đơn vị điện tích nguyên tố).
@@ -216,6 +234,15 @@ LT: 2. Cấu tạo tế bào nhân sơ (vi khuẩn)
 - **Vùng nhân**: chứa một phân tử DNA vòng, kép, mang thông tin di truyền.
 - Một số vi khuẩn còn có **vỏ nhầy** (bảo vệ), **roi** (di chuyển), **lông** (bám dính).
 HINH: 10-khtn/te-bao-nhan-so.svg | Tế bào vi khuẩn: vùng nhân không có màng bao bọc, tế bào chất chỉ có ribosome; ngoài màng sinh chất là thành tế bào, vỏ nhầy, roi và lông.
+DB: Dạng 1. Nêu cấu tạo – chức năng các thành phần
+- Kể từ ngoài vào trong: vỏ nhầy, thành tế bào, màng sinh chất, tế bào chất (ribosome, plasmid), vùng nhân.
+- Ghép mỗi thành phần với chức năng.
+DB: Dạng 2. Giải thích ưu thế kích thước nhỏ
+- S/V = 3/r với tế bào hình cầu; r nhỏ ⇒ S/V lớn.
+- S/V lớn ⇒ trao đổi chất nhanh ⇒ sinh trưởng, sinh sản nhanh.
+DB: Dạng 3. Liên hệ thực tiễn (kháng sinh)
+- Thuốc tác động vào cấu trúc chỉ vi khuẩn có (thành peptidoglycan, ribosome 70S).
+- Plasmid mang gene kháng thuốc ⇒ cần dùng kháng sinh đúng cách.
 VD: Vì sao vi khuẩn sinh sản rất nhanh?
 B: Kích thước nhỏ nên tỉ lệ S/V lớn, các chất được trao đổi qua bề mặt tế bào rất nhanh.
 B: Tốc độ trao đổi chất cao giúp tế bào sinh trưởng nhanh và sớm đủ điều kiện để phân chia.

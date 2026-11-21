@@ -39,6 +39,15 @@ LT: 3. Các thành phần chính của tế bào
 - Tế bào có 3 thành phần chính: **màng tế bào**, **tế bào chất** và **nhân** (hoặc vùng nhân).
 - Tế bào thực vật có thêm **thành tế bào** và **lục lạp**.
 HINH: 6-khtn/te-bao.svg | Tế bào động vật và tế bào thực vật đều có màng tế bào, tế bào chất, nhân; tế bào thực vật có thêm thành tế bào, lục lạp và không bào lớn.
+DB: Dạng 1. Nhận biết tế bào là đơn vị cấu trúc, chức năng
+- Đọc tình huống, xác định cơ thể/bộ phận được cấu tạo từ tế bào nào.
+- Liên hệ hoạt động sống (lớn lên, sinh sản, trao đổi chất) với tế bào.
+DB: Dạng 2. Tính toán kích thước tế bào
+- Đổi đơn vị: 1 mm = 1000 µm.
+- Số tế bào xếp hàng = chiều dài : đường kính một tế bào.
+DB: Dạng 3. So sánh tế bào động vật – thực vật
+- Lập bảng: màng, tế bào chất, nhân (cả hai đều có).
+- Thành tế bào, lục lạp, không bào lớn: chỉ tế bào thực vật.
 VD: Vì sao nói tế bào là đơn vị cơ bản của sự sống?
 B: Về cấu trúc: mọi cơ thể sống, từ vi khuẩn đến con người, đều được cấu tạo từ một hoặc nhiều tế bào.
 B: Về chức năng: các hoạt động sống của cơ thể (lớn lên, sinh sản, trao đổi chất) đều diễn ra trong tế bào.

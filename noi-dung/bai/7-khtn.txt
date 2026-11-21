@@ -37,6 +37,14 @@ HINH: 7-khtn/phan-xa.svg | Tia tới SI, pháp tuyến IN và tia phản xạ IR
 LT: 3. Phản xạ gương và phản xạ khuếch tán
 - **Phản xạ gương**: bề mặt nhẵn, chùm tia tới song song cho chùm tia phản xạ song song → tạo ảnh rõ nét (gương, mặt nước phẳng lặng).
 - **Phản xạ khuếch tán**: bề mặt gồ ghề, các tia phản xạ đi theo mọi hướng → không tạo ảnh nhưng giúp ta nhìn thấy vật từ nhiều phía (trang giấy, bức tường).
+DB: Dạng 1. Tính góc tới, góc phản xạ
+- Xác định pháp tuyến tại điểm tới.
+- Góc tới = 90° − góc giữa tia tới và mặt gương; i' = i.
+DB: Dạng 2. Vẽ tia phản xạ / vẽ gương
+- Vẽ pháp tuyến, đo góc tới, vẽ tia phản xạ đối xứng qua pháp tuyến.
+- Biết tia tới và tia phản xạ: vẽ tia phân giác (là pháp tuyến), gương vuông góc với pháp tuyến.
+DB: Dạng 3. Giải thích hiện tượng thực tế
+- Bề mặt nhẵn → phản xạ gương (thấy ảnh); bề mặt gồ ghề → phản xạ khuếch tán.
 VD: Chiếu một tia sáng tới gương phẳng, tia tới hợp với mặt gương một góc 30°. Tính góc tới và góc phản xạ.
 B: Pháp tuyến vuông góc với mặt gương nên góc tới i = 90° − 30° = 60°.
 B: Theo định luật phản xạ: i' = i = 60°.

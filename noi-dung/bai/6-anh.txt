@@ -18,6 +18,13 @@ LT: 2. Thì hiện tại đơn (Present simple)
 LT: 3. Phát âm /ɑː/ và /ʌ/
 - /ɑː/ (âm dài): **art**, **class**, **smart**, **start**.
 - /ʌ/ (âm ngắn): **study**, **Monday**, **subject**, **brother**, **compass**.
+DB: Dạng 1. Chia động từ thì hiện tại đơn
+- Chủ ngữ ngôi thứ ba số ít ⇒ V-s/es; have → has.
+- Phủ định/nghi vấn mượn do/does.
+DB: Dạng 2. Ghép động từ với danh từ
+- play + môn thể thao dùng bóng/nhạc cụ; do + bài tập, môn võ; have + tiết học, bữa ăn; study + môn học.
+DB: Dạng 3. Phát âm /ɑː/ – /ʌ/
+- Đọc to từng từ; /ɑː/ dài (art, class), /ʌ/ ngắn (study, Monday).
 VD: Chia động từ trong ngoặc: My brother (study) ___ English on Mondays.
 B: Chủ ngữ "My brother" là ngôi thứ ba số ít ⇒ động từ thêm -s/es.
 B: study tận cùng bằng phụ âm + y ⇒ đổi y thành i rồi thêm -es.

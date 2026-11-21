@@ -107,6 +107,15 @@ LT: 3. Điều kiện vật nổi, vật chìm, vật lơ lửng
 - P > F_A (vật đặc có d_vật > d_lỏng): vật **chìm** xuống.
 - P = F_A (d_vật = d_lỏng): vật **lơ lửng** trong chất lỏng.
 - P < F_A (d_vật < d_lỏng): vật **nổi** lên; khi nổi cân bằng trên mặt thoáng thì F_A = P, chỉ tính thể tích phần chìm.
+DB: Dạng 1. Tính lực đẩy Archimedes
+- Xác định d chất lỏng và thể tích phần chìm V (đổi ra m³).
+- F_A = d · V.
+DB: Dạng 2. Dùng số chỉ lực kế
+- F_A = P ngoài không khí − P trong chất lỏng.
+- Suy ra V = F_A : d.
+DB: Dạng 3. Vật nổi, chìm, lơ lửng
+- So sánh P với F_A (hoặc d_vật với d_lỏng).
+- Vật nổi cân bằng: P = F_A, chỉ tính phần chìm.
 VD: Một vật có thể tích 0,002 m³ được nhúng chìm hoàn toàn trong nước. Tính lực đẩy Archimedes tác dụng lên vật.
 B: V = 0,002 m³; d = 10 000 N/m³.
 B: F_A = d · V = 10 000 · 0,002 = 20 N.

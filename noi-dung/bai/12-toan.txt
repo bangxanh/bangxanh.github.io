@@ -18,6 +18,17 @@ LT: 2. Cực trị của hàm số
 - f(x₀) gọi là giá trị cực đại (y_{CĐ}) hoặc giá trị cực tiểu (y_{CT}); điểm M(x₀; f(x₀)) là điểm cực trị của đồ thị.
 - Chú ý: f'(x₀) = 0 chưa đủ để x₀ là điểm cực trị. Ví dụ y = x³ có y'(0) = 0 nhưng y' không đổi dấu qua 0.
 HINH: 12-toan/bai1-cuc-tri.svg | Đồ thị y = x³ − 3x + 2: phần màu xanh hàm số đồng biến, phần màu đỏ nghịch biến; hai điểm cực trị là nơi đồ thị "đổi chiều".
+DB: Dạng 1. Tìm khoảng đồng biến, nghịch biến của hàm số
+- Tìm tập xác định D.
+- Tính y', giải y' = 0 và tìm các điểm y' không xác định.
+- Lập bảng xét dấu y' (bảng biến thiên) rồi kết luận khoảng đồng biến (y' > 0), nghịch biến (y' < 0).
+DB: Dạng 2. Tìm cực trị của hàm số (đọc từ bảng biến thiên hoặc đồ thị)
+- Tìm các điểm x₀ mà y' đổi dấu khi đi qua.
+- y' đổi dấu từ + sang −: cực đại; từ − sang +: cực tiểu.
+- Phân biệt điểm cực trị (x₀), giá trị cực trị (y₀) và điểm cực trị của đồ thị (x₀; y₀).
+DB: Dạng 3. Đọc đồ thị/bảng xét dấu của y' để suy ra tính đơn điệu, cực trị
+- Phần đồ thị y' nằm trên trục hoành ⇒ hàm số đồng biến; nằm dưới ⇒ nghịch biến.
+- Điểm đồ thị y' cắt (đổi dấu qua) trục hoành là điểm cực trị; tiếp xúc (không đổi dấu) thì không phải cực trị.
 VD: Xét tính đơn điệu và tìm cực trị của hàm số y = x³ − 3x + 2.
 B: Tập xác định D = ℝ. Ta có y' = 3x² − 3; y' = 0 ⇔ x = −1 hoặc x = 1.
 B: y' > 0 trên (−∞; −1) và (1; +∞); y' < 0 trên (−1; 1).
@@ -73,6 +84,17 @@ LT: 2. Cách tìm trên một đoạn [a; b] (f liên tục trên đoạn)
 - Bước 2: tính f(a), f(b), f(x₁), f(x₂), …
 - Bước 3: số lớn nhất là GTLN, số nhỏ nhất là GTNN của f trên [a; b].
 - Hàm số liên tục trên một đoạn luôn có GTLN và GTNN trên đoạn đó. Trên một khoảng thì lập bảng biến thiên để kết luận (có thể không tồn tại).
+DB: Dạng 1. GTLN, GTNN trên đoạn [a; b]
+- Tính y', tìm các nghiệm xᵢ thuộc (a; b).
+- Tính y(a), y(b), y(xᵢ).
+- So sánh: số lớn nhất là GTLN, số nhỏ nhất là GTNN.
+DB: Dạng 2. GTLN, GTNN trên khoảng hoặc trên ℝ
+- Lập bảng biến thiên trên khoảng đó.
+- Đọc giá trị lớn nhất, nhỏ nhất (nếu đạt được) từ bảng biến thiên.
+DB: Dạng 3. Bài toán tối ưu thực tế
+- Đặt ẩn, tìm điều kiện của ẩn.
+- Lập hàm số cần tối ưu theo ẩn.
+- Tìm GTLN/GTNN của hàm trên miền điều kiện, trả lời đúng đơn vị.
 VD: Tìm GTLN, GTNN của f(x) = x³ − 3x + 1 trên đoạn [0; 2].
 B: f'(x) = 3x² − 3 = 0 ⇔ x = 1 (nhận, vì thuộc (0; 2)) hoặc x = −1 (loại).
 B: f(0) = 1; f(1) = −1; f(2) = 8 − 6 + 1 = 3.
@@ -127,6 +149,15 @@ LT: 2. Trường hợp thường gặp
 - y = (ax + b)/(cx + d) với c ≠ 0, ad − bc ≠ 0: tiệm cận đứng x = −d/c, tiệm cận ngang y = a/c.
 - y = (ax² + bx + c)/(mx + n): chia đa thức được y = px + q + r/(mx + n); nếu r ≠ 0 thì có tiệm cận đứng x = −n/m và tiệm cận xiên y = px + q.
 - Với phân thức, trước khi kết luận tiệm cận đứng phải kiểm tra nghiệm của mẫu có làm tử bằng 0 không.
+DB: Dạng 1. Tìm tiệm cận đứng, tiệm cận ngang
+- Tiệm cận ngang: tính lim y khi x → ±∞; giới hạn hữu hạn b thì y = b là tiệm cận ngang.
+- Tiệm cận đứng: tìm x₀ làm mẫu bằng 0 mà tử khác 0 (hoặc tính giới hạn một bên ra ∞).
+DB: Dạng 2. Tìm tiệm cận xiên
+- Chia đa thức để viết y = ax + b + r(x) với r(x) → 0 khi x → ±∞.
+- Kết luận y = ax + b (a ≠ 0) là tiệm cận xiên.
+DB: Dạng 3. Đọc tiệm cận từ bảng biến thiên, đồ thị
+- Giá trị y tiến tới ở hai đầu bảng biến thiên ⇒ tiệm cận ngang.
+- Giá trị x mà y → ±∞ (đường kẻ kép trên bảng) ⇒ tiệm cận đứng.
 VD: Tìm các đường tiệm cận của đồ thị y = (2x − 1)/(x + 1).
 B: lim y = 2 khi x → ±∞ nên y = 2 là tiệm cận ngang.
 B: Khi x → (−1)⁺, tử → −3, mẫu → 0⁺ nên y → −∞; vậy x = −1 là tiệm cận đứng.
@@ -176,6 +207,16 @@ LT: 2. Đặc điểm một số dạng đồ thị
 - Hàm y = (ax + b)/(cx + d): có tiệm cận đứng, tiệm cận ngang; đồ thị nhận giao điểm hai tiệm cận làm tâm đối xứng.
 - Số nghiệm của phương trình f(x) = m bằng số giao điểm của đồ thị y = f(x) với đường thẳng y = m.
 HINH: 12-toan/bai4-bien-luan.svg | Số nghiệm của x³ − 3x² + 2 = m bằng số giao điểm của đồ thị với đường thẳng nằm ngang y = m.
+DB: Dạng 1. Khảo sát và vẽ đồ thị hàm số
+- Tìm tập xác định, tính y', xét dấu, tìm cực trị, giới hạn – tiệm cận.
+- Lập bảng biến thiên.
+- Tìm vài điểm đặc biệt (giao với trục), vẽ đồ thị đúng dáng.
+DB: Dạng 2. Nhận dạng đồ thị hàm số
+- Xét dáng đồ thị: bậc ba, phân thức bậc nhất/bậc nhất, phân thức bậc hai/bậc nhất.
+- Dựa vào giới hạn ở vô cực, tiệm cận, giao điểm với trục tung để chọn dấu các hệ số.
+DB: Dạng 3. Dùng đồ thị biện luận số nghiệm phương trình f(x) = m
+- Số nghiệm = số giao điểm của đồ thị y = f(x) với đường thẳng nằm ngang y = m.
+- Dịch đường y = m theo các giá trị cực trị để đếm giao điểm.
 VD: Khảo sát và vẽ đồ thị hàm số y = x³ − 3x² + 2.
 B: D = ℝ; y' = 3x² − 6x = 0 ⇔ x = 0 hoặc x = 2.
 B: Đồng biến trên (−∞; 0) và (2; +∞), nghịch biến trên (0; 2). Cực đại (0; 2), cực tiểu (2; −2).
@@ -229,6 +270,16 @@ LT: 2. Các bước giải bài toán tối ưu
 - Biểu diễn đại lượng cần tìm thành hàm số f(x).
 - Tìm GTLN (hoặc GTNN) của f trên miền điều kiện bằng đạo hàm, bảng biến thiên.
 - Đối chiếu điều kiện và trả lời theo yêu cầu bài toán.
+DB: Dạng 1. Tốc độ thay đổi của đại lượng (vận tốc, gia tốc)
+- Vận tốc v(t) = s'(t); gia tốc a(t) = v'(t).
+- Thay thời điểm cần tính; tìm max/min bằng bảng biến thiên.
+DB: Dạng 2. Tối ưu chi phí, lợi nhuận, diện tích, thể tích
+- Chọn ẩn x, điều kiện của x.
+- Lập hàm cần tối ưu, tính đạo hàm, lập bảng biến thiên.
+- Kết luận giá trị x và giá trị tối ưu kèm đơn vị.
+DB: Dạng 3. Đọc đồ thị trong bài toán thực tế
+- Xác định ý nghĩa trục hoành, trục tung.
+- Liên hệ đoạn tăng/giảm, đỉnh của đồ thị với nội dung thực tế.
 VD: Lợi nhuận P(x) = −x³ + 12x² + 60x (triệu đồng) khi doanh nghiệp sản xuất x trăm sản phẩm, 0 ≤ x ≤ 12. Sản xuất bao nhiêu để lợi nhuận lớn nhất?
 B: P'(x) = −3x² + 24x + 60 = 0 ⇔ x² − 8x − 20 = 0 ⇔ x = 10 hoặc x = −2 (loại).
 B: P(0) = 0; P(10) = −1000 + 1200 + 600 = 800; P(12) = −1728 + 1728 + 720 = 720.
@@ -275,6 +326,15 @@ HINH: 12-toan/bai6-hinh-hop.svg | Quy tắc hình hộp: tổng ba vectơ chung 
 LT: 2. Tích vô hướng
 - u→·v→ = |u→|·|v→|·cos(u→, v→); u→ ⊥ v→ ⇔ u→·v→ = 0; u→² = |u→|².
 - Góc giữa hai vectơ được xác định bằng cách đưa về cùng một điểm gốc.
+DB: Dạng 1. Xác định vectơ, quy tắc hình hộp
+- Dùng quy tắc ba điểm, hình bình hành, hình hộp: AC' = AB + AD + AA'.
+- Biểu diễn vectơ cần tìm qua ba vectơ không đồng phẳng.
+DB: Dạng 2. Tích vô hướng và góc giữa hai vectơ
+- a·b = |a|·|b|·cos(a, b).
+- Biến đổi về các vectơ có độ dài và góc đã biết; tính cos góc.
+DB: Dạng 3. Chứng minh vuông góc, tính độ dài
+- Hai vectơ vuông góc ⇔ tích vô hướng bằng 0.
+- Độ dài: |a|² = a·a.
 VD: Cho hình lập phương ABCD.A'B'C'D' cạnh a. Tính AB→·A'C'→.
 B: A'C'→ = AC→ (hai vectơ bằng nhau), góc giữa AB→ và AC→ bằng 45°.
 B: AB→·AC→ = a·a√2·cos 45° = a².
@@ -320,6 +380,12 @@ LT: 2. Hình chiếu và đối xứng của M(x; y; z)
 - Hình chiếu lên (Oxy): (x; y; 0); lên (Oyz): (0; y; z); lên (Oxz): (x; 0; z).
 - Hình chiếu lên Ox: (x; 0; 0); lên Oy: (0; y; 0); lên Oz: (0; 0; z).
 - Đối xứng qua gốc O: (−x; −y; −z); qua (Oxy): (x; y; −z).
+DB: Dạng 1. Xác định tọa độ điểm, vectơ trong hệ Oxyz
+- Tọa độ hình chiếu của M(x; y; z) lên các trục, các mặt phẳng tọa độ: giữ lại thành phần tương ứng, các thành phần khác bằng 0.
+- Tọa độ vectơ AB = (x_B − x_A; y_B − y_A; z_B − z_A).
+DB: Dạng 2. Gắn hệ tọa độ vào hình không gian thực tế
+- Chọn gốc O tại một đỉnh có ba cạnh đôi một vuông góc.
+- Đọc tọa độ các đỉnh theo độ dài các cạnh.
 VD: Cho A(1; 2; 3), B(3; 0; −1). Tìm tọa độ AB→.
 B: AB→ = (3 − 1; 0 − 2; −1 − 3).
 KQ: AB→ = (2; −2; −4).
@@ -365,6 +431,15 @@ LT: 2. Ứng dụng
 - AB = √[(x_B − x_A)² + (y_B − y_A)² + (z_B − z_A)²].
 - Trung điểm I của AB: I((x_A + x_B)/2; (y_A + y_B)/2; (z_A + z_B)/2).
 - Trọng tâm G của tam giác ABC: G((x_A + x_B + x_C)/3; (y_A + y_B + y_C)/3; (z_A + z_B + z_C)/3).
+DB: Dạng 1. Phép toán vectơ theo tọa độ
+- Cộng, trừ, nhân với số: thực hiện theo từng tọa độ.
+- Trung điểm, trọng tâm: trung bình cộng tọa độ.
+DB: Dạng 2. Tích vô hướng, độ dài, góc
+- a·b = x₁x₂ + y₁y₂ + z₁z₂; |a| = √(x² + y² + z²).
+- cos(a, b) = a·b : (|a|·|b|).
+DB: Dạng 3. Bài toán thực tế (lực, độ dịch chuyển, khoảng cách)
+- Gắn hệ tọa độ, viết tọa độ các điểm.
+- Dùng công thức độ dài, tích vô hướng để trả lời câu hỏi thực tế.
 VD: Cho a→ = (1; 2; −2), b→ = (2; 0; 1). Tính a→·b→ và |a→|.
 B: a→·b→ = 2 + 0 − 2 = 0, nên a→ ⊥ b→.
 KQ: a→·b→ = 0; |a→| = √(1 + 4 + 4) = 3.
@@ -412,6 +487,15 @@ LT: 2. Khoảng tứ phân vị
 - Tứ phân vị thứ ba Q₃ tính tương tự với 3n/4 thay cho n/4.
 - Khoảng tứ phân vị ΔQ = Q₃ − Q₁ đo độ phân tán của nửa số liệu ở giữa, ít bị ảnh hưởng bởi giá trị bất thường.
 HINH: 12-toan/bai9-tu-phan-vi.svg | Biểu đồ tần số của mẫu ghép nhóm: khoảng tứ phân vị là độ rộng của "nửa giữa" số liệu.
+DB: Dạng 1. Tính khoảng biến thiên, tứ phân vị của mẫu số liệu ghép nhóm
+- Khoảng biến thiên R = đầu mút phải nhóm cuối − đầu mút trái nhóm đầu.
+- Tìm nhóm chứa Q₁, Q₃ (vị trí n/4, 3n/4), áp dụng công thức nội suy.
+DB: Dạng 2. Khoảng tứ phân vị và giá trị ngoại lệ
+- Δ_Q = Q₃ − Q₁.
+- Giá trị nhỏ hơn Q₁ − 1,5Δ_Q hoặc lớn hơn Q₃ + 1,5Δ_Q là giá trị ngoại lệ.
+DB: Dạng 3. So sánh độ phân tán của hai mẫu
+- Tính khoảng biến thiên hoặc khoảng tứ phân vị của từng mẫu.
+- Số đo lớn hơn ⇒ mẫu phân tán hơn (kém ổn định hơn).
 VD: Thời gian tự học (phút) của 40 học sinh: [0; 10): 4; [10; 20): 10; [20; 30): 14; [30; 40): 8; [40; 50): 4. Tính R và ΔQ.
 B: R = 50 − 0 = 50 (phút).
 B: n/4 = 10, tần số tích lũy 4; 14 nên Q₁ thuộc [10; 20): Q₁ = 10 + (10 − 4)/10·10 = 16.
@@ -451,6 +535,12 @@ LT: 1. Công thức
 LT: 2. Ý nghĩa
 - s càng lớn thì số liệu càng phân tán quanh số trung bình.
 - Trong đầu tư, độ lệch chuẩn của lợi nhuận càng lớn thì rủi ro càng cao.
+DB: Dạng 1. Tính phương sai, độ lệch chuẩn của mẫu ghép nhóm
+- Lấy giá trị đại diện xᵢ (trung điểm mỗi nhóm), tính số trung bình x̄.
+- s² = (Σ nᵢxᵢ²)/n − x̄²; s = √s².
+DB: Dạng 2. So sánh mức độ ổn định
+- Tính độ lệch chuẩn của mỗi mẫu.
+- Độ lệch chuẩn nhỏ hơn ⇒ số liệu ổn định hơn.
 VD: Mẫu số liệu: [0; 2): 2; [2; 4): 5; [4; 6): 3. Tính phương sai và độ lệch chuẩn.
 B: Giá trị đại diện 1; 3; 5; n = 10. x̄ = (2 + 15 + 15)/10 = 3,2.
 B: (2·1 + 5·9 + 3·25)/10 = 12,2. s² = 12,2 − 3,2² = 12,2 − 10,24 = 1,96.
@@ -494,6 +584,15 @@ LT: 3. Bảng nguyên hàm cơ bản
 - ∫e^{x}dx = e^{x} + C; ∫a^{x}dx = a^{x}/ln a + C (0 < a ≠ 1).
 - ∫sin x dx = −cos x + C; ∫cos x dx = sin x + C.
 - ∫(1/cos²x)dx = tan x + C; ∫(1/sin²x)dx = −cot x + C.
+DB: Dạng 1. Tìm nguyên hàm bằng bảng nguyên hàm cơ bản
+- Biến đổi hàm số thành tổng các hàm cơ bản (lũy thừa, mũ, lượng giác, 1/x).
+- Áp dụng tính chất ∫(f ± g) = ∫f ± ∫g, ∫k·f = k∫f và bảng nguyên hàm; nhớ + C.
+DB: Dạng 2. Tìm nguyên hàm thỏa mãn điều kiện F(x₀) = a
+- Tìm F(x) + C.
+- Thay x = x₀ để tìm C.
+DB: Dạng 3. Bài toán thực tế (biết tốc độ thay đổi, tìm đại lượng)
+- Đại lượng = nguyên hàm của tốc độ thay đổi.
+- Dùng điều kiện ban đầu tìm C, thay giá trị cần tính.
 VD: Tính ∫(3x² − 4x + 5)dx.
 KQ: x³ − 2x² + 5x + C.
 VD: Tìm nguyên hàm F(x) của f(x) = 2x + 1 thỏa mãn F(1) = 3.
@@ -548,6 +647,15 @@ LT: 2. Tính chất
 - ∫_{a}^{a} f(x)dx = 0; ∫_{a}^{b} f(x)dx = −∫_{b}^{a} f(x)dx.
 - ∫_{a}^{b} k·f(x)dx = k∫_{a}^{b} f(x)dx; ∫_{a}^{b} [f(x) ± g(x)]dx = ∫_{a}^{b} f(x)dx ± ∫_{a}^{b} g(x)dx.
 - ∫_{a}^{b} f(x)dx = ∫_{a}^{c} f(x)dx + ∫_{c}^{b} f(x)dx.
+DB: Dạng 1. Tính tích phân bằng định nghĩa (Newton – Leibniz)
+- Tìm một nguyên hàm F(x).
+- ∫ₐᵇ f(x)dx = F(b) − F(a).
+DB: Dạng 2. Dùng tính chất tích phân
+- Tách cận: ∫ₐᶜ = ∫ₐᵇ + ∫ᵇᶜ; đổi cận đổi dấu.
+- Tích phân của tổng, hiệu, tích với hằng số; hàm chứa dấu giá trị tuyệt đối thì chia khoảng xét dấu.
+DB: Dạng 3. Ứng dụng thực tế: quãng đường, lượng thay đổi
+- Quãng đường từ t = a đến t = b: s = ∫ₐᵇ v(t)dt (v ≥ 0).
+- Lượng tăng thêm = tích phân của tốc độ thay đổi.
 VD: Tính ∫_{0}^{2} (3x² − 2x)dx.
 B: Một nguyên hàm là x³ − x².
 KQ: (8 − 4) − 0 = 4.
@@ -598,6 +706,15 @@ LT: 2. Thể tích
 - Vật thể có diện tích thiết diện S(x) (vuông góc với Ox tại x), a ≤ x ≤ b: V = ∫_{a}^{b} S(x)dx.
 - Quay hình phẳng giới hạn bởi y = f(x), Ox, x = a, x = b quanh trục Ox: V = π∫_{a}^{b} f²(x)dx.
 HINH: 12-toan/bai13-ung-dung.svg | Trái: hình phẳng giữa y = x và y = x². Phải: quay đồ thị y = √x quanh Ox tạo khối tròn xoay, mỗi thiết diện là một hình tròn.
+DB: Dạng 1. Diện tích hình phẳng giới hạn bởi đồ thị và trục hoành, hai đồ thị
+- Tìm hoành độ giao điểm để xác định cận.
+- S = ∫ₐᵇ |f(x) − g(x)| dx; chia khoảng để bỏ dấu giá trị tuyệt đối.
+DB: Dạng 2. Thể tích khối tròn xoay
+- Quay quanh Ox: V = π∫ₐᵇ f²(x)dx.
+- Vẽ hình, xác định đúng cận và hàm số.
+DB: Dạng 3. Bài toán thực tế (cổng parabol, vật thể tròn xoay)
+- Gắn hệ trục tọa độ, lập phương trình đường cong.
+- Áp dụng công thức diện tích/thể tích, đổi đơn vị.
 VD: Tính diện tích hình phẳng giới hạn bởi y = x² và y = x.
 B: x² = x ⇔ x = 0 hoặc x = 1; trên [0; 1] ta có x ≥ x².
 KQ: S = ∫_{0}^{1}(x − x²)dx = 1/2 − 1/3 = 1/6.
@@ -649,6 +766,13 @@ LT: 2. Phương trình mặt phẳng
 LT: 3. Vị trí tương đối và khoảng cách
 - (P) ∥ (Q) hoặc trùng nhau ⇔ hai VTPT cùng phương; (P) ⊥ (Q) ⇔ n₁→·n₂→ = 0.
 - Khoảng cách từ M₀ đến (P): d = |Ax₀ + By₀ + Cz₀ + D|/√(A² + B² + C²).
+DB: Dạng 1. Viết phương trình mặt phẳng
+- Tìm một điểm M₀ và vectơ pháp tuyến n = (A; B; C).
+- Viết A(x − x₀) + B(y − y₀) + C(z − z₀) = 0. Ba điểm A, B, C: n = [AB, AC].
+DB: Dạng 2. Khoảng cách từ điểm đến mặt phẳng
+- d = |Ax₀ + By₀ + Cz₀ + D| : √(A² + B² + C²).
+DB: Dạng 3. Vị trí tương đối của hai mặt phẳng
+- So sánh hai vectơ pháp tuyến: cùng phương ⇒ song song hoặc trùng; tích vô hướng bằng 0 ⇒ vuông góc.
 VD: Viết phương trình mặt phẳng (P) qua M(1; −2; 3) có VTPT n→ = (2; −1; 2), rồi tính khoảng cách từ O đến (P).
 B: 2(x − 1) − (y + 2) + 2(z − 3) = 0 ⇔ 2x − y + 2z − 10 = 0.
 B: d(O, (P)) = |−10|/√(4 + 1 + 4) = 10/3.
@@ -696,6 +820,15 @@ LT: 2. Vị trí tương đối
 - Hai đường thẳng: song song, trùng nhau, cắt nhau hoặc chéo nhau (xét hai VTCP có cùng phương không và hai đường có điểm chung không).
 - Δ ⊥ (P) ⇔ u→ cùng phương với n→; Δ ∥ (P) ⇔ u→·n→ = 0 và M₀ ∉ (P).
 - Tìm giao điểm của Δ và (P): thay x, y, z theo t vào phương trình (P) để tìm t.
+DB: Dạng 1. Viết phương trình đường thẳng
+- Tìm một điểm và vectơ chỉ phương u.
+- Viết phương trình tham số hoặc chính tắc.
+DB: Dạng 2. Vị trí tương đối của hai đường thẳng
+- Xét hai vectơ chỉ phương có cùng phương hay không.
+- Giải hệ để kiểm tra có điểm chung: cắt nhau, song song, trùng, chéo nhau.
+DB: Dạng 3. Giao điểm của đường thẳng và mặt phẳng
+- Thay phương trình tham số vào phương trình mặt phẳng, giải tìm t.
+- Thay t trở lại để có tọa độ giao điểm.
 VD: Viết phương trình đường thẳng qua A(1; 2; 3) và B(3; 1; 1), rồi tìm giao điểm với (P): x + y + z − 3 = 0.
 B: u→ = AB→ = (2; −1; −2): x = 1 + 2t; y = 2 − t; z = 3 − 2t.
 B: Thay vào (P): (1 + 2t) + (2 − t) + (3 − 2t) − 3 = 0 ⇔ 3 − t = 0 ⇔ t = 3.
@@ -738,6 +871,13 @@ LT: 1. Các công thức (các góc đều thuộc [0°; 90°])
 - Hai đường thẳng có VTCP u₁→, u₂→: cos(Δ₁, Δ₂) = |u₁→·u₂→|/(|u₁→|·|u₂→|).
 - Đường thẳng (VTCP u→) và mặt phẳng (VTPT n→): sin(Δ, (P)) = |u→·n→|/(|u→|·|n→|).
 - Hai mặt phẳng có VTPT n₁→, n₂→: cos((P), (Q)) = |n₁→·n₂→|/(|n₁→|·|n₂→|).
+DB: Dạng 1. Góc giữa hai đường thẳng
+- cos φ = |u₁·u₂| : (|u₁|·|u₂|).
+DB: Dạng 2. Góc giữa đường thẳng và mặt phẳng
+- sin φ = |u·n| : (|u|·|n|).
+DB: Dạng 3. Góc giữa hai mặt phẳng
+- cos φ = |n₁·n₂| : (|n₁|·|n₂|).
+- Áp dụng cho bài toán thực tế: độ dốc mái nhà, góc nghiêng của tấm pin…
 VD: Tính góc giữa hai mặt phẳng (P): x − z = 0 và (Q): y − z = 0.
 B: n₁→ = (1; 0; −1), n₂→ = (0; 1; −1); cos = |0 + 0 + 1|/(√2·√2) = 1/2.
 KQ: Góc giữa (P) và (Q) bằng 60°.
@@ -782,6 +922,14 @@ LT: 1. Phương trình mặt cầu
 - Phương trình x² + y² + z² − 2ax − 2by − 2cz + d = 0 là phương trình mặt cầu ⇔ a² + b² + c² − d > 0; khi đó tâm I(a; b; c), R = √(a² + b² + c² − d).
 LT: 2. Mặt cầu và mặt phẳng (h = d(I, (P)))
 - h > R: không có điểm chung; h = R: tiếp xúc; h < R: cắt theo đường tròn bán kính r = √(R² − h²).
+DB: Dạng 1. Xác định tâm, bán kính mặt cầu
+- Dạng (x − a)² + (y − b)² + (z − c)² = R²: tâm I(a; b; c), bán kính R.
+- Dạng x² + y² + z² − 2ax − 2by − 2cz + d = 0: R = √(a² + b² + c² − d) (cần a² + b² + c² − d > 0).
+DB: Dạng 2. Viết phương trình mặt cầu
+- Tìm tâm và bán kính từ dữ kiện (đường kính AB, đi qua điểm, tiếp xúc mặt phẳng: R = khoảng cách từ tâm đến mặt phẳng).
+DB: Dạng 3. Bài toán thực tế (vùng phủ sóng, quả bóng)
+- Gắn hệ tọa độ, viết phương trình mặt cầu.
+- Điểm M nằm trong mặt cầu ⇔ IM < R.
 VD: Tìm tâm và bán kính mặt cầu x² + y² + z² − 2x + 4y − 6z − 2 = 0.
 B: a = 1, b = −2, c = 3, d = −2.
 KQ: I(1; −2; 3), R = √(1 + 4 + 9 + 2) = 4.
@@ -830,6 +978,14 @@ LT: 2. Công thức nhân và tính độc lập
 - P(A ∩ B) = P(B)·P(A|B) = P(A)·P(B|A).
 - A và B độc lập ⇔ P(A|B) = P(A) ⇔ P(A ∩ B) = P(A)·P(B).
 - Sơ đồ hình cây: nhân các xác suất dọc theo một nhánh, cộng xác suất của các nhánh cùng dẫn đến biến cố.
+DB: Dạng 1. Tính xác suất có điều kiện bằng công thức
+- P(A | B) = P(A ∩ B) : P(B) với P(B) > 0.
+DB: Dạng 2. Dùng bảng số liệu hoặc sơ đồ hình cây
+- Thu hẹp không gian mẫu về biến cố B rồi đếm trường hợp thuận lợi cho A.
+- Sơ đồ cây: nhân xác suất dọc theo nhánh.
+DB: Dạng 3. Công thức nhân xác suất
+- P(A ∩ B) = P(B)·P(A | B).
+- Dùng cho bài toán lấy liên tiếp không hoàn lại.
 VD: Lớp có 40 học sinh, 25 nữ, trong đó 15 nữ thích môn Toán. Chọn ngẫu nhiên một học sinh, biết đó là học sinh nữ. Tính xác suất học sinh đó thích Toán.
 KQ: P = 15/25 = 0,6.
 VD: Hộp có 5 bi đỏ và 3 bi xanh. Lấy lần lượt 2 bi không hoàn lại. Tính xác suất cả hai bi đều đỏ.
@@ -874,6 +1030,15 @@ LT: 1. Công thức xác suất toàn phần
 LT: 2. Công thức Bayes
 - P(B|A) = P(B)·P(A|B)/P(A) = P(B)·P(A|B)/[P(B)·P(A|B) + P(B̄)·P(A|B̄)] (P(A) > 0).
 - Ý nghĩa: cập nhật xác suất của "nguyên nhân" B khi đã quan sát được "kết quả" A.
+DB: Dạng 1. Công thức xác suất toàn phần
+- Chia các trường hợp B, B̄ (hoặc B₁, …, Bₙ) phủ kín không gian mẫu.
+- P(A) = P(B)·P(A | B) + P(B̄)·P(A | B̄).
+DB: Dạng 2. Công thức Bayes (tính ngược xác suất)
+- P(B | A) = P(B)·P(A | B) : P(A).
+- Tính P(A) bằng xác suất toàn phần trước.
+DB: Dạng 3. Bài toán thực tế (xét nghiệm, sản phẩm lỗi, dự báo)
+- Vẽ sơ đồ hình cây với các xác suất đã cho.
+- Xác định đúng câu hỏi là P(A) hay P(B | A) rồi áp dụng công thức.
 VD: Máy I sản xuất 60% sản phẩm với tỉ lệ lỗi 2%, máy II sản xuất 40% với tỉ lệ lỗi 3%. Chọn ngẫu nhiên một sản phẩm. Tính xác suất sản phẩm bị lỗi; biết sản phẩm bị lỗi, tính xác suất nó do máy I sản xuất.
 HINH: 12-toan/bai19-bayes.svg | Sơ đồ hình cây cho công thức xác suất toàn phần và công thức Bayes.
 B: P(lỗi) = 0,6·0,02 + 0,4·0,03 = 0,012 + 0,012 = 0,024.

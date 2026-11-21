@@ -19,6 +19,12 @@ HINH: 3-anh/hello.svg | Mai và Ben chào nhau và giới thiệu tên mình.
 LT: 3. Ngữ âm (Phonics)
 - Chữ **b** đọc là /b/: **B**en, **b**ye.
 - Chữ **h** đọc là /h/: **h**ello, **h**i.
+DB: Dạng 1. Chọn câu đáp lại phù hợp
+- Hello / Hi → chào lại; How are you? → Fine, thank you.
+DB: Dạng 2. Điền từ còn thiếu
+- Nhớ mẫu: I'm + tên; Fine, thank you.
+DB: Dạng 3. Sắp xếp từ thành câu
+- Chữ viết hoa đứng đầu câu, dấu ? hoặc . ở cuối.
 VD: Hoàn thành đoạn hội thoại: A: Hello. I'm Linh. – B: ___, Linh. I'm Nam.
 B: Khi được chào, ta chào lại bằng Hello hoặc Hi rồi nói tên mình.
 KQ: B: **Hi**, Linh. I'm Nam. (hoặc Hello, Linh. I'm Nam.)
