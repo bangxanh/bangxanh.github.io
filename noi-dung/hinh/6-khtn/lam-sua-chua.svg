@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="571.68pt" height="183.6pt" viewBox="0 0 571.68 183.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:35:17.069234</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 183.6 
+L 571.68 183.6 
+L 571.68 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 17.5104 108.432 
+L 102.3336 108.432 
+Q 105.66 108.432 105.66 105.1056 
+L 105.66 56.3184 
+Q 105.66 52.992 102.3336 52.992 
+L 17.5104 52.992 
+Q 14.184 52.992 14.184 56.3184 
+L 14.184 105.1056 
+Q 14.184 108.432 17.5104 108.432 
+z
+" clip-path="url(#p96ae84881e)" style="fill: #fff6d6; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 128.3904 108.432 
+L 213.2136 108.432 
+Q 216.54 108.432 216.54 105.1056 
+L 216.54 56.3184 
+Q 216.54 52.992 213.2136 52.992 
+L 128.3904 52.992 
+Q 125.064 52.992 125.064 56.3184 
+L 125.064 105.1056 
+Q 125.064 108.432 128.3904 108.432 
+z
+" clip-path="url(#p96ae84881e)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 109.04785 80.712 
+Q 115.364603 80.712 119.892502 80.712 
+" clip-path="url(#p96ae84881e)" style="fill: none; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 113.492502 77.512 
+L 119.892502 80.712 
+L 113.492502 83.912 
+z
+" clip-path="url(#p96ae84881e)" style="fill: #6b7a72; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 239.2704 108.432 
+L 324.0936 108.432 
+Q 327.42 108.432 327.42 105.1056 
+L 327.42 56.3184 
+Q 327.42 52.992 324.0936 52.992 
+L 239.2704 52.992 
+Q 235.944 52.992 235.944 56.3184 
+L 235.944 105.1056 
+Q 235.944 108.432 239.2704 108.432 
+z
+" clip-path="url(#p96ae84881e)" style="fill: #f3f3f3; stroke: #6b7a72; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 219.92785 80.712 
+Q 226.244603 80.712 230.772502 80.712 
+" clip-path="url(#p96ae84881e)" style="fill: none; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 224.372502 77.512 
+L 230.772502 80.712 
+L 224.372502 83.912 
+z
+" clip-path="url(#p96ae84881e)" style="fill: #6b7a72; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 350.1504 108.432 
+L 434.9736 108.432 
+Q 438.3 108.432 438.3 105.1056 
+L 438.3 56.3184 
+Q 438.3 52.992 434.9736 52.992 
+L 350.1504 52.992 
+Q 346.824 52.992 346.824 56.3184 
+L 346.824 105.1056 
+Q 346.824 108.432 350.1504 108.432 
+z
+" clip-path="url(#p96ae84881e)" style="fill: #fde9ec; stroke: #c93a58; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 330.80785 80.712 
+Q 337.124603 80.712 341.652502 80.712 
+" clip-path="url(#p96ae84881e)" style="fill: none; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 335.252502 77.512 
+L 341.652502 80.712 
+L 335.252502 83.912 
+z
+" clip-path="url(#p96ae84881e)" style="fill: #6b7a72; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 461.0304 108.432 
+L 545.8536 108.432 
+Q 549.18 108.432 549.18 105.1056 
+L 549.18 56.3184 
+Q 549.18 52.992 545.8536 52.992 
+L 461.0304 52.992 
+Q 457.704 52.992 457.704 56.3184 
+L 457.704 105.1056 
+Q 457.704 108.432 461.0304 108.432 
+z
+" clip-path="url(#p96ae84881e)" style="fill: #eef7e6; stroke: #55891b; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 441.68785 80.712 
+Q 448.004603 80.712 452.532502 80.712 
+" clip-path="url(#p96ae84881e)" style="fill: none; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 446.132502 77.512 
+L 452.532502 80.712 
+L 446.132502 83.912 
+z
+" clip-path="url(#p96ae84881e)" style="fill: #6b7a72; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(28.15868 77.017928)">Pha sữa đặc</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(37.721883 90.040799)">với nước</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="59.922" y="125.064" transform="rotate(-0 59.922 125.064)">~40 °C</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(144.976102 77.138514)">Thêm sữa</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(148.812703 90.161385)">chua cái</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="170.802" y="125.064" transform="rotate(-0 170.802 125.064)">(men lactic)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(251.802117 76.733279)">Rót vào hũ,</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(260.478563 90.566619)">đậy nắp</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="392.562" y="84.659754" transform="rotate(-0 392.562 84.659754)">Ủ ấm</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="392.562" y="125.064" transform="rotate(-0 392.562 125.064)">6 – 8 giờ</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="503.442" y="83.893582" transform="rotate(-0 503.442 83.893582)">Cất tủ lạnh</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #55891b" x="503.442" y="125.064" transform="rotate(-0 503.442 125.064)">thưởng thức</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f5640" x="285.84" y="158.328" transform="rotate(-0 285.84 158.328)">Vi khuẩn lactic biến đường trong sữa thành acid lactic → sữa đông lại, có vị chua</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p96ae84881e">
+   <rect x="8.64" y="8.64" width="554.4" height="166.32"/>
+  </clipPath>
+ </defs>
+</svg>

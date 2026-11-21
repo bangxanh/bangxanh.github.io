@@ -1599,12 +1599,472 @@ TC: Nêu điểm khác nhau | 1
 
 ## Chương VII. Đa dạng thế giới sống
 ### Bài 25. Hệ thống phân loại sinh vật
+> Trên Trái Đất có hàng triệu loài sinh vật. Để dễ nghiên cứu, các nhà khoa học xếp chúng vào các "ngăn kéo" từ lớn đến nhỏ – đó là hệ thống phân loại.
+MT: Nêu được sự cần thiết của việc phân loại thế giới sống.
+MT: Nêu được các bậc phân loại từ nhỏ đến lớn: loài, chi, họ, bộ, lớp, ngành, giới.
+MT: Nêu được 5 giới sinh vật; cách gọi tên sinh vật (tên địa phương, tên khoa học).
+LT: 1. Vì sao cần phân loại?
+- Thế giới sống rất đa dạng; phân loại giúp **gọi đúng tên** sinh vật, **xác định vị trí** của chúng, thấy được **mối quan hệ họ hàng**, thuận lợi cho nghiên cứu và bảo tồn.
+LT: 2. Các bậc phân loại
+- Từ **nhỏ đến lớn**: **Loài → Chi (giống) → Họ → Bộ → Lớp → Ngành → Giới**.
+- **Loài** là bậc phân loại cơ bản: các cá thể có nhiều đặc điểm giống nhau, giao phối được với nhau sinh ra con có khả năng sinh sản.
+HINH: 6-khtn/bac-phan-loai.svg | Các bậc phân loại từ lớn đến nhỏ: Giới → Ngành → Lớp → Bộ → Họ → Chi → Loài (ví dụ: con mèo nhà).
+LT: 3. Năm giới sinh vật
+- **Khởi sinh** (vi khuẩn), **Nguyên sinh** (trùng roi, tảo, trùng giày), **Nấm**, **Thực vật**, **Động vật**.
+LT: 4. Cách gọi tên sinh vật
+- **Tên địa phương** (tên thường gọi): khác nhau theo vùng (quả dứa – quả thơm – quả khóm).
+- **Tên khoa học** (thống nhất toàn thế giới): gồm **tên chi + tên loài**, viết nghiêng (người: *Homo sapiens*; mèo nhà: *Felis catus*).
+DB: Dạng 1. Sắp xếp các bậc phân loại
+- Nhớ câu: "Loài – Chi – Họ – Bộ – Lớp – Ngành – Giới" (nhỏ → lớn).
+DB: Dạng 2. Xếp sinh vật vào giới
+- Vi khuẩn → Khởi sinh; trùng roi, tảo → Nguyên sinh; nấm → Nấm; cây → Thực vật; con vật → Động vật.
+DB: Dạng 3. Nhận biết tên khoa học
+- Gồm 2 từ: chi (viết hoa chữ đầu) + loài (viết thường), in nghiêng.
+VD: Sắp xếp các sinh vật sau vào giới: nấm rơm, vi khuẩn lao, cây lúa, con cá chép, trùng giày.
+B: Dựa vào đặc điểm cấu tạo, dinh dưỡng của từng nhóm.
+KQ: Nấm rơm – Nấm; vi khuẩn lao – Khởi sinh; cây lúa – Thực vật; cá chép – Động vật; trùng giày – Nguyên sinh.
+VD: Tên khoa học của hổ là *Panthera tigris*. Hổ thuộc chi nào?
+B: Từ đầu tiên trong tên khoa học là tên chi.
+KQ: Hổ thuộc chi *Panthera*.
+GN: Loài là bậc phân loại nhỏ nhất (cơ bản).
+GN: 5 giới: Khởi sinh, Nguyên sinh, Nấm, Thực vật, Động vật.
+GN: Tên khoa học: tên chi + tên loài.
+Q: mc | Bậc phân loại nhỏ nhất là
+A) Giới
+B) Ngành
+C) Loài *
+D) Họ
+E: Loài là bậc phân loại cơ bản, nhỏ nhất.
+Q: mc | Vi khuẩn thuộc giới nào?
+A) Khởi sinh *
+B) Nguyên sinh
+C) Nấm
+D) Thực vật
+E: Vi khuẩn là sinh vật nhân sơ, thuộc giới Khởi sinh.
+Q: ord | Sắp xếp các bậc phân loại từ nhỏ đến lớn:
+1) Loài
+2) Chi
+3) Họ
+4) Bộ
+5) Lớp
+6) Ngành
+7) Giới
+E: Loài – Chi – Họ – Bộ – Lớp – Ngành – Giới.
+Q: tf | Về phân loại sinh vật:
+a) Tên khoa học của sinh vật thống nhất trên toàn thế giới. | Đ
+b) Nấm thuộc giới Thực vật. | S
+c) Trùng giày thuộc giới Nguyên sinh. | Đ
+d) Một sinh vật có thể có nhiều tên địa phương khác nhau. | Đ
+E: Nấm là một giới riêng.
+Q: match | Nối sinh vật với giới:
+1) Vi khuẩn E. coli | Khởi sinh
+2) Tảo lục đơn bào | Nguyên sinh
+3) Nấm hương | Nấm
+4) Cây dương xỉ | Thực vật
+E: Xếp theo đặc điểm cấu tạo và dinh dưỡng.
+TL: Vì sao các nhà khoa học cần dùng tên khoa học thay vì tên địa phương khi nghiên cứu sinh vật?
+MAU: Một sinh vật có nhiều tên địa phương khác nhau (quả dứa/thơm/khóm), hoặc một tên địa phương dùng cho nhiều loài khác nhau → dễ nhầm lẫn.
+MAU: Tên khoa học là duy nhất, thống nhất toàn thế giới, cho biết chi và loài của sinh vật → giúp trao đổi thông tin chính xác.
+TC: Chỉ ra hạn chế của tên địa phương | 1
+TC: Nêu ưu điểm của tên khoa học | 2
+
 ### Bài 26. Khóa lưỡng phân
+> Gặp một con vật lạ, làm sao biết nó thuộc nhóm nào? Khóa lưỡng phân giúp em trả lời bằng cách đi qua từng cặp câu hỏi "có – không".
+MT: Nêu được khái niệm khóa lưỡng phân và nguyên tắc xây dựng.
+MT: Sử dụng được khóa lưỡng phân để phân loại một số sinh vật.
+MT: Xây dựng được khóa lưỡng phân đơn giản với một nhóm sinh vật.
+LT: 1. Khóa lưỡng phân là gì?
+- **Khóa lưỡng phân** là cách phân loại sinh vật dựa trên **một đặc điểm đối lập** để chia chúng thành **hai nhóm** ở mỗi bước (có/không, lớn/nhỏ…).
+- Tiếp tục chia cho đến khi mỗi nhóm chỉ còn **một sinh vật**.
+LT: 2. Các bước xây dựng khóa lưỡng phân
+- Bước 1: Liệt kê đặc điểm hình thái của từng sinh vật.
+- Bước 2: Chọn **một đặc điểm** để chia các sinh vật thành **hai nhóm** có đặc điểm đối lập.
+- Bước 3: Tiếp tục chia mỗi nhóm thành hai nhóm nhỏ hơn cho đến khi mỗi nhóm còn một sinh vật.
+- Bước 4: Vẽ sơ đồ khóa lưỡng phân.
+HINH: 6-khtn/khoa-luong-phan.svg | Ví dụ khóa lưỡng phân phân loại 4 con vật: gà, cá, mèo, ếch – mỗi bước dùng một cặp đặc điểm đối lập.
+DB: Dạng 1. Đọc sơ đồ khóa lưỡng phân
+- Đi từ trên xuống theo các đặc điểm để xác định tên sinh vật.
+DB: Dạng 2. Xây dựng khóa lưỡng phân
+- Chọn đặc điểm dễ quan sát, đối lập rõ ràng (có lông vũ/không; có chân/không).
+DB: Dạng 3. Đếm số bước, số nhóm
+- Với n sinh vật, khóa lưỡng phân có (n − 1) lần phân chia (điểm rẽ nhánh).
+VD: Dùng khóa: "1a. Có lông vũ → Gà; 1b. Không có lông vũ → 2. 2a. Sống dưới nước, có vây → Cá; 2b. Không có vây → 3. 3a. Có lông mao → Mèo; 3b. Da trần, ẩm → Ếch". Con vật có da trần, ẩm, không vây, không lông vũ là gì?
+B: Không lông vũ → bước 2; không có vây → bước 3; da trần, ẩm → 3b.
+KQ: Đó là con ếch.
+VD: Cần bao nhiêu lần phân chia để xây dựng khóa lưỡng phân cho 6 loài?
+B: Mỗi lần phân chia tách một nhóm thành 2.
+KQ: Cần 6 − 1 = 5 lần phân chia.
+GN: Mỗi bước chỉ dùng một cặp đặc điểm đối lập.
+GN: Chọn đặc điểm dễ quan sát, ổn định.
+GN: n sinh vật cần (n − 1) lần phân chia.
+Q: mc | Khóa lưỡng phân chia sinh vật thành mấy nhóm ở mỗi bước?
+A) 1
+B) 2 *
+C) 3
+D) 4
+E: "Lưỡng" nghĩa là hai.
+Q: mc | Cặp đặc điểm nào phù hợp để phân chia trong khóa lưỡng phân?
+A) Có cánh – Không có cánh *
+B) Màu đỏ – Sống lâu
+C) To – Có vây
+D) Ăn cỏ – Có lông
+E: Hai đặc điểm phải đối lập nhau trên cùng một tiêu chí.
+Q: ord | Sắp xếp các bước xây dựng khóa lưỡng phân:
+1) Liệt kê đặc điểm của từng sinh vật
+2) Chọn một đặc điểm đối lập để chia thành hai nhóm
+3) Tiếp tục chia đến khi mỗi nhóm còn một sinh vật
+4) Vẽ sơ đồ khóa lưỡng phân
+E: Liệt kê → chia → chia tiếp → vẽ sơ đồ.
+Q: tf | Về khóa lưỡng phân:
+a) Mỗi bước dùng một cặp đặc điểm đối lập. | Đ
+b) Kết thúc khi mỗi nhóm còn một sinh vật. | Đ
+c) Có thể dùng đặc điểm "đẹp – xấu" để phân chia. | S
+d) Với 5 sinh vật cần 4 lần phân chia. | Đ
+E: Đặc điểm phải khách quan, dễ quan sát.
+Q: sa | Cần bao nhiêu lần phân chia để xây dựng khóa lưỡng phân cho 8 loài thực vật?
+ANS: 7
+E: 8 − 1 = 7.
+TL: Xây dựng khóa lưỡng phân cho 4 loài: con chó, con chim bồ câu, con cá vàng, con rắn.
+MAU: 1a. Có lông vũ, có cánh → Chim bồ câu. 1b. Không có lông vũ → 2.
+MAU: 2a. Sống dưới nước, có vây → Cá vàng. 2b. Không có vây → 3.
+MAU: 3a. Có 4 chân, có lông mao → Con chó. 3b. Không có chân, có vảy → Con rắn.
+TC: Đặc điểm đối lập hợp lí | 1
+TC: Đủ 3 bước phân chia | 1
+TC: Mỗi nhóm cuối còn 1 loài đúng | 1
+
 ### Bài 27. Vi khuẩn
+> Vi khuẩn nhỏ đến mức hàng triệu con mới bằng hạt cát, nhưng chúng ở khắp nơi: trong đất, nước, không khí và cả trong cơ thể em.
+MT: Nêu được hình dạng, cấu tạo đơn giản của vi khuẩn.
+MT: Nêu được vai trò của vi khuẩn trong tự nhiên và đời sống; một số bệnh do vi khuẩn.
+MT: Trình bày được biện pháp phòng bệnh do vi khuẩn.
+LT: 1. Hình dạng và cấu tạo
+- **Vi khuẩn** là sinh vật **đơn bào, nhân sơ**, kích thước rất nhỏ (khoảng 1 – 10 µm), chỉ quan sát được bằng kính hiển vi.
+- Hình dạng: **hình cầu** (cầu khuẩn), **hình que** (trực khuẩn), **hình xoắn** (xoắn khuẩn), **hình dấu phẩy** (phẩy khuẩn).
+- Cấu tạo: thành tế bào, màng tế bào, tế bào chất, vùng nhân; một số có roi, lông.
+HINH: 6-khtn/vi-khuan.svg | Các hình dạng vi khuẩn: hình cầu, hình que, hình xoắn, hình dấu phẩy; cấu tạo gồm thành tế bào, màng, tế bào chất, vùng nhân, roi.
+LT: 2. Vai trò của vi khuẩn
+- **Có lợi**: phân giải xác sinh vật thành chất khoáng (làm sạch môi trường); cố định đạm cho cây (vi khuẩn nốt sần rễ cây họ Đậu); chế biến thực phẩm (sữa chua, dưa muối); sản xuất thuốc, xử lí rác thải.
+- **Có hại**: gây bệnh cho người (tả, lao, thương hàn, uốn ván), động vật, thực vật; làm hỏng thực phẩm.
+LT: 3. Phòng bệnh do vi khuẩn
+- Ăn chín uống sôi; rửa tay bằng xà phòng; giữ vệ sinh cá nhân, môi trường; tiêm vaccine; dùng kháng sinh **theo chỉ định của bác sĩ**.
+DB: Dạng 1. Nhận biết hình dạng vi khuẩn
+- Cầu, que, xoắn, dấu phẩy.
+DB: Dạng 2. Phân loại vai trò có lợi – có hại
+- Dựa vào tác động đến con người và môi trường.
+DB: Dạng 3. Tính số lượng vi khuẩn
+- Vi khuẩn phân đôi: sau n lần, 1 tế bào → 2ⁿ tế bào.
+VD: Một vi khuẩn cứ 20 phút phân đôi một lần. Sau 2 giờ, từ 1 vi khuẩn tạo ra bao nhiêu vi khuẩn?
+B: 2 giờ = 120 phút → số lần phân đôi: 120 : 20 = 6.
+KQ: 2⁶ = 64 vi khuẩn.
+VD: Vì sao thức ăn để lâu ngoài không khí dễ bị ôi thiu?
+B: Vi khuẩn từ không khí, tay, dụng cụ bám vào thức ăn và sinh sản rất nhanh.
+KQ: Vi khuẩn phân hủy thức ăn làm thức ăn bị ôi thiu, có thể gây ngộ độc.
+GN: Vi khuẩn: đơn bào, nhân sơ, rất nhỏ.
+GN: Phần lớn vi khuẩn có lợi; một số gây bệnh.
+GN: Chỉ dùng kháng sinh khi có chỉ định của bác sĩ.
+Q: mc | Vi khuẩn có cấu tạo
+A) đa bào, nhân thực
+B) đơn bào, nhân sơ *
+C) đơn bào, nhân thực
+D) chưa có cấu tạo tế bào
+E: Vi khuẩn là sinh vật đơn bào, nhân sơ.
+Q: mc | Vi khuẩn nào có lợi cho cây trồng?
+A) Vi khuẩn lao
+B) Vi khuẩn tả
+C) Vi khuẩn nốt sần ở rễ cây họ Đậu *
+D) Vi khuẩn uốn ván
+E: Vi khuẩn nốt sần cố định đạm cho cây.
+Q: tf | Về vi khuẩn:
+a) Vi khuẩn có thể quan sát bằng mắt thường. | S
+b) Làm sữa chua có sự tham gia của vi khuẩn. | Đ
+c) Bệnh lao do vi khuẩn gây ra. | Đ
+d) Có thể tự ý dùng kháng sinh khi bị cảm. | S
+E: Vi khuẩn rất nhỏ; kháng sinh phải dùng theo chỉ định bác sĩ.
+Q: match | Nối hình dạng với tên gọi vi khuẩn:
+1) Hình cầu | Cầu khuẩn
+2) Hình que | Trực khuẩn
+3) Hình xoắn | Xoắn khuẩn
+4) Hình dấu phẩy | Phẩy khuẩn
+E: Tên gọi theo hình dạng.
+Q: sa | Một vi khuẩn cứ 30 phút phân đôi một lần. Sau 3 giờ, từ 1 vi khuẩn tạo ra bao nhiêu vi khuẩn?
+ANS: 64
+E: 3 giờ = 180 phút; 180 : 30 = 6 lần; 2⁶ = 64.
+TL: Nêu 3 vai trò có lợi và 2 tác hại của vi khuẩn; đề xuất 3 biện pháp phòng bệnh do vi khuẩn.
+MAU: Có lợi: phân giải xác sinh vật; cố định đạm cho cây; làm sữa chua, dưa muối.
+MAU: Có hại: gây bệnh (tả, lao, thương hàn); làm hỏng thức ăn.
+MAU: Phòng bệnh: ăn chín uống sôi; rửa tay bằng xà phòng; tiêm vaccine, vệ sinh môi trường.
+TC: 3 vai trò có lợi | 1
+TC: 2 tác hại | 1
+TC: 3 biện pháp phòng bệnh | 1
+
 ### Bài 28. Thực hành: Làm sữa chua và quan sát vi khuẩn
+> Từ một ít sữa đặc, sữa chua cái và nước ấm, sau một đêm em đã có hũ sữa chua thơm ngon – nhờ "công nhân" vi khuẩn lactic.
+MT: Thực hiện được quy trình làm sữa chua.
+MT: Quan sát được vi khuẩn trong sữa chua (hoặc nước dưa muối) bằng kính hiển vi.
+MT: Giải thích được vai trò của vi khuẩn trong làm sữa chua.
+LT: 1. Chuẩn bị
+- 1 hộp sữa đặc có đường, 1 hộp sữa chua cái (sữa chua không đường làm men), nước sôi, nước nguội, cốc, thìa, hũ thủy tinh, nồi ủ (hoặc thùng xốp).
+LT: 2. Cách làm sữa chua
+- Đổ sữa đặc ra nồi, thêm nước sôi rồi nước nguội (tỉ lệ khoảng 1 phần sữa : 3 phần nước), khuấy đều để hỗn hợp **ấm khoảng 40 °C**.
+- Cho **sữa chua cái** vào, khuấy đều.
+- Rót vào hũ, đậy nắp, **ủ ấm 6 – 8 giờ** (khoảng 40 °C). Sau đó cho vào tủ lạnh.
+HINH: 6-khtn/lam-sua-chua.svg | Quy trình làm sữa chua: pha sữa ấm khoảng 40 °C → thêm sữa chua cái (men) → rót hũ → ủ ấm 6 – 8 giờ → bảo quản lạnh.
+LT: 3. Quan sát vi khuẩn
+- Lấy một ít sữa chua pha loãng, nhỏ lên lam kính, nhuộm, đậy lamen, quan sát ở vật kính 40x: thấy vi khuẩn lactic hình que nhỏ, xếp thành chuỗi.
+- Giải thích: vi khuẩn lactic biến đổi đường trong sữa thành **acid lactic** làm sữa đông tụ, có vị chua.
+DB: Dạng 1. Sắp xếp quy trình
+- Pha sữa ấm → thêm men → rót hũ → ủ ấm → bảo quản lạnh.
+DB: Dạng 2. Giải thích điều kiện
+- 40 °C thích hợp cho vi khuẩn lactic; nước quá nóng làm chết vi khuẩn; quá lạnh vi khuẩn hoạt động chậm.
+DB: Dạng 3. Tính tỉ lệ nguyên liệu
+- Theo tỉ lệ sữa : nước.
+VD: Vì sao không cho sữa chua cái vào khi hỗn hợp sữa còn rất nóng?
+B: Nhiệt độ cao làm chết vi khuẩn lactic có trong sữa chua cái.
+KQ: Phải để hỗn hợp nguội còn khoảng 40 °C rồi mới cho men vào.
+VD: Pha theo tỉ lệ 1 phần sữa đặc : 3 phần nước. Dùng 380 mL sữa đặc thì cần bao nhiêu mL nước?
+B: Lượng nước = 3 × lượng sữa.
+KQ: 3 × 380 = 1140 mL nước.
+GN: Nhiệt độ ủ khoảng 40 °C.
+GN: Dụng cụ phải sạch, tráng nước sôi để tránh vi khuẩn có hại.
+GN: Sữa chua làm xong bảo quản trong tủ lạnh.
+Q: mc | Vi khuẩn tham gia làm sữa chua là
+A) vi khuẩn lao
+B) vi khuẩn lactic *
+C) vi khuẩn tả
+D) vi khuẩn nốt sần
+E: Vi khuẩn lactic lên men đường thành acid lactic.
+Q: mc | Nhiệt độ thích hợp để ủ sữa chua khoảng
+A) 0 °C
+B) 10 °C
+C) 40 °C *
+D) 100 °C
+E: Khoảng 40 °C vi khuẩn lactic hoạt động tốt.
+Q: ord | Sắp xếp các bước làm sữa chua:
+1) Pha sữa đặc với nước, để ấm khoảng 40 °C
+2) Cho sữa chua cái vào, khuấy đều
+3) Rót vào hũ, đậy nắp
+4) Ủ ấm 6 – 8 giờ
+5) Cho vào tủ lạnh bảo quản
+E: Pha → thêm men → rót hũ → ủ → bảo quản.
+Q: tf | Về làm sữa chua:
+a) Sữa chua có vị chua do acid lactic. | Đ
+b) Cho men vào sữa đang sôi để vi khuẩn phát triển nhanh. | S
+c) Dụng cụ cần sạch, tráng nước sôi. | Đ
+d) Vi khuẩn lactic có thể quan sát bằng kính hiển vi. | Đ
+E: Nước sôi làm chết vi khuẩn lactic.
+Q: sa | Pha theo tỉ lệ 1 phần sữa đặc : 3 phần nước. Có 1200 mL nước thì cần bao nhiêu mL sữa đặc?
+ANS: 400
+E: 1200 : 3 = 400 mL.
+TL: Bạn Lan làm sữa chua nhưng sau 8 giờ sữa vẫn lỏng, không đông. Hãy nêu các nguyên nhân có thể và cách khắc phục.
+MAU: Cho men khi sữa còn quá nóng → vi khuẩn chết; khắc phục: để sữa ấm khoảng 40 °C.
+MAU: Ủ ở nơi lạnh → vi khuẩn hoạt động yếu; khắc phục: ủ trong thùng xốp, nồi ủ giữ ấm.
+MAU: Sữa chua cái đã cũ, hết men; khắc phục: dùng sữa chua cái mới, còn hạn.
+TC: Mỗi nguyên nhân và cách khắc phục hợp lí | 3
+
 ### Bài 29. Virus
+> Virus nhỏ hơn vi khuẩn hàng chục, hàng trăm lần, không thể tự sống – nhưng có thể gây ra những đại dịch như cúm, COVID-19.
+MT: Nêu được hình dạng, cấu tạo đơn giản của virus; phân biệt virus và vi khuẩn.
+MT: Nêu được một số bệnh do virus và cách phòng tránh.
+MT: Nêu được vai trò, ứng dụng của virus (sản xuất vaccine…).
+LT: 1. Hình dạng và cấu tạo
+- **Virus** có kích thước **rất nhỏ** (khoảng 20 – 300 nm), chỉ quan sát được bằng **kính hiển vi điện tử**.
+- **Chưa có cấu tạo tế bào**: gồm **vỏ protein** và **lõi là vật chất di truyền**; một số có thêm vỏ ngoài.
+- Hình dạng: **xoắn** (virus khảm thuốc lá), **khối** (virus bại liệt, virus cúm), **hỗn hợp** (thể thực khuẩn – virus kí sinh vi khuẩn).
+- Virus **chỉ sống kí sinh** trong tế bào sống; ra ngoài tế bào chúng không biểu hiện sự sống.
+HINH: 6-khtn/virus.svg | Ba dạng cấu trúc của virus: dạng xoắn, dạng khối và dạng hỗn hợp; virus gồm vỏ protein bao quanh lõi vật chất di truyền.
+LT: 2. Bệnh do virus và phòng tránh
+- Ở người: cúm, sởi, thủy đậu, quai bị, COVID-19, sốt xuất huyết, viêm gan B, HIV/AIDS…; ở động vật: lở mồm long móng, cúm gia cầm; ở thực vật: khảm thuốc lá, xoăn lá cà chua.
+- Phòng bệnh: **tiêm vaccine**; đeo khẩu trang, rửa tay; giữ vệ sinh; diệt muỗi (sốt xuất huyết); cách li người bệnh.
+- Lưu ý: **kháng sinh không có tác dụng** diệt virus.
+LT: 3. Vai trò của virus
+- Sản xuất **vaccine**, chế phẩm sinh học (thuốc trừ sâu từ virus), dùng trong nghiên cứu khoa học.
+DB: Dạng 1. So sánh virus và vi khuẩn
+- Virus: chưa có cấu tạo tế bào, kí sinh bắt buộc, kính hiển vi điện tử; vi khuẩn: tế bào nhân sơ, kính hiển vi quang học.
+DB: Dạng 2. Nhận biết bệnh do virus
+- Cúm, sởi, thủy đậu, COVID-19, sốt xuất huyết…
+DB: Dạng 3. Đề xuất biện pháp phòng bệnh
+- Vaccine, vệ sinh, khẩu trang, diệt vật trung gian truyền bệnh.
+VD: Vì sao khi bị cúm do virus, không nên tự ý uống kháng sinh?
+B: Kháng sinh chỉ có tác dụng với vi khuẩn, không diệt được virus.
+KQ: Uống kháng sinh vô ích lại gây hại (kháng kháng sinh, hại cơ thể); cần nghỉ ngơi, theo chỉ dẫn bác sĩ.
+VD: Một virus có kích thước 100 nm. Một vi khuẩn dài 2 µm. Vi khuẩn dài gấp bao nhiêu lần virus? (1 µm = 1000 nm)
+B: 2 µm = 2000 nm.
+KQ: 2000 : 100 = 20 lần.
+GN: Virus chưa có cấu tạo tế bào, chỉ sống kí sinh.
+GN: Vaccine là cách phòng bệnh do virus hiệu quả.
+GN: Kháng sinh không diệt được virus.
+Q: mc | Virus có cấu tạo gồm
+A) màng tế bào, tế bào chất, nhân
+B) vỏ protein và lõi vật chất di truyền *
+C) thành tế bào, vùng nhân
+D) nhiều tế bào
+E: Virus chưa có cấu tạo tế bào.
+Q: mc | Bệnh nào sau đây do virus gây ra?
+A) Lao
+B) Tả
+C) Thủy đậu *
+D) Uốn ván
+E: Thủy đậu do virus; lao, tả, uốn ván do vi khuẩn.
+Q: tf | Về virus:
+a) Virus có thể quan sát bằng kính hiển vi quang học. | S
+b) Virus chỉ sống kí sinh trong tế bào sống. | Đ
+c) Kháng sinh diệt được virus cúm. | S
+d) Tiêm vaccine giúp phòng bệnh do virus. | Đ
+E: Virus cần kính hiển vi điện tử; kháng sinh không diệt virus.
+Q: match | Nối bệnh với tác nhân gây bệnh:
+1) Bệnh cúm | Virus
+2) Bệnh lao | Vi khuẩn
+3) Bệnh sởi | Virus
+4) Bệnh tả | Vi khuẩn
+E: Phân biệt bệnh do virus và do vi khuẩn.
+Q: sa | Một vi khuẩn dài 3 µm, một virus có kích thước 150 nm. Vi khuẩn dài gấp bao nhiêu lần virus? (1 µm = 1000 nm)
+ANS: 20
+E: 3000 : 150 = 20 lần.
+TL: Lập bảng so sánh virus và vi khuẩn (cấu tạo, kích thước, cách sống, cách phòng bệnh).
+MAU: Cấu tạo: virus chưa có cấu tạo tế bào (vỏ protein + lõi); vi khuẩn là tế bào nhân sơ.
+MAU: Kích thước: virus rất nhỏ (nm), cần kính hiển vi điện tử; vi khuẩn lớn hơn (µm), quan sát bằng kính hiển vi quang học.
+MAU: Cách sống: virus kí sinh bắt buộc; vi khuẩn có thể sống tự do hoặc kí sinh.
+MAU: Phòng/chữa: virus – vaccine, không dùng kháng sinh; vi khuẩn – vệ sinh, vaccine, kháng sinh theo chỉ định.
+TC: So sánh cấu tạo, kích thước | 1
+TC: So sánh cách sống | 1
+TC: So sánh cách phòng, chữa | 1
+
 ### Bài 30. Nguyên sinh vật
+> Váng xanh trên mặt ao, "trùng" gây bệnh sốt rét, tảo biển làm thạch rau câu… đều là nguyên sinh vật – những sinh vật nhỏ bé nhưng vô cùng đa dạng.
+MT: Nêu được hình dạng, cấu tạo của một số nguyên sinh vật.
+MT: Nêu được vai trò của nguyên sinh vật trong tự nhiên và đời sống.
+MT: Nêu được một số bệnh do nguyên sinh vật (sốt rét, kiết lị) và cách phòng tránh.
+LT: 1. Đa dạng nguyên sinh vật
+- **Nguyên sinh vật** phần lớn là sinh vật **đơn bào, nhân thực**, kích thước hiển vi; một số đa bào (tảo).
+- Hình dạng đa dạng: trùng roi (hình thoi, có roi), trùng giày (hình giày), trùng biến hình (không cố định), tảo silic, tảo lục…
+- Một số có **lục lạp**, tự tổng hợp chất hữu cơ (tảo, trùng roi xanh); một số lấy thức ăn có sẵn (trùng giày, trùng biến hình).
+HINH: 6-khtn/nguyen-sinh-vat.svg | Một số nguyên sinh vật: trùng roi xanh, trùng giày, trùng biến hình, tảo silic, trùng sốt rét trong hồng cầu.
+LT: 2. Vai trò
+- **Trong tự nhiên**: tảo cung cấp oxygen, là thức ăn cho động vật thủy sinh.
+- **Với con người**: tảo làm thực phẩm (rong biển), làm thạch (agar), dược phẩm; chỉ thị độ sạch của nước.
+LT: 3. Bệnh do nguyên sinh vật
+- **Sốt rét**: do **trùng sốt rét** kí sinh trong hồng cầu, lây qua muỗi *Anopheles*; triệu chứng sốt cao, rét run, vã mồ hôi.
+- **Kiết lị**: do **trùng kiết lị** lây qua đường ăn uống; gây đau bụng, đi ngoài phân có máu, chất nhầy.
+- Phòng bệnh: ngủ màn, diệt muỗi, phát quang bụi rậm; ăn chín uống sôi, rửa tay sạch.
+DB: Dạng 1. Nhận biết nguyên sinh vật
+- Đơn bào, nhân thực, kích thước hiển vi.
+DB: Dạng 2. Phân biệt bệnh sốt rét – kiết lị
+- Tác nhân, đường lây, triệu chứng, cách phòng.
+DB: Dạng 3. Giải thích biện pháp phòng bệnh
+- Cắt đứt con đường lây truyền.
+VD: Vì sao ngủ màn là biện pháp phòng bệnh sốt rét hiệu quả?
+B: Bệnh sốt rét lây qua vết đốt của muỗi Anopheles mang trùng sốt rét.
+KQ: Ngủ màn ngăn muỗi đốt, cắt đường lây truyền bệnh.
+VD: Tảo xoắn có lục lạp. Tảo xoắn tự dưỡng hay dị dưỡng?
+B: Có lục lạp → quang hợp, tự tổng hợp chất hữu cơ.
+KQ: Tảo xoắn là sinh vật tự dưỡng.
+GN: Nguyên sinh vật: chủ yếu đơn bào, nhân thực.
+GN: Sốt rét lây qua muỗi; kiết lị lây qua đường tiêu hóa.
+GN: Tảo cung cấp oxygen và thức ăn cho sinh vật dưới nước.
+Q: mc | Bệnh sốt rét do tác nhân nào gây ra?
+A) Vi khuẩn
+B) Virus
+C) Trùng sốt rét *
+D) Nấm
+E: Trùng sốt rét là nguyên sinh vật kí sinh trong hồng cầu.
+Q: mc | Bệnh kiết lị lây truyền chủ yếu qua
+A) đường hô hấp
+B) đường ăn uống *
+C) vết đốt của muỗi
+D) tiếp xúc da
+E: Bào xác trùng kiết lị theo thức ăn, nước uống vào ruột.
+Q: tf | Về nguyên sinh vật:
+a) Phần lớn nguyên sinh vật là đơn bào, nhân thực. | Đ
+b) Tảo không có vai trò gì trong tự nhiên. | S
+c) Trùng roi xanh có lục lạp. | Đ
+d) Phát quang bụi rậm giúp hạn chế muỗi truyền bệnh sốt rét. | Đ
+E: Tảo cung cấp oxygen, thức ăn cho động vật thủy sinh.
+Q: match | Nối nguyên sinh vật với đặc điểm:
+1) Trùng sốt rét | Kí sinh trong hồng cầu người
+2) Trùng giày | Di chuyển bằng lông bơi
+3) Trùng roi xanh | Có roi và lục lạp
+4) Tảo biển | Làm thực phẩm, thạch agar
+E: Mỗi nguyên sinh vật có đặc điểm riêng.
+Q: sa | Một xã có 2000 người, năm trước có 40 người mắc sốt rét. Tỉ lệ người mắc bệnh là bao nhiêu phần trăm?
+ANS: 2
+E: 40 : 2000 × 100% = 2%.
+TL: Trình bày nguyên nhân, đường lây và biện pháp phòng bệnh sốt rét.
+MAU: Nguyên nhân: do trùng sốt rét kí sinh trong máu (hồng cầu) người.
+MAU: Đường lây: muỗi Anopheles đốt người bệnh hút trùng sốt rét, rồi đốt người lành truyền bệnh.
+MAU: Phòng bệnh: ngủ màn, mặc quần áo dài, dùng thuốc xua muỗi; diệt muỗi, bọ gậy; phát quang bụi rậm, khơi thông cống rãnh.
+TC: Nêu đúng nguyên nhân | 1
+TC: Nêu đúng đường lây | 1
+TC: Biện pháp phòng bệnh hợp lí | 1
+
 ### Bài 31. Thực hành: Quan sát nguyên sinh vật
+> Giọt nước ao tưởng như trong veo lại là "ngôi nhà" của trùng roi, trùng giày, tảo… Hãy cùng soi kính hiển vi để gặp họ!
+MT: Làm được tiêu bản giọt nước ao để quan sát nguyên sinh vật.
+MT: Quan sát, vẽ và mô tả được trùng roi, trùng giày, tảo.
+MT: Viết được báo cáo thực hành.
+LT: 1. Chuẩn bị
+- Kính hiển vi, lam kính, lamen, ống nhỏ giọt, giấy thấm; một ít bông (để hạn chế trùng bơi nhanh).
+- Mẫu: nước ao, hồ, nước ngâm rơm rạ (5 – 7 ngày).
+LT: 2. Cách tiến hành
+- Dùng ống nhỏ giọt lấy nước ở **lớp váng mặt** (nơi có nhiều nguyên sinh vật), nhỏ 1 giọt lên lam kính.
+- Đặt vài sợi bông mỏng lên giọt nước để **cản bớt** sự di chuyển của trùng, đậy lamen.
+- Quan sát ở vật kính 10x tìm mẫu, chuyển sang 40x quan sát chi tiết; vẽ hình.
+HINH: 6-khtn/th-nguyen-sinh.svg | Nguyên sinh vật trong giọt nước ao: trùng roi (hình thoi, có roi), trùng giày (hình chiếc giày, lông bơi), tảo lục (sợi xoắn có lục lạp).
+LT: 3. Kết quả cần quan sát
+- **Trùng roi**: hình thoi, đầu có roi dài, màu xanh lục, bơi xoay tròn.
+- **Trùng giày**: hình chiếc giày, có lông bơi quanh cơ thể, bơi nhanh.
+- **Tảo**: dạng sợi hoặc đơn bào, màu xanh lục.
+DB: Dạng 1. Giải thích thao tác
+- Lấy nước lớp váng; đặt sợi bông để trùng bơi chậm lại, dễ quan sát.
+DB: Dạng 2. Nhận biết nguyên sinh vật qua mô tả
+- Dựa vào hình dạng, cơ quan di chuyển, màu sắc.
+DB: Dạng 3. Viết báo cáo thực hành
+- Mục đích – chuẩn bị – cách làm – kết quả (hình vẽ) – kết luận.
+VD: Vì sao nên đặt vài sợi bông lên giọt nước trước khi đậy lamen?
+B: Trùng giày, trùng roi bơi rất nhanh, khó quan sát.
+KQ: Sợi bông cản bớt sự di chuyển, giúp quan sát rõ hơn.
+VD: Trên tiêu bản thấy sinh vật hình chiếc giày, quanh cơ thể có nhiều lông nhỏ. Đó là sinh vật gì?
+B: Hình chiếc giày, có lông bơi.
+KQ: Đó là trùng giày.
+GN: Lấy nước ở lớp váng mặt.
+GN: Quan sát từ vật kính nhỏ đến lớn.
+GN: Rửa tay sạch sau khi thực hành với nước ao.
+Q: mc | Mục đích đặt vài sợi bông lên giọt nước khi làm tiêu bản là
+A) làm nước sạch hơn
+B) cản bớt sự di chuyển của trùng *
+C) cung cấp thức ăn cho trùng
+D) giữ lamen không vỡ
+E: Trùng bị cản lại nên dễ quan sát.
+Q: mc | Nguyên sinh vật có hình thoi, có roi, màu xanh lục là
+A) trùng giày
+B) trùng biến hình
+C) trùng roi xanh *
+D) trùng sốt rét
+E: Trùng roi xanh có roi và lục lạp.
+Q: ord | Sắp xếp các bước làm tiêu bản quan sát nguyên sinh vật:
+1) Lấy nước ở lớp váng mặt bằng ống nhỏ giọt
+2) Nhỏ một giọt lên lam kính
+3) Đặt vài sợi bông mỏng lên giọt nước
+4) Đậy lamen
+5) Quan sát ở vật kính 10x rồi 40x
+E: Lấy mẫu → nhỏ lên lam → đặt bông → lamen → quan sát.
+Q: tf | Về bài thực hành quan sát nguyên sinh vật:
+a) Nước ngâm rơm rạ vài ngày có nhiều nguyên sinh vật. | Đ
+b) Trùng giày di chuyển nhờ lông bơi. | Đ
+c) Nên quan sát ngay bằng vật kính 100x. | S
+d) Tảo lục có màu xanh do có lục lạp. | Đ
+E: Bắt đầu bằng vật kính nhỏ để tìm mẫu.
+Q: sa | Quan sát 4 vi trường, đếm được lần lượt 5, 7, 6, 6 trùng giày. Trung bình mỗi vi trường có bao nhiêu trùng giày?
+ANS: 6
+E: (5 + 7 + 6 + 6) : 4 = 6.
+TL: Viết báo cáo thực hành quan sát nguyên sinh vật trong giọt nước ao.
+MAU: Mục đích: quan sát, nhận biết một số nguyên sinh vật trong nước ao.
+MAU: Cách làm: lấy nước lớp váng, nhỏ lên lam kính, đặt sợi bông, đậy lamen, quan sát vật kính 10x rồi 40x.
+MAU: Kết quả: thấy trùng roi (hình thoi, có roi), trùng giày (hình giày, lông bơi), tảo lục (màu xanh) – có hình vẽ.
+MAU: Kết luận: nước ao có nhiều nguyên sinh vật đa dạng về hình dạng và cách di chuyển.
+TC: Mục đích, cách làm đúng | 1
+TC: Kết quả có mô tả, hình vẽ | 1
+TC: Kết luận đúng | 1
+
 ### Bài 32. Nấm
 ### Bài 33. Thực hành: Quan sát các loại nấm
 ### Bài 34. Thực vật
