@@ -2,13 +2,544 @@
 # 6 | khtn | Khoa học tự nhiên 6
 ## Chương I. Mở đầu về Khoa học tự nhiên
 ### Bài 1. Giới thiệu về Khoa học tự nhiên
+> Vì sao trời mưa lại có cầu vồng? Vì sao cây xanh cần ánh sáng? Khoa học tự nhiên giúp em trả lời những câu hỏi "vì sao" quanh mình.
+MT: Nêu được khái niệm Khoa học tự nhiên.
+MT: Trình bày được vai trò của Khoa học tự nhiên trong cuộc sống.
+MT: Phân biệt được các lĩnh vực chính của Khoa học tự nhiên; phân biệt vật sống và vật không sống.
+LT: 1. Khoa học tự nhiên là gì?
+- **Khoa học tự nhiên** là một nhánh của khoa học, nghiên cứu các **sự vật, hiện tượng, quy luật tự nhiên**, những ảnh hưởng của chúng đến cuộc sống con người và môi trường.
+- Hoạt động nghiên cứu khoa học: quan sát, đặt câu hỏi, làm thí nghiệm, rút ra kết luận.
+LT: 2. Vai trò của Khoa học tự nhiên
+- Cung cấp **thông tin và nâng cao hiểu biết** của con người.
+- **Mở rộng sản xuất, phát triển kinh tế** (máy móc, giống cây trồng mới…).
+- **Bảo vệ sức khỏe** (thuốc, vaccine, thiết bị y tế).
+- **Bảo vệ môi trường**, ứng phó biến đổi khí hậu.
+LT: 3. Các lĩnh vực chính
+- **Vật lí học**: vật chất, năng lượng, chuyển động, lực, ánh sáng, âm thanh, điện…
+- **Hóa học**: chất và sự biến đổi của chất.
+- **Sinh học**: vật sống và các hoạt động sống.
+- **Khoa học Trái Đất** và **Thiên văn học**: Trái Đất, bầu trời, vũ trụ.
+HINH: 6-khtn/linh-vuc-khtn.svg | Các lĩnh vực chính của Khoa học tự nhiên: Vật lí, Hóa học, Sinh học, Khoa học Trái Đất, Thiên văn học.
+LT: 4. Vật sống và vật không sống
+- **Vật sống** có các đặc điểm: trao đổi chất, lớn lên, sinh sản, cảm ứng (con mèo, cây lúa, vi khuẩn).
+- **Vật không sống** không có các đặc điểm trên (hòn đá, cái bàn, chiếc xe đạp).
+DB: Dạng 1. Xác định hoạt động có phải nghiên cứu khoa học không
+- Có quan sát, thí nghiệm, tìm hiểu quy luật tự nhiên → là hoạt động nghiên cứu khoa học.
+DB: Dạng 2. Xếp hiện tượng vào lĩnh vực
+- Liên quan chuyển động, lực, ánh sáng, điện → Vật lí; chất biến đổi → Hóa học; sinh vật → Sinh học; Trái Đất, bầu trời → KH Trái Đất, Thiên văn.
+DB: Dạng 3. Phân biệt vật sống, vật không sống
+- Kiểm tra 4 đặc điểm: trao đổi chất, lớn lên, sinh sản, cảm ứng.
+VD: Hiện tượng "cây xanh hướng về phía ánh sáng" thuộc lĩnh vực nào?
+B: Đối tượng nghiên cứu là cây xanh – một sinh vật.
+KQ: Thuộc lĩnh vực Sinh học.
+VD: Chiếc ô tô chuyển động, "uống" xăng và thải khói. Ô tô có phải vật sống không?
+B: Ô tô không tự lớn lên, không sinh sản, không cảm ứng như sinh vật.
+KQ: Ô tô là vật không sống.
+GN: KHTN nghiên cứu sự vật, hiện tượng, quy luật tự nhiên.
+GN: 4 đặc điểm của vật sống: trao đổi chất, lớn lên, sinh sản, cảm ứng.
+GN: Các lĩnh vực KHTN liên quan chặt chẽ với nhau.
+Q: mc | Hoạt động nào sau đây là hoạt động nghiên cứu khoa học?
+A) Chơi đá bóng
+B) Theo dõi, ghi chép sự nảy mầm của hạt đậu mỗi ngày *
+C) Đi chợ mua rau
+D) Xem phim hoạt hình
+E: Quan sát, ghi chép có hệ thống để tìm hiểu tự nhiên là nghiên cứu khoa học.
+Q: mc | Vật nào sau đây là vật sống?
+A) Hòn đá
+B) Con gà *
+C) Cái bàn
+D) Quả bóng
+E: Con gà trao đổi chất, lớn lên, sinh sản, cảm ứng.
+Q: tf | Về Khoa học tự nhiên:
+a) Sự biến đổi của chất là đối tượng của Hóa học. | Đ
+b) Khoa học tự nhiên không liên quan đến bảo vệ môi trường. | S
+c) Sản xuất vaccine là một ứng dụng của KHTN để bảo vệ sức khỏe. | Đ
+d) Chuyển động của Mặt Trăng quanh Trái Đất thuộc Thiên văn học. | Đ
+E: KHTN có vai trò quan trọng trong bảo vệ môi trường.
+Q: match | Nối hiện tượng với lĩnh vực nghiên cứu:
+1) Quả táo rơi xuống đất | Vật lí học
+2) Sắt để lâu ngoài không khí bị gỉ | Hóa học
+3) Hạt đậu nảy mầm | Sinh học
+4) Nhật thực | Thiên văn học
+E: Xác định đối tượng nghiên cứu của từng hiện tượng.
+Q: sa | Trong các vật: con mèo, cây lúa, cái ghế, vi khuẩn, hòn đá, con cá. Có bao nhiêu vật sống?
+ANS: 4
+E: Con mèo, cây lúa, vi khuẩn, con cá là vật sống.
+TL: Hãy nêu 3 ứng dụng của Khoa học tự nhiên trong đời sống gia đình em và cho biết mỗi ứng dụng thuộc lĩnh vực nào.
+MAU: Tủ lạnh bảo quản thực phẩm – Vật lí (nhiệt học).
+MAU: Dùng nước rửa chén, xà phòng làm sạch dầu mỡ – Hóa học.
+MAU: Trồng rau sạch, chọn giống cây tốt, tiêm vaccine – Sinh học.
+TC: Mỗi ứng dụng đúng và xếp đúng lĩnh vực | 3
+
 ### Bài 2. An toàn trong phòng thực hành
+> Phòng thực hành có hóa chất, dụng cụ thủy tinh, nguồn điện… Chỉ cần một chút bất cẩn là có thể gây tai nạn. Biết quy tắc an toàn là bước đầu tiên của nhà khoa học nhỏ.
+MT: Nêu được các quy định an toàn khi học trong phòng thực hành.
+MT: Phân biệt được các kí hiệu cảnh báo trong phòng thực hành.
+MT: Nhận biết được một số dụng cụ và hóa chất thường dùng.
+LT: 1. Quy định an toàn trong phòng thực hành
+- **Trước khi làm**: mặc trang phục gọn gàng, đeo kính, găng tay khi cần; chỉ vào phòng khi có giáo viên; đọc kĩ hướng dẫn.
+- **Trong khi làm**: làm theo hướng dẫn; **không** ăn uống, đùa nghịch; không tự ý nếm, ngửi trực tiếp hóa chất; báo ngay giáo viên khi gặp sự cố (đổ hóa chất, vỡ ống nghiệm, cháy).
+- **Sau khi làm**: thu gom hóa chất, rác thải đúng nơi quy định; lau dọn chỗ làm; rửa tay sạch bằng xà phòng.
+LT: 2. Kí hiệu cảnh báo
+- **Hình tam giác viền đen, nền vàng**: cảnh báo nguy hiểm (chất độc, chất ăn mòn, điện cao thế, chất dễ cháy…).
+- **Hình tròn viền đỏ, nền trắng**: cấm (cấm lửa, cấm uống nước, cấm sử dụng điện thoại).
+- **Hình tròn nền xanh**: bắt buộc thực hiện (đeo găng tay, đeo kính).
+HINH: 6-khtn/bien-canh-bao.svg | Ba nhóm kí hiệu trong phòng thực hành: biển cảnh báo (tam giác vàng), biển cấm (tròn viền đỏ), biển bắt buộc (tròn xanh).
+LT: 3. Dụng cụ thường dùng
+- Dụng cụ thủy tinh: ống nghiệm, cốc thủy tinh, ống đong, bình tam giác, phễu…
+- Dụng cụ đo: cân, nhiệt kế, đồng hồ bấm giây, thước; thiết bị điện: nguồn điện, dây nối, công tắc.
+DB: Dạng 1. Nhận xét hành vi đúng, sai
+- So sánh hành vi với quy định trước, trong và sau khi thực hành.
+DB: Dạng 2. Nhận biết ý nghĩa kí hiệu
+- Dựa vào hình dạng và màu sắc: tam giác vàng – cảnh báo; tròn đỏ – cấm; tròn xanh – bắt buộc.
+DB: Dạng 3. Xử lí tình huống
+- Báo ngay giáo viên; không tự xử lí hóa chất lạ; rửa vùng da dính hóa chất bằng nhiều nước sạch.
+VD: Bạn An dùng tay không cầm ống nghiệm đang đun nóng. Việc làm này đúng hay sai? Vì sao?
+B: Ống nghiệm đang nóng có thể gây bỏng tay.
+KQ: Sai. Phải dùng kẹp ống nghiệm.
+VD: Biển hình tròn viền đỏ có ngọn lửa bị gạch chéo có ý nghĩa gì?
+B: Hình tròn viền đỏ là biển cấm.
+KQ: Cấm lửa (không được dùng lửa, đánh diêm ở nơi này).
+GN: Không ăn uống, không nếm, không ngửi trực tiếp hóa chất.
+GN: Gặp sự cố phải báo ngay giáo viên.
+GN: Rửa tay sạch sau khi thực hành.
+Q: mc | Biển báo hình tam giác, nền vàng, viền đen có ý nghĩa là
+A) biển cấm
+B) biển cảnh báo nguy hiểm *
+C) biển bắt buộc thực hiện
+D) biển chỉ dẫn lối thoát
+E: Tam giác vàng viền đen là biển cảnh báo.
+Q: mc | Khi làm vỡ ống nghiệm trong phòng thực hành, em cần
+A) dùng tay nhặt ngay mảnh vỡ
+B) giấu mảnh vỡ vào thùng rác
+C) báo ngay cho giáo viên *
+D) tiếp tục làm thí nghiệm
+E: Mảnh thủy tinh dễ gây đứt tay; cần báo giáo viên để xử lí an toàn.
+Q: tf | Về an toàn trong phòng thực hành:
+a) Có thể ăn bánh khi đang làm thí nghiệm nếu đói. | S
+b) Phải đeo kính bảo hộ khi làm thí nghiệm có hóa chất. | Đ
+c) Được tự ý trộn các hóa chất để xem hiện tượng. | S
+d) Rửa tay bằng xà phòng sau khi thực hành. | Đ
+E: Không ăn uống và không tự ý trộn hóa chất trong phòng thực hành.
+Q: match | Nối kí hiệu với ý nghĩa:
+1) Tam giác vàng có hình đầu lâu | Cảnh báo chất độc
+2) Tròn viền đỏ có ngọn lửa gạch chéo | Cấm lửa
+3) Tròn xanh có hình găng tay | Bắt buộc đeo găng tay
+4) Tam giác vàng có tia sét | Cảnh báo điện cao thế
+E: Hình dạng và màu sắc cho biết loại biển; hình vẽ bên trong cho biết nội dung.
+Q: ord | Sắp xếp các việc cần làm sau khi kết thúc buổi thực hành:
+1) Tắt nguồn điện, thiết bị
+2) Thu gom hóa chất, rác thải đúng nơi quy định
+3) Lau dọn, sắp xếp dụng cụ về chỗ cũ
+4) Rửa tay sạch bằng xà phòng
+E: Đảm bảo an toàn trước, rồi thu dọn, cuối cùng vệ sinh cá nhân.
+TL: Em hãy nêu 3 việc làm sai thường gặp trong phòng thực hành và hậu quả có thể xảy ra.
+MAU: Ngửi trực tiếp hóa chất → có thể bị ngộ độc, tổn thương đường hô hấp.
+MAU: Đùa nghịch, chạy nhảy → làm đổ hóa chất, vỡ dụng cụ, gây thương tích.
+MAU: Dùng tay ướt cắm điện → bị điện giật.
+TC: Mỗi việc làm sai và hậu quả đúng | 3
+
 ### Bài 3. Sử dụng kính lúp
+> Con kiến, sợi tóc, vân tay… nhìn bằng mắt thường thì bé xíu, nhưng qua kính lúp lại hiện ra rõ từng chi tiết.
+MT: Nêu được cấu tạo và công dụng của kính lúp.
+MT: Sử dụng được kính lúp đúng cách để quan sát vật nhỏ.
+MT: Biết cách bảo quản kính lúp.
+LT: 1. Cấu tạo và công dụng
+- Kính lúp gồm **tấm kính lồi** (dày ở giữa, mỏng ở mép), có **khung** và **tay cầm**.
+- Công dụng: **phóng to ảnh** của vật nhỏ, giúp quan sát rõ hơn (côn trùng, gân lá, chữ nhỏ). Độ phóng đại thường từ 3 – 20 lần (kí hiệu 3x … 20x).
+LT: 2. Cách sử dụng
+- Tay trái cầm kính, để mặt kính **gần sát vật** cần quan sát.
+- Mắt nhìn vào mặt kính, **từ từ đưa kính ra xa vật** đến khi thấy ảnh rõ nét nhất.
+HINH: 6-khtn/kinh-lup.svg | Cấu tạo kính lúp và cách dùng: đặt kính gần vật, mắt nhìn qua kính, di chuyển kính cho đến khi ảnh to và rõ nét.
+LT: 3. Bảo quản
+- Lau mặt kính bằng khăn mềm hoặc giấy lau kính; không dùng tay sờ vào mặt kính.
+- Không dùng kính lúp hội tụ ánh nắng Mặt Trời vào mắt hoặc vào vật dễ cháy.
+DB: Dạng 1. Nhận biết cấu tạo
+- Mặt kính lồi, khung, tay cầm.
+DB: Dạng 2. Sắp xếp các bước sử dụng
+- Đặt kính gần vật → mắt nhìn qua kính → di chuyển kính ra xa dần → dừng khi ảnh rõ nét.
+DB: Dạng 3. Tính kích thước ảnh
+- Kích thước ảnh ≈ kích thước vật × độ phóng đại.
+VD: Dùng kính lúp 5x quan sát một con kiến dài 3 mm. Ảnh con kiến dài khoảng bao nhiêu?
+B: Kích thước ảnh = 3 × 5.
+KQ: Khoảng 15 mm.
+VD: Vì sao không được dùng kính lúp hướng ánh nắng vào giấy, lá khô?
+B: Kính lúp hội tụ ánh sáng Mặt Trời tại một điểm, làm điểm đó nóng lên rất nhanh.
+KQ: Giấy, lá khô có thể bốc cháy, gây hỏa hoạn.
+GN: Kính lúp có mặt kính lồi, phóng to ảnh của vật.
+GN: Bắt đầu đặt kính gần vật rồi đưa ra xa dần.
+GN: Không nhìn Mặt Trời qua kính lúp.
+Q: mc | Kính lúp được dùng để
+A) quan sát vật ở rất xa
+B) quan sát vật nhỏ được phóng to *
+C) đo chiều dài vật
+D) quan sát tế bào vi khuẩn
+E: Kính lúp phóng to ảnh của vật nhỏ khoảng 3 – 20 lần.
+Q: mc | Bộ phận chính của kính lúp là
+A) tấm kính lồi *
+B) tấm kính phẳng
+C) gương cầu lõm
+D) bóng đèn
+E: Tấm kính lồi (thấu kính hội tụ) tạo ảnh phóng to.
+Q: ord | Sắp xếp các bước sử dụng kính lúp:
+1) Tay cầm kính, đặt mặt kính gần sát vật
+2) Mắt nhìn vào mặt kính
+3) Từ từ đưa kính ra xa vật
+4) Dừng lại khi nhìn thấy ảnh rõ nét
+E: Đặt gần rồi đưa ra xa dần đến khi ảnh rõ.
+Q: tf | Về kính lúp:
+a) Kính lúp có thể quan sát được virus. | S
+b) Có thể dùng kính lúp để đọc chữ quá nhỏ. | Đ
+c) Nên lau mặt kính bằng khăn mềm. | Đ
+d) Có thể nhìn Mặt Trời qua kính lúp. | S
+E: Virus quá nhỏ, phải dùng kính hiển vi điện tử; nhìn Mặt Trời qua kính lúp gây hỏng mắt.
+Q: sa | Dùng kính lúp 10x quan sát một hạt cát đường kính 0,8 mm. Ảnh của hạt cát có đường kính khoảng bao nhiêu mm?
+ANS: 8
+E: 0,8 × 10 = 8 mm.
+TL: Em hãy nêu cách sử dụng kính lúp để quan sát gân của một chiếc lá và những lưu ý khi sử dụng.
+MAU: Đặt lá trên mặt bàn có đủ ánh sáng; tay cầm kính, đặt mặt kính gần sát lá.
+MAU: Mắt nhìn vào kính, từ từ đưa kính lên cao đến khi thấy rõ gân lá thì dừng lại, quan sát và vẽ lại.
+MAU: Lưu ý: không chạm tay vào mặt kính, không hướng kính về phía Mặt Trời, cất kính vào hộp sau khi dùng.
+TC: Các bước đúng | 2
+TC: Lưu ý hợp lí | 1
+
 ### Bài 4. Sử dụng kính hiển vi quang học
+> Một giọt nước ao nhìn bằng mắt thường trong veo, nhưng dưới kính hiển vi lại là cả một "thế giới" sinh vật nhỏ bé đang bơi lội!
+MT: Nêu được cấu tạo của kính hiển vi quang học và chức năng các bộ phận.
+MT: Sử dụng được kính hiển vi quang học đúng cách.
+MT: Biết cách bảo quản kính hiển vi.
+LT: 1. Cấu tạo kính hiển vi quang học
+- **Hệ thống phóng đại**: **thị kính** (nơi mắt nhìn vào) và **vật kính** (gần vật, gắn trên đĩa quay).
+- **Hệ thống chiếu sáng**: đèn hoặc gương, màn chắn sáng.
+- **Hệ thống điều chỉnh**: **ốc to** (núm chỉnh thô) và **ốc nhỏ** (núm chỉnh tinh).
+- **Hệ thống giá đỡ**: chân kính, thân kính, **bàn kính** có kẹp tiêu bản.
+- Độ phóng đại = độ phóng đại thị kính × độ phóng đại vật kính (thường 40 – 3000 lần).
+HINH: 6-khtn/kinh-hien-vi.svg | Kính hiển vi quang học: thị kính, ống kính, đĩa quay gắn vật kính, bàn kính, kẹp tiêu bản, đèn chiếu sáng, ốc to, ốc nhỏ, chân kính.
+LT: 2. Cách sử dụng
+- Đặt kính nơi bằng phẳng, đủ sáng; điều chỉnh ánh sáng.
+- Đặt tiêu bản lên bàn kính, kẹp lại; vặn ốc to hạ vật kính sát tiêu bản (mắt nhìn từ bên ngoài).
+- Mắt nhìn vào thị kính, vặn ốc to nâng vật kính lên từ từ đến khi thấy vật; dùng ốc nhỏ chỉnh cho rõ nét.
+LT: 3. Bảo quản
+- Cầm kính bằng hai tay (một tay cầm thân, một tay đỡ chân kính).
+- Không để tay ướt, bẩn chạm vào kính; lau thị kính, vật kính bằng giấy chuyên dụng; cất trong hộp, nơi khô ráo.
+DB: Dạng 1. Gọi tên và chức năng các bộ phận
+- Thị kính, vật kính: phóng đại; ốc to, ốc nhỏ: điều chỉnh; bàn kính: đặt tiêu bản; đèn: chiếu sáng.
+DB: Dạng 2. Tính độ phóng đại
+- Độ phóng đại = thị kính × vật kính.
+DB: Dạng 3. Sắp xếp các bước sử dụng
+- Chuẩn bị → đặt tiêu bản → hạ vật kính → quan sát, chỉnh rõ nét.
+VD: Thị kính 10x, vật kính 40x. Độ phóng đại của kính là bao nhiêu?
+B: Độ phóng đại = 10 × 40.
+KQ: 400 lần.
+VD: Vì sao khi hạ vật kính xuống sát tiêu bản phải nhìn từ bên ngoài (không nhìn vào thị kính)?
+B: Nếu nhìn vào thị kính, ta không biết vật kính đã chạm tiêu bản chưa.
+KQ: Nhìn từ bên ngoài giúp tránh vật kính đè vỡ tiêu bản và hỏng vật kính.
+GN: Độ phóng đại = thị kính × vật kính.
+GN: Ốc to chỉnh thô, ốc nhỏ chỉnh tinh cho rõ nét.
+GN: Cầm kính bằng hai tay, nhẹ nhàng.
+Q: mc | Bộ phận nào của kính hiển vi là nơi mắt nhìn vào?
+A) Vật kính
+B) Thị kính *
+C) Bàn kính
+D) Ốc to
+E: Thị kính ở đầu trên của ống kính.
+Q: mc | Thị kính 15x, vật kính 10x thì độ phóng đại là
+A) 25 lần
+B) 150 lần *
+C) 1,5 lần
+D) 5 lần
+E: 15 × 10 = 150 lần.
+Q: tf | Về kính hiển vi quang học:
+a) Ốc nhỏ dùng để chỉnh cho ảnh rõ nét hơn. | Đ
+b) Có thể cầm kính hiển vi bằng một tay khi di chuyển. | S
+c) Tiêu bản được đặt trên bàn kính và kẹp lại. | Đ
+d) Kính hiển vi quang học quan sát được tế bào. | Đ
+E: Phải cầm kính bằng hai tay.
+Q: match | Nối bộ phận với chức năng:
+1) Thị kính, vật kính | Phóng to ảnh của vật
+2) Ốc to, ốc nhỏ | Điều chỉnh để thấy rõ vật
+3) Bàn kính | Đặt tiêu bản
+4) Đèn chiếu sáng | Cung cấp ánh sáng
+E: Mỗi hệ thống của kính đảm nhận một chức năng.
+Q: sa | Kính có thị kính 10x. Muốn độ phóng đại 1000 lần thì cần dùng vật kính bao nhiêu x?
+ANS: 100
+E: 1000 : 10 = 100x.
+TL: Trình bày các bước sử dụng kính hiển vi quang học để quan sát một tiêu bản tế bào.
+MAU: Đặt kính trên bàn phẳng, bật đèn hoặc chỉnh gương lấy đủ ánh sáng.
+MAU: Đặt tiêu bản lên bàn kính, kẹp lại; mắt nhìn từ bên ngoài, vặn ốc to hạ vật kính (vật kính nhỏ nhất) gần sát tiêu bản.
+MAU: Mắt nhìn vào thị kính, vặn ốc to nâng vật kính từ từ đến khi thấy vật, rồi vặn ốc nhỏ cho rõ nét.
+TC: Chuẩn bị ánh sáng đúng | 1
+TC: Đặt tiêu bản và hạ vật kính đúng | 1
+TC: Quan sát và chỉnh rõ nét đúng | 1
+
 ### Bài 5. Đo chiều dài
+> Chiều cao của em, chiều dài bàn học, quãng đường từ nhà đến trường… đều cần đo chiều dài. Đo đúng cách thì kết quả mới chính xác.
+MT: Nêu được đơn vị đo chiều dài và dụng cụ đo.
+MT: Xác định được giới hạn đo (GHĐ) và độ chia nhỏ nhất (ĐCNN) của thước.
+MT: Đo được chiều dài bằng thước theo đúng cách; nêu được cách ước lượng.
+LT: 1. Đơn vị đo chiều dài
+- Đơn vị chuẩn trong hệ SI là **mét (m)**. Các đơn vị thường dùng: km, dm, cm, mm.
+- 1 km = 1000 m; 1 m = 10 dm = 100 cm = 1000 mm.
+LT: 2. Dụng cụ đo – GHĐ và ĐCNN
+- Thước kẻ, thước dây, thước cuộn, thước kẹp…
+- **Giới hạn đo (GHĐ)**: độ dài **lớn nhất** ghi trên thước.
+- **Độ chia nhỏ nhất (ĐCNN)**: độ dài giữa **hai vạch chia liên tiếp** trên thước.
+HINH: 6-khtn/do-chieu-dai.svg | Đo chiều dài bằng thước: đặt vạch số 0 trùng một đầu vật, mắt nhìn vuông góc với thước, đọc vạch gần nhất với đầu kia của vật.
+LT: 3. Cách đo chiều dài
+- **Ước lượng** chiều dài cần đo để chọn thước có GHĐ, ĐCNN phù hợp.
+- **Đặt thước** dọc theo vật, **một đầu vật ngang vạch số 0**.
+- **Đặt mắt** nhìn theo hướng **vuông góc** với cạnh thước ở đầu kia của vật.
+- **Đọc và ghi kết quả** theo vạch chia gần nhất với đầu kia của vật.
+DB: Dạng 1. Xác định GHĐ, ĐCNN
+- GHĐ: số lớn nhất trên thước; ĐCNN = (hiệu hai số ghi liên tiếp) : (số khoảng chia giữa chúng).
+DB: Dạng 2. Chọn thước phù hợp
+- GHĐ lớn hơn chiều dài cần đo (đo một lần); ĐCNN nhỏ để đo chính xác.
+DB: Dạng 3. Đổi đơn vị, tính toán
+- Đổi về cùng đơn vị trước khi cộng, trừ; tính giá trị trung bình nhiều lần đo.
+VD: Trên một thước, giữa vạch số 1 cm và 2 cm có 10 khoảng chia. ĐCNN của thước là bao nhiêu?
+B: ĐCNN = (2 − 1) : 10 cm.
+KQ: ĐCNN = 0,1 cm = 1 mm.
+VD: Đo chiều dài cuốn sách 3 lần được 24,1 cm; 24,2 cm; 24,3 cm. Kết quả trung bình là bao nhiêu?
+B: Trung bình = (24,1 + 24,2 + 24,3) : 3.
+KQ: 24,2 cm.
+GN: Đặt một đầu vật trùng vạch 0; mắt nhìn vuông góc với thước.
+GN: Kết quả đo ghi theo ĐCNN của thước.
+GN: Đo nhiều lần rồi lấy trung bình để giảm sai số.
+Q: mc | Đơn vị đo chiều dài trong hệ đơn vị đo lường hợp pháp của nước ta là
+A) cm
+B) m *
+C) km
+D) mm
+E: Mét (m) là đơn vị chuẩn.
+Q: mc | Để đo chiều dài lớp học (khoảng 8 m), nên dùng thước nào?
+A) Thước kẻ GHĐ 30 cm, ĐCNN 1 mm
+B) Thước cuộn GHĐ 10 m, ĐCNN 1 cm *
+C) Thước kẹp GHĐ 15 cm
+D) Thước dây GHĐ 1,5 m
+E: GHĐ 10 m đủ đo một lần, ĐCNN 1 cm phù hợp.
+Q: ord | Sắp xếp các bước đo chiều dài:
+1) Ước lượng chiều dài cần đo, chọn thước phù hợp
+2) Đặt thước dọc theo vật, một đầu vật ngang vạch số 0
+3) Đặt mắt nhìn vuông góc với cạnh thước ở đầu kia của vật
+4) Đọc và ghi kết quả theo vạch chia gần nhất
+E: Ước lượng → đặt thước → đặt mắt → đọc, ghi.
+Q: tf | Về đo chiều dài:
+a) GHĐ là độ dài lớn nhất ghi trên thước. | Đ
+b) ĐCNN là độ dài giữa hai vạch chia liên tiếp. | Đ
+c) Có thể đặt mắt nhìn xiên khi đọc kết quả. | S
+d) 1 m = 100 mm. | S
+E: Phải nhìn vuông góc; 1 m = 1000 mm.
+Q: sa | Đo chiều dài bàn học 3 lần được 120 cm, 121 cm, 122 cm. Chiều dài trung bình của bàn là bao nhiêu cm?
+ANS: 121
+E: (120 + 121 + 122) : 3 = 121 cm.
+TL: Một bạn đo chiều dài chiếc bút chì bằng thước kẻ nhưng đặt đầu bút chì ở vạch 2 cm, đầu kia ở vạch 17,5 cm và nhìn xiên khi đọc. Hãy chỉ ra cái sai, tính chiều dài đúng của bút chì và nêu cách đo đúng.
+MAU: Không đặt đầu bút trùng vạch 0 vẫn tính được: chiều dài = 17,5 − 2 = 15,5 cm, nhưng dễ nhầm; nên đặt một đầu trùng vạch 0.
+MAU: Nhìn xiên gây sai số khi đọc; phải đặt mắt nhìn vuông góc với cạnh thước.
+MAU: Cách đúng: đặt thước dọc bút chì, đầu bút trùng vạch 0, mắt nhìn vuông góc, đọc vạch gần nhất ở đầu kia.
+TC: Chỉ ra đúng các lỗi | 1
+TC: Tính đúng 15,5 cm | 1
+TC: Nêu cách đo đúng | 1
+
 ### Bài 6. Đo khối lượng
+> Mẹ mua 2 kg gạo, bác sĩ cân em nặng 38 kg, một gói mì có khối lượng tịnh 75 g… Khối lượng có mặt ở khắp nơi trong cuộc sống.
+MT: Nêu được khái niệm khối lượng và đơn vị đo.
+MT: Nêu được một số loại cân; xác định GHĐ, ĐCNN của cân.
+MT: Đo được khối lượng của vật bằng cân đúng cách.
+LT: 1. Khối lượng và đơn vị
+- **Khối lượng** của một vật là số đo **lượng chất** tạo nên vật.
+- Đơn vị chuẩn: **kilôgam (kg)**. Thường dùng: tấn, tạ, yến, gam (g), miligam (mg).
+- 1 tấn = 10 tạ = 100 yến = 1000 kg; 1 kg = 1000 g; 1 g = 1000 mg.
+- **Khối lượng tịnh** ghi trên bao bì là khối lượng chất chứa trong bao (không tính bao bì).
+LT: 2. Dụng cụ đo khối lượng
+- Các loại cân: cân đồng hồ, cân điện tử, cân Roberval, cân y tế, cân tạ…
+- Mỗi cân có **GHĐ** (khối lượng lớn nhất cân được) và **ĐCNN** (hiệu khối lượng giữa hai vạch chia liên tiếp).
+HINH: 6-khtn/can-dong-ho.svg | Cân đồng hồ: GHĐ là số lớn nhất trên mặt đồng hồ, ĐCNN là khoảng giữa hai vạch chia liên tiếp; đọc số chỉ của kim sau khi kim đứng yên.
+LT: 3. Cách đo khối lượng
+- **Ước lượng** khối lượng vật để chọn cân phù hợp.
+- **Điều chỉnh** cân về vạch số 0 (hoặc nhấn nút "0" ở cân điện tử).
+- **Đặt vật** lên đĩa cân; **mắt nhìn vuông góc** với vạch chia.
+- **Đọc và ghi kết quả** theo vạch chia gần nhất (hoặc số hiện trên màn hình).
+DB: Dạng 1. Đổi đơn vị khối lượng
+- Nhớ bảng đổi: tấn – tạ – yến – kg – g.
+DB: Dạng 2. Xác định GHĐ, ĐCNN của cân; chọn cân phù hợp
+- GHĐ ≥ khối lượng cần đo; ĐCNN phù hợp độ chính xác.
+DB: Dạng 3. Tính tổng, hiệu khối lượng
+- Khối lượng hàng = khối lượng cả bì − khối lượng bì.
+VD: Một túi gạo cả bao nặng 5,2 kg, bao rỗng nặng 200 g. Khối lượng gạo là bao nhiêu?
+B: Đổi 200 g = 0,2 kg.
+KQ: Khối lượng gạo = 5,2 − 0,2 = 5 kg.
+VD: Trên một cân đồng hồ, giữa vạch 1 kg và 2 kg có 10 khoảng chia. ĐCNN của cân là bao nhiêu?
+B: ĐCNN = (2 − 1) : 10 kg.
+KQ: 0,1 kg = 100 g.
+GN: Trước khi cân phải đưa kim (số) về 0.
+GN: Đặt vật vào giữa đĩa cân, chờ kim đứng yên mới đọc.
+GN: Khối lượng tịnh không tính bao bì.
+Q: mc | Đơn vị đo khối lượng trong hệ SI là
+A) gam
+B) kilôgam *
+C) tấn
+D) lạng
+E: Kilôgam (kg) là đơn vị chuẩn.
+Q: mc | Trên hộp sữa ghi "Khối lượng tịnh 400 g". Con số đó cho biết
+A) khối lượng cả hộp sữa
+B) khối lượng sữa trong hộp *
+C) khối lượng vỏ hộp
+D) thể tích sữa
+E: Khối lượng tịnh là khối lượng chất chứa trong bao bì.
+Q: tf | Về đo khối lượng:
+a) 1 tạ = 100 kg. | Đ
+b) 1 kg = 100 g. | S
+c) Trước khi cân cần điều chỉnh kim về vạch số 0. | Đ
+d) Có thể dùng cân y tế để cân một chiếc nhẫn vàng chính xác. | S
+E: 1 kg = 1000 g; cân nhẫn vàng cần cân có ĐCNN rất nhỏ (cân tiểu li).
+Q: ord | Sắp xếp các bước đo khối lượng bằng cân đồng hồ:
+1) Ước lượng khối lượng vật, chọn cân phù hợp
+2) Điều chỉnh kim về vạch số 0
+3) Đặt vật lên đĩa cân
+4) Mắt nhìn vuông góc, đọc và ghi kết quả
+E: Ước lượng → chỉnh 0 → đặt vật → đọc kết quả.
+Q: sa | Một bao xi măng cả vỏ nặng 50,3 kg, vỏ bao nặng 300 g. Khối lượng xi măng trong bao là bao nhiêu kg?
+ANS: 50
+E: 300 g = 0,3 kg; 50,3 − 0,3 = 50 kg.
+TL: Nhà em có một cân đồng hồ GHĐ 5 kg, ĐCNN 20 g. Em hãy nêu cách dùng cân để xác định khối lượng một quả bưởi và cách xác định khối lượng một bao gạo 10 kg bằng chính cân đó.
+MAU: Quả bưởi (khoảng 1 – 2 kg): chỉnh kim về 0, đặt bưởi giữa đĩa cân, chờ kim đứng yên, nhìn vuông góc và đọc kết quả.
+MAU: Bao gạo 10 kg vượt GHĐ 5 kg: chia gạo thành nhiều phần nhỏ (mỗi phần dưới 5 kg), cân từng phần rồi cộng các kết quả lại.
+TC: Cân quả bưởi đúng cách | 1
+TC: Nhận ra vượt GHĐ | 1
+TC: Nêu cách chia nhỏ và cộng kết quả | 1
+
 ### Bài 7. Đo thời gian
+> Vận động viên chạy 100 m hết 10,5 giây, em đi từ nhà đến trường hết 15 phút… Để biết chính xác, ta cần dụng cụ đo thời gian.
+MT: Nêu được đơn vị đo thời gian và dụng cụ đo.
+MT: Đo được thời gian bằng đồng hồ (đồng hồ bấm giây) đúng cách.
+MT: Ước lượng được thời gian trong một số trường hợp đơn giản.
+LT: 1. Đơn vị đo thời gian
+- Đơn vị chuẩn: **giây (s)**. Thường dùng: phút, giờ (h), ngày, tuần, tháng, năm.
+- 1 phút = 60 s; 1 giờ = 60 phút = 3600 s; 1 ngày = 24 giờ.
+LT: 2. Dụng cụ đo thời gian
+- Đồng hồ treo tường, đồng hồ đeo tay, **đồng hồ bấm giây** (cơ hoặc điện tử), đồng hồ đo thời gian hiện số dùng cổng quang (trong phòng thí nghiệm), đồng hồ cát…
+HINH: 6-khtn/dong-ho-bam-giay.svg | Đồng hồ bấm giây điện tử: nút START bắt đầu, nút STOP dừng, nút RESET đưa về số 0; màn hình hiển thị phút, giây, phần trăm giây.
+LT: 3. Cách đo thời gian
+- **Ước lượng** khoảng thời gian cần đo để chọn đồng hồ phù hợp.
+- **Hiệu chỉnh** đồng hồ về số 0.
+- **Bấm nút bắt đầu** đúng lúc sự việc bắt đầu; **bấm dừng** đúng lúc sự việc kết thúc.
+- **Đọc và ghi kết quả** đo.
+DB: Dạng 1. Đổi đơn vị thời gian
+- Giờ → phút: × 60; phút → giây: × 60.
+DB: Dạng 2. Chọn dụng cụ đo phù hợp
+- Thời gian rất ngắn, cần chính xác → đồng hồ bấm giây, đồng hồ hiện số; thời gian dài → đồng hồ thường.
+DB: Dạng 3. Tính khoảng thời gian
+- Thời gian = thời điểm kết thúc − thời điểm bắt đầu.
+VD: Em bắt đầu làm bài lúc 7 giờ 15 phút, nộp bài lúc 7 giờ 55 phút. Em làm bài trong bao lâu?
+B: Thời gian = 7 giờ 55 phút − 7 giờ 15 phút.
+KQ: 40 phút = 2400 giây.
+VD: Vì sao đo thời gian chạy 100 m phải dùng đồng hồ bấm giây chứ không dùng đồng hồ treo tường?
+B: Thời gian chạy rất ngắn (khoảng 10 – 20 s), cần chính xác đến phần mười hoặc phần trăm giây.
+KQ: Đồng hồ treo tường chỉ chính xác đến giây, khó bấm dừng đúng lúc; đồng hồ bấm giây cho kết quả chính xác hơn.
+GN: Bấm bắt đầu và dừng đúng thời điểm.
+GN: Đưa đồng hồ về 0 trước khi đo.
+GN: 1 giờ = 3600 giây.
+Q: mc | Đơn vị đo thời gian trong hệ SI là
+A) phút
+B) giờ
+C) giây *
+D) ngày
+E: Giây (s) là đơn vị chuẩn.
+Q: mc | Để đo thời gian một bạn chạy 60 m, dụng cụ thích hợp nhất là
+A) đồng hồ treo tường
+B) đồng hồ bấm giây *
+C) đồng hồ cát
+D) lịch
+E: Đồng hồ bấm giây đo được thời gian ngắn, chính xác.
+Q: tf | Về đo thời gian:
+a) 1 giờ = 3600 giây. | Đ
+b) Không cần đưa đồng hồ bấm giây về số 0 trước khi đo. | S
+c) Bấm dừng đúng lúc sự việc kết thúc. | Đ
+d) 2 phút 30 giây = 230 giây. | S
+E: Phải đưa về 0; 2 phút 30 giây = 150 giây.
+Q: ord | Sắp xếp các bước đo thời gian bằng đồng hồ bấm giây:
+1) Ước lượng thời gian cần đo
+2) Nhấn RESET đưa đồng hồ về số 0
+3) Nhấn START khi sự việc bắt đầu
+4) Nhấn STOP khi sự việc kết thúc, đọc kết quả
+E: Ước lượng → về 0 → bắt đầu → dừng và đọc.
+Q: sa | Một bộ phim bắt đầu lúc 19 giờ 30 phút và kết thúc lúc 21 giờ 10 phút. Bộ phim dài bao nhiêu phút?
+ANS: 100
+E: 21 giờ 10 phút − 19 giờ 30 phút = 1 giờ 40 phút = 100 phút.
+TL: Hãy thiết kế cách đo thời gian một bạn đi bộ hết chiều dài sân trường (khoảng 50 m) bằng đồng hồ bấm giây, nêu cách làm để kết quả chính xác hơn.
+MAU: Một bạn đứng ở vạch xuất phát hô "bắt đầu" và đi; bạn cầm đồng hồ nhấn START cùng lúc.
+MAU: Khi bạn đi bộ chạm vạch đích, nhấn STOP và đọc kết quả.
+MAU: Để chính xác hơn: đo 3 lần, lấy giá trị trung bình; người bấm giờ đứng ở vạch đích, quan sát kĩ.
+TC: Cách đo đúng | 2
+TC: Biện pháp tăng độ chính xác | 1
+
 ### Bài 8. Đo nhiệt độ
+> Sờ trán thấy nóng chưa chắc đã sốt! Cảm giác của tay có thể đánh lừa ta – muốn biết chính xác phải dùng nhiệt kế.
+MT: Nêu được khái niệm nhiệt độ; đơn vị đo nhiệt độ (°C, K).
+MT: Nêu được cấu tạo, nguyên tắc của nhiệt kế; dùng được nhiệt kế đo nhiệt độ.
+MT: Hiểu được cảm giác nóng lạnh có thể không chính xác.
+LT: 1. Nhiệt độ và cảm giác nóng lạnh
+- **Nhiệt độ** là số đo độ "nóng", "lạnh" của vật.
+- Cảm giác của tay có thể **sai**: nhúng tay vào nước ấm sau khi nhúng nước lạnh thấy nóng, sau khi nhúng nước nóng lại thấy mát.
+LT: 2. Thang nhiệt độ và đơn vị
+- **Thang Celsius (°C)**: nước đá đang tan 0 °C, nước sôi 100 °C.
+- **Thang Kelvin (K)** (đơn vị trong hệ SI): T(K) = t(°C) + 273.
+- Thang Fahrenheit (°F) dùng ở một số nước: nước đá tan 32 °F, nước sôi 212 °F.
+LT: 3. Nhiệt kế
+- Nhiệt kế hoạt động dựa trên **sự nở vì nhiệt** của chất lỏng (thủy ngân, rượu) hoặc cảm biến điện tử.
+- Các loại: nhiệt kế y tế (thủy ngân, điện tử), nhiệt kế rượu, nhiệt kế phòng thí nghiệm, nhiệt kế hồng ngoại.
+- Cách đo (nhiệt kế y tế thủy ngân): vẩy cho thủy ngân xuống dưới vạch 35 °C; đặt bầu nhiệt kế vào nách hoặc dưới lưỡi khoảng 3 – 5 phút; lấy ra, đọc kết quả, mắt nhìn vuông góc.
+HINH: 6-khtn/nhiet-ke.svg | Nhiệt kế chất lỏng: bầu chứa chất lỏng, ống quản, thang chia độ; các mốc 0 °C (nước đá tan), 37 °C (thân nhiệt), 100 °C (nước sôi).
+DB: Dạng 1. Đổi giữa °C và K
+- T(K) = t(°C) + 273; t(°C) = T(K) − 273.
+DB: Dạng 2. Chọn nhiệt kế phù hợp
+- Đo thân nhiệt → nhiệt kế y tế; đo nhiệt độ phòng → nhiệt kế rượu; đo nước sôi → nhiệt kế phòng thí nghiệm (GHĐ ≥ 100 °C).
+DB: Dạng 3. Giải thích cảm giác nóng lạnh
+- Cảm giác phụ thuộc trạng thái trước đó của tay ⇒ không tin cậy.
+VD: Nhiệt độ cơ thể người bình thường khoảng 37 °C. Đổi ra kelvin.
+B: T = 37 + 273.
+KQ: T = 310 K.
+VD: Vì sao không dùng nhiệt kế y tế để đo nhiệt độ nước sôi?
+B: Nhiệt kế y tế có GHĐ khoảng 42 °C, nhỏ hơn 100 °C.
+KQ: Đo nước sôi sẽ làm vỡ nhiệt kế; phải dùng nhiệt kế có GHĐ lớn hơn 100 °C.
+GN: 0 °C – nước đá tan; 100 °C – nước sôi (ở áp suất thường).
+GN: T(K) = t(°C) + 273.
+GN: Nhiệt kế thủy ngân vỡ rất độc – cẩn thận khi dùng.
+Q: mc | Nhiệt độ của nước đá đang tan theo thang Celsius là
+A) 100 °C
+B) 0 °C *
+C) 37 °C
+D) 273 °C
+E: Nước đá đang tan có nhiệt độ 0 °C.
+Q: mc | Nhiệt kế thủy ngân hoạt động dựa trên
+A) sự nở vì nhiệt của chất lỏng *
+B) sự nóng chảy của chất rắn
+C) sự bay hơi của nước
+D) lực hấp dẫn
+E: Chất lỏng nở ra khi nóng, dâng lên trong ống quản.
+Q: tf | Về nhiệt độ và nhiệt kế:
+a) Cảm giác nóng lạnh của tay luôn chính xác. | S
+b) 0 °C tương ứng với 273 K. | Đ
+c) Có thể dùng nhiệt kế y tế đo nhiệt độ nước sôi. | S
+d) Đơn vị nhiệt độ trong hệ SI là kelvin. | Đ
+E: Cảm giác dễ sai; nhiệt kế y tế có GHĐ khoảng 42 °C.
+Q: match | Nối nhiệt độ theo °C với giá trị theo K:
+1) 0 °C | 273 K
+2) 27 °C | 300 K
+3) 37 °C | 310 K
+4) 100 °C | 373 K
+E: T(K) = t(°C) + 273.
+Q: sa | Nhiệt độ một phòng là 298 K. Nhiệt độ phòng theo thang Celsius là bao nhiêu °C?
+ANS: 25
+E: 298 − 273 = 25 °C.
+TL: Trình bày các bước dùng nhiệt kế y tế thủy ngân để đo nhiệt độ cơ thể và nêu lưu ý an toàn.
+MAU: Kiểm tra nhiệt kế; cầm phần thân, vẩy mạnh cho mức thủy ngân xuống dưới vạch 35 °C.
+MAU: Lau sạch bầu nhiệt kế; đặt bầu vào nách, kẹp chặt cánh tay trong 3 – 5 phút.
+MAU: Lấy nhiệt kế ra, cầm phần thân, mắt nhìn vuông góc để đọc kết quả.
+MAU: Lưu ý: không cắn, không làm rơi vỡ nhiệt kế; nếu vỡ phải báo người lớn, thu gom thủy ngân đúng cách, mở cửa thông thoáng.
+TC: Các bước đo đúng | 2
+TC: Lưu ý an toàn | 1
+
 ## Chương II. Chất quanh ta
 ### Bài 9. Sự đa dạng của chất
 ### Bài 10. Các thể của chất và sự chuyển thể

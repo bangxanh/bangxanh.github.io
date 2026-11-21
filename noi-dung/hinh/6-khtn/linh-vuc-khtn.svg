@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="549.504pt" height="216.864pt" viewBox="0 0 549.504 216.864" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:24:27.311568</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 216.864 
+L 549.504 216.864 
+L 549.504 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 194.9184 58.536 
+L 354.5856 58.536 
+Q 357.912 58.536 357.912 55.2096 
+L 357.912 23.0544 
+Q 357.912 19.728 354.5856 19.728 
+L 194.9184 19.728 
+Q 191.592 19.728 191.592 23.0544 
+L 191.592 55.2096 
+Q 191.592 58.536 194.9184 58.536 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #e8f4ec; stroke: #1f5640; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 17.5104 199.908 
+L 107.8776 199.908 
+Q 111.204 199.908 111.204 196.5816 
+L 111.204 103.4424 
+Q 111.204 100.116 107.8776 100.116 
+L 17.5104 100.116 
+Q 14.184 100.116 14.184 103.4424 
+L 14.184 196.5816 
+Q 14.184 199.908 17.5104 199.908 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 272.787901 60.281443 
+Q 168.723522 79.325905 66.418773 98.048342 
+" clip-path="url(#p95e03a48cf)" style="fill: none; stroke: #2f6fde; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 73.290274 100.043958 
+L 66.418773 98.048342 
+L 72.138166 93.748511 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #2f6fde; stroke: #2f6fde; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 122.8464 199.908 
+L 213.2136 199.908 
+Q 216.54 199.908 216.54 196.5816 
+L 216.54 103.4424 
+Q 216.54 100.116 213.2136 100.116 
+L 122.8464 100.116 
+Q 119.52 100.116 119.52 103.4424 
+L 119.52 196.5816 
+Q 119.52 199.908 122.8464 199.908 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 272.87277 60.605356 
+Q 221.390452 79.326199 171.589288 97.435713 
+" clip-path="url(#p95e03a48cf)" style="fill: none; stroke: #bd7a12; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 178.697544 98.255897 
+L 171.589288 97.435713 
+L 176.510388 92.241219 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #bd7a12; stroke: #bd7a12; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 228.1824 199.908 
+L 318.5496 199.908 
+Q 321.876 199.908 321.876 196.5816 
+L 321.876 103.4424 
+Q 321.876 100.116 318.5496 100.116 
+L 228.1824 100.116 
+Q 224.856 100.116 224.856 103.4424 
+L 224.856 196.5816 
+Q 224.856 199.908 228.1824 199.908 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #eef7e6; stroke: #55891b; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 274.680771 61.916405 
+Q 274.059096 79.323322 273.501267 94.942523 
+" clip-path="url(#p95e03a48cf)" style="fill: none; stroke: #55891b; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 276.927654 88.660814 
+L 273.501267 94.942523 
+L 270.531732 88.432388 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #55891b; stroke: #55891b; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 333.5184 199.908 
+L 423.8856 199.908 
+Q 427.212 199.908 427.212 196.5816 
+L 427.212 103.4424 
+Q 427.212 100.116 423.8856 100.116 
+L 333.5184 100.116 
+Q 330.192 100.116 330.192 103.4424 
+L 330.192 196.5816 
+Q 330.192 199.908 333.5184 199.908 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #f3ece2; stroke: #8a5a2b; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 276.626831 60.621937 
+Q 326.728332 79.326497 375.15396 97.405398 
+" clip-path="url(#p95e03a48cf)" style="fill: none; stroke: #8a5a2b; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 370.277387 92.169079 
+L 375.15396 97.405398 
+L 368.038961 98.164864 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #8a5a2b; stroke: #8a5a2b; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 438.8544 199.908 
+L 529.2216 199.908 
+Q 532.548 199.908 532.548 196.5816 
+L 532.548 103.4424 
+Q 532.548 100.116 529.2216 100.116 
+L 438.8544 100.116 
+Q 435.528 100.116 435.528 103.4424 
+L 435.528 196.5816 
+Q 435.528 199.908 438.8544 199.908 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #efe7fb; stroke: #7a4cc2; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 276.715972 60.28618 
+Q 379.394725 79.325949 480.314606 98.039569 
+" clip-path="url(#p95e03a48cf)" style="fill: none; stroke: #7a4cc2; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 474.605309 93.726342 
+L 480.314606 98.039569 
+L 473.438446 100.01907 
+z
+" clip-path="url(#p95e03a48cf)" style="fill: #7a4cc2; stroke: #7a4cc2; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f5640" x="274.752" y="43.604305" transform="rotate(-0 274.752 43.604305)">KHOA HỌC TỰ NHIÊN</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="62.694" y="118.134" transform="rotate(-0 62.694 118.134)">Vật lí học</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(22.615875 157.743984)">lực, chuyển động,</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(19.402594 170.063437)">ánh sáng, âm, điện</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="168.03" y="118.134" transform="rotate(-0 168.03 118.134)">Hóa học</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(144.704531 157.784063)">chất và sự</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(129.219609 171.215859)">biến đổi của chất</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #55891b" x="273.366" y="118.134" transform="rotate(-0 273.366 118.134)">Sinh học</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(247.093031 157.672266)">vật sống và</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(238.253344 170.272266)">hoạt động sống</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #8a5a2b" x="378.702" y="118.134" transform="rotate(-0 378.702 118.134)">KH Trái Đất</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(347.963484 158.085)">đất, nước, khí</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(344.251687 170.343984)">quyển, thời tiết</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #7a4cc2" x="484.038" y="118.134" transform="rotate(-0 484.038 118.134)">Thiên văn học</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(439.734797 157.463437)">Mặt Trời, Mặt Trăng,</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(459.910969 170.071875)">sao, vũ trụ</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p95e03a48cf">
+   <rect x="8.64" y="8.64" width="532.224" height="199.584"/>
+  </clipPath>
+ </defs>
+</svg>

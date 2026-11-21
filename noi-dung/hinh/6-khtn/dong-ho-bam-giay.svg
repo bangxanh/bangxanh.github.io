@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="384.541812pt" height="227.952pt" viewBox="0 0 384.541812 227.952" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:24:27.738075</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 227.952 
+L 384.541812 227.952 
+L 384.541812 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 113.976 41.904 
+L 152.784 41.904 
+L 152.784 25.272 
+L 113.976 25.272 
+z
+" clip-path="url(#paa81b1368d)" style="fill: #888888; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 133.38 202.68 
+C 155.43429 202.68 176.588262 193.917738 192.183 178.323 
+C 207.777738 162.728262 216.54 141.57429 216.54 119.52 
+C 216.54 97.46571 207.777738 76.311738 192.183 60.717 
+C 176.588262 45.122262 155.43429 36.36 133.38 36.36 
+C 111.32571 36.36 90.171738 45.122262 74.577 60.717 
+C 58.982262 76.311738 50.22 97.46571 50.22 119.52 
+C 50.22 141.57429 58.982262 162.728262 74.577 178.323 
+C 90.171738 193.917738 111.32571 202.68 133.38 202.68 
+z
+" clip-path="url(#paa81b1368d)" style="fill: #2f6fde; stroke: #1a3f80; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 80.712 127.836 
+L 186.048 127.836 
+Q 191.592 127.836 191.592 122.292 
+L 191.592 94.572 
+Q 191.592 89.028 186.048 89.028 
+L 80.712 89.028 
+Q 75.168 89.028 75.168 94.572 
+L 75.168 122.292 
+Q 75.168 127.836 80.712 127.836 
+z
+" clip-path="url(#paa81b1368d)" style="fill: #d9e8d0; stroke: #333333; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 97.344 179.118 
+C 101.387286 179.118 105.265515 177.511585 108.12455 174.65255 
+C 110.983585 171.793515 112.59 167.915286 112.59 163.872 
+C 112.59 159.828714 110.983585 155.950485 108.12455 153.09145 
+C 105.265515 150.232415 101.387286 148.626 97.344 148.626 
+C 93.300714 148.626 89.422485 150.232415 86.56345 153.09145 
+C 83.704415 155.950485 82.098 159.828714 82.098 163.872 
+C 82.098 167.915286 83.704415 171.793515 86.56345 174.65255 
+C 89.422485 177.511585 93.300714 179.118 97.344 179.118 
+z
+" clip-path="url(#paa81b1368d)" style="fill: #2e9d4a; stroke: #222222; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 169.416 179.118 
+C 173.459286 179.118 177.337515 177.511585 180.19655 174.65255 
+C 183.055585 171.793515 184.662 167.915286 184.662 163.872 
+C 184.662 159.828714 183.055585 155.950485 180.19655 153.09145 
+C 177.337515 150.232415 173.459286 148.626 169.416 148.626 
+C 165.372714 148.626 161.494485 150.232415 158.63545 153.09145 
+C 155.776415 155.950485 154.17 159.828714 154.17 163.872 
+C 154.17 167.915286 155.776415 171.793515 158.63545 174.65255 
+C 161.494485 177.511585 165.372714 179.118 169.416 179.118 
+z
+" clip-path="url(#paa81b1368d)" style="fill: #d64545; stroke: #222222; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 133.38 198.522 
+C 136.688143 198.522 139.861239 197.207661 142.20045 194.86845 
+C 144.539661 192.529239 145.854 189.356143 145.854 186.048 
+C 145.854 182.739857 144.539661 179.566761 142.20045 177.22755 
+C 139.861239 174.888339 136.688143 173.574 133.38 173.574 
+C 130.071857 173.574 126.898761 174.888339 124.55955 177.22755 
+C 122.220339 179.566761 120.906 182.739857 120.906 186.048 
+C 120.906 189.356143 122.220339 192.529239 124.55955 194.86845 
+C 126.898761 197.207661 130.071857 198.522 133.38 198.522 
+z
+" clip-path="url(#paa81b1368d)" style="fill: #f0c419; stroke: #222222; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle; fill: #1b2620" x="133.38" y="112.848016" transform="rotate(-0 133.38 112.848016)">00:12.47</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="97.344" y="165.820242" transform="rotate(-0 97.344 165.820242)">START</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="169.416" y="165.820242" transform="rotate(-0 169.416 165.820242)">STOP</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="133.38" y="187.736477" transform="rotate(-0 133.38 187.736477)">RESET</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7a72" x="235.944" y="64.08" transform="rotate(-0 235.944 64.08)">phút : giây . phần trăm giây</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="235.944" y="102.888" transform="rotate(-0 235.944 102.888)">1. RESET → về 0</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2e9d4a" x="235.944" y="130.608" transform="rotate(-0 235.944 130.608)">2. START khi bắt đầu</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d64545" x="235.944" y="158.328" transform="rotate(-0 235.944 158.328)">3. STOP khi kết thúc</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f5640" x="235.944" y="191.592" transform="rotate(-0 235.944 191.592)">Kết quả: 12,47 s</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="paa81b1368d">
+   <rect x="8.64" y="8.64" width="365.904" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>
