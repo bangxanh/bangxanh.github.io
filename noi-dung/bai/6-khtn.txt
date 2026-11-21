@@ -1205,12 +1205,398 @@ TC: Nêu được tế bào lớn lên và phân chia làm tăng số lượng t
 TC: Liên hệ với sự lớn lên và thay thế tế bào của cơ thể | 1
 
 ### Bài 19. Cấu tạo và chức năng các thành phần của tế bào
+> Tế bào giống như một "nhà máy" thu nhỏ: có vỏ bảo vệ, có xưởng sản xuất và có "phòng điều khiển" chỉ huy mọi hoạt động.
+MT: Nêu được cấu tạo và chức năng các thành phần chính của tế bào: màng tế bào, tế bào chất, nhân.
+MT: Phân biệt được tế bào nhân sơ và tế bào nhân thực; tế bào động vật và tế bào thực vật.
+MT: Nhận biết được lục lạp là bào quan thực hiện quang hợp ở tế bào thực vật.
+LT: 1. Các thành phần chính của tế bào
+- **Màng tế bào**: bao bọc, bảo vệ tế bào; **kiểm soát sự trao đổi chất** giữa tế bào và môi trường.
+- **Tế bào chất**: chất keo lỏng chứa các bào quan; là **nơi diễn ra phần lớn các hoạt động sống** của tế bào.
+- **Nhân** (hoặc vùng nhân): chứa vật chất di truyền, **điều khiển mọi hoạt động sống** của tế bào.
+LT: 2. Tế bào nhân sơ và nhân thực
+- **Tế bào nhân sơ**: **chưa có màng nhân**, vật chất di truyền nằm ở vùng nhân; kích thước nhỏ (vi khuẩn).
+- **Tế bào nhân thực**: **có màng nhân** bao bọc vật chất di truyền, có nhiều bào quan; kích thước lớn hơn (tế bào động vật, thực vật, nấm).
+HINH: 6-khtn/nhan-so-nhan-thuc.svg | Tế bào nhân sơ (vi khuẩn: chưa có màng nhân, có vùng nhân) và tế bào nhân thực (có nhân với màng nhân, nhiều bào quan).
+LT: 3. Tế bào động vật và tế bào thực vật
+- Giống nhau: đều có màng tế bào, tế bào chất, nhân.
+- Tế bào thực vật có thêm **thành tế bào** (cứng, giúp tế bào có hình dạng ổn định), **lục lạp** (quang hợp), **không bào lớn**.
+DB: Dạng 1. Nối thành phần với chức năng
+- Màng: bảo vệ, trao đổi chất; tế bào chất: nơi diễn ra hoạt động sống; nhân: điều khiển.
+DB: Dạng 2. Phân biệt nhân sơ – nhân thực
+- Có màng nhân hay không.
+DB: Dạng 3. Phân biệt tế bào động vật – thực vật
+- Thành tế bào, lục lạp, không bào lớn → tế bào thực vật.
+VD: Vì sao lá cây có màu xanh, còn da người thì không?
+B: Tế bào lá cây có lục lạp chứa chất diệp lục màu xanh.
+KQ: Tế bào da người không có lục lạp nên không có màu xanh.
+VD: Một tế bào có thành tế bào, có vùng nhân nhưng không có màng nhân. Đó là tế bào gì?
+B: Không có màng nhân → tế bào nhân sơ.
+KQ: Đó là tế bào vi khuẩn.
+GN: Nhân là "trung tâm điều khiển" của tế bào.
+GN: Nhân sơ: chưa có màng nhân; nhân thực: có màng nhân.
+GN: Lục lạp chỉ có ở tế bào thực vật (phần xanh của cây).
+Q: mc | Thành phần nào điều khiển mọi hoạt động sống của tế bào?
+A) Màng tế bào
+B) Tế bào chất
+C) Nhân *
+D) Thành tế bào
+E: Nhân chứa vật chất di truyền, điều khiển hoạt động của tế bào.
+Q: mc | Đặc điểm của tế bào nhân sơ là
+A) có màng nhân
+B) chưa có màng nhân *
+C) có lục lạp
+D) có kích thước rất lớn
+E: Vật chất di truyền nằm ở vùng nhân, không có màng bao bọc.
+Q: tf | Về cấu tạo tế bào:
+a) Tế bào thực vật có thành tế bào. | Đ
+b) Tế bào động vật có lục lạp. | S
+c) Màng tế bào kiểm soát sự trao đổi chất. | Đ
+d) Vi khuẩn là tế bào nhân sơ. | Đ
+E: Tế bào động vật không có lục lạp.
+Q: match | Nối thành phần tế bào với chức năng:
+1) Màng tế bào | Bảo vệ, kiểm soát trao đổi chất
+2) Tế bào chất | Nơi diễn ra phần lớn hoạt động sống
+3) Nhân | Điều khiển hoạt động sống của tế bào
+4) Lục lạp | Thực hiện quang hợp
+E: Mỗi thành phần đảm nhận một chức năng.
+Q: sa | Trong các tế bào: tế bào vi khuẩn E. coli, tế bào lá, tế bào cơ người, tế bào nấm men, vi khuẩn lam. Có bao nhiêu tế bào nhân thực?
+ANS: 3
+E: Tế bào lá, tế bào cơ người, tế bào nấm men là nhân thực; hai loại vi khuẩn là nhân sơ.
+TL: Lập bảng so sánh tế bào động vật và tế bào thực vật.
+MAU: Giống nhau: đều có màng tế bào, tế bào chất, nhân (có màng nhân) – đều là tế bào nhân thực.
+MAU: Khác nhau: tế bào thực vật có thành tế bào, lục lạp, không bào lớn; tế bào động vật không có thành tế bào, không có lục lạp, không bào nhỏ hoặc không có.
+TC: Nêu đúng điểm giống | 1
+TC: Nêu đúng điểm khác (thành tế bào, lục lạp, không bào) | 2
+
 ### Bài 20. Sự lớn lên và sinh sản của tế bào
+> Em lớn lên mỗi ngày là nhờ hàng tỉ tế bào trong cơ thể không ngừng lớn lên và phân chia.
+MT: Mô tả được sự lớn lên và sinh sản (phân chia) của tế bào.
+MT: Tính được số tế bào tạo ra sau n lần phân chia.
+MT: Nêu được ý nghĩa của sự lớn lên và sinh sản của tế bào.
+LT: 1. Sự lớn lên của tế bào
+- Tế bào non mới hình thành có kích thước nhỏ; nhờ **trao đổi chất**, tế bào **lớn dần lên** đến kích thước nhất định.
+LT: 2. Sự sinh sản (phân chia) của tế bào
+- Khi lớn đến kích thước nhất định, một số tế bào **phân chia**: **nhân phân chia trước**, sau đó **tế bào chất phân chia**, tạo thành **2 tế bào con**.
+- Ở tế bào thực vật: hình thành vách ngăn ở giữa; ở tế bào động vật: màng tế bào thắt lại ở giữa.
+- Từ 1 tế bào, sau **n lần phân chia** liên tiếp tạo ra **2ⁿ tế bào con**.
+HINH: 6-khtn/phan-chia-te-bao.svg | Một tế bào lớn lên rồi phân chia: 1 → 2 → 4 → 8 tế bào; sau n lần phân chia tạo ra 2ⁿ tế bào.
+LT: 3. Ý nghĩa
+- Giúp cơ thể **lớn lên** (tăng kích thước, khối lượng).
+- **Thay thế** các tế bào già, chết, bị tổn thương (vết thương lành, da thay mới).
+DB: Dạng 1. Mô tả quá trình phân chia
+- Lớn lên → nhân phân chia → tế bào chất phân chia → 2 tế bào con.
+DB: Dạng 2. Tính số tế bào con
+- Số tế bào = 2ⁿ (từ 1 tế bào); từ a tế bào: a × 2ⁿ.
+DB: Dạng 3. Giải thích ý nghĩa
+- Liên hệ sự lớn lên của cơ thể, vết thương lành.
+VD: Một tế bào phân chia liên tiếp 5 lần. Tạo ra bao nhiêu tế bào con?
+B: Số tế bào con = 2⁵.
+KQ: 32 tế bào.
+VD: Có 4 tế bào cùng phân chia 3 lần. Tổng số tế bào con là bao nhiêu?
+B: Số tế bào con = 4 × 2³.
+KQ: 4 × 8 = 32 tế bào.
+GN: 1 tế bào → 2 tế bào con sau mỗi lần phân chia.
+GN: Nhân phân chia trước, tế bào chất phân chia sau.
+GN: Số tế bào sau n lần phân chia: 2ⁿ.
+Q: mc | Một tế bào phân chia 3 lần liên tiếp tạo ra
+A) 3 tế bào
+B) 6 tế bào
+C) 8 tế bào *
+D) 9 tế bào
+E: 2³ = 8.
+Q: mc | Trong quá trình phân chia tế bào, thành phần phân chia đầu tiên là
+A) màng tế bào
+B) nhân *
+C) tế bào chất
+D) thành tế bào
+E: Nhân phân chia trước, tế bào chất phân chia sau.
+Q: ord | Sắp xếp các giai đoạn sinh sản của tế bào:
+1) Tế bào lớn lên đến kích thước nhất định
+2) Nhân phân chia thành hai nhân
+3) Tế bào chất phân chia
+4) Hình thành hai tế bào con
+E: Lớn lên → nhân chia → tế bào chất chia → 2 tế bào con.
+Q: tf | Về sự lớn lên và sinh sản của tế bào:
+a) Sự phân chia tế bào giúp cơ thể lớn lên. | Đ
+b) Một tế bào phân chia 1 lần tạo ra 4 tế bào con. | S
+c) Sự phân chia tế bào giúp thay thế tế bào già, chết. | Đ
+d) Tế bào chỉ lớn lên mà không bao giờ phân chia. | S
+E: Mỗi lần phân chia tạo 2 tế bào con; nhiều tế bào có khả năng phân chia.
+Q: sa | Một tế bào phân chia liên tiếp 6 lần. Số tế bào con tạo thành là bao nhiêu?
+ANS: 64
+E: 2⁶ = 64.
+TL: Vì sao khi bị đứt tay nhẹ, sau vài ngày vết thương lại lành? Giải thích dựa trên kiến thức về tế bào.
+MAU: Khi bị thương, một số tế bào da bị tổn thương, chết đi.
+MAU: Các tế bào xung quanh vết thương lớn lên và phân chia liên tục, tạo ra tế bào mới.
+MAU: Tế bào mới thay thế tế bào bị tổn thương, lấp đầy chỗ đứt, vết thương lành lại.
+TC: Nêu đúng tế bào bị tổn thương | 1
+TC: Nêu đúng sự phân chia tạo tế bào mới | 1
+TC: Kết luận đúng | 1
+
 ### Bài 21. Thực hành: Quan sát và phân biệt một số loại tế bào
+> Bóc một lớp vảy hành mỏng, nhuộm màu, đặt dưới kính hiển vi – em sẽ thấy những tế bào xếp khít nhau như những viên gạch!
+MT: Làm được tiêu bản tế bào biểu bì vảy hành, tế bào trứng cá.
+MT: Quan sát được tế bào bằng kính lúp, kính hiển vi; vẽ được hình tế bào quan sát được.
+MT: Phân biệt được tế bào động vật và thực vật qua quan sát.
+LT: 1. Chuẩn bị
+- Kính hiển vi, kính lúp, lam kính, lamen, kim mũi mác, ống nhỏ giọt, giấy thấm, dung dịch xanh methylene (hoặc iodine).
+- Mẫu vật: củ hành tây, trứng cá chép, lá cây (thài lài tía), tế bào niêm mạc miệng.
+LT: 2. Cách làm tiêu bản tế bào biểu bì vảy hành
+- Nhỏ một giọt nước cất lên giữa lam kính.
+- Dùng kim mũi mác bóc một lớp **biểu bì mỏng** ở mặt trong vảy hành, đặt lên giọt nước, dàn phẳng.
+- Nhỏ thuốc nhuộm, đậy **lamen** nghiêng 45° (tránh bọt khí), dùng giấy thấm hút bớt nước thừa.
+- Quan sát ở vật kính nhỏ (10x) trước rồi chuyển sang vật kính lớn hơn.
+HINH: 6-khtn/te-bao-hanh.svg | Tế bào biểu bì vảy hành dưới kính hiển vi: các tế bào hình nhiều cạnh xếp sát nhau, mỗi tế bào có thành tế bào, nhân bắt màu đậm.
+LT: 3. Quan sát tế bào trứng cá
+- Dùng kính lúp quan sát trứng cá: tế bào hình cầu, có thể nhìn bằng mắt thường, màu vàng nhạt, nhân là chấm nhỏ.
+- Tế bào niêm mạc miệng (tế bào động vật): hình dạng không đều, không có thành tế bào.
+DB: Dạng 1. Sắp xếp các bước làm tiêu bản
+- Nhỏ nước → đặt mẫu → nhuộm → đậy lamen → quan sát.
+DB: Dạng 2. Giải thích thao tác
+- Đậy lamen nghiêng để tránh bọt khí; nhuộm để nhân bắt màu, dễ quan sát.
+DB: Dạng 3. Nhận biết tế bào qua hình dạng
+- Tế bào thực vật: hình nhiều cạnh, có thành rõ; tế bào động vật: hình dạng không đều.
+VD: Vì sao phải lấy lớp biểu bì thật mỏng?
+B: Lớp mỏng chỉ có một lớp tế bào, ánh sáng xuyên qua được.
+KQ: Các tế bào không chồng lên nhau, quan sát rõ.
+VD: Kính có thị kính 10x, vật kính 40x. Tế bào hành dài 0,25 mm thì ảnh quan sát dài bao nhiêu mm?
+B: Độ phóng đại = 10 × 40 = 400.
+KQ: Ảnh dài 0,25 × 400 = 100 mm.
+GN: Đậy lamen nghiêng 45° để tránh bọt khí.
+GN: Quan sát từ vật kính nhỏ đến vật kính lớn.
+GN: Cẩn thận khi dùng kim mũi mác, lam kính dễ vỡ.
+Q: mc | Thuốc nhuộm xanh methylene được dùng trong bài thực hành nhằm
+A) giết chết tế bào
+B) làm nhân và các thành phần tế bào bắt màu, dễ quan sát *
+C) làm tế bào to ra
+D) bảo quản mẫu
+E: Nhuộm giúp phân biệt các thành phần tế bào.
+Q: mc | Khi đậy lamen, cần đặt nghiêng để
+A) tiết kiệm lamen
+B) tránh tạo bọt khí *
+C) lamen không vỡ
+D) mẫu không bị khô
+E: Bọt khí che khuất tế bào khi quan sát.
+Q: ord | Sắp xếp các bước làm tiêu bản biểu bì vảy hành:
+1) Nhỏ một giọt nước lên giữa lam kính
+2) Bóc lớp biểu bì mỏng, đặt lên giọt nước
+3) Nhỏ thuốc nhuộm
+4) Đậy lamen, thấm bớt nước thừa
+5) Đặt lên kính hiển vi quan sát
+E: Chuẩn bị lam → mẫu → nhuộm → lamen → quan sát.
+Q: tf | Về bài thực hành quan sát tế bào:
+a) Tế bào trứng cá có thể quan sát bằng kính lúp. | Đ
+b) Tế bào vảy hành có thành tế bào. | Đ
+c) Tế bào niêm mạc miệng có lục lạp. | S
+d) Nên bắt đầu quan sát bằng vật kính có độ phóng đại lớn nhất. | S
+E: Tế bào động vật không có lục lạp; bắt đầu bằng vật kính nhỏ.
+Q: sa | Thị kính 10x, vật kính 10x. Tế bào trứng cá đường kính 1 mm có ảnh đường kính bao nhiêu mm?
+ANS: 100
+E: 1 × (10 × 10) = 100 mm.
+TL: Viết báo cáo thực hành quan sát tế bào biểu bì vảy hành (mục đích, cách làm, kết quả, kết luận).
+MAU: Mục đích: làm được tiêu bản, quan sát được tế bào thực vật.
+MAU: Cách làm: nhỏ nước lên lam kính, đặt lớp biểu bì vảy hành, nhuộm, đậy lamen, quan sát dưới kính hiển vi.
+MAU: Kết quả: tế bào hình nhiều cạnh, xếp sát nhau; có thành tế bào, nhân bắt màu đậm (vẽ hình).
+MAU: Kết luận: vảy hành được cấu tạo từ nhiều tế bào có đủ các thành phần chính của tế bào thực vật.
+TC: Nêu đúng mục đích, cách làm | 1
+TC: Mô tả và vẽ kết quả | 1
+TC: Kết luận đúng | 1
+
 ## Chương VI. Từ tế bào đến cơ thể
 ### Bài 22. Cơ thể sinh vật
+> Một con trùng roi chỉ là một tế bào nhưng vẫn bơi, ăn, lớn lên và sinh sản. Còn cơ thể em được tạo nên từ hàng chục nghìn tỉ tế bào phối hợp với nhau.
+MT: Phân biệt được vật sống và vật không sống qua các đặc điểm cơ bản của cơ thể.
+MT: Nêu được khái niệm cơ thể đơn bào và cơ thể đa bào; lấy được ví dụ.
+MT: Nêu được các quá trình sống cơ bản của cơ thể.
+LT: 1. Cơ thể sinh vật
+- **Cơ thể** là một vật sống, có các quá trình sống cơ bản: **cảm ứng, sinh trưởng, sinh sản, hô hấp, bài tiết, dinh dưỡng, vận động**.
+- Vật không sống không có các quá trình sống này.
+LT: 2. Cơ thể đơn bào và đa bào
+- **Cơ thể đơn bào**: chỉ gồm **một tế bào**, tế bào đó thực hiện mọi chức năng sống (vi khuẩn, trùng roi, trùng giày, tảo lục đơn bào, nấm men).
+- **Cơ thể đa bào**: gồm **nhiều tế bào**, mỗi loại tế bào thực hiện chức năng khác nhau (cây xanh, nấm mũ, con người, các loài động vật).
+HINH: 6-khtn/don-bao-da-bao.svg | Cơ thể đơn bào (vi khuẩn, trùng roi, nấm men) và cơ thể đa bào (cây hoa, con thỏ) – mỗi cơ thể đa bào gồm rất nhiều tế bào.
+DB: Dạng 1. Phân biệt vật sống – vật không sống
+- Kiểm tra các quá trình sống: dinh dưỡng, hô hấp, bài tiết, sinh sản…
+DB: Dạng 2. Phân loại cơ thể đơn bào – đa bào
+- Đơn bào: thường rất nhỏ, phải dùng kính hiển vi; đa bào: nhìn được bằng mắt thường (trừ một số rất nhỏ).
+DB: Dạng 3. Nêu quá trình sống qua ví dụ
+- Cây hút nước (dinh dưỡng), hoa hướng dương quay về Mặt Trời (cảm ứng)…
+VD: Con robot biết di chuyển, phát ra tiếng nói. Robot có phải cơ thể sống không?
+B: Robot không có dinh dưỡng, hô hấp, sinh trưởng, sinh sản như sinh vật.
+KQ: Robot là vật không sống.
+VD: Vì sao trùng giày được gọi là cơ thể đơn bào?
+B: Toàn bộ cơ thể trùng giày chỉ là một tế bào.
+KQ: Tế bào đó thực hiện đầy đủ các chức năng sống: di chuyển, lấy thức ăn, hô hấp, sinh sản.
+GN: Cơ thể đơn bào: 1 tế bào; đa bào: nhiều tế bào.
+GN: Các quá trình sống: cảm ứng, sinh trưởng, sinh sản, hô hấp, bài tiết, dinh dưỡng.
+GN: Cơ thể đa bào có sự phân công chức năng giữa các tế bào.
+Q: mc | Sinh vật nào sau đây là cơ thể đơn bào?
+A) Cây lúa
+B) Trùng roi *
+C) Con mèo
+D) Nấm rơm
+E: Trùng roi chỉ gồm một tế bào.
+Q: mc | Sinh vật nào sau đây là cơ thể đa bào?
+A) Vi khuẩn lao
+B) Nấm men
+C) Cây cải *
+D) Trùng biến hình
+E: Cây cải gồm rất nhiều tế bào.
+Q: tf | Về cơ thể sinh vật:
+a) Cơ thể đơn bào chỉ gồm một tế bào. | Đ
+b) Ở cơ thể đa bào, mọi tế bào đều có hình dạng, chức năng giống nhau. | S
+c) Bài tiết là một quá trình sống của cơ thể. | Đ
+d) Cây nến cháy sáng là vật sống. | S
+E: Tế bào ở cơ thể đa bào có nhiều loại, chức năng khác nhau; cây nến là vật không sống.
+Q: match | Nối hiện tượng với quá trình sống:
+1) Cây hút nước và muối khoáng | Dinh dưỡng
+2) Con người thải mồ hôi | Bài tiết
+3) Lá trinh nữ cụp khi chạm | Cảm ứng
+4) Gà mái đẻ trứng | Sinh sản
+E: Mỗi hiện tượng thể hiện một quá trình sống.
+Q: sa | Trong các sinh vật: vi khuẩn, cây ngô, trùng roi, con cá, nấm men, con giun. Có bao nhiêu cơ thể đơn bào?
+ANS: 3
+E: Vi khuẩn, trùng roi, nấm men.
+TL: So sánh cơ thể đơn bào và cơ thể đa bào (số lượng tế bào, kích thước, sự phân công chức năng, ví dụ).
+MAU: Đơn bào: 1 tế bào; kích thước rất nhỏ (thường phải dùng kính hiển vi); một tế bào thực hiện mọi chức năng; ví dụ vi khuẩn, trùng roi.
+MAU: Đa bào: nhiều tế bào; kích thước lớn hơn; các tế bào chuyên hóa, phân công chức năng; ví dụ cây xanh, con người.
+TC: So sánh số lượng và kích thước | 1
+TC: So sánh phân công chức năng | 1
+TC: Ví dụ đúng | 1
+
 ### Bài 23. Tổ chức cơ thể đa bào
+> Như một ngôi nhà được xây từ gạch → bức tường → căn phòng → cả ngôi nhà, cơ thể đa bào cũng được tổ chức từ tế bào → mô → cơ quan → hệ cơ quan → cơ thể.
+MT: Nêu được các cấp độ tổ chức của cơ thể đa bào: tế bào → mô → cơ quan → hệ cơ quan → cơ thể.
+MT: Lấy được ví dụ về mô, cơ quan, hệ cơ quan ở thực vật và động vật.
+MT: Nêu được mối quan hệ giữa các cấp độ tổ chức.
+LT: 1. Từ tế bào đến mô
+- **Mô** là tập hợp các tế bào **giống nhau** về hình dạng, cùng thực hiện **một chức năng** nhất định.
+- Ví dụ: mô cơ, mô thần kinh, mô biểu bì (động vật); mô biểu bì, mô dẫn, mô mềm (thực vật).
+LT: 2. Từ mô đến cơ quan, hệ cơ quan
+- **Cơ quan** được cấu tạo bởi nhiều mô cùng thực hiện một hoạt động sống (tim, dạ dày, phổi; rễ, thân, lá, hoa).
+- **Hệ cơ quan** gồm nhiều cơ quan cùng phối hợp thực hiện một chức năng (hệ tiêu hóa, hệ tuần hoàn, hệ hô hấp; ở thực vật: **hệ chồi** và **hệ rễ**).
+LT: 3. Cơ thể
+- Các hệ cơ quan phối hợp với nhau tạo thành **cơ thể** hoàn chỉnh.
+HINH: 6-khtn/cap-do-to-chuc.svg | Các cấp độ tổ chức của cơ thể đa bào: tế bào cơ → mô cơ → cơ quan (tim) → hệ cơ quan (hệ tuần hoàn) → cơ thể người.
+DB: Dạng 1. Sắp xếp các cấp độ tổ chức
+- Tế bào → mô → cơ quan → hệ cơ quan → cơ thể.
+DB: Dạng 2. Xác định cấp độ của một cấu trúc
+- Tim: cơ quan; hệ tuần hoàn: hệ cơ quan; mô cơ: mô.
+DB: Dạng 3. Kể tên cơ quan trong hệ cơ quan
+- Hệ tiêu hóa: miệng, thực quản, dạ dày, ruột…; hệ chồi: thân, lá, hoa, quả.
+VD: Lá cây thuộc cấp độ tổ chức nào? Lá thuộc hệ cơ quan nào?
+B: Lá gồm nhiều mô (biểu bì, mô mềm, mô dẫn) cùng thực hiện chức năng quang hợp.
+KQ: Lá là một cơ quan, thuộc hệ chồi.
+VD: Kể tên các cơ quan thuộc hệ hô hấp ở người.
+B: Hệ hô hấp gồm đường dẫn khí và phổi.
+KQ: Mũi, họng, thanh quản, khí quản, phế quản, phổi.
+GN: Mô: nhiều tế bào giống nhau, cùng chức năng.
+GN: Thực vật có 2 hệ cơ quan: hệ chồi và hệ rễ.
+GN: Các cấp độ liên quan chặt chẽ, phối hợp với nhau.
+Q: mc | Tập hợp các tế bào giống nhau cùng thực hiện một chức năng gọi là
+A) cơ quan
+B) mô *
+C) hệ cơ quan
+D) cơ thể
+E: Đó là khái niệm mô.
+Q: mc | Hệ cơ quan ở thực vật gồm
+A) hệ chồi và hệ rễ *
+B) hệ tiêu hóa và hệ hô hấp
+C) hệ thần kinh và hệ cơ
+D) chỉ có hệ rễ
+E: Thực vật có hệ chồi (thân, lá, hoa, quả) và hệ rễ.
+Q: ord | Sắp xếp các cấp độ tổ chức của cơ thể đa bào từ thấp đến cao:
+1) Tế bào
+2) Mô
+3) Cơ quan
+4) Hệ cơ quan
+5) Cơ thể
+E: Tế bào → mô → cơ quan → hệ cơ quan → cơ thể.
+Q: match | Nối cấu trúc với cấp độ tổ chức:
+1) Tế bào thần kinh | Tế bào
+2) Mô biểu bì | Mô
+3) Dạ dày | Cơ quan
+4) Hệ tiêu hóa | Hệ cơ quan
+E: Xác định cấu trúc thuộc mức độ nào.
+Q: tf | Về các cấp độ tổ chức:
+a) Tim là một cơ quan. | Đ
+b) Hệ tuần hoàn gồm tim và mạch máu. | Đ
+c) Hoa thuộc hệ rễ. | S
+d) Mỗi cơ quan được cấu tạo từ nhiều mô. | Đ
+E: Hoa thuộc hệ chồi.
+TL: Lấy ví dụ về các cấp độ tổ chức từ tế bào đến cơ thể ở cây xanh.
+MAU: Tế bào: tế bào biểu bì lá.
+MAU: Mô: mô biểu bì (bảo vệ), mô dẫn (vận chuyển), mô mềm.
+MAU: Cơ quan: lá (quang hợp), rễ (hút nước), thân.
+MAU: Hệ cơ quan: hệ chồi (thân, lá, hoa, quả), hệ rễ.
+MAU: Cơ thể: cây cải (cây xanh hoàn chỉnh).
+TC: Đúng đủ 5 cấp độ với ví dụ hợp lí | 3
+
 ### Bài 24. Thực hành: Quan sát và mô tả cơ thể đơn bào, cơ thể đa bào
+> Một giọt nước ao dưới kính hiển vi, một cây rêu nhỏ qua kính lúp… Thực hành giúp em tận mắt phân biệt sinh vật đơn bào và đa bào.
+MT: Quan sát và vẽ được hình cơ thể đơn bào (trùng roi, trùng giày) qua kính hiển vi.
+MT: Quan sát và mô tả được cơ thể đa bào (cây rêu, con thủy tức, cây cải) qua kính lúp hoặc mắt thường.
+MT: Viết được báo cáo thực hành.
+LT: 1. Chuẩn bị
+- Kính hiển vi, kính lúp, lam kính, lamen, ống nhỏ giọt, giấy thấm.
+- Mẫu vật: nước ao, hồ (hoặc nước ngâm rơm, cỏ khô 5 – 7 ngày); cây rêu, cây cải, con thủy tức (hoặc tranh ảnh).
+LT: 2. Quan sát cơ thể đơn bào
+- Dùng ống nhỏ giọt lấy một giọt nước ở **lớp váng trên** của bình nước ngâm rơm, nhỏ lên lam kính, đậy lamen.
+- Quan sát ở vật kính 10x rồi 40x; tìm trùng giày (hình chiếc giày, có lông bơi), trùng roi (có roi, màu xanh lục).
+HINH: 6-khtn/th-don-bao.svg | Các sinh vật đơn bào quan sát được trong giọt nước ao: trùng giày (có lông bơi), trùng roi xanh (có roi, có lục lạp), trùng biến hình (chân giả).
+LT: 3. Quan sát cơ thể đa bào
+- Dùng kính lúp quan sát cây rêu: có rễ giả, thân, lá nhỏ; cây cải: rễ, thân, lá, hoa.
+- Vẽ hình, chú thích; so sánh với cơ thể đơn bào.
+DB: Dạng 1. Giải thích thao tác
+- Lấy nước ở lớp váng vì nhiều sinh vật đơn bào sống ở đó (gần nguồn thức ăn, oxygen).
+DB: Dạng 2. Nhận biết sinh vật đơn bào qua hình dạng
+- Trùng giày: hình giày, lông bơi; trùng roi: roi dài; trùng biến hình: chân giả.
+DB: Dạng 3. Báo cáo thực hành
+- Mục đích, chuẩn bị, cách tiến hành, kết quả (vẽ hình), kết luận.
+VD: Vì sao nên ngâm rơm, cỏ khô vào nước vài ngày trước buổi thực hành?
+B: Rơm, cỏ phân hủy tạo nguồn thức ăn cho vi khuẩn.
+KQ: Vi khuẩn là thức ăn cho trùng giày, trùng roi nên chúng phát triển nhiều, dễ quan sát.
+VD: Quan sát thấy một sinh vật màu xanh lục, có một roi dài ở đầu. Đó là sinh vật gì?
+B: Có roi và màu xanh lục (có lục lạp).
+KQ: Đó là trùng roi xanh.
+GN: Lấy nước ở lớp váng trên mặt bình.
+GN: Quan sát từ vật kính nhỏ đến lớn.
+GN: Rửa tay sạch sau khi tiếp xúc nước ao.
+Q: mc | Khi lấy mẫu nước ao để quan sát sinh vật đơn bào, nên lấy ở
+A) đáy bình
+B) lớp váng trên mặt nước *
+C) bất kì chỗ nào
+D) giữa bình
+E: Lớp váng có nhiều sinh vật đơn bào.
+Q: mc | Sinh vật đơn bào có hình chiếc giày, di chuyển nhờ lông bơi là
+A) trùng roi
+B) trùng giày *
+C) trùng biến hình
+D) vi khuẩn lam
+E: Trùng giày có hình giày, lông bơi phủ khắp cơ thể.
+Q: match | Nối sinh vật với đặc điểm nhận biết:
+1) Trùng giày | Hình chiếc giày, có lông bơi
+2) Trùng roi xanh | Có roi dài, màu xanh lục
+3) Trùng biến hình | Hình dạng thay đổi, có chân giả
+4) Cây rêu | Đa bào, có thân và lá nhỏ
+E: Dựa vào hình dạng và cơ quan di chuyển.
+Q: tf | Về bài thực hành:
+a) Trùng giày có thể nhìn rõ bằng mắt thường. | S
+b) Cây rêu là cơ thể đa bào. | Đ
+c) Trùng roi xanh có lục lạp. | Đ
+d) Cần rửa tay sau khi tiếp xúc với nước ao. | Đ
+E: Trùng giày rất nhỏ, phải dùng kính hiển vi.
+Q: sa | Trong một giọt nước ao, đếm được 18 trùng giày và 6 trùng roi. Số trùng giày gấp mấy lần số trùng roi?
+ANS: 3
+E: 18 : 6 = 3.
+TL: Vẽ và mô tả ngắn gọn một sinh vật đơn bào và một sinh vật đa bào mà em quan sát được; nêu điểm khác nhau.
+MAU: Đơn bào – trùng giày: hình giày, có lông bơi, nhân, không bào; chỉ là một tế bào, phải quan sát bằng kính hiển vi.
+MAU: Đa bào – cây rêu: có rễ giả, thân, lá; gồm nhiều tế bào; quan sát được bằng kính lúp, mắt thường.
+MAU: Khác nhau: số lượng tế bào (1 – nhiều), kích thước (rất nhỏ – lớn hơn), có/không có cơ quan.
+TC: Mô tả đơn bào đúng | 1
+TC: Mô tả đa bào đúng | 1
+TC: Nêu điểm khác nhau | 1
+
 ## Chương VII. Đa dạng thế giới sống
 ### Bài 25. Hệ thống phân loại sinh vật
 ### Bài 26. Khóa lưỡng phân

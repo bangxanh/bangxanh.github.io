@@ -377,6 +377,152 @@ def tach_chat():
 
 ALL += [da_dang_chat, chuyen_the, khong_khi, vat_lieu, nguyen_lieu, tam_giac_chay, thap_dinh_duong, hon_hop, tach_chat]
 
+
+def nhan_so_nhan_thuc():
+    fig, ax = khung(9.0, 3.6); trong(ax)
+    ax.set_xlim(0, 18); ax.set_ylim(0, 7.2)
+    ax.add_patch(FancyBboxPatch((1.0, 2.6), 5.6, 2.4, boxstyle='round,pad=0,rounding_size=1.2', fc='#e8f4dc', ec=MAU['la'], lw=3))
+    tt = np.linspace(0, 6 * np.pi, 200); ax.plot(3.8 + 0.9 * np.cos(tt) * (1 + 0.15 * np.sin(3 * tt)), 3.8 + 0.45 * np.sin(tt * 1.03), color=MAU['tim'], lw=1.2)
+    for k in range(12): ax.add_patch(Circle((1.6 + (k * 0.41) % 4.6, 3.0 + (k * 0.37) % 1.6), 0.07, fc='#6a8a4a'))
+    ax.plot(6.6 + np.linspace(0, 1.4, 30), 3.8 + 0.25 * np.sin(np.linspace(0, 12, 30)), color=MAU['la'], lw=1.5)
+    ax.annotate('vùng nhân\n(không có màng)', xy=(4.4, 4.0), xytext=(2.2, 6.0), fontsize=9.8, ha='center', arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('thành tế bào,\nmàng tế bào', xy=(1.5, 2.9), xytext=(0.2, 1.0), fontsize=9.8, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.text(7.4, 4.3, 'roi', fontsize=9.6)
+    ax.text(3.8, 0.3, 'NHÂN SƠ (vi khuẩn)', ha='center', fontsize=12, weight='bold', color=MAU['la'])
+    ax.add_patch(Ellipse((13.4, 3.9), 7.0, 5.4, fc='#fdeee4', ec='#b5651d', lw=2))
+    ax.add_patch(Circle((13.4, 4.0), 1.15, fc='#e6dcf7', ec=MAU['tim'], lw=2.2)); ax.add_patch(Circle((13.6, 4.2), 0.32, fc=MAU['tim']))
+    for (x, y, a) in [(11.0, 5.0, 30), (15.6, 2.7, -20), (11.6, 2.4, 0)]:
+        ax.add_patch(Ellipse((x, y), 1.1, 0.5, angle=a, fc='#f4b183', ec='#b5651d'))
+    for k in range(10): ax.add_patch(Circle((10.8 + (k * 0.71) % 5.4, 2.2 + (k * 0.53) % 3.6), 0.07, fc='#a0522d'))
+    ax.annotate('nhân có màng nhân', xy=(14.4, 4.6), xytext=(15.6, 6.7), fontsize=9.8, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('bào quan', xy=(11.0, 5.0), xytext=(9.4, 6.5), fontsize=9.8, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('tế bào chất', xy=(15.5, 4.5), xytext=(16.6, 5.4), fontsize=9.8, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.text(13.4, 0.3, 'NHÂN THỰC', ha='center', fontsize=12, weight='bold', color='#b5651d')
+    luu(fig, D + 'nhan-so-nhan-thuc.svg')
+
+
+def phan_chia_te_bao():
+    fig, ax = khung(9.6, 3.4); trong(ax)
+    ax.set_xlim(0, 19.2); ax.set_ylim(0, 6.8)
+    def tb(x, y, r=0.6):
+        ax.add_patch(Circle((x, y), r, fc='#e8f4dc', ec=MAU['la'], lw=1.6)); ax.add_patch(Circle((x, y), r * 0.32, fc=MAU['tim']))
+    tb(1.2, 3.4, 0.55); mui_ten(ax, (1.9, 3.4), (2.7, 3.4), MAU['xam'], 1.6)
+    tb(3.6, 3.4, 0.85); ax.text(3.6, 2.0, 'lớn lên', ha='center', fontsize=9.6)
+    mui_ten(ax, (4.6, 3.4), (5.5, 3.4), MAU['xam'], 1.6)
+    ax.add_patch(Ellipse((6.9, 3.4), 2.2, 1.4, fc='#e8f4dc', ec=MAU['la'], lw=1.6)); ax.add_patch(Circle((6.4, 3.4), 0.25, fc=MAU['tim'])); ax.add_patch(Circle((7.4, 3.4), 0.25, fc=MAU['tim']))
+    ax.plot([6.9, 6.9], [2.75, 4.05], color=MAU['la'], lw=1.4, ls='--'); ax.text(6.9, 2.0, 'nhân chia,\nrồi tế bào chất chia', ha='center', fontsize=9.2, linespacing=1.2)
+    mui_ten(ax, (8.2, 3.4), (9.0, 3.4), MAU['xam'], 1.6)
+    for (x, y) in [(9.8, 3.9), (9.8, 2.9)]: tb(x, y, 0.45)
+    ax.text(9.8, 5.0, '2', ha='center', fontsize=12, weight='bold', color=MAU['xanh'])
+    mui_ten(ax, (10.5, 3.4), (11.3, 3.4), MAU['xam'], 1.6)
+    for k in range(4): tb(12.0 + (k % 2) * 0.8, 2.9 + (k // 2) * 1.0, 0.38)
+    ax.text(12.4, 5.0, '4', ha='center', fontsize=12, weight='bold', color=MAU['xanh'])
+    mui_ten(ax, (13.5, 3.4), (14.3, 3.4), MAU['xam'], 1.6)
+    for k in range(8): tb(15.0 + (k % 4) * 0.75, 2.9 + (k // 4) * 1.0, 0.33)
+    ax.text(16.1, 5.0, '8', ha='center', fontsize=12, weight='bold', color=MAU['xanh'])
+    ax.text(9.6, 0.5, 'Sau n lần phân chia: 1 tế bào → 2ⁿ tế bào con', ha='center', fontsize=12, weight='bold', color=MAU['do'])
+    luu(fig, D + 'phan-chia-te-bao.svg')
+
+
+def te_bao_hanh():
+    fig, ax = khung(6.4, 4.0); trong(ax)
+    ax.set_xlim(0, 12.8); ax.set_ylim(0, 8)
+    ax.add_patch(Circle((4.0, 4.0), 3.7, fc='#fdf8ec', ec='#333', lw=2.5))
+    rng = np.random.default_rng(7)
+    clip = Circle((4.0, 4.0), 3.65, transform=ax.transData)
+    for r in range(-1, 6):
+        for c in range(-1, 4):
+            x0 = 0.3 + c * 2.6 + (0.9 if r % 2 else 0); y0 = 0.4 + r * 1.3
+            pts = [[x0, y0], [x0 + 2.4, y0 + 0.1], [x0 + 2.6, y0 + 1.2], [x0 + 0.2, y0 + 1.25]]
+            pg = Polygon(pts, fc='#f3e3c0', ec='#8a6a3a', lw=1.6); ax.add_patch(pg); pg.set_clip_path(clip)
+            nx, ny = x0 + 0.6 + rng.random() * 1.2, y0 + 0.45 + rng.random() * 0.3
+            n = Ellipse((nx, ny), 0.38, 0.28, fc='#3a6ea5', ec='#1a3f6a'); ax.add_patch(n); n.set_clip_path(clip)
+    ax.annotate('thành tế bào', xy=(2.7, 5.6), xytext=(8.3, 7.0), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('nhân (bắt màu)', xy=(4.9, 4.4), xytext=(8.3, 5.0), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('tế bào chất', xy=(5.6, 2.6), xytext=(8.3, 3.0), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.text(8.3, 1.2, 'vật kính 10x', fontsize=10, color=MAU['xam'])
+    luu(fig, D + 'te-bao-hanh.svg')
+
+
+def trung_giay(ax, x, y, s=1.0):
+    ax.add_patch(Ellipse((x, y), 2.2 * s, 0.9 * s, angle=15, fc='#d9ecf7', ec='#3a6ea5', lw=1.5))
+    for k in range(26):
+        a = k * 2 * np.pi / 26; px, py = x + 1.1 * s * np.cos(a) * np.cos(np.radians(15)) - 0.45 * s * np.sin(a) * np.sin(np.radians(15)), y + 1.1 * s * np.cos(a) * np.sin(np.radians(15)) + 0.45 * s * np.sin(a) * np.cos(np.radians(15))
+        ax.plot([px, px + 0.15 * s * np.cos(a)], [py, py + 0.15 * s * np.sin(a)], color='#3a6ea5', lw=0.7)
+    ax.add_patch(Circle((x, y), 0.15 * s, fc='#3a6ea5'))
+
+
+def trung_roi(ax, x, y, s=1.0):
+    ax.add_patch(Ellipse((x, y), 1.4 * s, 0.6 * s, fc='#bfe3a0', ec=MAU['la'], lw=1.5))
+    tt = np.linspace(0, 1, 30); ax.plot(x + 0.7 * s + 1.0 * s * tt, y + 0.2 * s * np.sin(tt * 12), color=MAU['la'], lw=1.2)
+    for k in range(4): ax.add_patch(Ellipse((x - 0.35 * s + k * 0.22 * s, y + 0.05 * (-1) ** k), 0.18 * s, 0.12 * s, fc='#3f8f2a'))
+    ax.add_patch(Circle((x + 0.45 * s, y), 0.07 * s, fc=MAU['do']))
+
+
+def trung_bien_hinh(ax, x, y, s=1.0):
+    tt = np.linspace(0, 2 * np.pi, 80); r = 0.7 * s * (1 + 0.3 * np.sin(3 * tt) + 0.15 * np.cos(5 * tt))
+    ax.add_patch(Polygon(np.c_[x + r * np.cos(tt), y + r * np.sin(tt)], fc='#eadcf5', ec=MAU['tim'], lw=1.5)); ax.add_patch(Circle((x, y), 0.14 * s, fc=MAU['tim']))
+
+
+def don_bao_da_bao():
+    fig, ax = khung(9.6, 3.6); trong(ax)
+    ax.set_xlim(0, 19.2); ax.set_ylim(0, 7.2)
+    hop(ax, 0.2, 0.3, 8.8, 6.6, '', mau='#f4f9ff', vien=MAU['lam'])
+    ax.text(4.6, 6.3, 'ĐƠN BÀO (1 tế bào)', ha='center', fontsize=12, weight='bold', color=MAU['lam'])
+    ax.add_patch(FancyBboxPatch((1.0, 3.6), 1.8, 0.8, boxstyle='round,pad=0,rounding_size=0.4', fc='#e8f4dc', ec=MAU['la'], lw=1.5)); ax.text(1.9, 2.9, 'vi khuẩn', ha='center', fontsize=10)
+    trung_roi(ax, 4.4, 4.0); ax.text(4.8, 2.9, 'trùng roi', ha='center', fontsize=10)
+    ax.add_patch(Ellipse((7.3, 4.0), 1.1, 0.9, fc='#fff0c8', ec=MAU['cam'], lw=1.5)); ax.add_patch(Ellipse((7.95, 4.35), 0.45, 0.4, fc='#fff0c8', ec=MAU['cam'])); ax.text(7.4, 2.9, 'nấm men', ha='center', fontsize=10)
+    ax.text(4.6, 1.2, 'rất nhỏ, quan sát bằng kính hiển vi', ha='center', fontsize=9.8, color=MAU['xam'])
+    hop(ax, 9.6, 0.3, 9.4, 6.6, '', mau='#f6fbf2', vien=MAU['la'])
+    ax.text(14.3, 6.3, 'ĐA BÀO (nhiều tế bào)', ha='center', fontsize=12, weight='bold', color=MAU['la'])
+    ax.plot([11.8, 11.8], [1.8, 4.8], color=MAU['la'], lw=2.5)
+    for (yy, sg) in [(2.6, -1), (3.4, 1)]: ax.add_patch(Ellipse((11.8 + sg * 0.6, yy), 1.1, 0.45, angle=25 * sg, fc='#9bd57a', ec=MAU['la']))
+    for a in range(0, 360, 45):
+        r = np.radians(a); ax.add_patch(Ellipse((11.8 + 0.45 * np.cos(r), 5.2 + 0.45 * np.sin(r)), 0.55, 0.3, angle=a, fc='#f7b6c2', ec=MAU['do'], lw=0.8))
+    ax.add_patch(Circle((11.8, 5.2), 0.2, fc=MAU['vang']))
+    ax.text(11.8, 1.2, 'cây hoa', ha='center', fontsize=10)
+    ax.add_patch(Ellipse((16.0, 3.0), 2.6, 1.6, fc='#e6e0da', ec='#7a6a5a', lw=1.5)); ax.add_patch(Circle((17.3, 3.9), 0.7, fc='#e6e0da', ec='#7a6a5a', lw=1.5))
+    ax.add_patch(Ellipse((17.1, 5.0), 0.35, 1.2, angle=10, fc='#e6e0da', ec='#7a6a5a')); ax.add_patch(Ellipse((17.6, 5.0), 0.35, 1.2, angle=-10, fc='#e6e0da', ec='#7a6a5a'))
+    ax.add_patch(Circle((17.5, 4.0), 0.08, fc='#333')); ax.add_patch(Circle((14.7, 3.1), 0.3, fc='white', ec='#7a6a5a'))
+    ax.text(16.0, 1.2, 'con thỏ', ha='center', fontsize=10)
+    luu(fig, D + 'don-bao-da-bao.svg')
+
+
+def cap_do_to_chuc():
+    fig, ax = khung(10.0, 3.2); trong(ax)
+    ax.set_xlim(0, 20); ax.set_ylim(0, 6.4)
+    xs = [1.6, 5.6, 9.6, 13.8, 18.0]
+    names = ['Tế bào cơ', 'Mô cơ', 'Cơ quan\n(tim)', 'Hệ cơ quan\n(hệ tuần hoàn)', 'Cơ thể']
+    for i, x in enumerate(xs):
+        if i: mui_ten(ax, (xs[i - 1] + 1.5, 3.6), (x - 1.5, 3.6), MAU['xam'], 1.8)
+        ax.text(x, 1.0, names[i], ha='center', va='center', fontsize=10.5, weight='bold', color=MAU['xanh'], linespacing=1.2)
+    ax.add_patch(Ellipse((1.6, 3.6), 2.4, 0.6, fc='#f4a3a3', ec=MAU['do'])); ax.add_patch(Ellipse((1.6, 3.6), 0.4, 0.25, fc=MAU['tim']))
+    for k in range(4): ax.add_patch(Ellipse((5.6, 2.7 + k * 0.6), 2.6, 0.5, fc='#f4a3a3', ec=MAU['do'], lw=1))
+    t = np.linspace(0, 2 * np.pi, 100); hx = 16 * np.sin(t) ** 3; hy = 13 * np.cos(t) - 5 * np.cos(2 * t) - 2 * np.cos(3 * t) - np.cos(4 * t)
+    ax.add_patch(Polygon(np.c_[9.6 + hx * 0.08, 3.7 + hy * 0.08], fc='#e0525e', ec='#8a1a2a', lw=1.5))
+    ax.add_patch(Polygon(np.c_[13.8 + hx * 0.045, 4.2 + hy * 0.045], fc='#e0525e', ec='#8a1a2a', lw=1))
+    for sg in (-1, 1):
+        ax.plot([13.8 + sg * 0.2, 13.8 + sg * 1.2, 13.8 + sg * 1.0], [3.6, 2.2, 5.4], color=MAU['do'] if sg > 0 else MAU['lam'], lw=2)
+    ax.add_patch(Circle((18.0, 5.0), 0.45, fc='#f6d2b5', ec='#a0704a')); ax.plot([18.0, 18.0], [4.55, 2.9], color='#5a7a9a', lw=4)
+    ax.plot([18.0, 17.4], [2.9, 1.9], color='#333', lw=2.5); ax.plot([18.0, 18.6], [2.9, 1.9], color='#333', lw=2.5)
+    ax.plot([17.2, 18.8], [4.1, 4.1], color='#5a7a9a', lw=2.5)
+    luu(fig, D + 'cap-do-to-chuc.svg')
+
+
+def th_don_bao():
+    fig, ax = khung(8.0, 4.0); trong(ax)
+    ax.set_xlim(0, 16); ax.set_ylim(0, 8)
+    ax.add_patch(Circle((4.2, 4.0), 3.8, fc='#f4fbff', ec='#333', lw=2.5))
+    trung_giay(ax, 3.0, 5.2, 1.0); trung_roi(ax, 5.2, 2.5, 1.1); trung_bien_hinh(ax, 5.6, 5.0, 0.9); trung_giay(ax, 2.6, 2.6, 0.7)
+    ax.annotate('trùng giày\n(lông bơi)', xy=(3.8, 5.6), xytext=(9.0, 6.9), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('trùng biến hình\n(chân giả)', xy=(6.2, 5.2), xytext=(9.0, 4.9), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('trùng roi xanh\n(roi, lục lạp)', xy=(6.3, 2.6), xytext=(9.0, 2.6), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.text(9.0, 0.8, 'giọt nước ao, vật kính 40x', fontsize=10, color=MAU['xam'])
+    luu(fig, D + 'th-don-bao.svg')
+
+
+ALL += [nhan_so_nhan_thuc, phan_chia_te_bao, te_bao_hanh, don_bao_da_bao, cap_do_to_chuc, th_don_bao]
+
 if __name__ == '__main__':
     for f in ALL:
         f()
