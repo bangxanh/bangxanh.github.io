@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="549.504pt" height="272.304pt" viewBox="0 0 549.504 272.304" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T23:54:00.829889</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 272.304 
+L 549.504 272.304 
+L 549.504 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 167.1984 44.676 
+L 382.3056 44.676 
+Q 385.632 44.676 385.632 41.3496 
+L 385.632 20.2824 
+Q 385.632 16.956 382.3056 16.956 
+L 167.1984 16.956 
+Q 163.872 16.956 163.872 20.2824 
+L 163.872 41.3496 
+Q 163.872 44.676 167.1984 44.676 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #eef1ef; stroke: #1f5640; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 20.2824 113.976 
+L 177.1776 113.976 
+Q 180.504 113.976 180.504 110.6496 
+L 180.504 70.1784 
+Q 180.504 66.852 177.1776 66.852 
+L 20.2824 66.852 
+Q 16.956 66.852 16.956 70.1784 
+L 16.956 110.6496 
+Q 16.956 113.976 20.2824 113.976 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 272.761761 46.281396 
+Q 186.74037 55.764069 102.274803 65.075234 
+" clip-path="url(#p648b6249c2)" style="fill: none; stroke: #6b7a72; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 108.986899 67.554703 
+L 102.274803 65.075234 
+L 108.285635 61.193238 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #6b7a72; stroke: #6b7a72; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 183.891511 90.414 
+Q 190.90068 90.414 196.120995 90.414 
+" clip-path="url(#p648b6249c2)" style="fill: none; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 189.720995 87.214 
+L 196.120995 90.414 
+L 189.720995 93.614 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #6b7a72; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 196.3044 113.976 
+L 353.1996 113.976 
+Q 356.526 113.976 356.526 110.6496 
+L 356.526 70.1784 
+Q 356.526 66.852 353.1996 66.852 
+L 196.3044 66.852 
+Q 192.978 66.852 192.978 70.1784 
+L 192.978 110.6496 
+Q 192.978 113.976 196.3044 113.976 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 274.752 48.06588 
+Q 274.752 55.765518 274.752 61.899909 
+" clip-path="url(#p648b6249c2)" style="fill: none; stroke: #6b7a72; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 277.952 55.499909 
+L 274.752 61.899909 
+L 271.552 55.499909 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #6b7a72; stroke: #6b7a72; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 359.913511 90.414 
+Q 366.92268 90.414 372.142995 90.414 
+" clip-path="url(#p648b6249c2)" style="fill: none; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 365.742995 87.214 
+L 372.142995 90.414 
+L 365.742995 93.614 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #6b7a72; stroke: #6b7a72; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 372.3264 113.976 
+L 529.2216 113.976 
+Q 532.548 113.976 532.548 110.6496 
+L 532.548 70.1784 
+Q 532.548 66.852 529.2216 66.852 
+L 372.3264 66.852 
+Q 369 66.852 369 70.1784 
+L 369 110.6496 
+Q 369 113.976 372.3264 113.976 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #e8f4dc; stroke: #55891b; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 276.742239 46.281396 
+Q 362.76363 55.764069 447.229197 65.075234 
+" clip-path="url(#p648b6249c2)" style="fill: none; stroke: #6b7a72; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 441.218365 61.193238 
+L 447.229197 65.075234 
+L 440.517101 67.554703 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #6b7a72; stroke: #6b7a72; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 53.5464 249.804 
+L 495.9576 249.804 
+Q 499.284 249.804 499.284 246.4776 
+L 499.284 211.5504 
+Q 499.284 208.224 495.9576 208.224 
+L 53.5464 208.224 
+Q 50.22 208.224 50.22 211.5504 
+L 50.22 246.4776 
+Q 50.22 249.804 53.5464 249.804 
+z
+" clip-path="url(#p648b6249c2)" style="fill: #fde9ec; stroke: #c93a58; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="274.752" y="34.454906" transform="rotate(-0 274.752 34.454906)">Đa thức cần phân tích thành nhân tử</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="98.73" y="83.70327" transform="rotate(-0 98.73 83.70327)">1. Có nhân tử chung?</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="98.73" y="103.734281" transform="rotate(-0 98.73 103.734281)">Đặt nhân tử chung</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="98.73" y="158.447602" transform="rotate(-0 98.73 158.447602)">6x³y − 9x²y² = 3x²y(2x − 3y)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="274.752" y="84.179871" transform="rotate(-0 274.752 84.179871)">2. Có dạng hằng đẳng thức?</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="274.752" y="104.428969" transform="rotate(-0 274.752 104.428969)">Dùng hằng đẳng thức</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="274.752" y="158.847094" transform="rotate(-0 274.752 158.847094)">9x² − 4 = (3x − 2)(3x + 2)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="450.774" y="83.439949" transform="rotate(-0 450.774 83.439949)">3. Chưa được?</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #55891b" x="450.774" y="103.734281" transform="rotate(-0 450.774 103.734281)">Nhóm hạng tử</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(403.242633 143.135648)">x² − xy + 2x − 2y</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(394.426734 158.447602)">= x(x − y) + 2(x − y)</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(408.377789 173.672602)">= (x − y)(x + 2)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(82.083562 225.373248)">Kiểm tra: nhân các nhân tử phải được đa thức ban đầu; phân tích đến khi</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(58.191961 239.18526)">mỗi nhân tử không phân tích tiếp được nữa (thường phối hợp cả ba phương pháp).</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p648b6249c2">
+   <rect x="8.64" y="8.64" width="532.224" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,45 @@
+// Tự nhiên và Xã hội 2 (phần Xã hội: chủ đề 1–3, giữ số bài của SGK; chủ đề 4–6 ở tệp 2-khtn.txt) và Đạo đức 2 – SGK Kết nối tri thức với cuộc sống
+// Danh mục bài đối chiếu vietjack.com, loigiaihay.com, hoatieu.vn; nội dung chi tiết được bổ sung dần
+# 2 | khxh | Tự nhiên và Xã hội 2 (phần Xã hội)
+## Chủ đề 1. Gia đình
+### Bài 1. Các thế hệ trong gia đình
+### Bài 2. Nghề nghiệp của người lớn trong gia đình
+### Bài 3. Phòng tránh ngộ độc khi ở nhà
+### Bài 4. Giữ sạch nhà ở
+### Bài 5. Ôn tập chủ đề Gia đình
+## Chủ đề 2. Trường học
+### Bài 6. Chào đón ngày khai giảng
+### Bài 7. Ngày hội đọc sách của chúng em
+### Bài 8. An toàn khi ở trường
+### Bài 9. Giữ vệ sinh trường học
+### Bài 10. Ôn tập chủ đề Trường học
+## Chủ đề 3. Cộng đồng địa phương
+### Bài 11. Hoạt động mua bán hàng hóa
+### Bài 12. Thực hành mua bán hàng hóa
+### Bài 13. Hoạt động giao thông
+### Bài 14. Cùng tham gia giao thông
+### Bài 15. Ôn tập chủ đề Cộng đồng địa phương
+# 2 | khxh | Đạo đức 2
+## Chủ đề 1. Quê hương em
+### Bài 1. Vẻ đẹp quê hương em
+### Bài 2. Em yêu quê hương
+## Chủ đề 2. Kính trọng thầy giáo, cô giáo và yêu quý bạn bè
+### Bài 3. Kính trọng thầy giáo, cô giáo
+### Bài 4. Yêu quý bạn bè
+## Chủ đề 3. Quý trọng thời gian
+### Bài 5. Quý trọng thời gian
+## Chủ đề 4. Nhận lỗi và sửa lỗi
+### Bài 6. Nhận lỗi và sửa lỗi
+## Chủ đề 5. Bảo quản đồ dùng cá nhân và gia đình
+### Bài 7. Bảo quản đồ dùng cá nhân
+### Bài 8. Bảo quản đồ dùng gia đình
+## Chủ đề 6. Thể hiện cảm xúc bản thân
+### Bài 9. Cảm xúc của em
+### Bài 10. Kiềm chế cảm xúc tiêu cực
+## Chủ đề 7. Tìm kiếm sự hỗ trợ
+### Bài 11. Tìm kiếm sự hỗ trợ khi ở nhà
+### Bài 12. Tìm kiếm sự hỗ trợ khi ở trường
+### Bài 13. Tìm kiếm sự hỗ trợ ở nơi công cộng
+## Chủ đề 8. Tuân thủ quy định nơi công cộng
+### Bài 14. Tìm hiểu quy định nơi công cộng
+### Bài 15. Em tuân thủ quy định nơi công cộng

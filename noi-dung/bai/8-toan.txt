@@ -2,19 +2,920 @@
 # 8 | toan | Toán 8
 ## Chương I. Đa thức
 ### Bài 1. Đơn thức
+> Thể tích một chiếc hộp có ba kích thước 2x, x và y (cm) là 2x · x · y = 2x²y – một biểu thức gọn gàng chỉ gồm tích của số và biến, gọi là đơn thức.
+MT: Nhận biết được đơn thức, đơn thức thu gọn; chỉ ra được hệ số, phần biến và bậc của một đơn thức.
+MT: Thu gọn được đơn thức; nhận biết được các đơn thức đồng dạng.
+MT: Cộng, trừ được các đơn thức đồng dạng và tính được giá trị của một đơn thức.
+LT: 1. Đơn thức và đơn thức thu gọn
+- **Đơn thức** là biểu thức đại số chỉ gồm một số, hoặc một biến, hoặc một tích giữa các số và các biến. Ví dụ: 5; x; −3x²y; 4xy · 2x.
+- Các biểu thức có phép cộng, phép trừ giữa các biến (như x + y) hoặc có biến ở mẫu (như 2/x) **không phải** là đơn thức.
+- **Đơn thức thu gọn** là đơn thức chỉ gồm một số, hoặc có dạng tích của một số với các biến, mỗi biến chỉ xuất hiện một lần và đã được nâng lên lũy thừa với số mũ nguyên dương.
+- Trong đơn thức thu gọn, phần số gọi là **hệ số**, phần còn lại gọi là **phần biến**. Ví dụ: −3x²y có hệ số −3, phần biến x²y; x²y có hệ số 1; −xy³ có hệ số −1.
+- **Thu gọn** một đơn thức: nhân các số với nhau, nhân các lũy thừa của cùng một biến với nhau theo quy tắc xᵐ · xⁿ = x^{m+n}. Ví dụ: 4xy · 2x = (4 · 2)(x · x)y = 8x²y.
+LT: 2. Bậc của đơn thức
+- **Bậc** của một đơn thức có hệ số khác 0 là tổng số mũ của tất cả các biến có trong đơn thức đó (xét ở dạng thu gọn).
+- Biến không ghi số mũ thì có số mũ là 1. Ví dụ: 7x có bậc 1; 5xy²z có bậc 1 + 2 + 1 = 4.
+- Mỗi số thực khác 0 là đơn thức bậc 0. Số 0 cũng được coi là một đơn thức; đơn thức 0 không có bậc.
+LT: 3. Đơn thức đồng dạng
+- Hai **đơn thức đồng dạng** là hai đơn thức có hệ số khác 0 và có cùng phần biến. Các số khác 0 cũng được coi là những đơn thức đồng dạng.
+- Ví dụ: 2x²y, −5x²y và (1/3)x²y đồng dạng với nhau; còn x²y và xy² **không** đồng dạng vì số mũ của từng biến khác nhau.
+- **Cộng (trừ) các đơn thức đồng dạng**: cộng (trừ) các hệ số với nhau và giữ nguyên phần biến. Ví dụ: 2x²y − 5x²y = (2 − 5)x²y = −3x²y.
+HINH: 8-toan/bai1-don-thuc.svg | Bên trái: đơn thức −3x²y³ có hệ số −3, phần biến x²y³ và bậc 2 + 3 = 5. Bên phải: các đơn thức đồng dạng được xếp chung một nhóm vì có cùng phần biến.
+DB: Dạng 1. Nhận biết đơn thức; chỉ ra hệ số, phần biến và bậc
+- Kiểm tra biểu thức chỉ là một số, một biến hoặc một tích của các số và biến (không có phép cộng, trừ giữa các biến, không có biến ở mẫu).
+- Thu gọn đơn thức (nếu chưa thu gọn) rồi đọc hệ số (phần số, kể cả dấu) và phần biến.
+- Bậc = tổng số mũ của các biến trong đơn thức thu gọn; số mũ trong hệ số (như 2³) không tính vào bậc.
+DB: Dạng 2. Thu gọn đơn thức và tính giá trị của đơn thức
+- Nhóm các số với nhau, các lũy thừa của cùng một biến với nhau rồi nhân (cộng số mũ của cùng một biến).
+- Muốn tính giá trị: thu gọn trước, sau đó thay giá trị của biến (số âm đặt trong ngoặc) và tính.
+DB: Dạng 3. Cộng, trừ các đơn thức đồng dạng
+- Kiểm tra các đơn thức có cùng phần biến hay không (sau khi thu gọn).
+- Cộng (trừ) các hệ số, giữ nguyên phần biến.
+VD: Thu gọn đơn thức A = (−2/3)x²y · 6xy³ rồi chỉ ra hệ số, phần biến và bậc của A.
+B: Nhóm các số và các lũy thừa cùng biến: A = [(−2/3) · 6] · (x² · x) · (y · y³).
+B: Tính từng phần: (−2/3) · 6 = −4; x² · x = x³; y · y³ = y⁴. Do đó A = −4x³y⁴.
+B: Bậc của A bằng tổng số mũ các biến: 3 + 4 = 7.
+KQ: A = −4x³y⁴ có hệ số −4, phần biến x³y⁴, bậc 7.
+VD: Tính tổng S = 4x²y³ + (−x²y³) + (−5x²y³) rồi tính giá trị của S tại x = −1, y = 2.
+B: Ba đơn thức có cùng phần biến x²y³ nên đồng dạng: S = (4 − 1 − 5)x²y³ = −2x²y³.
+B: Thay x = −1, y = 2: S = −2 · (−1)² · 2³ = −2 · 1 · 8.
+KQ: S = −2x²y³; tại x = −1, y = 2 thì S = −16.
+GN: Biến không ghi số mũ có số mũ 1: bậc của 5xy²z là 1 + 2 + 1 = 4, không được bỏ sót x và z.
+GN: Số mũ nằm trong hệ số không tính vào bậc: 2³x²y có hệ số 8 và bậc 2 + 1 = 3 (không phải 6).
+GN: Chỉ cộng, trừ trực tiếp được các đơn thức đồng dạng; x²y và xy² có cùng các biến nhưng khác số mũ nên không đồng dạng.
+Q: mc | Biểu thức nào sau đây không phải là đơn thức?
+A) −5x²y
+B) 7
+C) x + 2y *
+D) (1/2)x³
+E: x + 2y có phép cộng giữa các biến nên không phải là đơn thức. Các biểu thức còn lại là một số hoặc tích của số với biến.
+Q: mc | Bậc của đơn thức −2³x²y⁴z là
+A) 6
+B) 7 *
+C) 10
+D) 3
+E: Bậc chỉ tính số mũ của các biến: 2 + 4 + 1 = 7. Số mũ 3 thuộc hệ số −2³ = −8 nên không tính vào bậc.
+Q: mc | Đơn thức nào đồng dạng với đơn thức −3x²y?
+A) −3xy²
+B) 5x²y *
+C) x²y²
+D) 3x²yz
+E: 5x²y có hệ số khác 0 và cùng phần biến x²y với −3x²y. Các đơn thức còn lại có phần biến khác.
+Q: tf | Cho đơn thức A = 2xy² · (−3x²y).
+a) Dạng thu gọn của A là −6x³y³. | Đ
+b) Hệ số của A là 6. | S
+c) Bậc của A là 6. | Đ
+d) Giá trị của A tại x = −1, y = 1 bằng −6. | S
+E: A = [2 · (−3)] · (x · x²) · (y² · y) = −6x³y³: hệ số −6, bậc 3 + 3 = 6. Tại x = −1, y = 1: A = −6 · (−1)³ · 1³ = −6 · (−1) = 6, không phải −6.
+Q: sa | Tìm số a, biết tổng của ba đơn thức 3x²y³, ax²y³ và −5x²y³ bằng 4x²y³.
+ANS: 6
+E: Ba đơn thức đồng dạng nên tổng bằng (3 + a − 5)x²y³ = (a − 2)x²y³. Từ a − 2 = 4 suy ra a = 6.
+Q: match | Nối mỗi đơn thức với bậc của nó:
+1) −7x²y³ | 5
+2) 2³xy | 2
+3) 10 | 0
+4) 4xyz | 3
+E: −7x²y³: 2 + 3 = 5; 2³xy: chỉ tính số mũ của x và y nên bậc 1 + 1 = 2; 10 là số khác 0 nên có bậc 0; 4xyz: 1 + 1 + 1 = 3.
+TL: Một bể cá hình hộp chữ nhật có chiều dài 3x (dm), chiều rộng 2y (dm) và chiều cao 2x (dm). a) Viết đơn thức thu gọn biểu thị thể tích V của bể; cho biết hệ số và bậc của V. b) Tính thể tích bể khi x = 2 và y = 1,5.
+MAU: a) V = 3x · 2y · 2x = (3 · 2 · 2)(x · x)y = 12x²y (dm³).
+MAU: Đơn thức 12x²y có hệ số 12 và bậc 2 + 1 = 3.
+MAU: b) Với x = 2, y = 1,5: V = 12 · 2² · 1,5 = 12 · 4 · 1,5 = 72 (dm³), tức là bể chứa được 72 lít nước.
+TC: Lập đúng tích 3x · 2y · 2x và thu gọn được 12x²y | 1,5
+TC: Nêu đúng hệ số 12 và bậc 3 | 1
+TC: Tính đúng thể tích 72 dm³ (có đơn vị) | 1,5
+
 ### Bài 2. Đa thức
+> Diện tích của một mảnh vườn ghép từ nhiều phần hình vuông, hình chữ nhật được viết bằng tổng của nhiều đơn thức – biểu thức đó là một đa thức.
+MT: Nhận biết được đa thức và các hạng tử của đa thức; nhận biết đa thức thu gọn.
+MT: Thu gọn được đa thức và xác định được bậc của đa thức.
+MT: Tính được giá trị của đa thức khi biết giá trị của các biến.
+LT: 1. Đa thức
+- **Đa thức** là tổng của những đơn thức; mỗi đơn thức trong tổng gọi là một **hạng tử** của đa thức đó.
+- Ví dụ: P = x²y − 3xy + 5 là tổng x²y + (−3xy) + 5 nên có ba hạng tử là x²y; −3xy và 5. Mỗi hạng tử mang theo dấu đứng trước nó.
+- Mỗi đơn thức cũng được coi là một đa thức (chỉ có một hạng tử). Số 0 cũng là một đa thức, gọi là **đa thức không**.
+- Ta thường kí hiệu đa thức bằng các chữ in hoa như A, B, M, P, Q, …
+LT: 2. Đa thức thu gọn
+- **Đa thức thu gọn** là đa thức không có hai hạng tử nào đồng dạng.
+- **Thu gọn** đa thức: nhóm các hạng tử đồng dạng với nhau rồi cộng (trừ) các hạng tử trong mỗi nhóm. Ví dụ: 3x²y − xy + 2x²y = (3x²y + 2x²y) − xy = 5x²y − xy.
+LT: 3. Bậc của đa thức và giá trị của đa thức
+- **Bậc của đa thức** là bậc của hạng tử có bậc cao nhất trong dạng thu gọn của đa thức đó.
+- Ví dụ: Q = x⁴y − 2x³y³ + 7 có ba hạng tử với bậc lần lượt là 5; 6; 0 nên Q có bậc 6.
+- Một số khác 0 là đa thức bậc 0. Đa thức 0 (đa thức không) không có bậc.
+- **Giá trị của đa thức**: thay giá trị của các biến vào đa thức rồi thực hiện các phép tính; nên thu gọn đa thức trước khi thay số.
+HINH: 8-toan/bai2-bac-da-thuc.svg | Thu gọn M = 2x³y + 5xy − x³y + 3 − 4xy bằng cách cộng các hạng tử đồng dạng (cùng màu) được M = x³y + xy + 3; hạng tử bậc cao nhất là x³y nên M có bậc 4.
+DB: Dạng 1. Nhận biết hạng tử; thu gọn đa thức
+- Viết đa thức thành tổng các đơn thức để chỉ ra từng hạng tử (kèm dấu đứng trước).
+- Tìm các nhóm hạng tử đồng dạng (cùng phần biến), cộng (trừ) trong từng nhóm; hạng tử không đồng dạng với hạng tử nào thì giữ nguyên.
+DB: Dạng 2. Tìm bậc của đa thức
+- Thu gọn đa thức.
+- Tính bậc của từng hạng tử; bậc lớn nhất trong các bậc đó là bậc của đa thức.
+DB: Dạng 3. Tính giá trị của đa thức
+- Thu gọn đa thức để phép tính đơn giản hơn.
+- Thay giá trị các biến (số âm đặt trong ngoặc), tính theo thứ tự: lũy thừa → nhân, chia → cộng, trừ.
+VD: Thu gọn và tìm bậc của đa thức A = 4x²y − 3xy² + 2 − x²y + 3xy² + 5x.
+B: Nhóm các hạng tử đồng dạng: A = (4x²y − x²y) + (−3xy² + 3xy²) + 5x + 2.
+B: Thu gọn từng nhóm: 4x²y − x²y = 3x²y; −3xy² + 3xy² = 0. Do đó A = 3x²y + 5x + 2.
+B: Các hạng tử 3x²y; 5x; 2 có bậc lần lượt là 3; 1; 0.
+KQ: A = 3x²y + 5x + 2, đa thức A có bậc 3.
+VD: Tính giá trị của đa thức B = 2x² − 3xy + y² − x² + xy tại x = 3, y = −2.
+B: Thu gọn: B = (2x² − x²) + (−3xy + xy) + y² = x² − 2xy + y².
+B: Thay x = 3, y = −2: B = 3² − 2 · 3 · (−2) + (−2)² = 9 + 12 + 4.
+KQ: Tại x = 3, y = −2, giá trị của B bằng 25.
+GN: Phải thu gọn trước khi tìm bậc: x⁵ + 2xy − x⁵ = 2xy có bậc 2, không phải bậc 5.
+GN: Mỗi hạng tử mang theo dấu đứng trước nó: trong x² − 5x + 1, hạng tử thứ hai là −5x chứ không phải 5x.
+GN: Khi thay số âm phải đặt trong ngoặc: với x = −2 thì x² = (−2)² = 4, còn −x² = −(−2)² = −4.
+Q: mc | Bậc của đa thức P = 5x³ − 2x²y² + xy − 7 là
+A) 3
+B) 4 *
+C) 5
+D) 2
+E: Các hạng tử 5x³; −2x²y²; xy; −7 có bậc lần lượt là 3; 4; 2; 0 (P đã thu gọn). Bậc cao nhất là 4.
+Q: mc | Thu gọn đa thức 6xy − 2x² + 3x² − 8xy ta được
+A) x² − 2xy *
+B) −x² + 2xy
+C) 5x² − 14xy
+D) x² + 2xy
+E: (−2x² + 3x²) + (6xy − 8xy) = x² − 2xy.
+Q: tf | Cho đa thức Q = x²y³ − 4xy + 3x²y³ + xy − 2.
+a) Dạng thu gọn của Q là 4x²y³ − 3xy − 2. | Đ
+b) Bậc của Q bằng 6. | S
+c) Giá trị của Q tại x = 1, y = 1 bằng 1. | S
+d) Giá trị của Q tại x = 0, y = 5 bằng −2. | Đ
+E: Q = (x²y³ + 3x²y³) + (−4xy + xy) − 2 = 4x²y³ − 3xy − 2. Hạng tử 4x²y³ có bậc cao nhất là 2 + 3 = 5 nên Q có bậc 5. Tại x = 1, y = 1: Q = 4 − 3 − 2 = −1. Tại x = 0: mọi hạng tử chứa x bằng 0 nên Q = −2.
+Q: sa | Tính giá trị của đa thức M = x²y − 2xy² + 3 tại x = −1, y = 2.
+ANS: 13
+E: M = (−1)² · 2 − 2 · (−1) · 2² + 3 = 2 + 8 + 3 = 13.
+Q: ord | Sắp xếp các bước tính giá trị của đa thức N = 3x² − xy + x² + 2xy tại x = 1, y = −4 theo đúng thứ tự:
+1) Nhóm các hạng tử đồng dạng: N = (3x² + x²) + (−xy + 2xy)
+2) Thu gọn: N = 4x² + xy
+3) Thay x = 1, y = −4: N = 4 · 1² + 1 · (−4)
+4) Tính được N = 0
+E: Thu gọn trước rồi mới thay số giúp phép tính ngắn gọn: N = 4x² + xy = 4 − 4 = 0.
+TL: Một mảnh vườn được ghép từ một hình vuông cạnh x (m) và một hình chữ nhật có hai cạnh là x (m) và y (m). Người ta xây trong vườn một bể nước có đáy là hình vuông cạnh 2 m. a) Viết đa thức S biểu thị diện tích phần đất còn lại của mảnh vườn và cho biết bậc của S. b) Tính S khi x = 10 và y = 6.
+MAU: a) Diện tích hình vuông là x², diện tích hình chữ nhật là xy, diện tích đáy bể là 2² = 4 (m²).
+MAU: S = x² + xy − 4 (m²). Các hạng tử x²; xy; −4 có bậc 2; 2; 0 nên S có bậc 2.
+MAU: b) Với x = 10, y = 6: S = 10² + 10 · 6 − 4 = 100 + 60 − 4 = 156 (m²).
+TC: Viết đúng diện tích từng phần x², xy và 4 m² | 1
+TC: Lập đúng S = x² + xy − 4 và nêu bậc 2 | 1
+TC: Tính đúng S = 156 m² | 1
+
 ### Bài 3. Phép cộng và phép trừ đa thức
+> Chu vi của một mảnh đất tam giác có độ dài các cạnh là những đa thức chính là tổng của ba đa thức – phép cộng đa thức giúp ta viết kết quả thật gọn.
+MT: Thực hiện được phép cộng hai hay nhiều đa thức.
+MT: Thực hiện được phép trừ hai đa thức, biết đổi dấu đúng khi bỏ dấu ngoặc có dấu "−" đứng trước.
+MT: Vận dụng phép cộng, trừ đa thức để tìm đa thức chưa biết, tính giá trị biểu thức và giải bài toán thực tế.
+LT: 1. Cộng hai đa thức
+- Muốn cộng hai đa thức A và B, ta viết A + B, **bỏ dấu ngoặc** (giữ nguyên dấu các hạng tử), nhóm các hạng tử đồng dạng rồi thu gọn.
+- Ví dụ: (2x² − xy) + (x² + 3xy − 1) = 2x² − xy + x² + 3xy − 1 = 3x² + 2xy − 1.
+LT: 2. Trừ hai đa thức
+- Muốn trừ đa thức A cho đa thức B, ta viết A − (B), bỏ dấu ngoặc đồng thời **đổi dấu tất cả** các hạng tử của B, rồi nhóm các hạng tử đồng dạng và thu gọn.
+- Ví dụ: (2x² − xy) − (x² + 3xy − 1) = 2x² − xy − x² − 3xy + 1 = x² − 4xy + 1.
+- Có thể **đặt tính theo cột**: viết các hạng tử đồng dạng thẳng cột với nhau rồi cộng (trừ) theo từng cột.
+HINH: 8-toan/bai3-cong-tru-cot.svg | Đặt tính theo cột với A = 2x² − xy và B = x² + 3xy − 1: các hạng tử đồng dạng xếp thẳng cột. Phép trừ A − B chính là cộng A với −B (đổi dấu mọi hạng tử của B).
+LT: 3. Tính chất và cách tìm đa thức chưa biết
+- Phép cộng đa thức có tính chất **giao hoán** và **kết hợp**: A + B = B + A; (A + B) + C = A + (B + C).
+- A − B = A + (−B), trong đó −B có được bằng cách đổi dấu mọi hạng tử của B. Ta có A − A = 0.
+- Tìm đa thức M chưa biết: nếu M + B = A thì M = A − B; nếu M − B = A thì M = A + B; nếu A − M = B thì M = A − B.
+DB: Dạng 1. Cộng, trừ các đa thức
+- Viết mỗi đa thức trong một cặp ngoặc, nối bằng dấu "+" hoặc "−".
+- Bỏ ngoặc: trước ngoặc là dấu "+" thì giữ nguyên dấu các hạng tử; trước ngoặc là dấu "−" thì đổi dấu tất cả các hạng tử trong ngoặc.
+- Nhóm các hạng tử đồng dạng rồi thu gọn.
+DB: Dạng 2. Tìm đa thức chưa biết
+- Dựa vào quan hệ giữa các thành phần của phép cộng, phép trừ để đưa về dạng M = …
+- Thực hiện phép cộng hoặc phép trừ đa thức tương ứng; có thể thử lại bằng cách thay M vào đề bài.
+DB: Dạng 3. Tính giá trị biểu thức, bài toán thực tế
+- Cộng, trừ các đa thức để thu gọn biểu thức trước, sau đó mới thay giá trị của biến.
+- Với bài toán thực tế: biểu diễn các đại lượng (độ dài, chu vi, số tiền, …) bằng đa thức rồi cộng, trừ.
+VD: Cho hai đa thức A = 5x²y − 3xy² + 2 và B = −2x²y + xy² − 6. Tính A + B và A − B.
+B: A + B = 5x²y − 3xy² + 2 − 2x²y + xy² − 6 = (5x²y − 2x²y) + (−3xy² + xy²) + (2 − 6).
+B: Thu gọn: A + B = 3x²y − 2xy² − 4.
+B: A − B = 5x²y − 3xy² + 2 + 2x²y − xy² + 6 (đổi dấu cả ba hạng tử của B) = (5x²y + 2x²y) + (−3xy² − xy²) + (2 + 6).
+KQ: A + B = 3x²y − 2xy² − 4 và A − B = 7x²y − 4xy² + 8.
+VD: Tìm đa thức M, biết M − (2x² − 3xy + y²) = x² + xy − 4y².
+B: Muốn tìm đa thức bị trừ, ta lấy hiệu cộng với đa thức trừ: M = (x² + xy − 4y²) + (2x² − 3xy + y²).
+B: M = (x² + 2x²) + (xy − 3xy) + (−4y² + y²) = 3x² − 2xy − 3y².
+B: Thử lại: (3x² − 2xy − 3y²) − (2x² − 3xy + y²) = x² + xy − 4y² (đúng).
+KQ: M = 3x² − 2xy − 3y².
+GN: Lỗi thường gặp nhất: bỏ ngoặc có dấu "−" đứng trước nhưng chỉ đổi dấu hạng tử đầu tiên. Phải đổi dấu TẤT CẢ các hạng tử trong ngoặc.
+GN: Chỉ cộng, trừ các hạng tử đồng dạng với nhau; các hạng tử không đồng dạng được giữ nguyên trong kết quả.
+GN: Có thể kiểm tra nhanh kết quả bằng cách thay một giá trị cụ thể (ví dụ x = 1, y = 1) vào cả biểu thức ban đầu và kết quả.
+Q: mc | Kết quả của phép tính (x² − 2xy + 3) + (−x² + 5xy − 1) là
+A) 3xy + 2 *
+B) 2x² + 3xy + 2
+C) −7xy + 4
+D) 3xy + 4
+E: Bỏ ngoặc và nhóm: (x² − x²) + (−2xy + 5xy) + (3 − 1) = 3xy + 2.
+Q: mc | Kết quả của phép tính (4a² − 3ab) − (a² − ab + 2) là
+A) 3a² − 4ab + 2
+B) 3a² − 2ab − 2 *
+C) 3a² − 4ab − 2
+D) 5a² − 2ab + 2
+E: Đổi dấu mọi hạng tử trong ngoặc thứ hai: 4a² − 3ab − a² + ab − 2 = 3a² − 2ab − 2. Phương án A chỉ đổi dấu hạng tử đầu tiên; phương án C quên đổi dấu hạng tử −ab.
+Q: tf | Cho hai đa thức P = x² + 2xy − y² và Q = 3x² − 2xy + y².
+a) P + Q = 4x². | Đ
+b) P − Q = −2x² + 4xy − 2y². | Đ
+c) P − Q = Q − P. | S
+d) Đa thức P + Q có bậc 4. | S
+E: P + Q = 4x² + 0xy + 0y² = 4x², có bậc 2. P − Q = x² + 2xy − y² − 3x² + 2xy − y² = −2x² + 4xy − 2y². Q − P = 2x² − 4xy + 2y² là đa thức đối của P − Q, hai đa thức này khác nhau.
+Q: sa | Cho A = 2x² + xy − 3 và B = x² − xy + 1. Tính giá trị của A − B tại x = 2, y = −3.
+ANS: −12 || -12
+E: A − B = 2x² + xy − 3 − x² + xy − 1 = x² + 2xy − 4. Tại x = 2, y = −3: 4 + 2 · 2 · (−3) − 4 = 4 − 12 − 4 = −12.
+Q: match | Nối mỗi phép tính với kết quả của nó:
+1) (x + y) + (x − y) | 2x
+2) (x + y) − (x − y) | 2y
+3) (x − y) − (x + y) | −2y
+4) (x − y) + (y − x) | 0
+E: (x + y) − (x − y) = x + y − x + y = 2y; (x − y) − (x + y) = x − y − x − y = −2y; (x − y) + (y − x) = 0 vì y − x là đa thức đối của x − y.
+TL: Một mảnh đất hình tam giác có độ dài ba cạnh (tính theo mét) lần lượt là 2x + y, x + 2y và 3x − y. a) Viết đa thức thu gọn biểu thị chu vi của mảnh đất. b) Viết đa thức biểu thị hiệu giữa độ dài cạnh thứ ba và độ dài cạnh thứ nhất. c) Tính chu vi khi x = 12, y = 5.
+MAU: a) Chu vi C = (2x + y) + (x + 2y) + (3x − y) = (2x + x + 3x) + (y + 2y − y) = 6x + 2y (m).
+MAU: b) (3x − y) − (2x + y) = 3x − y − 2x − y = x − 2y (m).
+MAU: c) Với x = 12, y = 5: C = 6 · 12 + 2 · 5 = 72 + 10 = 82 (m). (Ba cạnh dài 29 m, 22 m, 31 m; tổng đúng bằng 82 m.)
+TC: Lập tổng ba đa thức và thu gọn đúng C = 6x + 2y | 1
+TC: Lập hiệu và đổi dấu đúng, được x − 2y | 1
+TC: Tính đúng chu vi 82 m | 1
+
 ### Bài 4. Phép nhân đa thức
+> Một khu vườn hình chữ nhật được mở rộng thêm cả chiều dài lẫn chiều rộng: diện tích mới chính là tích của hai đa thức biểu thị hai kích thước.
+MT: Thực hiện được phép nhân hai đơn thức và phép nhân đơn thức với đa thức.
+MT: Thực hiện được phép nhân đa thức với đa thức.
+MT: Vận dụng phép nhân đa thức để rút gọn biểu thức, tìm x, tính giá trị biểu thức và giải bài toán thực tế.
+LT: 1. Nhân hai đơn thức
+- Muốn **nhân hai đơn thức**, ta nhân hai hệ số với nhau và nhân hai phần biến với nhau.
+- Khi nhân hai phần biến, dùng quy tắc xᵐ · xⁿ = x^{m+n}. Ví dụ: (−2x²y) · (3xy³) = [(−2) · 3] · (x² · x) · (y · y³) = −6x³y⁴.
+LT: 2. Nhân đơn thức với đa thức
+- Muốn **nhân một đơn thức với một đa thức**, ta nhân đơn thức với từng hạng tử của đa thức rồi cộng các tích với nhau: A(B + C) = AB + AC.
+- Ví dụ: 2x(3x² − x + 4) = 2x · 3x² + 2x · (−x) + 2x · 4 = 6x³ − 2x² + 8x.
+LT: 3. Nhân đa thức với đa thức
+- Muốn **nhân một đa thức với một đa thức**, ta nhân mỗi hạng tử của đa thức này với từng hạng tử của đa thức kia rồi cộng các tích với nhau: (A + B)(C + D) = AC + AD + BC + BD.
+- Ví dụ: (2x + 1)(x + 3) = 2x · x + 2x · 3 + 1 · x + 1 · 3 = 2x² + 6x + x + 3 = 2x² + 7x + 3.
+- Phép nhân đa thức có tính chất **giao hoán**, **kết hợp** và **phân phối** đối với phép cộng.
+HINH: 8-toan/bai4-nhan-da-thuc.svg | Mô hình diện tích của (2x + 1)(x + 3): hình chữ nhật được chia thành 4 phần có diện tích 2x², 6x, x và 3; tổng diện tích là 2x² + 7x + 3.
+DB: Dạng 1. Thực hiện phép nhân
+- Nhân đơn thức với đa thức: nhân đơn thức với từng hạng tử của đa thức, chú ý quy tắc dấu.
+- Nhân đa thức với đa thức: lấy từng hạng tử của đa thức thứ nhất nhân với mọi hạng tử của đa thức thứ hai (đa thức m hạng tử nhân đa thức n hạng tử cho m · n tích), rồi thu gọn.
+DB: Dạng 2. Rút gọn biểu thức; chứng minh giá trị biểu thức không phụ thuộc vào biến
+- Thực hiện các phép nhân, bỏ ngoặc (chú ý dấu "−" trước ngoặc) rồi thu gọn.
+- Nếu kết quả thu gọn là một hằng số (không còn biến) thì giá trị của biểu thức không phụ thuộc vào giá trị của biến.
+DB: Dạng 3. Tính giá trị biểu thức, tìm x
+- Rút gọn biểu thức trước rồi mới thay giá trị của biến.
+- Bài tìm x: rút gọn vế chứa x để đưa về dạng ax = b (a ≠ 0), suy ra x = b : a.
+VD: Thực hiện phép nhân (x − 2y)(x² + 3xy − y²).
+B: Nhân x với từng hạng tử của đa thức thứ hai: x · x² + x · 3xy + x · (−y²) = x³ + 3x²y − xy².
+B: Nhân −2y với từng hạng tử: (−2y) · x² + (−2y) · 3xy + (−2y) · (−y²) = −2x²y − 6xy² + 2y³.
+B: Cộng các tích và thu gọn: x³ + (3x²y − 2x²y) + (−xy² − 6xy²) + 2y³.
+KQ: (x − 2y)(x² + 3xy − y²) = x³ + x²y − 7xy² + 2y³.
+VD: Chứng minh giá trị của biểu thức E = (x + 3)(x − 5) − x(x − 2) không phụ thuộc vào giá trị của x.
+B: (x + 3)(x − 5) = x² − 5x + 3x − 15 = x² − 2x − 15.
+B: x(x − 2) = x² − 2x.
+B: E = (x² − 2x − 15) − (x² − 2x) = x² − 2x − 15 − x² + 2x = −15.
+KQ: E = −15 với mọi giá trị của x, nên giá trị của E không phụ thuộc vào x.
+GN: Đa thức có m hạng tử nhân với đa thức có n hạng tử thì trước khi thu gọn phải có đủ m · n tích; thiếu tích là lỗi rất hay gặp.
+GN: Chú ý quy tắc dấu: −2x(x − 3) = −2x² + 6x (không phải −2x² − 6x).
+GN: Nhân hai lũy thừa cùng cơ số thì cộng số mũ: x² · x³ = x⁵ (không phải x⁶).
+Q: mc | Kết quả của phép nhân 3x(x² − 2x + 5) là
+A) 3x³ − 6x² + 15x *
+B) 3x³ − 2x + 5
+C) 3x² − 6x + 15
+D) 3x³ − 6x² + 5
+E: 3x · x² + 3x · (−2x) + 3x · 5 = 3x³ − 6x² + 15x. Phương án B, D quên nhân 3x với một số hạng tử; phương án C chỉ nhân với 3 mà quên nhân với x.
+Q: mc | Kết quả của phép nhân (x − 4)(x + 2) là
+A) x² − 2x − 8 *
+B) x² + 2x − 8
+C) x² − 8
+D) x² − 6x − 8
+E: (x − 4)(x + 2) = x² + 2x − 4x − 8 = x² − 2x − 8.
+Q: tf | Cho biểu thức A = (3x − 1)(x + 2).
+a) A = 3x² + 5x − 2. | Đ
+b) A là đa thức bậc 2. | Đ
+c) Giá trị của A tại x = −2 bằng 0. | Đ
+d) Hệ số của x trong dạng thu gọn của A bằng 6. | S
+E: A = 3x² + 6x − x − 2 = 3x² + 5x − 2, có bậc 2 và hệ số của x là 6 − 1 = 5. Tại x = −2, thừa số x + 2 = 0 nên A = 0.
+Q: sa | Tìm x, biết (x + 2)(x − 3) − x(x + 1) = 10.
+ANS: −8 || -8
+E: (x + 2)(x − 3) = x² − x − 6; x(x + 1) = x² + x. Vế trái bằng x² − x − 6 − x² − x = −2x − 6. Từ −2x − 6 = 10 suy ra −2x = 16, x = −8.
+Q: ord | Sắp xếp các bước thực hiện phép nhân (2x − 3)(x + 4) theo đúng thứ tự:
+1) Nhân 2x với từng hạng tử của x + 4: 2x · x + 2x · 4 = 2x² + 8x
+2) Nhân −3 với từng hạng tử của x + 4: (−3) · x + (−3) · 4 = −3x − 12
+3) Cộng các tích: 2x² + 8x − 3x − 12
+4) Thu gọn: 2x² + 5x − 12
+E: Lấy lần lượt từng hạng tử của đa thức thứ nhất nhân với mọi hạng tử của đa thức thứ hai (đủ 2 · 2 = 4 tích), rồi cộng và thu gọn.
+TL: Một bức tranh hình chữ nhật có chiều rộng x (cm), chiều dài x + 10 (cm), được lồng trong một khung viền rộng đều 2 cm ở mỗi phía. a) Viết đa thức thu gọn biểu thị diện tích của cả tranh và khung. b) Viết đa thức biểu thị diện tích phần khung viền. c) Tính diện tích phần khung viền khi x = 30.
+MAU: a) Cả tranh và khung là hình chữ nhật có kích thước x + 4 và x + 14 (cm). Diện tích: (x + 4)(x + 14) = x² + 14x + 4x + 56 = x² + 18x + 56 (cm²).
+MAU: b) Diện tích bức tranh: x(x + 10) = x² + 10x. Diện tích khung: (x² + 18x + 56) − (x² + 10x) = 8x + 56 (cm²).
+MAU: c) Với x = 30: 8 · 30 + 56 = 296 (cm²). Kiểm tra: 34 · 44 − 30 · 40 = 1496 − 1200 = 296.
+TC: Xác định đúng kích thước ngoài x + 4 và x + 14, nhân đúng được x² + 18x + 56 | 1,5
+TC: Trừ đúng diện tích tranh, được 8x + 56 | 1
+TC: Tính đúng 296 cm² | 0,5
+
 ### Bài 5. Phép chia đa thức cho đơn thức
+> Biết diện tích một hình chữ nhật là 6x² + 4x và chiều rộng là 2x, muốn tìm chiều dài ta phải chia một đa thức cho một đơn thức.
+MT: Nhận biết được khi nào đơn thức A chia hết cho đơn thức B, khi nào đa thức A chia hết cho đơn thức B.
+MT: Thực hiện được phép chia đơn thức cho đơn thức.
+MT: Thực hiện được phép chia đa thức cho đơn thức (trường hợp chia hết); vận dụng tính giá trị biểu thức và giải bài toán thực tế.
+LT: 1. Chia đơn thức cho đơn thức
+- Với x ≠ 0 và m ≥ n: xᵐ : xⁿ = x^{m−n}; đặc biệt xⁿ : xⁿ = 1.
+- Đơn thức A **chia hết** cho đơn thức B (B ≠ 0) khi mỗi biến của B đều là biến của A với số mũ không lớn hơn số mũ của nó trong A.
+- Quy tắc: muốn chia đơn thức A cho đơn thức B (A chia hết cho B), ta chia hệ số của A cho hệ số của B; chia lũy thừa của từng biến trong A cho lũy thừa của cùng biến đó trong B; rồi nhân các kết quả với nhau.
+- Ví dụ: 12x⁴y³ : (−3x²y) = [12 : (−3)] · (x⁴ : x²) · (y³ : y) = −4x²y².
+LT: 2. Chia đa thức cho đơn thức
+- Đa thức A **chia hết** cho đơn thức B nếu mỗi hạng tử của A đều chia hết cho B.
+- Quy tắc: muốn chia đa thức A cho đơn thức B (A chia hết cho B), ta chia mỗi hạng tử của A cho B rồi cộng các kết quả với nhau.
+- Ví dụ: (6x² + 4x) : 2x = 6x² : 2x + 4x : 2x = 3x + 2.
+- Thử lại: thương nhân với đơn thức chia phải bằng đa thức bị chia: 2x · (3x + 2) = 6x² + 4x.
+HINH: 8-toan/bai5-chia-da-thuc.svg | Hình chữ nhật có diện tích 6x² + 4x và chiều rộng 2x: chia từng phần diện tích cho 2x được chiều dài 3x + 2.
+DB: Dạng 1. Xét tính chia hết
+- Đơn thức A chia hết cho đơn thức B: mọi biến của B đều có trong A và số mũ của mỗi biến trong B không lớn hơn số mũ của nó trong A.
+- Đa thức A chia hết cho đơn thức B: kiểm tra lần lượt từng hạng tử của A; chỉ cần một hạng tử không chia hết là A không chia hết cho B.
+DB: Dạng 2. Thực hiện phép chia
+- Đơn thức cho đơn thức: chia hệ số cho hệ số, chia lũy thừa cho lũy thừa của cùng biến (trừ số mũ), rồi nhân các kết quả.
+- Đa thức cho đơn thức: chia từng hạng tử cho đơn thức (chú ý dấu), rồi cộng các kết quả.
+DB: Dạng 3. Tính giá trị biểu thức, bài toán thực tế
+- Thực hiện phép chia để rút gọn biểu thức rồi mới thay giá trị của biến.
+- Tìm một kích thước khi biết diện tích (thể tích) và các kích thước còn lại: chia đa thức cho đơn thức.
+VD: Thực hiện phép chia (15x³y² − 10x²y³ + 5x²y) : 5x²y.
+B: Mỗi hạng tử đều chứa x với số mũ ≥ 2 và y với số mũ ≥ 1 nên đa thức chia hết cho 5x²y.
+B: 15x³y² : 5x²y = 3xy; (−10x²y³) : 5x²y = −2y²; 5x²y : 5x²y = 1.
+KQ: (15x³y² − 10x²y³ + 5x²y) : 5x²y = 3xy − 2y² + 1.
+VD: Cho P = (−9x³y³ + 6x²y² − 3xy) : (−3xy). Rút gọn P rồi tính giá trị của P tại x = 1, y = 2.
+B: Chia từng hạng tử cho −3xy: (−9x³y³) : (−3xy) = 3x²y²; 6x²y² : (−3xy) = −2xy; (−3xy) : (−3xy) = 1.
+B: Do đó P = 3x²y² − 2xy + 1.
+B: Thay x = 1, y = 2: P = 3 · 1 · 4 − 2 · 1 · 2 + 1 = 12 − 4 + 1.
+KQ: P = 3x²y² − 2xy + 1; tại x = 1, y = 2 thì P = 9.
+GN: Hạng tử bằng đúng đơn thức chia cho thương là 1, không được bỏ sót: (6x² + 2x) : 2x = 3x + 1 (không phải 3x).
+GN: Chú ý dấu khi chia cho đơn thức có hệ số âm: (−6x² + 3x) : (−3x) = 2x − 1 (hạng tử 3x chia cho −3x được −1).
+GN: x²y không chia hết cho xy² (số mũ của y trong đơn thức chia lớn hơn); x²y cũng không chia hết cho xz (biến z không có trong x²y).
+Q: mc | Đơn thức nào sau đây chia hết cho đơn thức 3x²y?
+A) 6xy²
+B) −x³y² *
+C) 9x²z
+D) 12xy³
+E: −x³y² chứa x³ (3 ≥ 2) và y² (2 ≥ 1) nên chia hết cho 3x²y. Phương án A, D có x với số mũ 1 < 2; phương án C không chứa biến y.
+Q: mc | Kết quả của phép chia (−20x⁵y³) : (4x²y) là
+A) −5x³y² *
+B) −5x³y³
+C) −16x³y²
+D) 5x³y²
+E: (−20) : 4 = −5; x⁵ : x² = x³; y³ : y = y². Vậy thương là −5x³y².
+Q: mc | Kết quả của phép chia (12x³ − 8x² + 4x) : 4x là
+A) 3x² − 2x + 1 *
+B) 3x² − 2x
+C) 3x³ − 2x² + x
+D) 3x² + 2x + 1
+E: 12x³ : 4x = 3x²; (−8x²) : 4x = −2x; 4x : 4x = 1. Phương án B bỏ sót thương 1 của hạng tử cuối.
+Q: tf | Cho đa thức A = 4x³y² − 6x²y³ + 2x²y² và đơn thức B = 2x²y.
+a) Đa thức A chia hết cho đơn thức B. | Đ
+b) A : B = 2xy − 3y² + y. | Đ
+c) Đa thức A chia hết cho đơn thức 2xy³. | S
+d) Giá trị của A : B tại x = 1, y = −1 bằng 6. | S
+E: Mỗi hạng tử của A chứa x², y nên A chia hết cho B và A : B = 2xy − 3y² + y. Hạng tử 4x³y² chỉ có y² nên không chia hết cho 2xy³. Tại x = 1, y = −1: 2 · 1 · (−1) − 3 · 1 + (−1) = −6, không phải 6.
+Q: sa | Cho Q = (10x³y − 5x²y² + 15xy) : 5xy. Tính giá trị của Q tại x = −2, y = 3.
+ANS: 17
+E: Q = 2x² − xy + 3. Tại x = −2, y = 3: Q = 2 · 4 − (−2) · 3 + 3 = 8 + 6 + 3 = 17.
+Q: match | Nối mỗi phép chia với thương của nó:
+1) x⁵ : x² | x³
+2) 6x³y : 2xy | 3x²
+3) (−8x²y²) : (−4xy) | 2xy
+4) (4x² − 2x) : 2x | 2x − 1
+E: Trừ số mũ của cùng biến: x⁵ : x² = x³; 6x³y : 2xy = 3x² (y : y = 1); (−8) : (−4) = 2 nên được 2xy; (4x² − 2x) : 2x = 2x − 1.
+TL: Một thùng hàng hình hộp chữ nhật có đáy là hình chữ nhật với hai cạnh 2x (dm) và 3x (dm), thể tích của thùng là 12x³ + 18x²y (dm³). a) Viết đa thức biểu thị chiều cao h của thùng. b) Tính h và thể tích của thùng khi x = 2, y = 1.
+MAU: a) Diện tích đáy: 2x · 3x = 6x² (dm²).
+MAU: h = (12x³ + 18x²y) : 6x² = 12x³ : 6x² + 18x²y : 6x² = 2x + 3y (dm).
+MAU: b) Với x = 2, y = 1: h = 2 · 2 + 3 · 1 = 7 (dm); thể tích = 12 · 8 + 18 · 4 · 1 = 96 + 72 = 168 (dm³). Kiểm tra: 4 · 6 · 7 = 168.
+TC: Tính đúng diện tích đáy 6x² | 0,5
+TC: Chia đúng từng hạng tử, được h = 2x + 3y | 1,5
+TC: Tính đúng h = 7 dm và thể tích 168 dm³ | 1
+
 ## Chương II. Hằng đẳng thức đáng nhớ và ứng dụng
 ### Bài 6. Hiệu hai bình phương. Bình phương của một tổng hay một hiệu
+> Tính nhẩm 99² hay 51 · 49 chỉ trong vài giây? Bí quyết nằm ở những hằng đẳng thức đáng nhớ đầu tiên của bài học này.
+MT: Nhận biết được khái niệm hằng đẳng thức.
+MT: Mô tả được các hằng đẳng thức: hiệu hai bình phương, bình phương của một tổng, bình phương của một hiệu.
+MT: Vận dụng các hằng đẳng thức đó để khai triển, viết gọn biểu thức, tính nhanh và rút gọn biểu thức.
+LT: 1. Hằng đẳng thức
+- **Hằng đẳng thức** là đẳng thức có dạng A = B, trong đó A và B là hai biểu thức, hai vế luôn nhận cùng một giá trị với mọi giá trị của các biến.
+- Ví dụ: x(x + 1) = x² + x là một hằng đẳng thức; còn x + 1 = 2x không phải là hằng đẳng thức vì chỉ đúng khi x = 1.
+LT: 2. Hiệu hai bình phương
+- Với A, B là các biểu thức tùy ý: **A² − B² = (A + B)(A − B)**.
+- Ví dụ: x² − 9 = x² − 3² = (x + 3)(x − 3); (2x + y)(2x − y) = (2x)² − y² = 4x² − y².
+- Tính nhanh: 51 · 49 = (50 + 1)(50 − 1) = 50² − 1² = 2500 − 1 = 2499.
+LT: 3. Bình phương của một tổng, bình phương của một hiệu
+- **(A + B)² = A² + 2AB + B²**: bình phương của một tổng bằng bình phương biểu thức thứ nhất, cộng hai lần tích hai biểu thức, cộng bình phương biểu thức thứ hai.
+- **(A − B)² = A² − 2AB + B²**.
+- Ví dụ: (2x + 3)² = (2x)² + 2 · 2x · 3 + 3² = 4x² + 12x + 9; 99² = (100 − 1)² = 10000 − 200 + 1 = 9801.
+- Chú ý: (A − B)² = (B − A)²; nhưng (A + B)² ≠ A² + B² khi AB ≠ 0.
+HINH: 8-toan/bai6-binh-phuong.svg | Bên trái: hình vuông cạnh a + b gồm a², hai hình chữ nhật ab và b², nên (a + b)² = a² + 2ab + b². Bên phải: bỏ hình vuông b² khỏi hình vuông a² rồi ghép phần còn lại thành hình chữ nhật (a + b)(a − b).
+DB: Dạng 1. Khai triển biểu thức thành đa thức
+- Nhận dạng hằng đẳng thức và xác định A, B.
+- Áp dụng công thức; nhớ bình phương cả hệ số: (3x)² = 9x², (−y)² = y².
+DB: Dạng 2. Viết biểu thức dưới dạng bình phương của một tổng (hiệu) hoặc dạng tích
+- Đa thức ba hạng tử: tìm hai hạng tử là bình phương A² và B², kiểm tra hạng tử còn lại có bằng 2AB hoặc −2AB không.
+- Hiệu của hai bình phương: viết thành A² − B² rồi thành (A + B)(A − B).
+DB: Dạng 3. Tính nhanh, tính giá trị và rút gọn biểu thức
+- Tách số thành tổng hoặc hiệu với số tròn chục, tròn trăm: 101 = 100 + 1, 98 = 100 − 2.
+- Viết biểu thức về dạng hằng đẳng thức rồi thay số; hoặc khai triển các hằng đẳng thức rồi thu gọn.
+VD: Viết các biểu thức sau thành đa thức: a) (3x − 2y)²; b) (4x + 5y)(4x − 5y).
+B: a) A = 3x, B = 2y: (3x − 2y)² = (3x)² − 2 · 3x · 2y + (2y)² = 9x² − 12xy + 4y².
+B: b) Dạng (A + B)(A − B) với A = 4x, B = 5y: (4x + 5y)(4x − 5y) = (4x)² − (5y)² = 16x² − 25y².
+KQ: a) 9x² − 12xy + 4y²; b) 16x² − 25y².
+VD: Viết x² + 10x + 25 dưới dạng bình phương của một tổng, rồi tính giá trị của biểu thức tại x = 45.
+B: x² = A² với A = x; 25 = 5² nên B = 5; kiểm tra 2AB = 2 · x · 5 = 10x (đúng bằng hạng tử giữa).
+B: Do đó x² + 10x + 25 = (x + 5)².
+B: Tại x = 45: (45 + 5)² = 50² = 2500.
+KQ: x² + 10x + 25 = (x + 5)², có giá trị 2500 tại x = 45.
+GN: (A + B)² ≠ A² + B²: quên hạng tử 2AB là lỗi phổ biến nhất. Ví dụ (x + 4)² = x² + 8x + 16.
+GN: Phải bình phương cả hệ số: (3x)² = 9x², không phải 3x².
+GN: (A − B)² = (B − A)², nhưng A² − B² và B² − A² là hai biểu thức đối nhau: A² − B² = −(B² − A²).
+Q: mc | Khai triển (x − 3)² ta được
+A) x² − 9
+B) x² − 6x + 9 *
+C) x² + 6x + 9
+D) x² − 3x + 9
+E: (x − 3)² = x² − 2 · x · 3 + 3² = x² − 6x + 9.
+Q: mc | Tính nhanh 38 · 42.
+A) 1596 *
+B) 1604
+C) 1600
+D) 1592
+E: 38 · 42 = (40 − 2)(40 + 2) = 40² − 2² = 1600 − 4 = 1596.
+Q: mc | Viết 4x² − 12x + 9 dưới dạng bình phương của một hiệu.
+A) (2x − 3)² *
+B) (4x − 3)²
+C) (2x + 3)²
+D) (2x − 9)²
+E: 4x² = (2x)², 9 = 3², 2 · 2x · 3 = 12x. Vậy 4x² − 12x + 9 = (2x − 3)².
+Q: tf | Xét tính đúng, sai của các khẳng định sau:
+a) (x + 4)² = x² + 16. | S
+b) x² − 25 = (x − 5)(x + 5). | Đ
+c) (2a − b)² = (b − 2a)². | Đ
+d) (x + y)² − (x − y)² = 4xy. | Đ
+E: a) Sai vì thiếu 2 · x · 4 = 8x: (x + 4)² = x² + 8x + 16. b) Hiệu hai bình phương. c) Bình phương của hai biểu thức đối nhau thì bằng nhau. d) (x² + 2xy + y²) − (x² − 2xy + y²) = 4xy.
+Q: sa | Tính giá trị của biểu thức 9x² + 6x + 1 tại x = 33.
+ANS: 10000 || 10 000
+E: 9x² + 6x + 1 = (3x)² + 2 · 3x · 1 + 1² = (3x + 1)². Tại x = 33: (99 + 1)² = 100² = 10000.
+Q: match | Nối mỗi biểu thức với dạng khai triển của nó:
+1) (x + 2)² | x² + 4x + 4
+2) (x − 2)² | x² − 4x + 4
+3) (x + 2)(x − 2) | x² − 4
+4) (2x + 1)² | 4x² + 4x + 1
+E: Áp dụng (A + B)² = A² + 2AB + B², (A − B)² = A² − 2AB + B², (A + B)(A − B) = A² − B²; với (2x + 1)² thì A² = (2x)² = 4x² và 2AB = 4x.
+TL: Một mảnh vườn hình vuông có cạnh x (m). Người ta mở rộng mảnh vườn bằng cách tăng mỗi cạnh thêm 3 m (vẫn là hình vuông). a) Viết đa thức biểu thị diện tích mảnh vườn mới. b) Diện tích tăng thêm bao nhiêu (viết dưới dạng đa thức)? c) Biết diện tích tăng thêm 75 m², tìm x.
+MAU: a) Cạnh mới là x + 3 (m), diện tích mới: (x + 3)² = x² + 6x + 9 (m²).
+MAU: b) Diện tích tăng thêm: (x² + 6x + 9) − x² = 6x + 9 (m²).
+MAU: c) 6x + 9 = 75 ⇒ 6x = 66 ⇒ x = 11. Mảnh vườn ban đầu có cạnh 11 m. Kiểm tra: 14² − 11² = 196 − 121 = 75.
+TC: Khai triển đúng (x + 3)² = x² + 6x + 9 | 1
+TC: Tính đúng phần tăng thêm 6x + 9 | 1
+TC: Lập và giải đúng 6x + 9 = 75, được x = 11 | 1
+
 ### Bài 7. Lập phương của một tổng hay một hiệu
+> Một khối lập phương cạnh a + b có thể tách thành 8 khối hộp nhỏ – đó chính là hình ảnh trực quan của hằng đẳng thức lập phương của một tổng.
+MT: Mô tả được hằng đẳng thức lập phương của một tổng và lập phương của một hiệu.
+MT: Vận dụng các hằng đẳng thức đó để khai triển biểu thức và viết đa thức dưới dạng lập phương của một tổng (hiệu).
+MT: Vận dụng để tính nhanh, tính giá trị và rút gọn biểu thức, giải bài toán thực tế về thể tích.
+LT: 1. Lập phương của một tổng
+- Với A, B là các biểu thức tùy ý: **(A + B)³ = A³ + 3A²B + 3AB² + B³**.
+- Chứng minh: (A + B)³ = (A + B)(A + B)² = (A + B)(A² + 2AB + B²) = A³ + 2A²B + AB² + A²B + 2AB² + B³ = A³ + 3A²B + 3AB² + B³.
+- Ví dụ: (x + 2)³ = x³ + 3 · x² · 2 + 3 · x · 2² + 2³ = x³ + 6x² + 12x + 8.
+HINH: 8-toan/bai7-lap-phuong.svg | Khối lập phương cạnh a + b được chia thành 1 khối a³, 3 khối a²b, 3 khối ab² và 1 khối b³, nên (a + b)³ = a³ + 3a²b + 3ab² + b³.
+LT: 2. Lập phương của một hiệu
+- Với A, B là các biểu thức tùy ý: **(A − B)³ = A³ − 3A²B + 3AB² − B³** (các dấu lần lượt +, −, +, −).
+- Có thể nhận được công thức này bằng cách thay B bởi −B trong công thức lập phương của một tổng.
+- Ví dụ: (2x − 1)³ = (2x)³ − 3 · (2x)² · 1 + 3 · 2x · 1² − 1³ = 8x³ − 12x² + 6x − 1.
+- Chú ý: (−A)³ = −A³ nên (A − B)³ = −(B − A)³.
+DB: Dạng 1. Khai triển lập phương của một tổng, một hiệu
+- Xác định A, B; viết đủ 4 hạng tử với các hệ số 1; 3; 3; 1 (lập phương của một hiệu thì dấu đan xen +, −, +, −).
+- Lũy thừa cả hệ số: (2x)³ = 8x³, (3y)² = 9y².
+DB: Dạng 2. Viết đa thức dưới dạng lập phương của một tổng (hiệu)
+- Đa thức có 4 hạng tử: hai hạng tử ngoài cùng là A³ và B³ (hoặc −B³).
+- Kiểm tra hai hạng tử ở giữa có đúng bằng 3A²B và 3AB² (với dấu tương ứng) hay không.
+DB: Dạng 3. Tính nhanh, tính giá trị và rút gọn biểu thức
+- Đưa biểu thức về dạng (A + B)³ hoặc (A − B)³ rồi thay số (thường được số tròn chục, tròn trăm).
+- Rút gọn: khai triển các lập phương rồi thu gọn các hạng tử đồng dạng.
+VD: Khai triển (x − 3y)³.
+B: Áp dụng (A − B)³ = A³ − 3A²B + 3AB² − B³ với A = x, B = 3y.
+B: (x − 3y)³ = x³ − 3 · x² · 3y + 3 · x · (3y)² − (3y)³ = x³ − 9x²y + 3 · x · 9y² − 27y³.
+KQ: (x − 3y)³ = x³ − 9x²y + 27xy² − 27y³.
+VD: Tính giá trị của biểu thức P = x³ − 6x² + 12x − 8 tại x = 102.
+B: x³ = A³ với A = x; 8 = 2³ nên B = 2; kiểm tra 3A²B = 6x² và 3AB² = 12x, dấu đan xen +, −, +, −.
+B: Do đó P = (x − 2)³.
+B: Tại x = 102: P = (102 − 2)³ = 100³.
+KQ: P = 1 000 000.
+GN: (A + B)³ ≠ A³ + B³ và (A − B)³ ≠ A³ − B³: khai triển phải có đủ 4 hạng tử.
+GN: Trong (A − B)³ = A³ − 3A²B + 3AB² − B³, hạng tử 3AB² mang dấu "+" vì (−B)² = B².
+GN: Lũy thừa cả hệ số: (2x)³ = 8x³, không phải 2x³ hay 6x³.
+Q: mc | Khai triển (x + 1)³ ta được
+A) x³ + 1
+B) x³ + 3x² + 3x + 1 *
+C) x³ + 3x + 1
+D) x³ + x² + x + 1
+E: (x + 1)³ = x³ + 3 · x² · 1 + 3 · x · 1² + 1³ = x³ + 3x² + 3x + 1.
+Q: mc | Viết đa thức 27x³ − 27x² + 9x − 1 dưới dạng lập phương của một hiệu.
+A) (3x − 1)³ *
+B) (9x − 1)³
+C) (3x + 1)³
+D) (27x − 1)³
+E: 27x³ = (3x)³, 1 = 1³; 3 · (3x)² · 1 = 27x²; 3 · 3x · 1² = 9x; dấu +, −, +, −. Vậy đa thức bằng (3x − 1)³.
+Q: tf | Xét tính đúng, sai của các khẳng định sau:
+a) (a − b)³ = a³ − b³. | S
+b) (x + 2y)³ = x³ + 6x²y + 12xy² + 8y³. | Đ
+c) (1 − x)³ = −(x − 1)³. | Đ
+d) (x − 1)³ = x³ − 3x² + 3x + 1. | S
+E: a) Sai, thiếu −3a²b + 3ab². b) 3 · x² · 2y = 6x²y; 3 · x · (2y)² = 12xy²; (2y)³ = 8y³. c) 1 − x = −(x − 1) và (−A)³ = −A³. d) Sai, hạng tử cuối phải là −1³ = −1.
+Q: sa | Tính giá trị của biểu thức x³ + 9x² + 27x + 27 tại x = 7.
+ANS: 1000 || 1 000
+E: 27 = 3³; 3 · x² · 3 = 9x²; 3 · x · 3² = 27x. Vậy biểu thức bằng (x + 3)³ = (7 + 3)³ = 10³ = 1000.
+Q: ord | Sắp xếp các bước khai triển (2x + 3)³ theo đúng thứ tự:
+1) Xác định A = 2x, B = 3
+2) Viết công thức (A + B)³ = A³ + 3A²B + 3AB² + B³
+3) Thay vào: (2x)³ + 3 · (2x)² · 3 + 3 · 2x · 3² + 3³
+4) Tính từng hạng tử: 8x³ + 36x² + 54x + 27
+E: 3 · 4x² · 3 = 36x²; 3 · 2x · 9 = 54x; 3³ = 27. Vậy (2x + 3)³ = 8x³ + 36x² + 54x + 27.
+TL: Một khối gỗ hình lập phương có cạnh x (cm). Người ta bào bớt để được khối lập phương mới có cạnh ngắn hơn 1 cm. a) Viết đa thức biểu thị thể tích khối gỗ mới. b) Thể tích khối gỗ giảm đi bao nhiêu (viết dưới dạng đa thức)? c) Tính phần thể tích giảm đi khi x = 10.
+MAU: a) Cạnh mới là x − 1 (cm). Thể tích mới: (x − 1)³ = x³ − 3x² + 3x − 1 (cm³).
+MAU: b) Thể tích giảm: x³ − (x³ − 3x² + 3x − 1) = 3x² − 3x + 1 (cm³).
+MAU: c) Với x = 10: 3 · 100 − 30 + 1 = 271 (cm³). Kiểm tra: 10³ − 9³ = 1000 − 729 = 271.
+TC: Khai triển đúng (x − 1)³ = x³ − 3x² + 3x − 1 | 1,5
+TC: Trừ đúng (đổi dấu khi bỏ ngoặc), được 3x² − 3x + 1 | 1
+TC: Tính đúng 271 cm³ | 0,5
+
 ### Bài 8. Tổng và hiệu hai lập phương
+> Có thể phân tích ngay 1001 thành tích được không? Vì 1001 = 10³ + 1³ nên hằng đẳng thức tổng hai lập phương cho ta 1001 = (10 + 1)(100 − 10 + 1) = 11 · 91.
+MT: Mô tả được hằng đẳng thức tổng hai lập phương và hiệu hai lập phương.
+MT: Vận dụng các hằng đẳng thức đó để viết tổng (hiệu) hai lập phương thành tích và viết tích thành tổng (hiệu) hai lập phương.
+MT: Vận dụng để rút gọn biểu thức, tính giá trị biểu thức và giải bài toán thực tế.
+LT: 1. Tổng hai lập phương
+- Với A, B là các biểu thức tùy ý: **A³ + B³ = (A + B)(A² − AB + B²)**.
+- Kiểm tra: (A + B)(A² − AB + B²) = A³ − A²B + AB² + A²B − AB² + B³ = A³ + B³.
+- Ví dụ: x³ + 8 = x³ + 2³ = (x + 2)(x² − 2x + 4).
+LT: 2. Hiệu hai lập phương
+- Với A, B là các biểu thức tùy ý: **A³ − B³ = (A − B)(A² + AB + B²)**.
+- Ví dụ: 27x³ − 1 = (3x)³ − 1³ = (3x − 1)(9x² + 3x + 1).
+- Phân biệt: A³ + B³ là **tổng hai lập phương**, còn (A + B)³ là **lập phương của một tổng**; hai biểu thức này khác nhau.
+HINH: 8-toan/bai8-hieu-lap-phuong.svg | Khối lập phương cạnh a bị cắt bỏ một khối lập phương cạnh b ở góc: phần còn lại gồm ba khối hộp có chung kích thước a − b, tổng thể tích là (a − b)(a² + ab + b²) = a³ − b³.
+LT: 3. Bảy hằng đẳng thức đáng nhớ
+- (A + B)² = A² + 2AB + B²; (A − B)² = A² − 2AB + B²; A² − B² = (A + B)(A − B).
+- (A + B)³ = A³ + 3A²B + 3AB² + B³; (A − B)³ = A³ − 3A²B + 3AB² − B³.
+- A³ + B³ = (A + B)(A² − AB + B²); A³ − B³ = (A − B)(A² + AB + B²).
+DB: Dạng 1. Viết tổng (hiệu) hai lập phương thành tích
+- Viết mỗi hạng tử dưới dạng lập phương: 8 = 2³, 64 = 4³, 27x³ = (3x)³, 125y³ = (5y)³.
+- Áp dụng công thức: tổng thì ngoặc thứ hai có "−AB", hiệu thì ngoặc thứ hai có "+AB".
+DB: Dạng 2. Viết tích thành tổng (hiệu) hai lập phương, rút gọn biểu thức
+- Nhận dạng tích (A + B)(A² − AB + B²) hoặc (A − B)(A² + AB + B²): ngoặc thứ hai phải gồm đúng A², AB, B².
+- Viết gọn thành A³ + B³ hoặc A³ − B³ rồi thu gọn cả biểu thức.
+DB: Dạng 3. Tính giá trị biểu thức
+- Rút gọn biểu thức nhờ hằng đẳng thức rồi mới thay số.
+- Khi biết A + B và AB: dùng A³ + B³ = (A + B)[(A + B)² − 3AB].
+VD: Viết các biểu thức sau dưới dạng tích: a) x³ + 64; b) 8x³ − 27y³.
+B: a) 64 = 4³ nên x³ + 64 = x³ + 4³ = (x + 4)(x² − x · 4 + 4²) = (x + 4)(x² − 4x + 16).
+B: b) 8x³ = (2x)³, 27y³ = (3y)³ nên 8x³ − 27y³ = (2x − 3y)[(2x)² + 2x · 3y + (3y)²].
+KQ: a) (x + 4)(x² − 4x + 16); b) (2x − 3y)(4x² + 6xy + 9y²).
+VD: Rút gọn biểu thức P = (x − 2)(x² + 2x + 4) − x(x² − 3) rồi tính giá trị của P tại x = 5.
+B: (x − 2)(x² + 2x + 4) = (x − 2)(x² + x · 2 + 2²) = x³ − 2³ = x³ − 8.
+B: x(x² − 3) = x³ − 3x. Do đó P = x³ − 8 − x³ + 3x = 3x − 8.
+B: Tại x = 5: P = 3 · 5 − 8.
+KQ: P = 3x − 8; tại x = 5 thì P = 7.
+GN: A³ + B³ ≠ (A + B)³. Ví dụ với A = B = 1: A³ + B³ = 2 còn (A + B)³ = 8.
+GN: Trong ngoặc thứ hai là AB (không có hệ số 2): x³ + 8 = (x + 2)(x² − 2x + 4), không phải (x + 2)(x² − 4x + 4).
+GN: Nhớ các lập phương thường gặp: 1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³, 125 = 5³, 216 = 6³, 1000 = 10³.
+Q: mc | Viết x³ − 1 dưới dạng tích ta được
+A) (x − 1)(x² + x + 1) *
+B) (x − 1)(x² − x + 1)
+C) (x − 1)(x² + 2x + 1)
+D) (x − 1)³
+E: x³ − 1 = x³ − 1³ = (x − 1)(x² + x · 1 + 1²) = (x − 1)(x² + x + 1).
+Q: mc | Kết quả rút gọn của (x + 3)(x² − 3x + 9) là
+A) x³ + 27 *
+B) x³ − 27
+C) (x + 3)³
+D) x³ + 9
+E: (x + 3)(x² − x · 3 + 3²) = x³ + 3³ = x³ + 27.
+Q: tf | Xét tính đúng, sai của các khẳng định sau:
+a) a³ + b³ = (a + b)³. | S
+b) 125 − y³ = (5 − y)(25 + 5y + y²). | Đ
+c) 8x³ + 1 = (2x + 1)(4x² − 2x + 1). | Đ
+d) (x − 2)(x² + 4x + 4) = x³ − 8. | S
+E: a) Sai (ví dụ a = b = 1 cho 2 ≠ 8). b) 125 = 5³: hiệu hai lập phương. c) 8x³ = (2x)³: tổng hai lập phương. d) Sai vì x² + 4x + 4 = (x + 2)² không có dạng x² + 2x + 4; thực tế (x − 2)(x + 2)² = x³ + 2x² − 4x − 8.
+Q: sa | Cho hai số a, b thỏa mãn a + b = 5 và ab = 6. Tính a³ + b³.
+ANS: 35
+E: a³ + b³ = (a + b)(a² − ab + b²) = (a + b)[(a + b)² − 3ab] = 5 · (25 − 18) = 35. (Kiểm tra với a = 2, b = 3: 8 + 27 = 35.)
+Q: match | Nối mỗi đa thức với dạng viết gọn của nó:
+1) y³ + 1 | (y + 1)(y² − y + 1)
+2) y³ − 1 | (y − 1)(y² + y + 1)
+3) y³ + 3y² + 3y + 1 | (y + 1)³
+4) y³ − 3y² + 3y − 1 | (y − 1)³
+E: Hai đa thức đầu là tổng, hiệu hai lập phương (2 hạng tử); hai đa thức sau có đủ 4 hạng tử với hệ số 1; 3; 3; 1 nên là lập phương của một tổng, một hiệu.
+TL: Từ một khối gỗ hình lập phương cạnh a (cm), người ta cắt bỏ một khối lập phương nhỏ cạnh b (cm) ở một góc (0 < b < a). a) Viết biểu thức thể tích phần gỗ còn lại dưới dạng tích. b) Tính thể tích phần gỗ còn lại khi a = 12, b = 2.
+MAU: a) Thể tích còn lại: V = a³ − b³ = (a − b)(a² + ab + b²) (cm³).
+MAU: b) Với a = 12, b = 2: V = (12 − 2)(144 + 24 + 4) = 10 · 172 = 1720 (cm³).
+MAU: Kiểm tra: 12³ − 2³ = 1728 − 8 = 1720.
+TC: Lập đúng V = a³ − b³ | 1
+TC: Viết đúng dạng tích (a − b)(a² + ab + b²) | 1
+TC: Tính đúng 1720 cm³ | 1
+
 ### Bài 9. Phân tích đa thức thành nhân tử
+> Tính nhanh 87 · 25 + 13 · 25? Đặt thừa số chung 25 ra ngoài: 25 · (87 + 13) = 25 · 100 = 2500. Phân tích đa thức thành nhân tử dựa trên chính ý tưởng đó.
+MT: Hiểu được thế nào là phân tích đa thức thành nhân tử.
+MT: Phân tích được đa thức thành nhân tử bằng các phương pháp: đặt nhân tử chung, sử dụng hằng đẳng thức, nhóm hạng tử.
+MT: Vận dụng phân tích đa thức thành nhân tử để tính nhanh, tính giá trị biểu thức và tìm x.
+LT: 1. Phân tích đa thức thành nhân tử là gì?
+- **Phân tích đa thức thành nhân tử** (hay thừa số) là biến đổi đa thức đó thành một tích của những đa thức.
+- Ví dụ: x² − 2x = x(x − 2); mỗi đa thức x và x − 2 gọi là một **nhân tử** của tích.
+- Kiểm tra kết quả: nhân các nhân tử với nhau phải được đa thức ban đầu.
+LT: 2. Phương pháp đặt nhân tử chung
+- Khi các hạng tử có chung một nhân tử, ta đặt nhân tử chung đó ra ngoài dấu ngoặc: **AB + AC = A(B + C)**.
+- Nhân tử chung thường gồm: ƯCLN của các hệ số (khi hệ số là số nguyên) nhân với lũy thừa có số mũ nhỏ nhất của mỗi biến chung. Ví dụ: 6x³y − 9x²y² = 3x²y(2x − 3y).
+- Đôi khi phải đổi dấu để làm xuất hiện nhân tử chung, dùng A = −(−A): x(y − 1) + 2(1 − y) = x(y − 1) − 2(y − 1) = (y − 1)(x − 2).
+LT: 3. Phương pháp sử dụng hằng đẳng thức
+- Dùng các hằng đẳng thức theo chiều biến tổng thành tích: A² − B² = (A + B)(A − B); A² + 2AB + B² = (A + B)²; A² − 2AB + B² = (A − B)².
+- A³ + B³ = (A + B)(A² − AB + B²); A³ − B³ = (A − B)(A² + AB + B²); A³ ± 3A²B + 3AB² ± B³ = (A ± B)³.
+- Ví dụ: 9x² − 4 = (3x)² − 2² = (3x − 2)(3x + 2); x² + 6x + 9 = (x + 3)².
+LT: 4. Phương pháp nhóm hạng tử
+- Nhóm các hạng tử thích hợp sao cho mỗi nhóm có nhân tử chung (hoặc có dạng hằng đẳng thức), từ đó xuất hiện nhân tử chung của các nhóm.
+- Ví dụ: x² − xy + 2x − 2y = (x² − xy) + (2x − 2y) = x(x − y) + 2(x − y) = (x − y)(x + 2).
+- Thường phải phối hợp nhiều phương pháp: đặt nhân tử chung trước, sau đó dùng hằng đẳng thức hoặc nhóm hạng tử.
+HINH: 8-toan/bai9-phan-tich.svg | Thứ tự thường dùng khi phân tích: đặt nhân tử chung → dùng hằng đẳng thức → nhóm hạng tử; cuối cùng nhân lại để kiểm tra.
+DB: Dạng 1. Phân tích đa thức thành nhân tử
+- Bước 1: đặt nhân tử chung (nếu có).
+- Bước 2: xét đa thức còn lại có dạng hằng đẳng thức không.
+- Bước 3: nếu chưa được thì nhóm các hạng tử; tiếp tục đến khi mỗi nhân tử không phân tích được nữa.
+DB: Dạng 2. Tính nhanh, tính giá trị biểu thức
+- Phân tích biểu thức thành nhân tử để xuất hiện các số tròn chục, tròn trăm.
+- Thay giá trị của biến vào dạng tích (thường tính rất gọn).
+DB: Dạng 3. Tìm x
+- Chuyển tất cả các hạng tử về một vế để vế kia bằng 0, rồi phân tích vế đó thành nhân tử.
+- Dùng tính chất: A · B = 0 khi A = 0 hoặc B = 0; giải từng trường hợp và kết luận đủ các giá trị của x.
+VD: Phân tích các đa thức sau thành nhân tử: a) 5x³ − 20x; b) x² − 2xy + y² − 9.
+B: a) Đặt nhân tử chung 5x: 5x³ − 20x = 5x(x² − 4); dùng hiệu hai bình phương: x² − 4 = (x − 2)(x + 2).
+B: b) Nhóm ba hạng tử đầu: (x² − 2xy + y²) − 9 = (x − y)² − 3².
+B: Dùng hiệu hai bình phương: (x − y)² − 3² = (x − y − 3)(x − y + 3).
+KQ: a) 5x³ − 20x = 5x(x − 2)(x + 2); b) x² − 2xy + y² − 9 = (x − y − 3)(x − y + 3).
+VD: Tìm x, biết 2x(x − 5) − x + 5 = 0.
+B: Viết −x + 5 = −(x − 5): 2x(x − 5) − (x − 5) = 0.
+B: Đặt nhân tử chung x − 5: (x − 5)(2x − 1) = 0.
+B: Suy ra x − 5 = 0 hoặc 2x − 1 = 0, tức là x = 5 hoặc x = 1/2.
+KQ: x = 5 hoặc x = 1/2.
+GN: Phải phân tích triệt để: 5x³ − 20x = 5x(x² − 4) chưa xong vì x² − 4 còn phân tích được thành (x − 2)(x + 2).
+GN: Khi một hạng tử bằng đúng nhân tử chung, trong ngoặc còn lại số 1: 3x² + 3x = 3x(x + 1), không viết 3x · x.
+GN: Khi tìm x, không chia hai vế cho biểu thức chứa x (dễ mất nghiệm): x² = 3x ⇔ x(x − 3) = 0 ⇔ x = 0 hoặc x = 3.
+Q: mc | Phân tích đa thức 4x²y − 6xy² thành nhân tử ta được
+A) 2xy(2x − 3y) *
+B) 2xy(2x − 6y)
+C) xy(4x − 6)
+D) 2xy(x − 3y)
+E: Nhân tử chung là 2xy (ƯCLN(4; 6) = 2, x và y có số mũ nhỏ nhất là 1): 4x²y − 6xy² = 2xy(2x − 3y). Nhân lại các phương án B, C, D đều không được đa thức ban đầu.
+Q: mc | Phân tích đa thức x² − 8x + 16 thành nhân tử ta được
+A) (x − 4)² *
+B) (x + 4)²
+C) (x − 8)²
+D) (x − 4)(x + 4)
+E: x² − 8x + 16 = x² − 2 · x · 4 + 4² = (x − 4)².
+Q: tf | Cho đa thức P = x³ − x² − 4x + 4.
+a) P = x²(x − 1) − 4(x − 1). | Đ
+b) P = (x − 1)(x² − 4). | Đ
+c) P = (x − 1)(x − 2)(x + 2). | Đ
+d) P = 0 khi x = −1. | S
+E: Nhóm (x³ − x²) − (4x − 4) = x²(x − 1) − 4(x − 1) = (x − 1)(x² − 4) = (x − 1)(x − 2)(x + 2). P = 0 khi x ∈ {1; 2; −2}. Tại x = −1: P = (−2) · (−3) · 1 = 6 ≠ 0.
+Q: sa | Tính nhanh: 73² − 27².
+ANS: 4600 || 4 600
+E: 73² − 27² = (73 − 27)(73 + 27) = 46 · 100 = 4600.
+Q: ord | Sắp xếp các bước phân tích đa thức 3x² − 3y² − 6x + 6y thành nhân tử theo đúng thứ tự:
+1) Đặt nhân tử chung 3: 3(x² − y² − 2x + 2y)
+2) Nhóm hạng tử: 3[(x² − y²) − (2x − 2y)]
+3) Phân tích từng nhóm: 3[(x − y)(x + y) − 2(x − y)]
+4) Đặt nhân tử chung x − y: 3(x − y)(x + y − 2)
+E: Phối hợp ba phương pháp: đặt nhân tử chung, nhóm hạng tử, dùng hằng đẳng thức x² − y² = (x − y)(x + y), rồi lại đặt nhân tử chung.
+TL: Phân tích các đa thức sau thành nhân tử: a) 2x² − 18; b) x³ − 4x² + 4x; c) x² − y² + 5x − 5y.
+MAU: a) 2x² − 18 = 2(x² − 9) = 2(x − 3)(x + 3).
+MAU: b) x³ − 4x² + 4x = x(x² − 4x + 4) = x(x − 2)².
+MAU: c) x² − y² + 5x − 5y = (x² − y²) + (5x − 5y) = (x − y)(x + y) + 5(x − y) = (x − y)(x + y + 5).
+TC: Câu a: đặt nhân tử chung 2 và dùng hiệu hai bình phương | 1
+TC: Câu b: đặt nhân tử chung x và nhận ra bình phương của một hiệu | 1
+TC: Câu c: nhóm hạng tử hợp lí và đặt nhân tử chung x − y | 1
+
 ## Chương III. Tứ giác
 ### Bài 10. Tứ giác
+> Mặt bàn, ô cửa sổ, viên gạch lát nền, cánh diều… quanh em có rất nhiều hình tứ giác. Dù hình dạng khác nhau, tổng bốn góc của chúng luôn bằng 360°.
+MT: Mô tả được tứ giác, tứ giác lồi; nhận biết được đỉnh, cạnh, góc, đường chéo của tứ giác.
+MT: Giải thích được định lí về tổng các góc trong một tứ giác lồi bằng 360°.
+MT: Vận dụng định lí để tính số đo góc và giải một số bài toán thực tế.
+LT: 1. Tứ giác và tứ giác lồi
+- **Tứ giác ABCD** là hình gồm bốn đoạn thẳng AB, BC, CD, DA, trong đó không có hai đoạn thẳng nào cùng nằm trên một đường thẳng.
+- **Tứ giác lồi** là tứ giác luôn nằm về một phía của đường thẳng chứa bất kì cạnh nào của tứ giác đó. Từ nay, khi nói tứ giác mà không giải thích gì thêm, ta hiểu đó là tứ giác lồi.
+- Trong tứ giác ABCD: A, B, C, D là các **đỉnh**; AB, BC, CD, DA là các **cạnh**; AC và BD là hai **đường chéo**.
+- Hai cạnh có chung một đỉnh gọi là **hai cạnh kề** (như AB và BC); hai cạnh không có điểm chung gọi là **hai cạnh đối** (như AB và CD).
+- Góc DAB gọi là góc A, kí hiệu Â; tương tự có B̂, Ĉ, D̂. Hai góc tại hai đỉnh không kề nhau gọi là **hai góc đối** (Â và Ĉ; B̂ và D̂).
+HINH: 8-toan/bai10-tu-giac.svg | Bên trái: đường chéo AC chia tứ giác lồi ABCD thành hai tam giác nên tổng các góc là 2 · 180° = 360°. Bên phải: tứ giác MNPQ không lồi vì nó nằm ở cả hai phía của đường thẳng NP.
+LT: 2. Tổng các góc của một tứ giác
+- **Định lí**: Tổng các góc của một tứ giác bằng 360°: Â + B̂ + Ĉ + D̂ = 360°.
+- Giải thích: đường chéo AC chia tứ giác ABCD thành hai tam giác ABC và ACD. Tổng các góc của mỗi tam giác bằng 180°, nên tổng các góc của tứ giác bằng 180° + 180° = 360°.
+- Hệ quả: một tứ giác không thể có cả bốn góc đều nhọn (tổng nhỏ hơn 360°) hoặc cả bốn góc đều tù (tổng lớn hơn 360°).
+- Mở rộng: góc kề bù với một góc của tứ giác gọi là **góc ngoài** tại đỉnh đó; tổng bốn góc ngoài (mỗi đỉnh lấy một góc) bằng 4 · 180° − 360° = 360°.
+DB: Dạng 1. Nhận biết các yếu tố của tứ giác
+- Đọc tên tứ giác theo thứ tự các đỉnh liên tiếp (ABCD, không đọc là ACBD).
+- Cạnh kề: có chung một đỉnh; cạnh đối: không có điểm chung; đường chéo: nối hai đỉnh không kề nhau; góc đối: tại hai đỉnh không kề nhau.
+DB: Dạng 2. Tính số đo góc của tứ giác
+- Áp dụng Â + B̂ + Ĉ + D̂ = 360° để tìm góc còn lại.
+- Nếu các góc tỉ lệ với các số cho trước: đặt các góc theo cùng một số k, lập phương trình tổng bằng 360° để tìm k.
+DB: Dạng 3. Góc ngoài và bài toán có yếu tố hình học khác
+- Góc ngoài và góc trong tại cùng một đỉnh có tổng bằng 180°.
+- Kết hợp với tam giác bằng nhau, tam giác cân, … (đã học ở lớp 7) để tìm thêm các góc bằng nhau.
+VD: Cho tứ giác ABCD có Â = 75°, B̂ = 110°, Ĉ = 85°. Tính D̂.
+B: Theo định lí tổng các góc của tứ giác: Â + B̂ + Ĉ + D̂ = 360°.
+B: D̂ = 360° − (75° + 110° + 85°) = 360° − 270°.
+KQ: D̂ = 90°.
+VD: Tứ giác MNPQ có số đo các góc M, N, P, Q tỉ lệ với 1; 2; 3; 4. Tính số đo mỗi góc.
+B: Đặt M̂ = k, N̂ = 2k, P̂ = 3k, Q̂ = 4k (k > 0).
+B: Tổng các góc: k + 2k + 3k + 4k = 360°, tức là 10k = 360°, suy ra k = 36°.
+KQ: M̂ = 36°, N̂ = 72°, P̂ = 108°, Q̂ = 144° (kiểm tra: tổng bằng 360°).
+GN: Tên tứ giác phải đọc theo thứ tự các đỉnh liên tiếp: tứ giác ABCD có các cạnh AB, BC, CD, DA; còn AC và BD là đường chéo, không phải cạnh.
+GN: Tổng các góc của tứ giác là 360°, gấp đôi tổng các góc của tam giác (180°); đừng nhầm hai kết quả này.
+GN: Một tứ giác có nhiều nhất ba góc nhọn và nhiều nhất ba góc tù.
+Q: mc | Tứ giác ABCD có Â = 120°, B̂ = 80°, Ĉ = 100°. Số đo của D̂ là
+A) 60° *
+B) 70°
+C) 80°
+D) 50°
+E: D̂ = 360° − (120° + 80° + 100°) = 360° − 300° = 60°.
+Q: mc | Trong tứ giác ABCD, cặp đoạn thẳng nào là hai cạnh đối?
+A) AB và BC
+B) AB và CD *
+C) AC và BD
+D) AD và DC
+E: AB và CD không có điểm chung nên là hai cạnh đối. AB và BC, AD và DC là các cặp cạnh kề; AC và BD là hai đường chéo.
+Q: tf | Cho tứ giác ABCD có Â = 90°, B̂ = 90°, Ĉ = 70°.
+a) D̂ = 110°. | Đ
+b) Â và Ĉ là hai góc đối của tứ giác. | Đ
+c) Góc ngoài tại đỉnh C bằng 110°. | Đ
+d) Tứ giác ABCD có ba góc tù. | S
+E: D̂ = 360° − (90° + 90° + 70°) = 110°. Góc ngoài tại C bằng 180° − 70° = 110°. Tứ giác chỉ có một góc tù là D̂ (Â, B̂ là góc vuông, Ĉ là góc nhọn).
+Q: sa | Tứ giác ABCD có Ĉ = 60°, D̂ = 80° và Â − B̂ = 20°. Tính số đo góc A (đơn vị: độ).
+ANS: 120 || 120°
+E: Â + B̂ = 360° − 60° − 80° = 220° và Â − B̂ = 20°. Suy ra Â = (220° + 20°) : 2 = 120°, B̂ = 100°.
+Q: match | Nối mỗi yếu tố với một ví dụ tương ứng trong tứ giác ABCD:
+1) Hai cạnh kề | AB và BC
+2) Hai cạnh đối | AD và BC
+3) Hai đường chéo | AC và BD
+4) Hai góc đối | góc B và góc D
+E: Cạnh kề có chung một đỉnh (B); cạnh đối không có điểm chung; đường chéo nối hai đỉnh không kề nhau; hai góc đối ở hai đỉnh không kề nhau.
+TL: Khung một chiếc diều là tứ giác ABCD có AB = AD và CB = CD. Biết Â = 60° và Ĉ = 100°. a) Chứng minh B̂ = D̂. b) Tính số đo B̂ và D̂.
+MAU: a) Xét ΔABC và ΔADC có: AB = AD, CB = CD (giả thiết), AC là cạnh chung. Do đó ΔABC = ΔADC (c.c.c).
+MAU: Suy ra góc ABC = góc ADC (hai góc tương ứng), tức là B̂ = D̂.
+MAU: b) Theo định lí tổng các góc của tứ giác: B̂ + D̂ = 360° − 60° − 100° = 200°. Vì B̂ = D̂ nên B̂ = D̂ = 100°.
+TC: Chứng minh đúng ΔABC = ΔADC (nêu đủ ba yếu tố) | 1,5
+TC: Suy ra B̂ = D̂ | 0,5
+TC: Tính đúng B̂ = D̂ = 100° | 1
+
 ### Bài 11. Hình thang cân
+> Mặt cắt của nhiều con đê, mái nhà hay chiếc xô nhựa có dạng hình thang cân – một hình thang "cân đối" với hai cạnh bên bằng nhau và hai đường chéo bằng nhau.
+MT: Nhận biết được hình thang, hình thang vuông, hình thang cân.
+MT: Giải thích được tính chất của hình thang cân: hai góc kề một đáy bằng nhau, hai cạnh bên bằng nhau, hai đường chéo bằng nhau.
+MT: Nhận biết được dấu hiệu để một hình thang là hình thang cân; vận dụng tính toán và chứng minh.
+LT: 1. Hình thang
+- **Hình thang** là tứ giác có hai cạnh đối song song. Hai cạnh song song gọi là hai **đáy**, hai cạnh còn lại gọi là hai **cạnh bên**.
+- Với hình thang ABCD (AB ∥ CD): đoạn thẳng AH vuông góc với CD (H thuộc đường thẳng CD) là một **đường cao** của hình thang.
+- Vì AB ∥ CD nên hai góc kề một cạnh bên bù nhau: Â + D̂ = 180°, B̂ + Ĉ = 180° (cặp góc trong cùng phía).
+- **Hình thang vuông** là hình thang có một góc vuông.
+LT: 2. Hình thang cân và tính chất
+- **Hình thang cân** là hình thang có hai góc kề một đáy bằng nhau. Hình thang ABCD (AB ∥ CD) là hình thang cân khi Ĉ = D̂ (hoặc Â = B̂).
+- Trong hình thang cân, hai góc kề mỗi đáy bằng nhau: Ĉ = D̂ và Â = B̂.
+- Trong hình thang cân, **hai cạnh bên bằng nhau**: AD = BC.
+- Trong hình thang cân, **hai đường chéo bằng nhau**: AC = BD.
+HINH: 8-toan/bai11-hinh-thang-can.svg | Hình thang cân ABCD (AB ∥ CD) có Ĉ = D̂ = 60°, Â = B̂ = 120°, hai cạnh bên AD = BC và hai đường chéo AC = BD cắt nhau tại O. Bên phải: hình thang vuông EFGH (EF ∥ HG) có hai góc vuông tại E và H.
+LT: 3. Dấu hiệu nhận biết hình thang cân
+- Hình thang có hai góc kề một đáy bằng nhau là hình thang cân (định nghĩa).
+- Hình thang có **hai đường chéo bằng nhau** là hình thang cân.
+- Chú ý: hình thang có hai cạnh bên bằng nhau chưa chắc là hình thang cân. Chẳng hạn, tứ giác có hai cặp cạnh đối song song (hình bình hành) có hai cạnh bên bằng nhau nhưng hai góc kề một đáy nói chung không bằng nhau.
+DB: Dạng 1. Tính góc, độ dài trong hình thang, hình thang cân
+- Hình thang: hai góc kề một cạnh bên bù nhau.
+- Hình thang cân: hai góc kề một đáy bằng nhau; hai cạnh bên bằng nhau; hai đường chéo bằng nhau.
+DB: Dạng 2. Chứng minh tứ giác là hình thang, hình thang cân
+- Chứng minh hình thang: chỉ ra hai cạnh đối song song (nhờ cặp góc so le trong bằng nhau, đồng vị bằng nhau, hoặc trong cùng phía bù nhau).
+- Chứng minh hình thang cân: chứng minh hình thang đó có hai góc kề một đáy bằng nhau hoặc có hai đường chéo bằng nhau.
+DB: Dạng 3. Chứng minh đoạn thẳng, góc bằng nhau nhờ tính chất hình thang cân
+- Dùng cạnh bên bằng nhau, đường chéo bằng nhau, góc kề đáy bằng nhau để chứng minh hai tam giác bằng nhau.
+- Từ hai tam giác bằng nhau suy ra các cạnh, các góc tương ứng bằng nhau.
+VD: Cho hình thang cân ABCD (AB ∥ CD) có D̂ = 65°. Tính các góc còn lại của hình thang.
+B: Hình thang cân có hai góc kề đáy CD bằng nhau: Ĉ = D̂ = 65°.
+B: Hai góc kề cạnh bên AD bù nhau: Â = 180° − D̂ = 180° − 65° = 115°.
+B: Hai góc kề đáy AB bằng nhau: B̂ = Â = 115°.
+KQ: Ĉ = 65°, Â = B̂ = 115°.
+VD: Cho tam giác ABC cân tại A. Trên cạnh AB lấy điểm D, trên cạnh AC lấy điểm E sao cho AD = AE. Chứng minh tứ giác BDEC là hình thang cân.
+B: Tam giác ADE có AD = AE nên cân tại A, suy ra góc ADE = (180° − Â) : 2.
+B: Tam giác ABC cân tại A nên góc ABC = (180° − Â) : 2. Do đó góc ADE = góc ABC; hai góc này ở vị trí đồng vị nên DE ∥ BC, tức là BDEC là hình thang.
+B: Hình thang BDEC có hai góc kề đáy BC là góc DBC và góc ECB bằng nhau (hai góc ở đáy của tam giác cân ABC).
+KQ: BDEC là hình thang cân.
+GN: Hình thang có hai cạnh bên bằng nhau chưa chắc là hình thang cân; muốn kết luận phải dựa vào góc kề một đáy hoặc hai đường chéo.
+GN: Trong hình thang cân: hai góc kề một ĐÁY thì bằng nhau, còn hai góc kề một CẠNH BÊN thì bù nhau.
+GN: Muốn chứng minh hình thang cân, trước hết phải chỉ ra tứ giác là hình thang (có hai cạnh đối song song).
+Q: mc | Hình thang cân ABCD (AB ∥ CD) có Â = 110°. Số đo của Ĉ là
+A) 70° *
+B) 110°
+C) 90°
+D) 55°
+E: B̂ = Â = 110° (hai góc kề đáy AB). Hai góc kề cạnh bên BC bù nhau: Ĉ = 180° − 110° = 70°.
+Q: mc | Khẳng định nào sau đây là đúng?
+A) Hình thang có hai cạnh bên bằng nhau là hình thang cân.
+B) Hình thang có hai đường chéo bằng nhau là hình thang cân. *
+C) Tứ giác có hai đường chéo bằng nhau là hình thang cân.
+D) Hình thang có hai góc đối bằng nhau là hình thang cân.
+E: B là dấu hiệu nhận biết hình thang cân. A sai (hình bình hành là phản ví dụ); C sai vì tứ giác đó có thể không phải hình thang; D sai: hình thang có hai góc đối bằng nhau là hình bình hành, nói chung không phải hình thang cân.
+Q: tf | Cho hình thang cân ABCD (AB ∥ CD) có AB = 4 cm, CD = 10 cm, AD = 5 cm.
+a) BC = 5 cm. | Đ
+b) AC = BD. | Đ
+c) Â + Ĉ = 180°. | Đ
+d) Chu vi của hình thang ABCD bằng 19 cm. | S
+E: Hình thang cân có hai cạnh bên bằng nhau nên BC = AD = 5 cm và hai đường chéo bằng nhau. Vì Ĉ = D̂ và Â + D̂ = 180° nên Â + Ĉ = 180°. Chu vi bằng 4 + 10 + 5 + 5 = 24 (cm), không phải 19 cm.
+Q: sa | Cho hình thang ABCD (AB ∥ CD) có Â − D̂ = 30°. Tính số đo góc A (đơn vị: độ).
+ANS: 105 || 105°
+E: Hai góc kề cạnh bên AD bù nhau: Â + D̂ = 180°. Kết hợp Â − D̂ = 30° được Â = (180° + 30°) : 2 = 105° (D̂ = 75°).
+Q: match | Nối mỗi khái niệm với mô tả đúng của nó:
+1) Hình thang | Tứ giác có hai cạnh đối song song
+2) Hình thang vuông | Hình thang có một góc vuông
+3) Hình thang cân | Hình thang có hai góc kề một đáy bằng nhau
+4) Hai góc kề một cạnh bên của hình thang | Bù nhau (có tổng bằng 180°)
+E: Đây là các định nghĩa và tính chất cơ bản của bài: hình thang cân được định nghĩa qua hai góc kề một đáy; hai góc kề một cạnh bên là hai góc trong cùng phía tạo bởi hai đáy song song nên bù nhau.
+TL: Cho hình thang cân ABCD (AB ∥ CD, AB < CD). Hai đường chéo AC và BD cắt nhau tại O. Chứng minh: a) ΔADC = ΔBCD; b) OC = OD và OA = OB.
+MAU: a) Xét ΔADC và ΔBCD có: AD = BC (hai cạnh bên của hình thang cân); góc ADC = góc BCD (hai góc kề đáy CD); DC là cạnh chung. Do đó ΔADC = ΔBCD (c.g.c).
+MAU: b) Từ câu a suy ra góc ACD = góc BDC, tức là góc OCD = góc ODC, nên tam giác OCD cân tại O, do đó OC = OD.
+MAU: Lại có AC = BD (hai đường chéo của hình thang cân) nên OA = AC − OC = BD − OD = OB.
+TC: Chứng minh đúng ΔADC = ΔBCD, nêu đủ ba yếu tố | 1,5
+TC: Suy ra tam giác OCD cân, OC = OD | 1
+TC: Suy ra OA = OB từ AC = BD | 0,5
+
 ### Bài 12. Hình bình hành
+> Cửa xếp kéo ở nhiều cửa hàng có thể kéo ra, xếp lại dễ dàng nhờ các thanh sắt ghép thành những hình bình hành: dù kéo hay xếp, các cạnh đối của chúng vẫn luôn song song với nhau.
+MT: Nhận biết được hình bình hành (tứ giác có các cạnh đối song song).
+MT: Giải thích được tính chất về cạnh đối, góc đối, đường chéo của hình bình hành.
+MT: Nhận biết được các dấu hiệu để một tứ giác là hình bình hành; vận dụng tính toán và chứng minh.
+LT: 1. Định nghĩa
+- **Hình bình hành** là tứ giác có các cạnh đối song song: ABCD là hình bình hành khi AB ∥ CD và AD ∥ BC.
+- Hình bình hành là một hình thang đặc biệt (hình thang có hai cạnh bên song song), nên hai góc kề một cạnh bất kì của nó bù nhau: Â + B̂ = 180°, Â + D̂ = 180°, …
+LT: 2. Tính chất
+- Trong hình bình hành, **các cạnh đối bằng nhau**: AB = CD, AD = BC.
+- Trong hình bình hành, **các góc đối bằng nhau**: Â = Ĉ, B̂ = D̂.
+- Trong hình bình hành, **hai đường chéo cắt nhau tại trung điểm của mỗi đường**: nếu O là giao điểm của AC và BD thì OA = OC, OB = OD.
+HINH: 8-toan/bai12-hinh-binh-hanh.svg | Hình bình hành ABCD có các cạnh đối bằng nhau (cùng số gạch), các góc đối bằng nhau (Â = Ĉ = 60°, B̂ = D̂ = 120°), hai đường chéo cắt nhau tại O là trung điểm của mỗi đường.
+LT: 3. Dấu hiệu nhận biết
+- Tứ giác có các cạnh đối song song là hình bình hành (định nghĩa).
+- Tứ giác có **các cạnh đối bằng nhau** là hình bình hành.
+- Tứ giác có **hai cạnh đối song song và bằng nhau** là hình bình hành.
+- Tứ giác có **các góc đối bằng nhau** là hình bình hành.
+- Tứ giác có **hai đường chéo cắt nhau tại trung điểm của mỗi đường** là hình bình hành.
+DB: Dạng 1. Tính độ dài, số đo góc trong hình bình hành
+- Dùng các tính chất: cạnh đối bằng nhau, góc đối bằng nhau, hai góc kề một cạnh bù nhau.
+- Giao điểm O của hai đường chéo là trung điểm của mỗi đường: OA = AC : 2, OB = BD : 2.
+DB: Dạng 2. Chứng minh tứ giác là hình bình hành
+- Đọc giả thiết để chọn dấu hiệu phù hợp: có trung điểm của hai đoạn thẳng → dùng dấu hiệu về đường chéo; có một cặp cạnh song song và bằng nhau → dùng dấu hiệu "hai cạnh đối song song và bằng nhau"; …
+- Trình bày: nêu đủ các yếu tố của dấu hiệu rồi kết luận.
+DB: Dạng 3. Chứng minh đoạn thẳng bằng nhau, ba điểm thẳng hàng
+- Chứng minh tứ giác là hình bình hành rồi dùng tính chất về cạnh đối, góc đối.
+- Ba điểm thẳng hàng: dùng tính chất hai đường chéo cắt nhau tại trung điểm của mỗi đường (trung điểm của đường chéo này cũng nằm trên đường chéo kia).
+VD: Cho hình bình hành ABCD có AB = 6 cm, BC = 4 cm và Â = 70°. Tính chu vi và các góc còn lại của hình bình hành.
+B: Các cạnh đối bằng nhau: CD = AB = 6 cm, AD = BC = 4 cm. Chu vi: 2 · (6 + 4) = 20 (cm).
+B: Các góc đối bằng nhau: Ĉ = Â = 70°.
+B: Hai góc kề cạnh AB bù nhau: B̂ = 180° − 70° = 110°, và D̂ = B̂ = 110°.
+KQ: Chu vi 20 cm; Ĉ = 70°, B̂ = D̂ = 110°.
+VD: Cho tam giác ABC, M là trung điểm của BC. Trên tia đối của tia MA lấy điểm D sao cho MD = MA. Chứng minh tứ giác ABDC là hình bình hành.
+B: Tứ giác ABDC có hai đường chéo là AD và BC; chúng cắt nhau tại M.
+B: M là trung điểm của BC (giả thiết) và M là trung điểm của AD (vì D thuộc tia đối của tia MA và MD = MA).
+KQ: Tứ giác ABDC có hai đường chéo cắt nhau tại trung điểm của mỗi đường nên là hình bình hành.
+GN: Hình bình hành là một hình thang đặc biệt nên mọi tính chất của hình thang đều đúng với hình bình hành.
+GN: Hai đường chéo của hình bình hành cắt nhau tại trung điểm của mỗi đường nhưng nói chung không bằng nhau và không vuông góc với nhau.
+GN: Tứ giác có một cặp cạnh đối song song và cặp cạnh đối còn lại bằng nhau chưa chắc là hình bình hành (có thể là hình thang cân). Dấu hiệu đúng là MỘT cặp cạnh đối vừa song song vừa bằng nhau.
+Q: mc | Hình bình hành ABCD có B̂ = 125°. Số đo của Â là
+A) 55° *
+B) 125°
+C) 65°
+D) 35°
+E: Hai góc kề cạnh AB bù nhau: Â = 180° − 125° = 55°.
+Q: mc | Điều kiện nào sau đây KHÔNG đủ để kết luận một tứ giác là hình bình hành?
+A) Tứ giác có các cạnh đối bằng nhau
+B) Tứ giác có hai đường chéo cắt nhau tại trung điểm của mỗi đường
+C) Tứ giác có hai cạnh đối song song *
+D) Tứ giác có các góc đối bằng nhau
+E: Tứ giác chỉ có hai cạnh đối song song là hình thang, chưa chắc là hình bình hành. Các điều kiện A, B, D đều là dấu hiệu nhận biết hình bình hành.
+Q: tf | Cho hình bình hành ABCD có hai đường chéo cắt nhau tại O, AC = 10 cm, BD = 6 cm, AB = 5 cm.
+a) OA = 5 cm. | Đ
+b) OD = 6 cm. | S
+c) CD = 5 cm. | Đ
+d) Chu vi tam giác OCD bằng 13 cm. | Đ
+E: O là trung điểm của AC và BD nên OA = OC = 10 : 2 = 5 (cm), OB = OD = 6 : 2 = 3 (cm). CD = AB = 5 cm. Chu vi tam giác OCD: 5 + 3 + 5 = 13 (cm).
+Q: sa | Hình bình hành ABCD có chu vi 36 cm và AB − BC = 4 cm. Tính độ dài cạnh AB (đơn vị: cm).
+ANS: 11
+E: Chu vi = 2(AB + BC) = 36 nên AB + BC = 18. Kết hợp AB − BC = 4 được AB = (18 + 4) : 2 = 11 (cm), BC = 7 cm.
+Q: ord | Cho hình bình hành ABCD; E là trung điểm của AB, F là trung điểm của CD. Sắp xếp các bước chứng minh tứ giác AECF là hình bình hành theo đúng thứ tự:
+1) Vì ABCD là hình bình hành nên AB ∥ CD và AB = CD
+2) Do E thuộc AB, F thuộc CD nên AE ∥ CF
+3) AE = AB : 2 và CF = CD : 2 nên AE = CF
+4) Tứ giác AECF có hai cạnh đối AE và CF song song và bằng nhau nên là hình bình hành
+E: Bắt đầu từ tính chất của hình bình hành ABCD, suy ra AE ∥ CF và AE = CF, rồi áp dụng dấu hiệu "hai cạnh đối song song và bằng nhau".
+TL: Cho hình bình hành ABCD, O là giao điểm của hai đường chéo. Một đường thẳng đi qua O cắt cạnh AB tại M và cắt cạnh CD tại N. Chứng minh: a) OM = ON; b) Tứ giác AMCN là hình bình hành.
+MAU: a) Vì ABCD là hình bình hành nên OA = OC và AB ∥ CD.
+MAU: Xét ΔOAM và ΔOCN có: góc OAM = góc OCN (so le trong, AB ∥ CD); OA = OC; góc AOM = góc CON (đối đỉnh). Do đó ΔOAM = ΔOCN (g.c.g), suy ra OM = ON.
+MAU: b) Tứ giác AMCN có hai đường chéo AC và MN cắt nhau tại O, mà O là trung điểm của AC và của MN, nên AMCN là hình bình hành.
+TC: Nêu đúng OA = OC và AB ∥ CD từ tính chất hình bình hành | 0,5
+TC: Chứng minh đúng ΔOAM = ΔOCN (g.c.g) và suy ra OM = ON | 1,5
+TC: Dùng đúng dấu hiệu đường chéo để kết luận AMCN là hình bình hành | 1
+
 ### Bài 13. Hình chữ nhật
 ### Bài 14. Hình thoi và hình vuông
 ## Chương IV. Định lí Thalès

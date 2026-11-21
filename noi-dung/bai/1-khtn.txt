@@ -1,0 +1,19 @@
+// Tự nhiên và Xã hội 1 – SGK Kết nối tri thức với cuộc sống, phần Tự nhiên: chủ đề 4–6 (danh mục bài, đối chiếu timdapan.com, lop1.com.vn; giữ số bài của SGK; chủ đề 1–3 ở tệp 1-khxh.txt)
+# 1 | khtn | Tự nhiên và Xã hội 1 (phần Tự nhiên)
+## Chủ đề 4. Thực vật và động vật
+### Bài 15. Cây xung quanh em
+### Bài 16. Chăm sóc và bảo vệ cây trồng
+### Bài 17. Con vật quanh em
+### Bài 18. Chăm sóc và bảo vệ vật nuôi
+### Bài 19. Ôn tập chủ đề Thực vật và động vật
+## Chủ đề 5. Con người và sức khỏe
+### Bài 20. Cơ thể em
+### Bài 21. Các giác quan của cơ thể
+### Bài 22. Ăn, uống hằng ngày
+### Bài 23. Vận động và nghỉ ngơi
+### Bài 24. Tự bảo vệ mình
+### Bài 25. Ôn tập chủ đề Con người và sức khỏe
+## Chủ đề 6. Trái Đất và bầu trời
+### Bài 26. Cùng khám phá bầu trời
+### Bài 27. Thời tiết luôn thay đổi
+### Bài 28. Ôn tập chủ đề Trái Đất và bầu trời

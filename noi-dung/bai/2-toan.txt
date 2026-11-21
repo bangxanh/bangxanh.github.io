@@ -1,0 +1,91 @@
+// Toán 2 – SGK Kết nối tri thức với cuộc sống (danh mục bài, đối chiếu vietjack.com, loigiaihay.com; nội dung chi tiết được bổ sung dần)
+# 2 | toan | Toán 2
+## Chủ đề 1. Ôn tập và bổ sung
+### Bài 1. Ôn tập các số đến 100
+### Bài 2. Tia số. Số liền trước, số liền sau
+### Bài 3. Các thành phần của phép cộng, phép trừ
+### Bài 4. Hơn, kém nhau bao nhiêu
+### Bài 5. Ôn tập phép cộng, phép trừ (không nhớ) trong phạm vi 100
+### Bài 6. Luyện tập chung
+## Chủ đề 2. Phép cộng, phép trừ trong phạm vi 20
+### Bài 7. Phép cộng (qua 10) trong phạm vi 20
+### Bài 8. Bảng cộng (qua 10)
+### Bài 9. Bài toán về thêm, bớt một số đơn vị
+### Bài 10. Luyện tập chung
+### Bài 11. Phép trừ (qua 10) trong phạm vi 20
+### Bài 12. Bảng trừ (qua 10)
+### Bài 13. Bài toán về nhiều hơn, ít hơn một số đơn vị
+### Bài 14. Luyện tập chung
+## Chủ đề 3. Làm quen với khối lượng, dung tích
+### Bài 15. Ki-lô-gam
+### Bài 16. Lít
+### Bài 17. Thực hành và trải nghiệm với các đơn vị ki-lô-gam, lít
+### Bài 18. Luyện tập chung
+## Chủ đề 4. Phép cộng, phép trừ (có nhớ) trong phạm vi 100
+### Bài 19. Phép cộng (có nhớ) số có hai chữ số với số có một chữ số
+### Bài 20. Phép cộng (có nhớ) số có hai chữ số với số có hai chữ số
+### Bài 21. Luyện tập chung
+### Bài 22. Phép trừ (có nhớ) số có hai chữ số cho số có một chữ số
+### Bài 23. Phép trừ (có nhớ) số có hai chữ số cho số có hai chữ số
+### Bài 24. Luyện tập chung
+## Chủ đề 5. Làm quen với hình phẳng
+### Bài 25. Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng
+### Bài 26. Đường gấp khúc. Hình tứ giác
+### Bài 27. Thực hành gấp, cắt, ghép, xếp hình. Vẽ đoạn thẳng
+### Bài 28. Luyện tập chung
+## Chủ đề 6. Ngày – giờ, giờ – phút, ngày – tháng
+### Bài 29. Ngày – giờ, giờ – phút
+### Bài 30. Ngày – tháng
+### Bài 31. Thực hành và trải nghiệm xem đồng hồ, xem lịch
+### Bài 32. Luyện tập chung
+## Chủ đề 7. Ôn tập học kì 1
+### Bài 33. Ôn tập phép cộng, phép trừ trong phạm vi 20, 100
+### Bài 34. Ôn tập hình phẳng
+### Bài 35. Ôn tập đo lường
+### Bài 36. Ôn tập chung
+## Chủ đề 8. Phép nhân, phép chia
+### Bài 37. Phép nhân
+### Bài 38. Thừa số, tích
+### Bài 39. Bảng nhân 2
+### Bài 40. Bảng nhân 5
+### Bài 41. Phép chia
+### Bài 42. Số bị chia, số chia, thương
+### Bài 43. Bảng chia 2
+### Bài 44. Bảng chia 5
+### Bài 45. Luyện tập chung
+## Chủ đề 9. Làm quen với hình khối
+### Bài 46. Khối trụ, khối cầu
+### Bài 47. Luyện tập chung
+## Chủ đề 10. Các số trong phạm vi 1000
+### Bài 48. Đơn vị, chục, trăm, nghìn
+### Bài 49. Các số tròn trăm, tròn chục
+### Bài 50. So sánh các số tròn trăm, tròn chục
+### Bài 51. Số có ba chữ số
+### Bài 52. Viết số thành tổng các trăm, chục, đơn vị
+### Bài 53. So sánh các số có ba chữ số
+### Bài 54. Luyện tập chung
+## Chủ đề 11. Độ dài và đơn vị đo độ dài. Tiền Việt Nam
+### Bài 55. Đề-xi-mét. Mét. Ki-lô-mét
+### Bài 56. Giới thiệu tiền Việt Nam
+### Bài 57. Thực hành và trải nghiệm đo độ dài
+### Bài 58. Luyện tập chung
+## Chủ đề 12. Phép cộng, phép trừ trong phạm vi 1000
+### Bài 59. Phép cộng (không nhớ) trong phạm vi 1000
+### Bài 60. Phép cộng (có nhớ) trong phạm vi 1000
+### Bài 61. Phép trừ (không nhớ) trong phạm vi 1000
+### Bài 62. Phép trừ (có nhớ) trong phạm vi 1000
+### Bài 63. Luyện tập chung
+## Chủ đề 13. Làm quen với yếu tố thống kê, xác suất
+### Bài 64. Thu thập, phân loại, kiểm đếm số liệu
+### Bài 65. Biểu đồ tranh
+### Bài 66. Chắc chắn, có thể, không thể
+### Bài 67. Thực hành và trải nghiệm thu thập, phân loại, kiểm đếm số liệu
+## Chủ đề 14. Ôn tập cuối năm
+### Bài 68. Ôn tập các số trong phạm vi 1000
+### Bài 69. Ôn tập phép cộng, phép trừ trong phạm vi 100
+### Bài 70. Ôn tập phép cộng, phép trừ trong phạm vi 1000
+### Bài 71. Ôn tập phép nhân, phép chia
+### Bài 72. Ôn tập hình học
+### Bài 73. Ôn tập đo lường
+### Bài 74. Ôn tập kiểm đếm số liệu và lựa chọn khả năng
+### Bài 75. Ôn tập chung

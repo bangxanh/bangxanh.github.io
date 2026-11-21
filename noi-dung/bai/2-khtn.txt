@@ -1,0 +1,21 @@
+// Tự nhiên và Xã hội 2 – SGK Kết nối tri thức với cuộc sống, phần Tự nhiên: chủ đề 4–6 (danh mục bài, đối chiếu vietjack.com, loigiaihay.com; giữ số bài của SGK; chủ đề 1–3 ở tệp 2-khxh.txt)
+# 2 | khtn | Tự nhiên và Xã hội 2 (phần Tự nhiên)
+## Chủ đề 4. Thực vật và động vật
+### Bài 16. Thực vật sống ở đâu?
+### Bài 17. Động vật sống ở đâu?
+### Bài 18. Cần làm gì để bảo vệ môi trường sống của thực vật và động vật?
+### Bài 19. Thực vật và động vật quanh em
+### Bài 20. Ôn tập chủ đề Thực vật và động vật
+## Chủ đề 5. Con người và sức khỏe
+### Bài 21. Tìm hiểu cơ quan vận động
+### Bài 22. Chăm sóc, bảo vệ cơ quan vận động
+### Bài 23. Tìm hiểu cơ quan hô hấp
+### Bài 24. Chăm sóc, bảo vệ cơ quan hô hấp
+### Bài 25. Tìm hiểu cơ quan bài tiết nước tiểu
+### Bài 26. Chăm sóc, bảo vệ cơ quan bài tiết nước tiểu
+### Bài 27. Ôn tập chủ đề Con người và sức khỏe
+## Chủ đề 6. Trái Đất và bầu trời
+### Bài 28. Các mùa trong năm
+### Bài 29. Một số thiên tai thường gặp
+### Bài 30. Luyện tập ứng phó với thiên tai
+### Bài 31. Ôn tập chủ đề Trái Đất và bầu trời
