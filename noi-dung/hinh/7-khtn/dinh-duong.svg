@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="438.624pt" height="239.04pt" viewBox="0 0 438.624 239.04" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:09:39.450202</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 239.04 
+L 438.624 239.04 
+L 438.624 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 147.24 216.54 
+C 172.970005 216.54 197.649639 206.317361 215.8435 188.1235 
+C 234.037361 169.929639 244.26 145.250005 244.26 119.52 
+C 244.26 93.789995 234.037361 69.110361 215.8435 50.9165 
+C 197.649639 32.722639 172.970005 22.5 147.24 22.5 
+C 121.509995 22.5 96.830361 32.722639 78.6365 50.9165 
+C 60.442639 69.110361 50.22 93.789995 50.22 119.52 
+C 50.22 145.250005 60.442639 169.929639 78.6365 188.1235 
+C 96.830361 206.317361 121.509995 216.54 147.24 216.54 
+z
+" clip-path="url(#p054a7647b2)" style="fill: #ffffff; stroke: #6b7a72; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 147.24 28.044 
+C 122.988361 28.044 99.705198 37.688202 82.5567 54.8367 
+C 65.408202 71.985198 55.764 95.268361 55.764 119.52 
+L 147.24 119.52 
+z
+" clip-path="url(#p054a7647b2)" style="fill: #f2d27a; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 55.764 119.52 
+C 55.764 143.771639 65.408202 167.054802 82.5567 184.2033 
+C 99.705198 201.351798 122.988361 210.996 147.24 210.996 
+L 147.24 119.52 
+z
+" clip-path="url(#p054a7647b2)" style="fill: #f4a3a3; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 147.24 210.996 
+C 171.491639 210.996 194.774802 201.351798 211.9233 184.2033 
+C 229.071798 167.054802 238.716 143.771639 238.716 119.52 
+C 238.716 95.268361 229.071798 71.985198 211.9233 54.8367 
+C 194.774802 37.688202 171.491639 28.044 147.24 28.044 
+L 147.24 119.52 
+z
+" clip-path="url(#p054a7647b2)" style="fill: #9bd57a; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 296.928 83.484 
+C 303.544287 83.484 309.890479 80.855321 314.5689 76.1769 
+C 319.247321 71.498479 321.876 65.152287 321.876 58.536 
+C 321.876 51.919713 319.247321 45.573521 314.5689 40.8951 
+C 309.890479 36.216679 303.544287 33.588 296.928 33.588 
+C 290.311713 33.588 283.965521 36.216679 279.2871 40.8951 
+C 274.608679 45.573521 271.98 51.919713 271.98 58.536 
+C 271.98 65.152287 274.608679 71.498479 279.2871 76.1769 
+C 283.965521 80.855321 290.311713 83.484 296.928 83.484 
+z
+" clip-path="url(#p054a7647b2)" style="fill: #fff3c4; stroke: #bd7a12; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 280.296 169.416 
+L 313.56 169.416 
+L 313.56 102.888 
+L 280.296 102.888 
+z
+" clip-path="url(#p054a7647b2)" style="fill: #d7ecfb; stroke: #2f6fde; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'" transform="translate(91.38515 79.9784)">Tinh bột</text>
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'" transform="translate(70.14515 92.33915)">(gạo, ngô, khoai)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'" transform="translate(87.5714 152.72485)">Chất đạm</text>
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'" transform="translate(62.3429 164.86285)">(thịt, cá, trứng, đậu)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'" transform="translate(177.22725 116.16975)">Rau, quả</text>
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'" transform="translate(155.8875 128.601)">(vitamin, khoáng)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(287.080031 55.68184)">chất</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(288.548859 66.844301)">béo</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="330.192" y="61.384828" transform="rotate(-0 330.192 61.384828)">dùng vừa phải</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(299.726047 148.298094) rotate(-90)">nước</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(330.192 127.06093)">uống đủ</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(330.192 140.215227)">mỗi ngày</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f5640" x="219.312" y="224.856" transform="rotate(-0 219.312 224.856)">Bữa ăn cân đối: đủ các nhóm chất và nước</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p054a7647b2">
+   <rect x="8.64" y="8.64" width="421.344" height="221.76"/>
+  </clipPath>
+ </defs>
+</svg>

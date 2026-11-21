@@ -1625,13 +1625,551 @@ TC: Kết quả và cách nhận biết oxygen đúng | 1
 TC: Kết luận đúng | 0,5
 
 ### Bài 25. Hô hấp tế bào
+> Ăn cơm xong, em có năng lượng để học và chơi. Năng lượng ấy được "giải phóng" từ thức ăn ngay bên trong từng tế bào nhờ quá trình hô hấp tế bào.
+MT: Nêu được khái niệm hô hấp tế bào; viết được phương trình chữ của hô hấp tế bào.
+MT: Nêu được nơi diễn ra hô hấp tế bào (ti thể) và vai trò của hô hấp.
+MT: So sánh được quang hợp và hô hấp tế bào; nêu mối quan hệ giữa hai quá trình.
+LT: 1. Khái niệm hô hấp tế bào
+- **Hô hấp tế bào** là quá trình **phân giải chất hữu cơ** (chủ yếu là glucose) **với sự tham gia của oxygen**, tạo ra **năng lượng** cung cấp cho hoạt động sống, đồng thời thải ra **carbon dioxide và nước**.
+- Phương trình chữ: **Glucose + Oxygen → Carbon dioxide + Nước + Năng lượng** (ATP và nhiệt).
+- Hô hấp tế bào diễn ra chủ yếu ở **ti thể** – "nhà máy năng lượng" của tế bào; xảy ra ở **mọi tế bào sống**, cả ngày lẫn đêm.
+HINH: 7-khtn/ho-hap-te-bao.svg | Quang hợp ở lục lạp và hô hấp ở ti thể là hai quá trình ngược chiều: sản phẩm của quá trình này là nguyên liệu của quá trình kia.
+LT: 2. Vai trò của hô hấp tế bào
+- Giải phóng năng lượng tích lũy trong chất hữu cơ dưới dạng dễ sử dụng (ATP) cho mọi hoạt động: co cơ, suy nghĩ, sinh trưởng, vận chuyển các chất…
+- Một phần năng lượng tỏa ra dạng **nhiệt** giúp duy trì thân nhiệt.
+LT: 3. Quang hợp và hô hấp
+- Quang hợp: lấy CO₂ + nước, tạo glucose + O₂, **tích lũy** năng lượng; chỉ ở tế bào có lục lạp, khi có ánh sáng.
+- Hô hấp: lấy glucose + O₂, tạo CO₂ + nước, **giải phóng** năng lượng; ở mọi tế bào, mọi lúc.
+- Hai quá trình **phụ thuộc lẫn nhau**: sản phẩm của quang hợp là nguyên liệu của hô hấp và ngược lại.
+DB: Dạng 1. Viết phương trình, xác định nguyên liệu – sản phẩm
+- Hô hấp: nguyên liệu glucose, O₂; sản phẩm CO₂, nước, năng lượng.
+DB: Dạng 2. So sánh quang hợp và hô hấp
+- Lập bảng: nơi diễn ra, điều kiện, nguyên liệu, sản phẩm, năng lượng (tích lũy hay giải phóng).
+DB: Dạng 3. Giải thích hiện tượng thực tế
+- Vận động nhiều ⇒ hô hấp mạnh ⇒ thở nhanh, nóng người; để cây trong phòng kín ban đêm ⇒ cây hô hấp thải CO₂.
+VD: Vì sao khi chạy nhanh, ta phải thở gấp và nhịp tim tăng?
+B: Cơ bắp cần nhiều năng lượng ⇒ tế bào cơ tăng hô hấp, cần nhiều O₂ và thải nhiều CO₂.
+B: Thở gấp để lấy thêm O₂, thải bớt CO₂; tim đập nhanh để máu vận chuyển khí kịp thời.
+KQ: Hô hấp tế bào tăng mạnh khi vận động nên hô hấp ngoài và tuần hoàn phải tăng theo.
+VD: Ban đêm cây có quang hợp không? Có hô hấp không?
+B: Ban đêm không có ánh sáng nên cây không quang hợp.
+KQ: Cây vẫn hô hấp suốt ngày đêm, lấy O₂ và thải CO₂.
+GN: Hô hấp tế bào khác với "thở": thở là trao đổi khí ở phổi, hô hấp tế bào diễn ra trong tế bào.
+GN: Mọi tế bào sống đều hô hấp, kể cả tế bào thực vật.
+GN: Quang hợp tích lũy năng lượng, hô hấp giải phóng năng lượng.
+Q: mc | Hô hấp tế bào diễn ra chủ yếu ở bào quan nào?
+A) Lục lạp
+B) Ti thể *
+C) Nhân tế bào
+D) Không bào
+E: Ti thể là nơi diễn ra hô hấp tế bào, tạo năng lượng ATP.
+Q: mc | Sản phẩm của hô hấp tế bào là
+A) glucose và oxygen
+B) carbon dioxide, nước và năng lượng *
+C) tinh bột và oxygen
+D) nước và oxygen
+E: Glucose + Oxygen → Carbon dioxide + Nước + Năng lượng.
+Q: tf | So sánh quang hợp và hô hấp tế bào:
+a) Quang hợp tích lũy năng lượng, hô hấp giải phóng năng lượng. | Đ
+b) Hô hấp chỉ xảy ra vào ban đêm. | S
+c) Sản phẩm của quang hợp là nguyên liệu của hô hấp. | Đ
+d) Quang hợp diễn ra ở mọi tế bào của cây. | S
+E: Hô hấp diễn ra cả ngày lẫn đêm; quang hợp chỉ ở tế bào có lục lạp (chủ yếu ở lá).
+Q: sa | Trong các hoạt động: ngủ, chạy bộ, ngồi đọc sách, đá bóng – có bao nhiêu hoạt động làm cơ thể tăng hô hấp tế bào mạnh nhất (vận động mạnh)?
+ANS: 2
+E: Chạy bộ và đá bóng là vận động mạnh, cần nhiều năng lượng nên hô hấp tế bào tăng mạnh.
+Q: match | Nối quá trình với đặc điểm:
+1) Quang hợp | Xảy ra ở lục lạp, cần ánh sáng, tích lũy năng lượng
+2) Hô hấp tế bào | Xảy ra ở ti thể, mọi lúc, giải phóng năng lượng
+3) Thở ở người | Trao đổi khí giữa phổi và môi trường
+E: Phân biệt rõ hô hấp tế bào (trong tế bào) với thở (trao đổi khí ở phổi).
+TL: Vì sao không nên để nhiều chậu cây cảnh trong phòng ngủ đóng kín cửa vào ban đêm?
+MAU: Ban đêm không có ánh sáng, cây không quang hợp nhưng vẫn hô hấp.
+MAU: Cây lấy O₂ và thải CO₂ làm không khí trong phòng kín giảm O₂, tăng CO₂.
+MAU: Người ngủ trong phòng có thể thấy ngột ngạt, mệt mỏi; nên mở cửa thông thoáng hoặc để cây ngoài phòng.
+TC: Nêu được ban đêm cây không quang hợp | 1
+TC: Nêu được cây vẫn hô hấp, lấy O₂ thải CO₂ | 1
+TC: Liên hệ hậu quả và đề xuất hợp lí | 1
+
 ### Bài 26. Một số yếu tố ảnh hưởng đến hô hấp tế bào
+> Vì sao lúa thóc phải phơi thật khô trước khi cất, rau quả để trong tủ lạnh lâu hỏng hơn? Vì nhiều yếu tố ảnh hưởng đến tốc độ hô hấp tế bào.
+MT: Nêu được các yếu tố chủ yếu ảnh hưởng đến hô hấp tế bào: nhiệt độ, nước, nồng độ O₂ và CO₂.
+MT: Vận dụng hiểu biết về hô hấp để giải thích các biện pháp bảo quản lương thực, thực phẩm.
+MT: Nêu được ý nghĩa của hô hấp hợp lí đối với sức khỏe con người.
+LT: 1. Các yếu tố ảnh hưởng
+- **Nhiệt độ**: hô hấp tăng khi nhiệt độ tăng đến mức thích hợp (khoảng 30 – 35 °C ở nhiều loài cây), quá nóng thì giảm; nhiệt độ thấp làm hô hấp chậm lại.
+- **Hàm lượng nước**: nước càng nhiều, hô hấp càng mạnh; hạt khô hô hấp rất yếu.
+- **Nồng độ O₂**: thiếu O₂ thì hô hấp giảm. **Nồng độ CO₂** cao ức chế hô hấp.
+HINH: 7-khtn/bao-quan.svg | Ba nhóm biện pháp bảo quản nông sản dựa trên hô hấp tế bào: bảo quản lạnh, bảo quản khô, bảo quản trong khí CO₂ cao/ít O₂.
+LT: 2. Ứng dụng trong bảo quản nông sản
+- Hô hấp mạnh làm nông sản tiêu hao chất hữu cơ, tỏa nhiệt, sinh ẩm ⇒ nhanh hỏng. Bảo quản là **giảm hô hấp đến mức tối thiểu** (nhưng không làm chết hạt giống).
+- **Bảo quản lạnh**: rau, quả, thịt cá trong tủ lạnh. **Bảo quản khô**: phơi khô thóc, ngô, đậu. **Bảo quản trong điều kiện CO₂ cao, ít O₂**: hút chân không, kho chứa bơm khí CO₂.
+LT: 3. Hô hấp và sức khỏe
+- Tập thể dục đều đặn giúp tăng khả năng hô hấp, cung cấp đủ năng lượng; ở nơi thoáng khí để đủ O₂.
+DB: Dạng 1. Xác định yếu tố ảnh hưởng trong tình huống
+- Đọc điều kiện: nóng/lạnh, ẩm/khô, kín/thoáng ⇒ yếu tố nào thay đổi, hô hấp tăng hay giảm.
+DB: Dạng 2. Giải thích biện pháp bảo quản
+- Nêu yếu tố được điều chỉnh (nhiệt độ, nước, O₂, CO₂) ⇒ hô hấp giảm ⇒ chất hữu cơ ít bị tiêu hao.
+DB: Dạng 3. Phân tích số liệu thí nghiệm
+- So sánh lượng CO₂ thải ra hoặc nhiệt tỏa ra ở các điều kiện khác nhau để rút ra kết luận.
+VD: Vì sao thóc trước khi cất vào kho phải phơi khô, nếu để ẩm thóc dễ bị nóng, nảy mầm, mốc?
+B: Thóc ẩm có nhiều nước ⇒ hô hấp mạnh, tỏa nhiệt, sinh thêm hơi ẩm.
+B: Nhiệt và ẩm làm hô hấp càng mạnh hơn, tạo điều kiện cho nấm mốc phát triển.
+KQ: Phơi khô giảm lượng nước ⇒ hô hấp rất yếu ⇒ thóc bảo quản được lâu.
+VD: Vì sao rau quả trong tủ lạnh giữ được tươi lâu hơn để ngoài?
+B: Nhiệt độ thấp làm hô hấp tế bào chậm lại.
+KQ: Rau quả ít tiêu hao chất hữu cơ, ít tỏa nhiệt nên lâu hỏng.
+GN: Bảo quản là giảm hô hấp, không phải ngừng hẳn (hạt giống vẫn phải sống).
+GN: Không phơi hạt giống ở nhiệt độ quá cao vì có thể làm chết phôi.
+GN: CO₂ cao ức chế hô hấp; O₂ thấp làm hô hấp giảm.
+Q: mc | Biện pháp bảo quản nào dựa trên việc giảm hàm lượng nước?
+A) Để rau trong tủ lạnh
+B) Phơi khô hạt đậu, ngô *
+C) Hút chân không thực phẩm
+D) Bơm khí CO₂ vào kho
+E: Phơi khô làm giảm nước trong hạt nên hô hấp rất yếu.
+Q: mc | Nồng độ khí nào khi tăng cao sẽ ức chế hô hấp tế bào?
+A) Oxygen
+B) Nitrogen
+C) Carbon dioxide *
+D) Hơi nước
+E: CO₂ là sản phẩm của hô hấp; nồng độ cao ức chế quá trình này.
+Q: tf | Về các yếu tố ảnh hưởng đến hô hấp:
+a) Nhiệt độ thấp làm hô hấp chậm lại. | Đ
+b) Hạt càng ẩm thì hô hấp càng yếu. | S
+c) Bảo quản trong điều kiện ít oxygen giúp nông sản lâu hỏng. | Đ
+d) Bảo quản nông sản là làm cho hô hấp ngừng hẳn và hạt chết. | S
+E: Nước nhiều làm hô hấp mạnh; bảo quản là giảm hô hấp ở mức tối thiểu, hạt giống vẫn phải sống.
+Q: sa | Một bao thóc ẩm sau 1 ngày tăng nhiệt độ từ 25 °C lên 31 °C. Nhiệt độ tăng thêm bao nhiêu độ C?
+ANS: 6
+E: 31 − 25 = 6 °C – nhiệt do hô hấp mạnh của thóc ẩm tỏa ra.
+Q: match | Nối biện pháp bảo quản với yếu tố được điều chỉnh:
+1) Cất thịt cá trong ngăn đá tủ lạnh | Nhiệt độ thấp
+2) Phơi khô thóc trước khi cất | Giảm hàm lượng nước
+3) Đóng gói hút chân không | Giảm oxygen
+E: Mỗi biện pháp làm giảm hô hấp bằng cách điều chỉnh một yếu tố.
+TL: Gia đình em thu hoạch được nhiều khoai lang và hạt ngô giống. Hãy đề xuất cách bảo quản phù hợp cho mỗi loại và giải thích dựa vào hô hấp tế bào.
+MAU: Hạt ngô giống: phơi khô vừa phải (không phơi quá nóng), cất trong túi kín, nơi khô ráo, thoáng mát ⇒ ít nước nên hô hấp yếu nhưng hạt vẫn sống để gieo.
+MAU: Khoai lang: để nơi khô thoáng, mát, tránh ẩm, không chất đống quá dày ⇒ giảm nhiệt độ và độ ẩm, hạn chế hô hấp và nảy mầm.
+MAU: Kiểm tra định kì, loại bỏ củ hỏng.
+TC: Đề xuất đúng cách bảo quản hạt giống | 1
+TC: Đề xuất đúng cách bảo quản củ | 1
+TC: Giải thích dựa trên yếu tố ảnh hưởng hô hấp | 1
+
 ### Bài 27. Thực hành: Hô hấp ở thực vật
+> Hạt đang nảy mầm hô hấp rất mạnh. Ba thí nghiệm nhỏ giúp em "thấy" hạt thải khí CO₂, tỏa nhiệt và lấy khí O₂.
+MT: Tiến hành được thí nghiệm chứng minh hô hấp ở hạt nảy mầm thải khí carbon dioxide.
+MT: Tiến hành được thí nghiệm chứng minh hô hấp tỏa nhiệt và lấy khí oxygen.
+MT: Viết được báo cáo thực hành, giải thích kết quả.
+LT: 1. Chuẩn bị
+- Hạt đậu xanh (hoặc đậu tương) đã ngâm ủ cho nảy mầm, hạt đậu khô (hoặc đã luộc chín) để đối chứng; bình thủy tinh có nút, nước vôi trong, nhiệt kế, que đóm (diêm), hộp xốp.
+LT: 2. Ba thí nghiệm
+- **Thải CO₂**: cho hạt nảy mầm vào bình kín có cốc nhỏ đựng **nước vôi trong**; sau vài giờ nước vôi trong **vẩn đục** (CO₂ phản ứng với nước vôi). Bình hạt luộc chín: nước vôi vẫn trong.
+- **Tỏa nhiệt**: cho hạt nảy mầm vào bình (hoặc hộp xốp) cắm nhiệt kế; sau vài giờ nhiệt độ **cao hơn** bình hạt chín.
+- **Lấy O₂**: để hạt nảy mầm trong bình kín vài giờ, mở nắp đưa que diêm đang cháy vào: **que diêm tắt** vì O₂ đã bị hạt dùng hết.
+HINH: 7-khtn/th-ho-hap.svg | Ba thí nghiệm với hạt nảy mầm: nước vôi trong vẩn đục (thải CO₂), nhiệt kế chỉ cao hơn (tỏa nhiệt), que diêm tắt (đã lấy O₂).
+LT: 3. Kết luận
+- Hạt nảy mầm hô hấp mạnh: **lấy O₂, thải CO₂ và tỏa nhiệt**; hạt chết (luộc chín) không hô hấp.
+DB: Dạng 1. Giải thích vai trò của từng dụng cụ, hóa chất
+- Nước vôi trong: nhận biết CO₂; nhiệt kế: đo nhiệt tỏa ra; que diêm cháy: kiểm tra còn O₂ hay không.
+DB: Dạng 2. Vai trò của mẫu đối chứng
+- Hạt luộc chín (không hô hấp) giúp chứng minh hiện tượng là do hô hấp của hạt sống.
+DB: Dạng 3. Dự đoán kết quả khi thay đổi điều kiện
+- Hạt khô, nhiệt độ thấp ⇒ hô hấp yếu ⇒ hiện tượng yếu hơn.
+VD: Vì sao phải dùng hạt đang nảy mầm mà không dùng hạt khô?
+B: Hạt nảy mầm có nhiều nước, đang sinh trưởng nên hô hấp rất mạnh.
+KQ: Hiện tượng (khí CO₂, nhiệt, mất O₂) rõ rệt, dễ quan sát trong thời gian ngắn.
+VD: Vì sao bình chứa hạt đã luộc chín được dùng để so sánh?
+B: Hạt luộc chín đã chết, không hô hấp.
+KQ: Nếu chỉ bình hạt nảy mầm có hiện tượng thì chứng tỏ hiện tượng do hô hấp của hạt sống.
+GN: Nước vôi trong hóa đục khi gặp khí CO₂.
+GN: Thí nghiệm cần có đối chứng.
+GN: Cẩn thận khi dùng diêm, que đóm; làm theo hướng dẫn của giáo viên.
+Q: mc | Hóa chất dùng để nhận biết khí carbon dioxide trong thí nghiệm là
+A) dung dịch iodine
+B) nước vôi trong *
+C) cồn
+D) nước muối
+E: CO₂ làm nước vôi trong vẩn đục.
+Q: mc | Đưa que diêm đang cháy vào bình kín chứa hạt nảy mầm để qua đêm, que diêm tắt vì
+A) trong bình nhiều O₂
+B) O₂ trong bình đã bị hạt dùng cho hô hấp *
+C) trong bình quá lạnh
+D) hạt nảy mầm thải O₂
+E: Hạt nảy mầm hô hấp lấy O₂, thải CO₂ nên không còn đủ O₂ duy trì sự cháy.
+Q: tf | Trong thí nghiệm về tỏa nhiệt:
+a) Nhiệt kế trong bình hạt nảy mầm chỉ nhiệt độ cao hơn bình hạt luộc chín. | Đ
+b) Hạt luộc chín vẫn hô hấp mạnh. | S
+c) Nhiệt tỏa ra là một phần năng lượng của hô hấp. | Đ
+d) Dùng hộp xốp để giữ nhiệt, giúp dễ quan sát kết quả. | Đ
+E: Hạt luộc chín đã chết nên không hô hấp; hộp xốp cách nhiệt giúp nhiệt không thoát ra ngoài.
+Q: ord | Sắp xếp các bước thí nghiệm chứng minh hạt nảy mầm thải CO₂:
+1) Cho hạt nảy mầm vào bình thủy tinh
+2) Đặt cốc nhỏ đựng nước vôi trong vào bình
+3) Đậy kín nắp bình, để vài giờ
+4) Quan sát cốc nước vôi trong và so sánh với bình đối chứng
+E: Chuẩn bị hạt → đặt thuốc thử → đậy kín để khí tích lại → quan sát, so sánh.
+Q: sa | Bình hạt nảy mầm đo được 32 °C, bình hạt luộc chín đo được 27 °C. Chênh lệch nhiệt độ là bao nhiêu độ C?
+ANS: 5
+E: 32 − 27 = 5 °C, do hạt nảy mầm hô hấp tỏa nhiệt.
+TL: Viết báo cáo thực hành thí nghiệm chứng minh hạt nảy mầm thải khí CO₂ theo mẫu: mục đích – chuẩn bị – cách tiến hành – kết quả – giải thích.
+MAU: Mục đích: chứng minh hô hấp ở hạt nảy mầm thải khí carbon dioxide.
+MAU: Chuẩn bị: hạt đậu nảy mầm, hạt đậu luộc chín, 2 bình kín, 2 cốc nhỏ nước vôi trong.
+MAU: Cách tiến hành: bình A chứa hạt nảy mầm, bình B chứa hạt luộc chín; đặt cốc nước vôi trong vào mỗi bình, đậy kín 2 – 3 giờ.
+MAU: Kết quả: nước vôi trong ở bình A vẩn đục; ở bình B vẫn trong.
+MAU: Giải thích: hạt nảy mầm hô hấp thải CO₂ làm vẩn đục nước vôi; hạt chín không hô hấp.
+TC: Đúng mục đích và chuẩn bị có đối chứng | 1
+TC: Cách tiến hành hợp lí | 1
+TC: Kết quả và giải thích đúng | 1
+
 ### Bài 28. Trao đổi khí ở sinh vật
+> Lá cây "thở" qua những lỗ nhỏ li ti, cá thở bằng mang, còn chúng ta thở bằng phổi – mỗi sinh vật có cách trao đổi khí phù hợp với môi trường sống.
+MT: Nêu được khái niệm trao đổi khí; mô tả được cấu tạo và chức năng của khí khổng.
+MT: Nêu được các cơ quan trao đổi khí ở động vật (bề mặt cơ thể, hệ thống ống khí, mang, phổi).
+MT: Mô tả được con đường đi của khí qua các cơ quan hô hấp ở người.
+LT: 1. Trao đổi khí ở thực vật
+- **Trao đổi khí** là sự trao đổi các chất khí giữa cơ thể và môi trường: lấy O₂ hoặc CO₂ vào, thải CO₂ hoặc O₂ ra.
+- Ở thực vật, trao đổi khí chủ yếu qua **khí khổng** ở lá. Mỗi khí khổng gồm **hai tế bào hình hạt đậu** áp vào nhau, ở giữa là **khe khí khổng**; tế bào no nước thì khe mở, thiếu nước thì khe đóng.
+- Ban ngày khi quang hợp: CO₂ vào, O₂ ra (mạnh hơn hô hấp); ban đêm chỉ hô hấp: O₂ vào, CO₂ ra.
+HINH: 7-khtn/khi-khong.svg | Khí khổng gồm hai tế bào hình hạt đậu: khi đủ nước khe mở cho khí CO₂, O₂, hơi nước đi qua; khi thiếu nước khe đóng lại.
+LT: 2. Trao đổi khí ở động vật
+- Qua **bề mặt cơ thể** (giun đất, ếch qua da), qua **hệ thống ống khí** (côn trùng), qua **mang** (cá, tôm), qua **phổi** (lưỡng cư, bò sát, chim, thú, người).
+LT: 3. Trao đổi khí ở người
+- Đường đi của khí: **mũi → họng → thanh quản → khí quản → phế quản → phổi (phế nang)**.
+- Tại phế nang: O₂ từ không khí đi vào máu, CO₂ từ máu đi ra phế nang rồi thải ra ngoài.
+DB: Dạng 1. Mô tả cấu tạo – hoạt động của khí khổng
+- Hai tế bào hình hạt đậu; no nước – mở, thiếu nước – đóng.
+DB: Dạng 2. Nhận biết cơ quan trao đổi khí ở các loài
+- Gắn môi trường sống: dưới nước – mang; trên cạn – phổi; côn trùng – ống khí; giun – da.
+DB: Dạng 3. Sắp xếp đường đi của khí ở người
+- Từ ngoài vào trong: mũi → họng → thanh quản → khí quản → phế quản → phế nang.
+VD: Vì sao vào buổi trưa nắng gắt, nhiều cây đóng khí khổng?
+B: Trời nóng, cây thoát hơi nước mạnh, có nguy cơ mất nước.
+B: Tế bào khí khổng mất nước nên khe khí khổng đóng lại.
+KQ: Đóng khí khổng giúp cây giữ nước nhưng làm giảm lượng CO₂ vào lá, quang hợp giảm.
+VD: Vì sao cá bị đưa lên cạn lâu sẽ chết?
+B: Cá trao đổi khí bằng mang, mang cần môi trường nước để các lá mang xòe ra.
+KQ: Trên cạn, mang bị khô, dính lại, không lấy được O₂ nên cá chết.
+GN: Khí khổng chủ yếu ở mặt dưới lá.
+GN: Trao đổi khí ở người xảy ra ở phế nang, không phải ở khí quản.
+GN: Không khí qua mũi được làm ấm, làm ẩm và lọc bụi.
+Q: mc | Khí khổng của lá được cấu tạo bởi
+A) một tế bào hình tròn
+B) hai tế bào hình hạt đậu *
+C) nhiều tế bào hình sao
+D) các mạch gỗ
+E: Mỗi khí khổng gồm hai tế bào hình hạt đậu áp vào nhau, giữa là khe khí khổng.
+Q: mc | Cá trao đổi khí bằng
+A) phổi
+B) da
+C) mang *
+D) hệ thống ống khí
+E: Cá sống dưới nước, trao đổi khí qua mang.
+Q: ord | Sắp xếp đường đi của không khí khi hít vào ở người:
+1) Mũi
+2) Họng
+3) Thanh quản
+4) Khí quản
+5) Phế quản
+6) Phế nang trong phổi
+E: Không khí đi từ mũi qua đường dẫn khí vào tận phế nang, nơi diễn ra trao đổi khí với máu.
+Q: tf | Về trao đổi khí:
+a) Khi tế bào khí khổng no nước, khe khí khổng mở. | Đ
+b) Côn trùng trao đổi khí qua hệ thống ống khí. | Đ
+c) Ở người, O₂ đi vào máu tại khí quản. | S
+d) Ban đêm cây chỉ thải O₂, không thải CO₂. | S
+E: Trao đổi khí với máu diễn ra ở phế nang; ban đêm cây chỉ hô hấp: lấy O₂, thải CO₂.
+Q: match | Nối sinh vật với cơ quan trao đổi khí:
+1) Giun đất | Bề mặt cơ thể (da)
+2) Châu chấu | Hệ thống ống khí
+3) Cá chép | Mang
+4) Chim bồ câu | Phổi
+E: Cơ quan trao đổi khí phù hợp với môi trường sống và cấu tạo cơ thể.
+Q: sa | Một người hít thở 16 lần mỗi phút, mỗi lần hít vào khoảng 0,5 lít không khí. Trong 1 phút người đó hít vào bao nhiêu lít không khí?
+ANS: 8
+E: 16 · 0,5 = 8 lít.
+TL: Vì sao nên thở bằng mũi mà không nên thở bằng miệng? Nêu 2 việc làm giúp bảo vệ hệ hô hấp.
+MAU: Mũi có lông và lớp niêm mạc tiết chất nhầy giữ bụi, vi khuẩn; có nhiều mạch máu làm ấm không khí ⇒ không khí vào phổi sạch, ấm, ẩm hơn.
+MAU: Thở bằng miệng không được lọc, làm ấm nên dễ viêm họng, viêm phổi.
+MAU: Bảo vệ hệ hô hấp: đeo khẩu trang nơi bụi bẩn; không hút thuốc lá, tránh khói thuốc; trồng cây xanh; tập thể dục.
+TC: Giải thích được vai trò của mũi | 1,5
+TC: Nêu đúng 2 biện pháp bảo vệ | 1,5
+
 ### Bài 29. Vai trò của nước và các chất dinh dưỡng đối với cơ thể sinh vật
+> Cơ thể em chứa khoảng 2/3 là nước! Cùng với chất dinh dưỡng từ thức ăn, nước giúp cơ thể lớn lên, khỏe mạnh và hoạt động mỗi ngày.
+MT: Nêu được vai trò của nước đối với cơ thể sinh vật.
+MT: Kể được các nhóm chất dinh dưỡng và vai trò của chúng.
+MT: Vận dụng để xây dựng thói quen uống đủ nước, ăn uống cân đối.
+LT: 1. Vai trò của nước
+- Nước chiếm tỉ lệ lớn trong cơ thể sinh vật (cơ thể người khoảng 60 – 70% khối lượng; nhiều loại rau quả trên 90%).
+- Nước là **dung môi** hòa tan nhiều chất, **môi trường** cho các phản ứng trong tế bào, **vận chuyển** các chất (máu, nhựa cây), **điều hòa nhiệt độ** cơ thể (toát mồ hôi, thoát hơi nước ở lá); là **nguyên liệu** của quang hợp.
+LT: 2. Vai trò của chất dinh dưỡng
+- **Carbohydrate** (tinh bột, đường): nguồn năng lượng chính. **Lipid** (chất béo): dự trữ năng lượng, giữ nhiệt.
+- **Protein** (chất đạm): nguyên liệu cấu tạo tế bào, cơ thể; tham gia nhiều hoạt động sống.
+- **Vitamin và chất khoáng**: cần lượng nhỏ nhưng rất quan trọng (vitamin A cho mắt, calcium cho xương…). Thực vật cần các chất khoáng như N, P, K lấy từ đất.
+HINH: 7-khtn/dinh-duong.svg | Đĩa ăn cân đối: tinh bột, chất đạm, rau quả (vitamin, chất khoáng), chất béo vừa đủ và nước – mỗi nhóm có vai trò riêng.
+LT: 3. Uống đủ nước, ăn uống hợp lí
+- Uống đủ nước mỗi ngày (nhiều hơn khi trời nóng, vận động nhiều); ăn đủ các nhóm chất, nhiều rau xanh, hạn chế đồ ngọt, đồ chiên rán, nước ngọt có ga.
+DB: Dạng 1. Nêu vai trò của nước trong tình huống
+- Nhận ra chức năng: dung môi, vận chuyển, điều hòa nhiệt, nguyên liệu.
+DB: Dạng 2. Phân loại thực phẩm theo nhóm chất dinh dưỡng
+- Gạo, ngô, khoai: tinh bột; thịt, cá, trứng, đậu: đạm; dầu, mỡ, lạc: chất béo; rau, quả: vitamin, khoáng.
+DB: Dạng 3. Tính toán đơn giản về nước và dinh dưỡng
+- Tính khối lượng nước trong cơ thể theo tỉ lệ phần trăm; tính lượng nước cần uống.
+VD: Một bạn nặng 40 kg, nước chiếm khoảng 65% khối lượng cơ thể. Tính khối lượng nước trong cơ thể bạn đó.
+B: Khối lượng nước = 40 × 65% = 40 × 0,65.
+B: = 26 kg.
+KQ: Cơ thể bạn chứa khoảng 26 kg nước.
+VD: Vì sao khi bị sốt hoặc tiêu chảy, cần uống nhiều nước (oresol)?
+B: Sốt, tiêu chảy làm cơ thể mất nhiều nước và muối khoáng.
+KQ: Thiếu nước gây rối loạn hoạt động tế bào, nguy hiểm; cần bù nước và muối khoáng kịp thời.
+GN: Không đợi khát mới uống nước.
+GN: Ăn đa dạng thực phẩm để có đủ các nhóm chất.
+GN: Thừa chất béo, đường dễ gây béo phì; thiếu chất gây suy dinh dưỡng.
+Q: mc | Chất dinh dưỡng nào là nguồn cung cấp năng lượng chính cho cơ thể?
+A) Vitamin
+B) Carbohydrate (tinh bột, đường) *
+C) Chất khoáng
+D) Nước
+E: Tinh bột, đường là nguồn năng lượng chủ yếu.
+Q: mc | Vai trò nào sau đây KHÔNG phải của nước?
+A) Dung môi hòa tan các chất
+B) Vận chuyển các chất trong cơ thể
+C) Điều hòa thân nhiệt
+D) Cung cấp năng lượng chính cho cơ thể *
+E: Nước không cung cấp năng lượng; năng lượng lấy từ carbohydrate, lipid, protein.
+Q: match | Nối thực phẩm với nhóm chất dinh dưỡng chủ yếu:
+1) Gạo, khoai lang | Tinh bột (carbohydrate)
+2) Thịt, cá, trứng | Chất đạm (protein)
+3) Dầu ăn, mỡ | Chất béo (lipid)
+4) Rau xanh, cam | Vitamin và chất khoáng
+E: Phân loại để xây dựng bữa ăn cân đối.
+Q: tf | Về nước và chất dinh dưỡng:
+a) Nước chiếm phần lớn khối lượng cơ thể người. | Đ
+b) Vitamin chỉ cần với lượng rất lớn mới có tác dụng. | S
+c) Protein là nguyên liệu cấu tạo tế bào. | Đ
+d) Cây xanh cần nước làm nguyên liệu cho quang hợp. | Đ
+E: Vitamin cần lượng nhỏ nhưng thiết yếu.
+Q: sa | Một quả dưa hấu nặng 3 kg, nước chiếm 92% khối lượng. Khối lượng nước trong quả dưa là bao nhiêu kg? (viết số thập phân)
+ANS: 2,76 || 2.76
+E: 3 × 0,92 = 2,76 kg.
+TL: Hãy lập thực đơn một ngày (3 bữa) cân đối cho học sinh lớp 7 và giải thích vì sao thực đơn đó hợp lí.
+MAU: Sáng: bánh mì kẹp trứng, một cốc sữa; trưa: cơm, cá kho, canh rau ngót, chuối; tối: cơm, thịt gà luộc, đậu phụ, rau luộc, cam.
+MAU: Thực đơn có đủ tinh bột (cơm, bánh mì), đạm (trứng, cá, gà, đậu phụ), chất béo vừa phải, nhiều rau quả cho vitamin, khoáng.
+MAU: Uống đủ nước trong ngày, hạn chế nước ngọt có ga, đồ chiên rán.
+TC: Thực đơn có đủ các nhóm chất | 1,5
+TC: Giải thích hợp lí | 1
+TC: Có lưu ý về nước, hạn chế đồ không tốt | 0,5
+
 ### Bài 30. Trao đổi nước và chất dinh dưỡng ở thực vật
+> Một cây cao hàng chục mét vẫn đưa được nước từ rễ lên tận ngọn lá – nhờ hệ thống "đường ống" đặc biệt và sự thoát hơi nước ở lá.
+MT: Mô tả được quá trình rễ hút nước và chất khoáng (lông hút).
+MT: Nêu được vai trò của mạch gỗ (vận chuyển nước, chất khoáng) và mạch rây (vận chuyển chất hữu cơ).
+MT: Nêu được vai trò của thoát hơi nước ở lá; vận dụng giải thích biện pháp tưới tiêu, bón phân.
+LT: 1. Rễ hút nước và chất khoáng
+- Nước và chất khoáng hòa tan trong đất được **lông hút** ở rễ hấp thụ (lông hút làm tăng diện tích tiếp xúc với đất).
+- Nước và khoáng đi từ lông hút vào trong rễ rồi vào **mạch gỗ**.
+LT: 2. Vận chuyển các chất trong cây
+- **Mạch gỗ**: vận chuyển **nước và chất khoáng** từ rễ lên thân, lá (chiều đi lên).
+- **Mạch rây**: vận chuyển **chất hữu cơ** (do lá tổng hợp) đến các bộ phận của cây như rễ, quả, hạt, củ.
+HINH: 7-khtn/van-chuyen-cay.svg | Mạch gỗ đưa nước và chất khoáng từ rễ lên lá; mạch rây đưa chất hữu cơ từ lá đi nuôi các bộ phận; lá thoát hơi nước qua khí khổng.
+LT: 3. Thoát hơi nước ở lá
+- Phần lớn nước cây hút vào (trên 90%) thoát ra ngoài qua **khí khổng** ở lá dưới dạng hơi nước.
+- Vai trò: tạo **lực hút** giúp nước đi từ rễ lên lá; **làm mát** lá khi trời nóng; khí khổng mở để **CO₂ đi vào** cho quang hợp.
+DB: Dạng 1. Xác định con đường đi của nước, khoáng, chất hữu cơ
+- Nước, khoáng: đất → lông hút → rễ → mạch gỗ → thân → lá.
+- Chất hữu cơ: lá → mạch rây → các bộ phận.
+DB: Dạng 2. Giải thích vai trò thoát hơi nước
+- Lực hút nước, làm mát lá, trao đổi khí.
+DB: Dạng 3. Giải thích biện pháp kĩ thuật
+- Tưới nước đúng lúc (sáng sớm, chiều mát); xới đất cho tơi xốp; bón phân hợp lí; tỉa bớt lá khi trồng cây non.
+VD: Khi trồng cây con, người ta thường tỉa bớt lá. Vì sao?
+B: Cây mới trồng, rễ còn yếu, hút nước ít.
+B: Lá nhiều thì thoát hơi nước mạnh, cây dễ bị héo.
+KQ: Tỉa bớt lá giảm thoát hơi nước, giúp cây con sống tốt cho đến khi rễ phát triển.
+VD: Cắt ngang một cành cây rồi để một thời gian, thấy chất lỏng màu trắng hoặc trong rỉ ra ở vết cắt. Đó là gì?
+B: Ở vết cắt, mạch gỗ và mạch rây bị cắt đứt.
+KQ: Chất lỏng rỉ ra gồm nước, khoáng (từ mạch gỗ) và chất hữu cơ (từ mạch rây) đang được vận chuyển.
+GN: Mạch gỗ: nước + khoáng, đi lên; mạch rây: chất hữu cơ, đến các bộ phận.
+GN: Lông hút giúp tăng diện tích hấp thụ.
+GN: Tưới vào lúc nắng gắt dễ làm cây bị "sốc nhiệt", nên tưới sáng sớm hoặc chiều mát.
+Q: mc | Nước và chất khoáng được vận chuyển từ rễ lên lá qua
+A) mạch rây
+B) mạch gỗ *
+C) khí khổng
+D) lông hút
+E: Mạch gỗ vận chuyển nước và khoáng theo chiều từ rễ lên.
+Q: mc | Bộ phận giúp rễ hút nước và chất khoáng hiệu quả là
+A) lông hút *
+B) chóp rễ
+C) mạch rây
+D) vỏ thân
+E: Lông hút làm tăng diện tích tiếp xúc với đất, hấp thụ nước và khoáng.
+Q: tf | Về trao đổi nước và chất dinh dưỡng ở thực vật:
+a) Mạch rây vận chuyển chất hữu cơ từ lá đến các bộ phận. | Đ
+b) Phần lớn nước cây hút vào được giữ lại trong cây. | S
+c) Thoát hơi nước tạo lực hút nước từ rễ lên lá. | Đ
+d) Thoát hơi nước giúp làm mát lá khi trời nắng. | Đ
+E: Phần lớn nước (trên 90%) thoát ra qua lá.
+Q: ord | Sắp xếp con đường đi của nước trong cây:
+1) Nước trong đất
+2) Lông hút ở rễ
+3) Mạch gỗ của rễ và thân
+4) Lá
+5) Khí khổng thoát hơi nước ra ngoài
+E: Nước được hút vào ở lông hút, đi trong mạch gỗ lên lá, phần lớn thoát ra ngoài qua khí khổng.
+Q: sa | Một cây hút 2 lít nước mỗi ngày, trong đó 95% thoát ra qua lá. Lượng nước thoát qua lá mỗi ngày là bao nhiêu lít?
+ANS: 1,9 || 1.9
+E: 2 × 0,95 = 1,9 lít.
+TL: Giải thích vì sao trước khi bứng cây (chuyển cây đi trồng chỗ khác), người ta thường tỉa bớt cành lá, giữ nguyên bầu đất quanh rễ và tưới đẫm nước.
+MAU: Tỉa cành lá: giảm thoát hơi nước để cây ít mất nước khi rễ chưa hút được nhiều.
+MAU: Giữ bầu đất: bảo vệ lông hút, rễ không bị tổn thương, cây sớm hút được nước và khoáng.
+MAU: Tưới đẫm: cung cấp đủ nước cho cây trong thời gian bén rễ.
+TC: Giải thích đúng việc tỉa cành lá | 1
+TC: Giải thích đúng việc giữ bầu đất | 1
+TC: Giải thích đúng việc tưới đẫm | 1
+
 ### Bài 31. Trao đổi nước và chất dinh dưỡng ở động vật
+> Bát cơm em ăn được biến đổi thành chất dinh dưỡng, đi vào máu và đến từng tế bào. Hành trình ấy diễn ra trong ống tiêu hóa và hệ tuần hoàn.
+MT: Mô tả được con đường thu nhận và tiêu hóa thức ăn trong ống tiêu hóa ở người.
+MT: Mô tả được quá trình vận chuyển các chất trong cơ thể (hệ tuần hoàn).
+MT: Nêu được nhu cầu sử dụng nước, vận dụng xây dựng chế độ ăn uống hợp lí.
+LT: 1. Thu nhận và tiêu hóa thức ăn
+- Ống tiêu hóa: **miệng → hầu → thực quản → dạ dày → ruột non → ruột già → hậu môn**.
+- Thức ăn được nghiền nhỏ, trộn với dịch tiêu hóa và **biến đổi thành chất đơn giản**: tinh bột → glucose; protein → amino acid; lipid → glycerol và acid béo.
+- **Ruột non** là nơi tiêu hóa và **hấp thụ** chất dinh dưỡng chủ yếu vào máu; ruột già hấp thụ lại nước, chất bã thải ra ngoài.
+HINH: 7-khtn/tieu-hoa.svg | Hành trình của thức ăn trong ống tiêu hóa: biến đổi ở miệng, dạ dày, ruột non; hấp thụ chủ yếu ở ruột non; ruột già hấp thụ lại nước.
+LT: 2. Vận chuyển các chất trong cơ thể
+- Chất dinh dưỡng hấp thụ vào **máu**, được **hệ tuần hoàn** (tim và mạch máu) vận chuyển đến các tế bào; O₂ từ phổi cũng theo máu đến tế bào.
+- Chất thải (CO₂, urea…) theo máu đến phổi, thận để thải ra ngoài.
+LT: 3. Nhu cầu nước và ăn uống hợp lí
+- Người lớn cần khoảng 2 – 2,5 lít nước mỗi ngày (cả trong thức ăn); cần nhiều hơn khi trời nóng, vận động mạnh.
+- Ăn đủ chất, đúng giờ, nhai kĩ; ăn chín uống sôi; không ăn quá no hay bỏ bữa.
+DB: Dạng 1. Sắp xếp đường đi của thức ăn
+- Nhớ thứ tự các cơ quan của ống tiêu hóa từ miệng đến hậu môn.
+DB: Dạng 2. Xác định nơi tiêu hóa, hấp thụ
+- Biến đổi tinh bột bắt đầu ở miệng; protein ở dạ dày; tiêu hóa và hấp thụ chủ yếu ở ruột non; ruột già hấp thụ nước.
+DB: Dạng 3. Giải thích thói quen ăn uống
+- Nhai kĩ: thức ăn nhỏ, dễ tiêu; ăn chín uống sôi: tránh vi khuẩn, giun sán; uống đủ nước: hỗ trợ tiêu hóa, vận chuyển.
+VD: Vì sao nhai cơm lâu trong miệng thấy có vị ngọt?
+B: Trong nước bọt có enzyme amylase biến đổi một phần tinh bột thành đường.
+KQ: Đường tạo thành có vị ngọt – tiêu hóa tinh bột bắt đầu từ miệng.
+VD: Vì sao ruột non là nơi hấp thụ chất dinh dưỡng chủ yếu?
+B: Ruột non rất dài, mặt trong có nhiều nếp gấp với vô số lông ruột nhỏ.
+KQ: Diện tích hấp thụ rất lớn và có mạng mao mạch dày đặc giúp chất dinh dưỡng đi vào máu nhanh.
+GN: Hấp thụ chất dinh dưỡng chủ yếu ở ruột non.
+GN: Máu là "phương tiện" vận chuyển các chất trong cơ thể.
+GN: Ăn chín uống sôi, rửa tay trước khi ăn để phòng bệnh đường tiêu hóa.
+Q: mc | Chất dinh dưỡng được hấp thụ chủ yếu ở
+A) dạ dày
+B) ruột non *
+C) ruột già
+D) thực quản
+E: Ruột non có diện tích hấp thụ lớn nhờ các nếp gấp và lông ruột.
+Q: mc | Trong ống tiêu hóa, tinh bột được biến đổi thành
+A) amino acid
+B) glucose *
+C) acid béo
+D) vitamin
+E: Tinh bột được biến đổi thành đường đơn glucose.
+Q: ord | Sắp xếp đường đi của thức ăn trong ống tiêu hóa người:
+1) Miệng
+2) Thực quản
+3) Dạ dày
+4) Ruột non
+5) Ruột già
+E: Thức ăn đi từ miệng qua thực quản xuống dạ dày, ruột non rồi ruột già; chất bã thải ra qua hậu môn.
+Q: tf | Về tiêu hóa và vận chuyển các chất:
+a) Tiêu hóa tinh bột bắt đầu từ khoang miệng. | Đ
+b) Ruột già là nơi hấp thụ chất dinh dưỡng chủ yếu. | S
+c) Máu vận chuyển chất dinh dưỡng và O₂ đến các tế bào. | Đ
+d) Nhai kĩ giúp thức ăn tiêu hóa dễ hơn. | Đ
+E: Ruột già chủ yếu hấp thụ lại nước; chất dinh dưỡng được hấp thụ chủ yếu ở ruột non.
+Q: sa | Một học sinh cần khoảng 2 lít nước mỗi ngày, trong đó thức ăn đã cung cấp 0,6 lít. Bạn cần uống thêm bao nhiêu lít nước?
+ANS: 1,4 || 1.4
+E: 2 − 0,6 = 1,4 lít.
+Q: match | Nối cơ quan với chức năng chính:
+1) Dạ dày | Co bóp, nghiền trộn thức ăn, bắt đầu tiêu hóa protein
+2) Ruột non | Tiêu hóa hoàn toàn và hấp thụ chất dinh dưỡng
+3) Ruột già | Hấp thụ lại nước, tạo phân
+4) Tim | Bơm máu vận chuyển các chất đi khắp cơ thể
+E: Mỗi cơ quan đảm nhận một phần trong quá trình thu nhận, tiêu hóa và vận chuyển.
+TL: Bạn Nam hay bỏ bữa sáng, ăn vội và uống ít nước vì sợ đi vệ sinh trong giờ học. Hãy chỉ ra tác hại và khuyên Nam thói quen đúng.
+MAU: Bỏ bữa sáng: cơ thể thiếu năng lượng, khó tập trung học, dễ đau dạ dày.
+MAU: Ăn vội, không nhai kĩ: thức ăn khó tiêu, dạ dày làm việc nặng.
+MAU: Uống ít nước: dễ táo bón, mệt mỏi, ảnh hưởng vận chuyển các chất và thận.
+MAU: Lời khuyên: ăn sáng đủ chất, nhai kĩ, uống nước đều đặn trong ngày, đi vệ sinh vào giờ ra chơi.
+TC: Nêu được tác hại của bỏ bữa, ăn vội | 1
+TC: Nêu được tác hại của uống ít nước | 1
+TC: Lời khuyên hợp lí | 1
+
 ### Bài 32. Thực hành: Chứng minh thân vận chuyển nước và lá thoát hơi nước
+> Cắm một bông hoa trắng vào cốc nước pha màu, vài giờ sau cánh hoa ngả màu! Thí nghiệm thú vị này chứng minh thân cây vận chuyển nước.
+MT: Tiến hành được thí nghiệm chứng minh thân vận chuyển nước.
+MT: Tiến hành được thí nghiệm chứng minh lá thoát hơi nước.
+MT: Viết được báo cáo thực hành; giải thích kết quả.
+LT: 1. Thí nghiệm chứng minh thân vận chuyển nước
+- Chuẩn bị: cành hoa màu trắng (hoa cúc, hoa hồng trắng) hoặc cành cần tây, cốc nước, mực đỏ (hoặc phẩm màu), dao cắt.
+- Cách làm: cắm cành hoa vào cốc nước pha màu; để nơi thoáng 2 – 4 giờ (hoặc qua đêm).
+- Kết quả: cánh hoa chuyển dần sang màu của nước; cắt ngang thân thấy các chấm màu (mạch gỗ bị nhuộm màu) ⇒ **nước được vận chuyển qua mạch gỗ của thân lên hoa, lá**.
+HINH: 7-khtn/th-van-chuyen.svg | Cành hoa trắng cắm vào nước màu: màu đi theo mạch gỗ lên cánh hoa; túi nilon trùm lá xuất hiện các giọt nước do lá thoát hơi nước.
+LT: 2. Thí nghiệm chứng minh lá thoát hơi nước
+- Cách làm: dùng túi nilon trong suốt trùm kín một cành nhiều lá (cây trong chậu hoặc ngoài vườn), buộc chặt miệng túi; một túi khác trùm cành đã bỏ hết lá để đối chứng. Để ngoài nắng 1 – 2 giờ.
+- Kết quả: túi trùm cành có lá **có nhiều giọt nước đọng** bên trong; túi trùm cành không lá hầu như không có ⇒ **lá thoát hơi nước**.
+LT: 3. Báo cáo thực hành
+- Ghi: mục đích, dụng cụ, cách tiến hành, kết quả quan sát (mô tả, vẽ hình), giải thích, kết luận.
+DB: Dạng 1. Giải thích các bước thí nghiệm
+- Dùng hoa trắng để dễ thấy màu; cắt ngang thân để quan sát vị trí mạch dẫn bị nhuộm màu.
+DB: Dạng 2. Vai trò của mẫu đối chứng
+- Cành không lá giúp chứng minh hơi nước đọng là do lá thoát ra, không phải do thân hay túi.
+DB: Dạng 3. Dự đoán ảnh hưởng của điều kiện
+- Nắng, gió, nhiệt độ cao ⇒ thoát hơi nước mạnh ⇒ nhiều giọt nước hơn, hoa đổi màu nhanh hơn.
+VD: Vì sao nên dùng hoa màu trắng trong thí nghiệm vận chuyển nước?
+B: Hoa trắng không có sắc tố che lấp màu.
+KQ: Màu của nước hiện rõ trên cánh hoa, dễ quan sát kết quả.
+VD: Để cây ngoài nắng và để trong bóng râm, túi nilon nào nhiều giọt nước hơn? Vì sao?
+B: Ngoài nắng nhiệt độ cao hơn, lá thoát hơi nước mạnh hơn.
+KQ: Túi ở ngoài nắng có nhiều giọt nước đọng hơn.
+GN: Phải buộc kín miệng túi để hơi nước không thoát ra ngoài.
+GN: Cẩn thận khi dùng dao cắt thân cây.
+GN: Thí nghiệm cần có đối chứng để kết luận chính xác.
+Q: mc | Trong thí nghiệm cắm cành hoa trắng vào nước pha màu, nước màu đi lên hoa qua
+A) mạch rây
+B) mạch gỗ *
+C) vỏ thân
+D) khí khổng
+E: Mạch gỗ vận chuyển nước từ dưới lên.
+Q: mc | Trong thí nghiệm túi nilon trùm cành lá, giọt nước đọng trong túi là do
+A) nước mưa
+B) lá thoát hơi nước rồi ngưng tụ *
+C) thân cây tiết ra
+D) túi nilon tự sinh ra nước
+E: Hơi nước thoát qua khí khổng của lá, gặp thành túi ngưng tụ thành giọt.
+Q: ord | Sắp xếp các bước thí nghiệm chứng minh lá thoát hơi nước:
+1) Chọn hai cành tương tự nhau, tỉa bỏ hết lá ở một cành
+2) Trùm túi nilon trong suốt lên mỗi cành và buộc kín miệng túi
+3) Để cây ngoài nắng 1 – 2 giờ
+4) Quan sát, so sánh lượng giọt nước đọng trong hai túi
+E: Chuẩn bị cành thí nghiệm và đối chứng → trùm kín → chờ → quan sát so sánh.
+Q: tf | Về hai thí nghiệm thực hành:
+a) Cắt ngang thân sẽ thấy các chấm màu ở vị trí mạch gỗ. | Đ
+b) Túi trùm cành không lá cũng có nhiều giọt nước như cành có lá. | S
+c) Trời nắng, gió, lá thoát hơi nước mạnh hơn. | Đ
+d) Không cần buộc kín miệng túi nilon. | S
+E: Cành không lá hầu như không có giọt nước; phải buộc kín túi để giữ hơi nước.
+Q: sa | Sau 3 giờ, nước màu dâng lên trong cành cần tây được 12 cm. Trung bình mỗi giờ nước dâng lên bao nhiêu cm?
+ANS: 4
+E: 12 : 3 = 4 cm/giờ.
+TL: Viết báo cáo thực hành thí nghiệm chứng minh thân vận chuyển nước.
+MAU: Mục đích: chứng minh nước được vận chuyển qua thân (mạch gỗ) lên hoa, lá.
+MAU: Dụng cụ: cành hoa trắng, cốc nước, mực đỏ, dao.
+MAU: Cách tiến hành: pha mực vào nước, cắm cành hoa, để 3 – 4 giờ; cắt ngang thân quan sát.
+MAU: Kết quả: cánh hoa chuyển màu đỏ; mặt cắt thân có các chấm đỏ.
+MAU: Kết luận: nước và chất hòa tan được vận chuyển qua mạch gỗ của thân lên hoa, lá.
+TC: Đúng mục đích, dụng cụ | 1
+TC: Cách tiến hành rõ ràng | 1
+TC: Kết quả, kết luận đúng | 1
+
 ## Chương VIII. Cảm ứng ở sinh vật
 ### Bài 33. Cảm ứng ở sinh vật và tập tính ở động vật
 ### Bài 34. Vận dụng hiện tượng cảm ứng ở sinh vật vào thực tiễn

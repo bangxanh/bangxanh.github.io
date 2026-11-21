@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="527.328pt" height="194.688pt" viewBox="0 0 527.328 194.688" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:09:39.265187</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 194.688 
+L 527.328 194.688 
+L 527.328 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 20.2824 174.96 
+L 171.6336 174.96 
+Q 174.96 174.96 174.96 171.6336 
+L 174.96 23.0544 
+Q 174.96 19.728 171.6336 19.728 
+L 20.2824 19.728 
+Q 16.956 19.728 16.956 23.0544 
+L 16.956 171.6336 
+Q 16.956 174.96 20.2824 174.96 
+z
+" clip-path="url(#pf2b27b3c52)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 189.3744 174.96 
+L 340.7256 174.96 
+Q 344.052 174.96 344.052 171.6336 
+L 344.052 23.0544 
+Q 344.052 19.728 340.7256 19.728 
+L 189.3744 19.728 
+Q 186.048 19.728 186.048 23.0544 
+L 186.048 171.6336 
+Q 186.048 174.96 189.3744 174.96 
+z
+" clip-path="url(#pf2b27b3c52)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 358.4664 174.96 
+L 509.8176 174.96 
+Q 513.144 174.96 513.144 171.6336 
+L 513.144 23.0544 
+Q 513.144 19.728 509.8176 19.728 
+L 358.4664 19.728 
+Q 355.14 19.728 355.14 23.0544 
+L 355.14 171.6336 
+Q 355.14 174.96 358.4664 174.96 
+z
+" clip-path="url(#pf2b27b3c52)" style="fill: #efe7fb; stroke: #7a4cc2; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="95.958" y="40.518" transform="rotate(-0 95.958 40.518)">BẢO QUẢN LẠNH</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(53.606484 81.676359)">rau, quả, thịt, cá</text>
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(37.729547 96.976359)">trong tủ lạnh, kho lạnh</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f5640" transform="translate(56.045695 140.58382)">nhiệt độ thấp</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f5640" transform="translate(51.830109 155.28382)">⇒ hô hấp chậm</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="265.05" y="40.518" transform="rotate(-0 265.05 40.518)">BẢO QUẢN KHÔ</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(215.886 81.624562)">phơi khô thóc, ngô,</text>
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(211.220297 97.287937)">đậu, lạc trước khi cất</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f5640" transform="translate(244.719375 141.242531)">ít nước</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f5640" transform="translate(215.59582 155.265773)">⇒ hô hấp rất yếu</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #7a4cc2" x="434.142" y="40.518" transform="rotate(-0 434.142 40.518)">CO₂ CAO, ÍT O₂</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(392.646328 81.624562)">hút chân không,</text>
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(391.424719 97.912687)">kho bơm khí CO₂</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f5640" transform="translate(380.414812 140.952961)">thiếu O₂, thừa CO₂</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f5640" transform="translate(386.789461 155.306789)">⇒ ức chế hô hấp</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf2b27b3c52">
+   <rect x="8.64" y="8.64" width="510.048" height="177.408"/>
+  </clipPath>
+ </defs>
+</svg>
