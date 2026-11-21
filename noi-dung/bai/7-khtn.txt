@@ -486,15 +486,538 @@ TC: Tính đúng %N ≈ 25,9% | 1
 
 ## Chương III. Tốc độ
 ### Bài 8. Tốc độ chuyển động
+> Đi bộ, đạp xe hay ngồi ô tô – vật nào nhanh hơn? Tốc độ giúp ta so sánh mức độ nhanh, chậm của chuyển động bằng con số cụ thể.
+MT: Nêu được ý nghĩa vật lí của tốc độ; viết được công thức v = s : t.
+MT: Đổi được các đơn vị tốc độ m/s và km/h.
+MT: Vận dụng công thức để tính tốc độ, quãng đường, thời gian.
+LT: 1. Tốc độ chuyển động
+- **Tốc độ** cho biết mức độ nhanh hay chậm của chuyển động, bằng **quãng đường đi được trong một đơn vị thời gian**.
+- Công thức: **v = s : t**, trong đó s là quãng đường, t là thời gian đi hết quãng đường đó.
+- Suy ra: s = v · t; t = s : v.
+HINH: 7-khtn/toc-do.svg | Ba bạn đi cùng quãng đường 600 m với thời gian khác nhau: thời gian càng ngắn thì tốc độ càng lớn.
+LT: 2. Đơn vị tốc độ
+- Đơn vị thường dùng: **m/s** và **km/h**.
+- **1 m/s = 3,6 km/h**; muốn đổi km/h sang m/s ta chia cho 3,6 (ví dụ 36 km/h = 10 m/s).
+- Tốc độ thực tế thường gặp: người đi bộ khoảng 1,2 – 1,5 m/s; xe đạp khoảng 4 – 6 m/s.
+DB: Dạng 1. Tính tốc độ
+- Đổi s và t về cùng hệ đơn vị (m và s, hoặc km và h).
+- Áp dụng v = s : t, ghi đơn vị.
+DB: Dạng 2. Tính quãng đường hoặc thời gian
+- s = v · t; t = s : v; chú ý đổi phút ra giờ (30 phút = 0,5 h).
+DB: Dạng 3. So sánh chuyển động nhanh, chậm
+- Đổi tốc độ về cùng đơn vị rồi so sánh; hoặc so sánh thời gian đi cùng một quãng đường.
+VD: Bạn An đạp xe quãng đường 3 km hết 15 phút. Tính tốc độ của An theo km/h và m/s.
+B: Đổi t = 15 phút = 0,25 h; v = 3 : 0,25 = 12 km/h.
+B: Đổi sang m/s: 12 : 3,6 ≈ 3,33 m/s.
+KQ: Tốc độ của An là 12 km/h ≈ 3,33 m/s.
+VD: Một ô tô chạy với tốc độ 54 km/h trong 20 phút. Tính quãng đường ô tô đi được.
+B: 20 phút = 1/3 h.
+B: s = v · t = 54 · 1/3 = 18 km.
+KQ: Ô tô đi được 18 km.
+GN: Luôn đổi đơn vị cho thống nhất trước khi tính.
+GN: Nhớ 1 m/s = 3,6 km/h.
+GN: Tốc độ tính theo công thức v = s : t là tốc độ trung bình trên cả quãng đường.
+Q: mc | Công thức tính tốc độ là
+A) v = s · t
+B) v = s : t *
+C) v = t : s
+D) v = s + t
+E: Tốc độ bằng quãng đường chia cho thời gian.
+Q: mc | 72 km/h bằng
+A) 7,2 m/s
+B) 20 m/s *
+C) 259,2 m/s
+D) 36 m/s
+E: 72 : 3,6 = 20 m/s.
+Q: tf | Một người đi bộ được 1,8 km trong 30 phút.
+a) Thời gian đi là 0,5 h. | Đ
+b) Tốc độ của người đó là 3,6 km/h. | Đ
+c) Tốc độ của người đó là 1 m/s. | Đ
+d) Với tốc độ đó, trong 2 giờ người đó đi được 3,6 km. | S
+E: v = 1,8 : 0,5 = 3,6 km/h = 1 m/s; trong 2 h đi được 3,6 · 2 = 7,2 km.
+Q: sa | Một học sinh chạy 100 m hết 20 s. Tốc độ của học sinh là bao nhiêu m/s?
+ANS: 5
+E: v = 100 : 20 = 5 m/s.
+Q: match | Nối đại lượng với công thức tính:
+1) Tốc độ | v = s : t
+2) Quãng đường | s = v · t
+3) Thời gian | t = s : v
+E: Từ công thức v = s : t suy ra hai công thức còn lại.
+TL: Nhà Bình cách trường 2,4 km. Bình đi xe đạp với tốc độ 12 km/h. Trường vào học lúc 7 giờ. Hỏi Bình phải xuất phát muộn nhất lúc mấy giờ để đến trường đúng giờ?
+MAU: Thời gian đi: t = s : v = 2,4 : 12 = 0,2 h = 12 phút.
+MAU: Thời điểm xuất phát muộn nhất: 7 giờ − 12 phút = 6 giờ 48 phút.
+TC: Áp dụng đúng t = s : v | 1
+TC: Đổi đúng 0,2 h = 12 phút | 1
+TC: Kết luận đúng 6 giờ 48 phút | 1
+
 ### Bài 9. Đo tốc độ
+> Trên đường cao tốc, cảnh sát giao thông biết xe chạy quá tốc độ nhờ "súng bắn tốc độ". Trong phòng thí nghiệm, ta đo tốc độ bằng thước, đồng hồ và cổng quang điện.
+MT: Mô tả được cách đo tốc độ bằng đồng hồ bấm giây và bằng đồng hồ đo thời gian hiện số dùng cổng quang điện.
+MT: Nêu được nguyên tắc hoạt động của thiết bị bắn tốc độ trong kiểm tra giao thông.
+MT: Xử lí được số liệu đo để tính tốc độ.
+LT: 1. Nguyên tắc đo tốc độ
+- Muốn đo tốc độ ta **đo quãng đường s** (bằng thước) và **đo thời gian t** đi hết quãng đường đó (bằng đồng hồ), rồi tính **v = s : t**.
+LT: 2. Đo bằng đồng hồ bấm giây và bằng cổng quang điện
+- **Đồng hồ bấm giây**: bấm khi vật bắt đầu đi qua vạch xuất phát, bấm dừng khi vật qua vạch đích; sai số lớn do phản xạ tay của người bấm.
+- **Đồng hồ hiện số + 2 cổng quang điện**: đặt cổng A và cổng B cách nhau quãng đường s; vật chắn tia sáng ở cổng A thì đồng hồ bắt đầu đếm, qua cổng B thì dừng – đo t chính xác hơn.
+HINH: 7-khtn/cong-quang-dien.svg | Đo tốc độ viên bi lăn bằng hai cổng quang điện A, B nối với đồng hồ hiện số: đo s bằng thước, đo t bằng đồng hồ.
+LT: 3. Thiết bị bắn tốc độ
+- Thiết bị phát sóng (hoặc chụp ảnh tại hai thời điểm) để xác định quãng đường xe đi được trong khoảng thời gian rất ngắn, từ đó tính tốc độ và so sánh với tốc độ tối đa cho phép.
+DB: Dạng 1. Tính tốc độ từ số liệu đo
+- Đổi s ra m, t ra s; tính v = s : t.
+- Nếu đo nhiều lần, tính giá trị trung bình của t trước rồi mới tính v.
+DB: Dạng 2. So sánh phương pháp đo
+- Bấm tay: đơn giản nhưng sai số lớn; cổng quang điện: chính xác, đo được khoảng thời gian ngắn.
+DB: Dạng 3. Kiểm tra vi phạm tốc độ
+- Đổi tốc độ đo được và tốc độ giới hạn về cùng đơn vị rồi so sánh.
+VD: Viên bi lăn qua hai cổng quang điện cách nhau 50 cm. Ba lần đo thời gian được 0,24 s; 0,26 s; 0,25 s. Tính tốc độ trung bình của viên bi.
+B: Thời gian trung bình: (0,24 + 0,26 + 0,25) : 3 = 0,25 s.
+B: s = 50 cm = 0,5 m; v = 0,5 : 0,25 = 2 m/s.
+KQ: Tốc độ của viên bi khoảng 2 m/s.
+VD: Thiết bị bắn tốc độ đo được ô tô đi 25 m trong 1 s ở đoạn đường giới hạn 80 km/h. Ô tô có vi phạm không?
+B: v = 25 m/s = 25 · 3,6 = 90 km/h.
+KQ: 90 km/h > 80 km/h nên ô tô vi phạm tốc độ.
+GN: Đo nhiều lần và lấy trung bình để giảm sai số.
+GN: Bấm đồng hồ bằng tay có sai số do thời gian phản ứng của người bấm.
+GN: Đổi 1 m/s = 3,6 km/h khi so sánh với biển báo (ghi km/h).
+Q: mc | Để đo tốc độ của một vật, ta cần đo
+A) khối lượng và thời gian
+B) quãng đường và thời gian *
+C) quãng đường và khối lượng
+D) chỉ cần đo thời gian
+E: v = s : t nên phải đo quãng đường s và thời gian t.
+Q: mc | Ưu điểm của đồng hồ hiện số dùng cổng quang điện so với đồng hồ bấm giây là
+A) rẻ tiền hơn
+B) đo thời gian chính xác hơn *
+C) đo được khối lượng vật
+D) không cần đo quãng đường
+E: Cổng quang điện tự động bắt đầu, dừng đếm nên không có sai số do phản xạ tay.
+Q: ord | Sắp xếp các bước đo tốc độ bằng đồng hồ hiện số và cổng quang điện:
+1) Đặt hai cổng quang điện cách nhau một quãng đường s và đo s bằng thước
+2) Nối cổng với đồng hồ, chọn chế độ đo thời gian giữa hai cổng
+3) Cho vật chuyển động lần lượt qua cổng A rồi cổng B
+4) Đọc thời gian t trên đồng hồ và tính v = s : t
+E: Chuẩn bị (đặt cổng, đo s) → cài đồng hồ → cho vật chạy → đọc kết quả và tính.
+Q: tf | Một xe máy đi qua đoạn đo dài 40 m trong 2 s.
+a) Tốc độ của xe là 20 m/s. | Đ
+b) Tốc độ của xe là 72 km/h. | Đ
+c) Ở đoạn đường giới hạn 60 km/h, xe không vi phạm. | S
+d) Để đo chính xác hơn, nên đo bằng cách bấm tay. | S
+E: v = 40 : 2 = 20 m/s = 72 km/h > 60 km/h nên xe vi phạm; thiết bị tự động chính xác hơn bấm tay.
+Q: sa | Một chiếc xe đồ chơi chạy qua hai cổng quang điện cách nhau 1,2 m trong 0,8 s. Tốc độ của xe là bao nhiêu m/s?
+ANS: 1,5 || 1.5
+E: v = 1,2 : 0,8 = 1,5 m/s.
+TL: Em hãy lập kế hoạch đo tốc độ chạy của mình trên đoạn đường 50 m ở sân trường bằng đồng hồ bấm giây: nêu dụng cụ, các bước làm và cách giảm sai số.
+MAU: Dụng cụ: thước dây (hoặc đo sẵn vạch 50 m), đồng hồ bấm giây, bạn hỗ trợ.
+MAU: Các bước: đánh dấu vạch xuất phát và vạch đích cách nhau 50 m; bạn đứng ở vạch đích ra hiệu xuất phát và bấm giờ; dừng đồng hồ khi em qua vạch đích; tính v = 50 : t.
+MAU: Giảm sai số: đo 3 lần, lấy thời gian trung bình; người bấm đứng ngang vạch đích, quan sát kĩ.
+TC: Nêu đủ dụng cụ | 0,5
+TC: Các bước hợp lí, có công thức tính | 1,5
+TC: Nêu được cách giảm sai số | 1
+
 ### Bài 10. Đồ thị quãng đường – thời gian
+> Chỉ nhìn một đồ thị, em có thể biết vật đi nhanh hay chậm, lúc nào dừng lại, đi được bao xa – đó là sức mạnh của đồ thị quãng đường – thời gian.
+MT: Vẽ được đồ thị quãng đường – thời gian từ bảng số liệu.
+MT: Đọc được quãng đường, thời gian và tính được tốc độ từ đồ thị.
+MT: Nhận biết được đoạn vật đứng yên, đoạn vật chuyển động nhanh, chậm.
+LT: 1. Vẽ đồ thị quãng đường – thời gian
+- Trục hoành biểu diễn **thời gian t**, trục tung biểu diễn **quãng đường s**; chọn tỉ lệ phù hợp.
+- Mỗi cặp (t; s) trong bảng là một điểm; nối các điểm lại.
+- Vật chuyển động với tốc độ không đổi ⇒ đồ thị là **đoạn thẳng xiên** đi lên.
+LT: 2. Đọc đồ thị
+- Đoạn thẳng **càng dốc** ⇒ vật đi **càng nhanh**.
+- Đoạn **nằm ngang** (s không đổi khi t tăng) ⇒ vật **đứng yên**.
+- Tốc độ trên một đoạn = (quãng đường tăng thêm) : (thời gian tương ứng).
+HINH: 7-khtn/do-thi-s-t.svg | Đồ thị chuyến đi của bạn Mai: 0 – 20 phút đi xe đạp (dốc), 20 – 30 phút dừng nghỉ (nằm ngang), 30 – 40 phút đi tiếp.
+DB: Dạng 1. Vẽ đồ thị từ bảng số liệu
+- Chọn trục, tỉ lệ; chấm các điểm (t; s); nối các điểm bằng đoạn thẳng.
+DB: Dạng 2. Đọc đồ thị, tính tốc độ
+- Đọc s ứng với t (hoặc t ứng với s).
+- Tốc độ trên từng đoạn = Δs : Δt.
+DB: Dạng 3. Mô tả chuyển động qua đồ thị
+- Xiên lên: chuyển động; nằm ngang: đứng yên; so sánh độ dốc để biết đoạn nào nhanh hơn.
+VD: Đọc đồ thị chuyến đi của Mai (hình trên): tính tốc độ trong 20 phút đầu và trong 10 phút cuối.
+B: 0 – 20 phút: đi được 4 km ⇒ v₁ = 4 : (1/3 h) = 12 km/h.
+B: 30 – 40 phút: đi từ 4 km đến 6 km, tức 2 km trong 1/6 h ⇒ v₂ = 12 km/h.
+KQ: Tốc độ hai đoạn đều là 12 km/h; từ phút 20 đến phút 30 Mai đứng yên.
+VD: Một xe đi 60 km trong 1 giờ đầu, nghỉ 0,5 giờ, rồi đi tiếp 40 km trong 1 giờ. Tính tốc độ trung bình trên cả chuyến đi.
+B: Tổng quãng đường: 60 + 40 = 100 km; tổng thời gian: 1 + 0,5 + 1 = 2,5 h.
+B: v = 100 : 2,5 = 40 km/h.
+KQ: Tốc độ trung bình cả chuyến là 40 km/h (tính cả thời gian nghỉ).
+GN: Đồ thị nằm ngang nghĩa là đứng yên, không phải "đi rất chậm".
+GN: Đọc kĩ đơn vị trên trục (phút hay giờ, m hay km).
+GN: Tốc độ trung bình cả chuyến tính bằng tổng quãng đường chia tổng thời gian (kể cả lúc nghỉ).
+Q: mc | Trên đồ thị quãng đường – thời gian, đoạn nằm ngang cho biết vật
+A) chuyển động rất nhanh
+B) đứng yên *
+C) chuyển động đi lùi
+D) tăng tốc
+E: Thời gian tăng nhưng quãng đường không đổi ⇒ vật đứng yên.
+Q: mc | Hai vật có đồ thị quãng đường – thời gian là hai đoạn thẳng xiên; đoạn của vật A dốc hơn. Kết luận nào đúng?
+A) Vật A chuyển động nhanh hơn vật B *
+B) Vật B chuyển động nhanh hơn vật A
+C) Hai vật có cùng tốc độ
+D) Vật A đứng yên
+E: Đoạn dốc hơn ⇒ trong cùng thời gian đi được quãng đường dài hơn ⇒ nhanh hơn.
+Q: tf | Dựa vào đồ thị chuyến đi của Mai ở hình trên:
+a) Sau 20 phút, Mai đi được 4 km. | Đ
+b) Từ phút 20 đến phút 30, Mai đi được 2 km. | S
+c) Cả chuyến Mai đi được 6 km. | Đ
+d) Tốc độ trung bình cả chuyến (40 phút) là 9 km/h. | Đ
+E: Từ 20 đến 30 phút đồ thị nằm ngang ⇒ đứng yên; tốc độ trung bình = 6 km : (2/3 h) = 9 km/h.
+Q: sa | Một vật đi được 150 m trong 30 s với tốc độ không đổi. Nếu vẽ đồ thị, tại t = 12 s quãng đường vật đi được là bao nhiêu mét?
+ANS: 60
+E: v = 150 : 30 = 5 m/s; s = 5 · 12 = 60 m.
+Q: ord | Sắp xếp các bước vẽ đồ thị quãng đường – thời gian từ bảng số liệu:
+1) Vẽ hai trục: trục hoành là thời gian, trục tung là quãng đường
+2) Chọn tỉ lệ và ghi số chia trên mỗi trục
+3) Chấm các điểm ứng với từng cặp (t; s) trong bảng
+4) Nối các điểm liên tiếp bằng đoạn thẳng
+E: Phải có hệ trục và tỉ lệ rồi mới chấm điểm và nối.
+TL: Bảng số liệu chuyển động của một xe đạp: t (phút): 0; 5; 10; 15; 20 – s (m): 0; 1000; 2000; 2000; 3500. a) Mô tả chuyển động trong từng khoảng 5 phút. b) Tính tốc độ (m/s) trong 10 phút đầu và trong 5 phút cuối.
+MAU: a) 0 – 10 phút: đi đều, mỗi 5 phút được 1000 m; 10 – 15 phút: đứng yên (s không đổi); 15 – 20 phút: đi tiếp 1500 m, nhanh hơn.
+MAU: b) 10 phút đầu: v = 2000 m : 600 s ≈ 3,33 m/s.
+MAU: 5 phút cuối: v = 1500 m : 300 s = 5 m/s.
+TC: Mô tả đúng các giai đoạn, nhận ra đoạn đứng yên | 1
+TC: Tính đúng tốc độ 10 phút đầu | 1
+TC: Tính đúng tốc độ 5 phút cuối | 1
+
 ### Bài 11. Thảo luận về ảnh hưởng của tốc độ trong an toàn giao thông
+> Vì sao trên đường có biển báo tốc độ tối đa và phải giữ khoảng cách với xe phía trước? Vì tốc độ càng lớn thì càng khó dừng xe kịp.
+MT: Giải thích được vì sao tốc độ càng lớn thì quãng đường dừng xe càng dài.
+MT: Tính được quãng đường xe đi được trong thời gian phản ứng của người lái.
+MT: Nêu được các biện pháp đảm bảo an toàn giao thông liên quan đến tốc độ.
+LT: 1. Quãng đường dừng xe
+- Khi thấy nguy hiểm, người lái cần một **thời gian phản ứng** (thường khoảng 1 giây, lâu hơn khi mệt, buồn ngủ, dùng điện thoại, uống rượu bia). Trong thời gian đó xe vẫn chạy với tốc độ cũ: **quãng đường phản ứng = v · t phản ứng**.
+- Sau khi phanh, xe còn trượt thêm một đoạn (**quãng đường phanh**), tăng rất nhanh khi tốc độ tăng.
+- **Quãng đường dừng xe = quãng đường phản ứng + quãng đường phanh**.
+HINH: 7-khtn/quang-duong-dung.svg | Tốc độ càng lớn, quãng đường phản ứng và quãng đường phanh càng dài (số liệu minh họa cho thời gian phản ứng 1 s).
+LT: 2. Biển báo tốc độ và khoảng cách an toàn
+- **Biển báo tốc độ tối đa** cho phép (hình tròn, viền đỏ, ghi số km/h) – người lái không được vượt quá.
+- Phải giữ **khoảng cách an toàn** với xe phía trước; tốc độ càng cao thì khoảng cách càng phải lớn.
+- Đường trơn, mưa, tầm nhìn kém ⇒ quãng đường phanh dài hơn, cần giảm tốc độ.
+DB: Dạng 1. Tính quãng đường phản ứng
+- Đổi v ra m/s; s = v · t phản ứng.
+DB: Dạng 2. Tính quãng đường dừng xe, so sánh với khoảng cách vật cản
+- Cộng quãng đường phản ứng và quãng đường phanh.
+- So sánh với khoảng cách tới vật cản để biết có dừng kịp không.
+DB: Dạng 3. Đề xuất biện pháp an toàn
+- Liên hệ: không vượt tốc độ, giữ khoảng cách, không dùng điện thoại, không lái xe khi đã uống rượu bia, đội mũ bảo hiểm.
+VD: Một ô tô chạy với tốc độ 72 km/h. Thời gian phản ứng của người lái là 1 s. Tính quãng đường xe đi được trong thời gian phản ứng.
+B: Đổi 72 km/h = 20 m/s.
+B: s = v · t = 20 · 1 = 20 m.
+KQ: Trong 1 s phản ứng, xe đã đi được 20 m trước khi bắt đầu phanh.
+VD: Cũng xe trên, nếu người lái dùng điện thoại làm thời gian phản ứng tăng lên 2,5 s và quãng đường phanh là 30 m, xe có dừng kịp trước vật cản cách 60 m không?
+B: Quãng đường phản ứng: 20 · 2,5 = 50 m.
+B: Quãng đường dừng xe: 50 + 30 = 80 m > 60 m.
+KQ: Xe không dừng kịp – dùng điện thoại khi lái xe rất nguy hiểm.
+GN: Trong thời gian phản ứng, xe vẫn chạy với tốc độ cũ.
+GN: Tốc độ tăng gấp đôi thì quãng đường phanh tăng khoảng 4 lần.
+GN: Mệt mỏi, rượu bia, điện thoại làm thời gian phản ứng dài hơn.
+Q: mc | Quãng đường dừng xe gồm
+A) chỉ quãng đường phanh
+B) quãng đường phản ứng và quãng đường phanh *
+C) chỉ quãng đường phản ứng
+D) khoảng cách giữa hai xe
+E: Từ lúc thấy nguy hiểm đến lúc dừng: xe đi quãng đường phản ứng rồi đến quãng đường phanh.
+Q: mc | Biện pháp nào KHÔNG giúp giảm nguy cơ tai nạn liên quan đến tốc độ?
+A) Đi đúng tốc độ quy định
+B) Giữ khoảng cách an toàn với xe phía trước
+C) Vừa lái xe vừa nhắn tin để báo đang đến muộn *
+D) Giảm tốc độ khi trời mưa
+E: Nhắn tin làm người lái mất tập trung, tăng thời gian phản ứng.
+Q: tf | Một xe máy chạy với tốc độ 54 km/h, thời gian phản ứng của người lái là 1 s.
+a) Tốc độ của xe là 15 m/s. | Đ
+b) Quãng đường phản ứng là 15 m. | Đ
+c) Nếu tốc độ tăng gấp đôi thì quãng đường phản ứng tăng gấp đôi. | Đ
+d) Trời mưa, đường trơn thì quãng đường phanh ngắn hơn. | S
+E: 54 : 3,6 = 15 m/s; s = 15 · 1 = 15 m; quãng đường phản ứng tỉ lệ với tốc độ; đường trơn làm quãng đường phanh dài hơn.
+Q: sa | Ô tô chạy 90 km/h, người lái mất 1,2 s để phản ứng. Quãng đường xe đi được trong thời gian phản ứng là bao nhiêu mét?
+ANS: 30
+E: 90 km/h = 25 m/s; s = 25 · 1,2 = 30 m.
+Q: match | Nối tình huống với ảnh hưởng của nó:
+1) Người lái mệt mỏi, buồn ngủ | Thời gian phản ứng dài hơn
+2) Mặt đường trơn ướt | Quãng đường phanh dài hơn
+3) Giảm tốc độ xe | Quãng đường dừng xe ngắn hơn
+E: Mệt mỏi ảnh hưởng tới phản ứng; đường trơn ảnh hưởng tới phanh; giảm tốc độ làm cả hai quãng đường ngắn lại.
+TL: Em hãy viết 4–5 câu tuyên truyền cho các bạn về việc đi xe đạp, xe đạp điện an toàn liên quan đến tốc độ.
+MAU: Hãy đi đúng tốc độ, đặc biệt khi qua cổng trường và nơi đông người.
+MAU: Luôn giữ khoảng cách với xe phía trước để kịp phanh khi có tình huống bất ngờ.
+MAU: Không vừa đi xe vừa dùng điện thoại hay đeo tai nghe.
+MAU: Trời mưa, đường trơn cần đi chậm hơn vì xe khó dừng.
+MAU: Đội mũ bảo hiểm khi đi xe đạp điện, xe máy.
+TC: Nêu được ít nhất 3 biện pháp đúng | 1,5
+TC: Giải thích gắn với tốc độ, quãng đường dừng | 1
+TC: Lời văn rõ ràng, có tính tuyên truyền | 0,5
+
 ## Chương IV. Âm thanh
 ### Bài 12. Sóng âm
+> Tiếng trống trường, tiếng đàn, tiếng nói… mọi âm thanh đều bắt đầu từ một vật đang dao động và lan truyền tới tai ta dưới dạng sóng âm.
+MT: Nêu được nguồn âm là vật dao động; mô tả được dao động của nguồn âm.
+MT: Giải thích được sự truyền sóng âm trong chất rắn, lỏng, khí; âm không truyền được trong chân không.
+MT: So sánh được tốc độ truyền âm trong các môi trường.
+LT: 1. Nguồn âm
+- Vật phát ra âm gọi là **nguồn âm**. Mọi nguồn âm đều **dao động** (chuyển động qua lại quanh một vị trí cân bằng): mặt trống rung, dây đàn rung, dây thanh quản rung.
+- Khi vật ngừng dao động thì âm tắt (lấy tay giữ mặt trống, tiếng trống tắt ngay).
+LT: 2. Sóng âm
+- Dao động của nguồn âm làm các lớp không khí xung quanh **lúc bị nén, lúc bị dãn** liên tiếp, lan truyền ra xa: đó là **sóng âm**.
+- Sóng âm truyền được trong **chất rắn, chất lỏng, chất khí**; **không truyền được trong chân không** (ngoài vũ trụ phi hành gia phải nói chuyện qua sóng vô tuyến).
+HINH: 7-khtn/song-am.svg | Mặt trống dao động làm không khí bị nén, dãn liên tiếp: sóng âm lan truyền tới tai người nghe.
+LT: 3. Tốc độ truyền âm
+- Tốc độ truyền âm khác nhau trong các môi trường: trong không khí khoảng **340 m/s**, trong nước khoảng **1500 m/s**, trong thép khoảng **6000 m/s**.
+- Nói chung: **v rắn > v lỏng > v khí**.
+DB: Dạng 1. Xác định nguồn âm, bộ phận dao động
+- Tìm bộ phận rung khi phát ra âm: dây đàn, mặt trống, cột không khí trong ống sáo, dây thanh quản…
+DB: Dạng 2. Giải thích sự truyền âm
+- Xác định môi trường giữa nguồn âm và tai: rắn, lỏng, khí hay chân không.
+- Chân không ⇒ không nghe được âm.
+DB: Dạng 3. Tính toán với tốc độ truyền âm
+- s = v · t; t = s : v; chú ý chọn đúng tốc độ theo môi trường.
+VD: Khi có sấm sét, em thấy tia chớp và 3 s sau mới nghe tiếng sấm. Tia sét cách em khoảng bao xa? (Tốc độ âm trong không khí 340 m/s; coi ánh sáng đến tức thời.)
+B: Ánh sáng đến gần như tức thời; âm mất 3 s để truyền tới.
+B: s = v · t = 340 · 3 = 1020 m.
+KQ: Tia sét cách khoảng 1020 m (khoảng 1 km).
+VD: Áp tai vào đường ray, em nghe tiếng tàu sớm hơn so với nghe qua không khí. Giải thích.
+B: Âm truyền trong thép (chất rắn) nhanh hơn rất nhiều so với trong không khí.
+KQ: Vì vậy âm truyền qua đường ray đến tai sớm hơn.
+GN: Không có dao động thì không có âm.
+GN: Âm không truyền được trong chân không.
+GN: Tốc độ âm: rắn > lỏng > khí.
+Q: mc | Khi gảy đàn guitar, bộ phận phát ra âm (dao động) là
+A) thân đàn bằng gỗ
+B) dây đàn *
+C) ngón tay người chơi
+D) phím đàn
+E: Dây đàn dao động phát ra âm; thân đàn giúp âm to hơn.
+Q: mc | Âm KHÔNG truyền được trong môi trường nào?
+A) Nước
+B) Không khí
+C) Chân không *
+D) Gỗ
+E: Sóng âm cần môi trường vật chất để truyền; chân không không có phân tử nào nên âm không truyền được.
+Q: tf | Về sóng âm:
+a) Mọi nguồn âm đều dao động. | Đ
+b) Âm truyền trong nước nhanh hơn trong không khí. | Đ
+c) Phi hành gia ngoài vũ trụ có thể nói chuyện trực tiếp với nhau qua không khí. | S
+d) Tốc độ âm trong không khí khoảng 340 m/s. | Đ
+E: Ngoài vũ trụ là chân không, âm không truyền được; phi hành gia liên lạc bằng sóng vô tuyến.
+Q: sa | Một người gõ vào đầu một ống thép dài 1500 m. Âm truyền trong thép với tốc độ 6000 m/s. Sau bao nhiêu giây âm truyền tới đầu kia của ống?
+ANS: 0,25 || 0.25 || 1/4
+E: t = s : v = 1500 : 6000 = 0,25 s.
+Q: match | Nối nguồn âm với bộ phận dao động phát ra âm:
+1) Trống | Mặt trống
+2) Sáo trúc | Cột không khí trong ống sáo
+3) Tiếng nói của người | Dây thanh quản
+4) Đàn bầu | Dây đàn
+E: Mỗi nguồn âm có một bộ phận dao động phát ra âm.
+TL: Thiết kế một thí nghiệm đơn giản chứng tỏ âm truyền được trong chất rắn (dùng đồ dùng ở nhà hoặc ở lớp). Nêu dụng cụ, cách làm, kết quả.
+MAU: Dụng cụ: một chiếc bàn gỗ dài, một chiếc bút.
+MAU: Cách làm: bạn A áp tai vào một đầu mặt bàn, bịt tai còn lại; bạn B gõ nhẹ bút ở đầu bàn bên kia.
+MAU: Kết quả: bạn A nghe rõ tiếng gõ qua mặt bàn (to hơn khi không áp tai) ⇒ âm truyền được trong chất rắn.
+TC: Dụng cụ phù hợp | 0,5
+TC: Cách làm hợp lí, an toàn | 1,5
+TC: Nêu đúng kết quả và kết luận | 1
+
 ### Bài 13. Độ to và độ cao của âm
+> Vì sao tiếng của bạn nữ thường "cao" hơn bạn nam, còn tiếng loa phát thanh thì "to"? Độ to và độ cao là hai đặc trưng khác nhau của âm.
+MT: Nêu được khái niệm tần số, đơn vị hertz (Hz); liên hệ độ cao của âm với tần số.
+MT: Liên hệ được độ to của âm với biên độ dao động; nêu đơn vị decibel (dB).
+MT: Nêu được giới hạn nghe của tai người; khái niệm hạ âm, siêu âm và ứng dụng.
+LT: 1. Tần số và độ cao của âm
+- **Tần số** là số dao động vật thực hiện được trong 1 giây; đơn vị **hertz (Hz)**.
+- Tần số càng lớn ⇒ âm **càng cao** (bổng); tần số càng nhỏ ⇒ âm **càng thấp** (trầm).
+- Tai người nghe được âm có tần số từ khoảng **20 Hz đến 20 000 Hz**. Âm dưới 20 Hz là **hạ âm**; trên 20 000 Hz là **siêu âm** (chó, dơi, cá heo nghe được siêu âm).
+LT: 2. Biên độ và độ to của âm
+- **Biên độ** là độ lệch lớn nhất của vật dao động so với vị trí cân bằng.
+- Biên độ càng lớn ⇒ âm **càng to**. Độ to đo bằng **decibel (dB)**: nói chuyện bình thường khoảng 40 – 60 dB; âm từ 130 dB trở lên gây đau tai.
+HINH: 7-khtn/do-to-do-cao.svg | So sánh dạng sóng âm: cùng tần số nhưng biên độ lớn hơn thì âm to hơn; cùng biên độ nhưng tần số lớn hơn thì âm cao hơn.
+LT: 3. Ứng dụng siêu âm
+- Siêu âm dùng trong y học (chụp siêu âm thai nhi, nội tạng), đo độ sâu đáy biển, phát hiện đàn cá, làm sạch đồ trang sức…
+DB: Dạng 1. Tính tần số
+- f = số dao động : thời gian (giây).
+DB: Dạng 2. So sánh độ cao, độ to
+- Tần số lớn hơn ⇒ âm cao hơn; biên độ lớn hơn ⇒ âm to hơn.
+- Đọc đồ thị dạng sóng: sóng dày (nhiều dao động hơn) ⇒ tần số lớn; sóng cao ⇒ biên độ lớn.
+DB: Dạng 3. Xác định tai người có nghe được không
+- So sánh tần số với khoảng 20 Hz – 20 000 Hz.
+VD: Một con muỗi vỗ cánh 3000 lần trong 5 giây. Tính tần số dao động của cánh muỗi. Tai người có nghe được không?
+B: f = 3000 : 5 = 600 Hz.
+B: 600 Hz nằm trong khoảng 20 Hz – 20 000 Hz.
+KQ: Tần số 600 Hz – tai người nghe được tiếng "vo ve" của muỗi.
+VD: Khi gảy mạnh dây đàn, âm phát ra thay đổi thế nào so với gảy nhẹ? Vì sao?
+B: Gảy mạnh làm dây dao động với biên độ lớn hơn.
+KQ: Âm to hơn (độ cao không đổi nếu không đổi dây và vị trí bấm).
+GN: Độ cao gắn với tần số; độ to gắn với biên độ – không nhầm lẫn.
+GN: Hạ âm < 20 Hz; siêu âm > 20 000 Hz.
+GN: Nghe âm quá to trong thời gian dài có hại cho tai.
+Q: mc | Âm phát ra càng cao khi
+A) biên độ dao động càng lớn
+B) tần số dao động càng lớn *
+C) vật dao động càng chậm
+D) vật có khối lượng càng lớn
+E: Độ cao của âm phụ thuộc tần số: tần số lớn ⇒ âm cao.
+Q: mc | Đơn vị đo độ to của âm là
+A) hertz (Hz)
+B) mét (m)
+C) decibel (dB) *
+D) giây (s)
+E: Độ to đo bằng decibel (dB); tần số đo bằng hertz (Hz).
+Q: tf | Một vật dao động 400 lần trong 10 giây.
+a) Tần số dao động là 40 Hz. | Đ
+b) Âm do vật phát ra là siêu âm. | S
+c) Tai người có thể nghe được âm này. | Đ
+d) Nếu vật dao động mạnh hơn (biên độ lớn hơn) thì âm cao hơn. | S
+E: f = 400 : 10 = 40 Hz – nằm trong khoảng nghe được, không phải siêu âm; biên độ lớn hơn thì âm to hơn chứ không cao hơn.
+Q: sa | Dây đàn dao động với tần số 440 Hz. Trong 5 giây dây đàn thực hiện bao nhiêu dao động?
+ANS: 2200
+E: 440 · 5 = 2200 dao động.
+Q: match | Nối tần số với loại âm:
+1) 10 Hz | Hạ âm – tai người không nghe được
+2) 1000 Hz | Âm nghe được
+3) 40 000 Hz | Siêu âm – dơi, cá heo nghe được
+E: Tai người nghe được từ 20 Hz đến 20 000 Hz.
+TL: Trong ống sáo hoặc chai nước, em có thể tạo ra âm cao, thấp khác nhau. Hãy mô tả thí nghiệm với các chai thủy tinh đựng lượng nước khác nhau và giải thích kết quả (khi thổi vào miệng chai).
+MAU: Lấy 3 chai giống nhau, đổ lượng nước khác nhau; thổi vào miệng chai để cột không khí trong chai dao động phát ra âm.
+MAU: Chai ít nước (cột không khí dài) phát âm thấp; chai nhiều nước (cột không khí ngắn) phát âm cao.
+MAU: Giải thích: cột không khí càng ngắn dao động càng nhanh, tần số càng lớn ⇒ âm càng cao.
+TC: Mô tả đúng cách làm | 1
+TC: Nêu đúng kết quả cao – thấp | 1
+TC: Giải thích bằng tần số | 1
+
 ### Bài 14. Phản xạ âm, chống ô nhiễm tiếng ồn
+> Đứng trước vách núi gọi to, ta nghe tiếng mình vọng lại; ở gần công trường, tiếng ồn làm ta mệt mỏi. Cả hai đều liên quan đến sự phản xạ và truyền âm.
+MT: Nêu được hiện tượng phản xạ âm, tiếng vang; vật phản xạ âm tốt, phản xạ âm kém.
+MT: Vận dụng phản xạ âm để tính khoảng cách (đo độ sâu đáy biển).
+MT: Đề xuất được biện pháp chống ô nhiễm tiếng ồn.
+LT: 1. Phản xạ âm, tiếng vang
+- Âm gặp vật cản bị **dội ngược trở lại** gọi là **âm phản xạ**.
+- Ta nghe được **tiếng vang** khi âm phản xạ đến tai chậm hơn âm trực tiếp ít nhất khoảng 1/15 giây (vật cản ở xa khoảng 11 m trở lên).
+- **Vật phản xạ âm tốt**: cứng, nhẵn (tường gạch, kính, kim loại, mặt đá). **Vật phản xạ âm kém** (hấp thụ âm tốt): mềm, xốp, bề mặt gồ ghề (rèm vải, thảm, xốp, bông).
+LT: 2. Ứng dụng phản xạ âm
+- Đo độ sâu đáy biển: tàu phát siêu âm xuống đáy biển, đo thời gian t từ lúc phát đến lúc nhận âm phản xạ; **độ sâu h = v · t : 2** (vì âm đi xuống rồi đi lên).
+- Dơi, cá heo dùng phản xạ siêu âm để định hướng và tìm mồi.
+HINH: 7-khtn/do-sau-bien.svg | Tàu phát siêu âm xuống đáy biển và thu âm phản xạ: âm đi quãng đường 2h trong thời gian t.
+LT: 3. Ô nhiễm tiếng ồn và cách chống
+- Tiếng ồn to, kéo dài, ảnh hưởng xấu đến sức khỏe và sinh hoạt là **ô nhiễm tiếng ồn**.
+- Biện pháp: **giảm độ to của nguồn** (tắt máy không cần thiết, hạn chế bóp còi); **ngăn chặn đường truyền** (tường cách âm, trồng cây xanh, cửa kính dày); **dùng vật liệu hấp thụ âm** (rèm, xốp, thảm); dùng nút bịt tai khi cần.
+DB: Dạng 1. Nhận biết vật phản xạ âm tốt, kém
+- Cứng, nhẵn ⇒ phản xạ tốt; mềm, xốp ⇒ phản xạ kém, hấp thụ tốt.
+DB: Dạng 2. Tính khoảng cách nhờ âm phản xạ
+- Âm đi và về: quãng đường = 2 × khoảng cách ⇒ khoảng cách = v · t : 2.
+DB: Dạng 3. Đề xuất biện pháp chống ô nhiễm tiếng ồn
+- Xác định nguồn ồn và đường truyền; chọn biện pháp ở nguồn, trên đường truyền, ở nơi nhận.
+VD: Tàu phát siêu âm xuống đáy biển, sau 1,2 s thu được âm phản xạ. Tốc độ âm trong nước biển 1500 m/s. Tính độ sâu đáy biển.
+B: Quãng đường âm đi (xuống và lên): s = v · t = 1500 · 1,2 = 1800 m.
+B: Độ sâu h = s : 2 = 900 m.
+KQ: Đáy biển sâu khoảng 900 m.
+VD: Nhà em ở cạnh đường lớn, xe cộ ồn ào. Đề xuất 3 biện pháp giảm tiếng ồn.
+B: Ngăn đường truyền: trồng cây xanh trước nhà, lắp cửa kính dày, đóng cửa khi cần.
+B: Hấp thụ âm: treo rèm dày, trải thảm trong phòng.
+KQ: Kết hợp cây xanh, cửa kính dày và rèm/thảm để giảm tiếng ồn vào nhà.
+GN: Tính độ sâu nhớ chia đôi quãng đường âm đi.
+GN: Vật mềm, xốp hấp thụ âm tốt nên dùng để cách âm.
+GN: Phòng hòa nhạc dùng vật liệu đặc biệt để âm vừa đủ vang, không ồn.
+Q: mc | Vật nào sau đây phản xạ âm tốt nhất?
+A) Tấm thảm len
+B) Rèm nhung
+C) Mặt tường đá nhẵn *
+D) Miếng xốp
+E: Vật cứng, nhẵn phản xạ âm tốt; vật mềm, xốp hấp thụ âm.
+Q: mc | Biện pháp nào giúp ngăn chặn đường truyền tiếng ồn?
+A) Bóp còi liên tục
+B) Trồng nhiều cây xanh quanh trường học *
+C) Mở loa to hơn để át tiếng ồn
+D) Mở toang cửa sổ
+E: Cây xanh cản và hấp thụ bớt âm trên đường truyền.
+Q: tf | Một người đứng cách vách núi 170 m và hét to (âm trong không khí 340 m/s).
+a) Âm đi từ người đến vách núi rồi quay lại, tổng quãng đường 340 m. | Đ
+b) Sau 1 s người đó nghe thấy tiếng vang. | Đ
+c) Vách núi là vật phản xạ âm kém. | S
+d) Nếu đứng sát vách núi 2 m, người đó vẫn nghe rõ tiếng vang tách biệt. | S
+E: t = 340 : 340 = 1 s; vách đá cứng phản xạ âm tốt; đứng quá gần thì âm phản xạ đến gần như cùng lúc âm trực tiếp, không nghe tiếng vang riêng.
+Q: sa | Tàu phát siêu âm, sau 2 s thu được âm phản xạ từ đáy biển. Tốc độ âm trong nước 1500 m/s. Độ sâu đáy biển là bao nhiêu mét?
+ANS: 1500
+E: h = v · t : 2 = 1500 · 2 : 2 = 1500 m.
+Q: match | Nối biện pháp chống ồn với cách tác động:
+1) Thay máy móc cũ bằng máy chạy êm | Giảm độ to của nguồn âm
+2) Xây tường cách âm dọc đường cao tốc | Ngăn chặn đường truyền âm
+3) Lắp tấm xốp tiêu âm trong phòng thu | Hấp thụ âm
+E: Có thể chống ồn ở nguồn, trên đường truyền hoặc tại nơi nhận âm.
+TL: Lớp học của em ở gần một xưởng cơ khí hoạt động ồn ào. Hãy đề xuất các biện pháp giảm ô nhiễm tiếng ồn cho lớp học và giải thích tác dụng của từng biện pháp.
+MAU: Đề nghị xưởng giảm tiếng ồn ở nguồn: bảo dưỡng máy, làm việc ngoài giờ học (giảm độ to nguồn âm).
+MAU: Trồng hàng cây xanh, xây tường rào cao giữa xưởng và lớp học (ngăn đường truyền âm).
+MAU: Lắp cửa kính, treo rèm dày trong lớp (cản và hấp thụ âm).
+TC: Nêu ít nhất 3 biện pháp phù hợp | 1,5
+TC: Giải thích đúng tác dụng mỗi biện pháp | 1,5
+
 ## Chương V. Ánh sáng
 ### Bài 15. Năng lượng ánh sáng. Tia sáng, vùng tối
+> Ánh sáng Mặt Trời giúp cây quang hợp, làm nóng nước trong bình năng lượng mặt trời, chạy cả máy tính bỏ túi – ánh sáng là một dạng năng lượng.
+MT: Nêu được ánh sáng là một dạng năng lượng; kể được ứng dụng năng lượng ánh sáng.
+MT: Biểu diễn được tia sáng, chùm sáng song song, hội tụ, phân kì.
+MT: Giải thích được sự tạo thành bóng tối, bóng nửa tối; vận dụng giải thích nhật thực, nguyệt thực.
+LT: 1. Năng lượng ánh sáng
+- Ánh sáng là một dạng **năng lượng**: có thể chuyển hóa thành nhiệt năng (làm nóng vật), điện năng (pin mặt trời), hóa năng (quang hợp của cây xanh).
+- Năng lượng ánh sáng Mặt Trời là nguồn năng lượng sạch, tái tạo.
+LT: 2. Tia sáng và chùm sáng
+- Trong môi trường trong suốt và đồng tính, ánh sáng truyền theo **đường thẳng**.
+- **Tia sáng** được biểu diễn bằng đường thẳng có mũi tên chỉ hướng truyền.
+- **Chùm sáng song song** (các tia không giao nhau), **hội tụ** (các tia gặp nhau tại một điểm), **phân kì** (các tia loe rộng ra).
+LT: 3. Vùng tối và vùng nửa tối
+- **Vùng tối (bóng tối)**: vùng phía sau vật cản **không nhận được ánh sáng** từ nguồn.
+- **Vùng nửa tối (bóng nửa tối)**: vùng chỉ **nhận được một phần** ánh sáng từ nguồn (xuất hiện khi nguồn sáng rộng).
+- Nhật thực: Mặt Trăng nằm giữa Mặt Trời và Trái Đất, Trái Đất nằm trong bóng của Mặt Trăng. Nguyệt thực: Trái Đất nằm giữa, Mặt Trăng đi vào bóng của Trái Đất.
+HINH: 7-khtn/vung-toi.svg | Nguồn sáng nhỏ tạo vùng tối rõ nét; nguồn sáng rộng tạo vùng tối ở giữa và vùng nửa tối bao quanh.
+DB: Dạng 1. Nhận biết và vẽ chùm sáng
+- Quan sát các tia: song song, gặp nhau (hội tụ) hay loe ra (phân kì); vẽ tia bằng đường thẳng có mũi tên.
+DB: Dạng 2. Giải thích vùng tối, vùng nửa tối
+- Vẽ các tia sáng từ mép nguồn sáng đi sát mép vật cản; vùng không có tia nào tới là vùng tối, vùng có một phần tia tới là vùng nửa tối.
+DB: Dạng 3. Ứng dụng năng lượng ánh sáng
+- Xác định ánh sáng chuyển hóa thành dạng năng lượng nào: nhiệt, điện, hóa.
+VD: Đặt một quả bóng giữa bóng đèn sợi đốt nhỏ và bức tường. Trên tường thấy gì? Nếu thay bằng một đèn ống dài thì sao?
+B: Đèn nhỏ coi như nguồn sáng điểm: các tia đi thẳng bị quả bóng chặn tạo một vùng tối rõ nét trên tường.
+B: Đèn ống dài là nguồn sáng rộng: ở giữa là vùng tối, xung quanh có vùng nửa tối nhận được một phần ánh sáng.
+KQ: Nguồn nhỏ ⇒ chỉ có vùng tối rõ nét; nguồn rộng ⇒ có vùng tối và vùng nửa tối.
+VD: Vì sao đứng ở vùng tối của bóng Mặt Trăng trên Trái Đất ta thấy nhật thực toàn phần?
+B: Vùng tối không nhận được ánh sáng nào từ Mặt Trời vì Mặt Trăng che khuất hoàn toàn.
+KQ: Người ở vùng tối không nhìn thấy Mặt Trời ⇒ nhật thực toàn phần; ở vùng nửa tối thấy nhật thực một phần.
+GN: Ánh sáng truyền thẳng trong môi trường trong suốt, đồng tính.
+GN: Vùng nửa tối chỉ có khi nguồn sáng rộng.
+GN: Không nhìn trực tiếp vào Mặt Trời, kể cả lúc nhật thực.
+Q: mc | Thiết bị nào chuyển hóa năng lượng ánh sáng thành điện năng?
+A) Bóng đèn LED
+B) Pin mặt trời *
+C) Bàn là
+D) Quạt điện
+E: Pin mặt trời biến năng lượng ánh sáng thành điện năng; bóng đèn LED thì ngược lại.
+Q: mc | Chùm sáng gồm các tia sáng loe rộng ra là
+A) chùm sáng song song
+B) chùm sáng hội tụ
+C) chùm sáng phân kì *
+D) tia sáng
+E: Chùm phân kì có các tia loe rộng ra trên đường truyền.
+Q: tf | Về vùng tối, vùng nửa tối:
+a) Vùng tối là vùng không nhận được ánh sáng từ nguồn. | Đ
+b) Vùng nửa tối nhận được một phần ánh sáng từ nguồn. | Đ
+c) Nguồn sáng rất nhỏ luôn tạo ra vùng nửa tối rộng. | S
+d) Nguyệt thực xảy ra khi Mặt Trăng đi vào vùng bóng của Trái Đất. | Đ
+E: Nguồn sáng điểm (rất nhỏ) tạo vùng tối rõ nét, hầu như không có vùng nửa tối.
+Q: sa | Một cái cọc cao 1 m đặt thẳng đứng có bóng dài 1,5 m trên mặt đất. Cùng lúc đó, một cái cây có bóng dài 6 m. Cây cao bao nhiêu mét?
+ANS: 4
+E: Các tia sáng Mặt Trời song song nên tỉ số chiều cao : bóng như nhau: h = 6 · 1 : 1,5 = 4 m.
+Q: ord | Sắp xếp thứ tự các thiên thể trên một đường thẳng khi xảy ra nhật thực (từ trái sang phải):
+1) Mặt Trời
+2) Mặt Trăng
+3) Trái Đất
+E: Nhật thực: Mặt Trăng nằm giữa Mặt Trời và Trái Đất, che ánh sáng Mặt Trời chiếu tới Trái Đất.
+TL: Em hãy giải thích vì sao trong phòng mổ của bệnh viện người ta dùng đèn có nhiều bóng đặt ở các vị trí khác nhau (đèn mổ) thay vì một bóng đèn duy nhất.
+MAU: Một bóng đèn nhỏ sẽ tạo vùng tối rõ nét do tay, dụng cụ của bác sĩ che khuất ánh sáng.
+MAU: Nhiều bóng đèn ở các vị trí khác nhau tạo thành nguồn sáng rộng: chỗ bị bóng đèn này che thì bóng đèn khác vẫn chiếu tới.
+MAU: Nhờ đó vùng mổ không có vùng tối, bác sĩ nhìn rõ hơn.
+TC: Nêu được vật cản tạo vùng tối khi nguồn sáng nhỏ | 1
+TC: Giải thích được tác dụng của nhiều nguồn sáng | 1,5
+TC: Kết luận rõ ràng | 0,5
+
 ### Bài 16. Sự phản xạ ánh sáng
 > Vì sao ta nhìn thấy mình trong gương? Bài học giải thích hiện tượng ánh sáng "bật lại" khi gặp bề mặt nhẵn bóng.
 MT: Phát biểu được định luật phản xạ ánh sáng.
@@ -566,6 +1089,70 @@ TC: Suy ra góc tới 65° nhờ pháp tuyến là tia phân giác | 1
 TC: Kết luận gương hợp với mặt đất 65° và vẽ hình đúng | 1
 
 ### Bài 17. Ảnh của vật qua gương phẳng
+> Soi gương mỗi sáng, em thấy "một bạn" giống hệt mình đứng sau gương. Ảnh đó có tính chất gì, ở đâu? Bài học giúp em trả lời và vẽ được ảnh qua gương phẳng.
+MT: Nêu được tính chất ảnh của một vật tạo bởi gương phẳng.
+MT: Vẽ được ảnh của một điểm, một vật đặt trước gương phẳng.
+MT: Vận dụng tính chất ảnh để giải bài toán khoảng cách.
+LT: 1. Tính chất ảnh tạo bởi gương phẳng
+- Ảnh là **ảnh ảo**: không hứng được trên màn chắn.
+- Ảnh **lớn bằng vật**.
+- Ảnh và vật **đối xứng qua gương**: khoảng cách từ một điểm của vật đến gương bằng khoảng cách từ ảnh của điểm đó đến gương.
+LT: 2. Vẽ ảnh của vật qua gương phẳng
+- Cách 1 (dùng tính chất đối xứng): từ mỗi điểm của vật kẻ đường vuông góc với gương, lấy điểm đối xứng ở phía sau gương; nối các điểm ảnh bằng nét đứt.
+- Cách 2 (dùng định luật phản xạ): vẽ hai tia tới từ một điểm, vẽ hai tia phản xạ; đường kéo dài của hai tia phản xạ cắt nhau tại ảnh.
+HINH: 7-khtn/anh-guong-phang.svg | Ảnh A'B' của mũi tên AB đối xứng với AB qua gương phẳng: ảnh ảo, lớn bằng vật, cùng khoảng cách tới gương.
+LT: 3. Ứng dụng
+- Gương soi, kính chiếu hậu (một số loại), kính tiềm vọng, trang trí làm phòng trông rộng hơn.
+DB: Dạng 1. Nêu tính chất ảnh
+- Ảnh ảo, bằng vật, đối xứng với vật qua gương.
+DB: Dạng 2. Vẽ ảnh của điểm, của vật
+- Lấy đối xứng từng điểm qua gương; ảnh vẽ nét đứt.
+DB: Dạng 3. Tính khoảng cách vật – ảnh
+- Khoảng cách vật – ảnh = 2 × khoảng cách vật – gương.
+- Vật dịch lại gần/ra xa gương một đoạn x thì ảnh cũng dịch một đoạn x; khoảng cách vật – ảnh thay đổi 2x.
+VD: Một bạn đứng cách gương phẳng 1,5 m. Ảnh của bạn cách bạn bao nhiêu? Nếu bạn tiến lại gần gương 0,5 m thì ảnh cách bạn bao nhiêu?
+B: Ảnh cách gương 1,5 m (đối xứng) ⇒ ảnh cách bạn 1,5 + 1,5 = 3 m.
+B: Tiến lại gần 0,5 m ⇒ cách gương 1 m ⇒ ảnh cách bạn 2 m.
+KQ: Lúc đầu 3 m; sau khi tiến lại gần còn 2 m.
+VD: Bạn Hà cao 1,5 m đứng trước gương phẳng. Ảnh của Hà cao bao nhiêu? Có hứng được ảnh trên màn không?
+B: Ảnh tạo bởi gương phẳng lớn bằng vật.
+KQ: Ảnh cao 1,5 m; là ảnh ảo nên không hứng được trên màn chắn.
+GN: Ảnh qua gương phẳng không phóng to, không thu nhỏ.
+GN: Ảnh vẽ bằng nét đứt vì là ảnh ảo.
+GN: Ảnh "ngược trái phải" so với vật (tay phải trong ảnh là tay trái).
+Q: mc | Ảnh của một vật tạo bởi gương phẳng là
+A) ảnh thật, lớn hơn vật
+B) ảnh ảo, lớn bằng vật *
+C) ảnh ảo, nhỏ hơn vật
+D) ảnh thật, bằng vật
+E: Gương phẳng cho ảnh ảo, lớn bằng vật, đối xứng với vật qua gương.
+Q: mc | Một điểm sáng S cách gương phẳng 20 cm. Khoảng cách từ S đến ảnh S' là
+A) 10 cm
+B) 20 cm
+C) 40 cm *
+D) 80 cm
+E: S' cách gương 20 cm ở phía sau ⇒ SS' = 20 + 20 = 40 cm.
+Q: tf | Đặt một cây bút chì dài 15 cm song song và cách gương phẳng 10 cm.
+a) Ảnh của bút chì dài 15 cm. | Đ
+b) Ảnh cách gương 10 cm. | Đ
+c) Có thể hứng ảnh của bút chì trên một tấm bìa. | S
+d) Nếu dịch bút ra xa gương thêm 5 cm thì ảnh cách bút 30 cm. | Đ
+E: Ảnh bằng vật, đối xứng qua gương, là ảnh ảo. Dịch thêm 5 cm ⇒ bút cách gương 15 cm ⇒ ảnh cách bút 30 cm.
+Q: sa | Một người đứng cách gương phẳng 2 m rồi lùi ra xa thêm 1 m. Khi đó người cách ảnh của mình bao nhiêu mét?
+ANS: 6
+E: Lúc sau người cách gương 3 m ⇒ cách ảnh 3 + 3 = 6 m.
+Q: ord | Sắp xếp các bước vẽ ảnh của đoạn thẳng AB qua gương phẳng bằng tính chất đối xứng:
+1) Từ A kẻ đường vuông góc với gương, lấy A' đối xứng với A qua gương
+2) Làm tương tự với B để được B'
+3) Nối A' với B' bằng nét đứt
+E: Lấy đối xứng từng điểm rồi nối các điểm ảnh; ảnh ảo vẽ nét đứt.
+TL: Một chiếc đồng hồ treo tường chỉ 3 giờ đúng. Khi nhìn ảnh của đồng hồ trong gương phẳng (gương đặt song song với mặt đồng hồ), em thấy kim chỉ mấy giờ? Giải thích.
+MAU: Ảnh qua gương phẳng đối xứng với vật nên trái – phải bị đảo ngược.
+MAU: Kim giờ chỉ số 3 (bên phải) sẽ hiện ở vị trí bên trái, tức vị trí số 9; kim phút vẫn chỉ số 12.
+MAU: Nhìn trong gương thấy đồng hồ như chỉ 9 giờ.
+TC: Nêu được tính chất đối xứng, đảo trái – phải | 1,5
+TC: Kết luận đúng 9 giờ | 1,5
+
 ## Chương VI. Từ
 ### Bài 18. Nam châm
 ### Bài 19. Từ trường

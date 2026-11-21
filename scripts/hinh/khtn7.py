@@ -161,6 +161,170 @@ def quy_tac_hoa_tri():
 
 ALL = [pp_tim_hieu, nguyen_tu_bohr, nguyen_to, bang_tuan_hoan, phan_tu, lien_ket_ion, quy_tac_hoa_tri]
 
+
+def toc_do():
+    fig, ax = khung(8.6, 3.4); trong(ax)
+    ax.set_xlim(0, 17.2); ax.set_ylim(0, 6.8)
+    rows = [('Đi bộ', 500, 1.2, MAU['la']), ('Xe đạp', 120, 5.0, MAU['lam']), ('Xe máy', 50, 12.0, MAU['do'])]
+    for i, (t, sec, v, mau) in enumerate(rows):
+        y = 5.4 - i * 1.9
+        ax.plot([2.2, 14.2], [y, y], color=MAU['xam'], lw=1.2)
+        ax.plot([2.2, 2.2], [y - 0.2, y + 0.2], color=MAU['xam']); ax.plot([14.2, 14.2], [y - 0.2, y + 0.2], color=MAU['xam'])
+        ax.add_patch(Circle((2.2 + 12 * min(1, v / 12), y), 0.28, fc=mau, ec='white'))
+        mui_ten(ax, (2.2, y + 0.55), (2.2 + 12 * min(1, v / 12) - 0.3, y + 0.55), mau, 2)
+        ax.text(0.1, y, t, va='center', fontsize=11.5, weight='bold', color=mau)
+        ax.text(14.5, y + 0.25, '600 m hết %d s' % sec, fontsize=10, va='center')
+        ax.text(14.5, y - 0.35, 'v = %s m/s' % ('%g' % (600 / sec)).replace('.', ','), fontsize=10.5, va='center', color=mau, weight='bold')
+    ax.text(8.2, 0.35, 'Sau cùng 50 s: ai đi được xa hơn thì nhanh hơn – tốc độ = quãng đường : thời gian', ha='center', fontsize=9.8, color=MAU['xam'])
+    luu(fig, D + 'toc-do.svg')
+
+
+def cong_quang_dien():
+    fig, ax = khung(8.4, 3.4); trong(ax)
+    ax.set_xlim(0, 16.8); ax.set_ylim(0, 6.8)
+    ax.plot([0.5, 14.5], [2.6, 1.6], color=MAU['den'], lw=3)
+    ax.add_patch(Circle((2.0, 2.85), 0.32, fc=MAU['lam'], ec='white'))
+    for x, t in [(5.0, 'A'), (11.0, 'B')]:
+        y = 2.6 - (x - 0.5) / 14
+        ax.add_patch(Rectangle((x - 0.15, y), 0.3, 1.9, fc=MAU['xam'], ec='none'))
+        ax.add_patch(Rectangle((x - 0.6, y + 1.75), 1.2, 0.45, fc=MAU['cam'], ec=MAU['den'], lw=0.8))
+        ax.plot([x, x], [y + 0.25, y + 1.7], color=MAU['do'], lw=1, ls=':')
+        ax.text(x, y + 2.5, 'Cổng ' + t, ha='center', fontsize=10.5, weight='bold')
+        ax.plot([x, x + 0.6, 13.2], [y + 2.2, 5.3, 5.3], color=MAU['xam'], lw=1)
+    hop(ax, 13.2, 4.6, 3.3, 1.5, '0,250 s', mau='#1f1f1f', vien=MAU['den'], co=15, chu_mau='#7CFC7C')
+    ax.text(14.85, 4.15, 'đồng hồ hiện số', ha='center', fontsize=9.5)
+    ax.annotate('', xy=(11.0, 0.9), xytext=(5.0, 1.3), arrowprops=dict(arrowstyle='<->', color=MAU['xanh'], lw=1.6))
+    ax.text(8.0, 0.55, 's = 50 cm (đo bằng thước)', ha='center', fontsize=10.5, color=MAU['xanh'])
+    ax.text(0.4, 6.2, 'v = s : t = 0,5 m : 0,25 s = 2 m/s', fontsize=12, color=MAU['lam'], weight='bold')
+    luu(fig, D + 'cong-quang-dien.svg')
+
+
+def do_thi_s_t():
+    fig, ax = khung(6.4, 4.0)
+    t = [0, 20, 30, 40]; s_ = [0, 4, 4, 6]
+    ax.plot(t, s_, color=MAU['lam'], lw=2.8, marker='o')
+    ax.set_xlim(0, 44); ax.set_ylim(0, 7); ax.set_xticks([0, 10, 20, 30, 40]); ax.set_yticks([0, 2, 4, 6])
+    ax.set_xlabel('t (phút)'); ax.set_ylabel('s (km)')
+    ax.text(6, 3.0, 'đi xe đạp', fontsize=10.5, color=MAU['lam'], rotation=30)
+    ax.text(21.2, 4.3, 'dừng nghỉ', fontsize=10.5, color=MAU['do'])
+    ax.text(31.5, 5.6, 'đi tiếp', fontsize=10.5, color=MAU['lam'])
+    for x, y in [(20, 4), (40, 6)]: ax.plot([x, x, 0], [0, y, y], ls=':', color=MAU['xam'], lw=1)
+    luu(fig, D + 'do-thi-s-t.svg')
+
+
+def quang_duong_dung():
+    fig, ax = khung(6.8, 4.0)
+    v = np.array([30, 50, 70, 90]); vm = v / 3.6
+    pu = vm * 1.0; ph = vm ** 2 / (2 * 6)
+    y = np.arange(4)
+    ax.barh(y, pu, color=MAU['cam'], label='quãng đường phản ứng (1 s)')
+    ax.barh(y, ph, left=pu, color=MAU['do'], label='quãng đường phanh')
+    for i in range(4): ax.text(pu[i] + ph[i] + 1, i, '%d m' % round(pu[i] + ph[i]), va='center', fontsize=10.5)
+    ax.set_yticks(y); ax.set_yticklabels(['%d km/h' % x for x in v]); ax.set_xlabel('Quãng đường dừng xe (m)')
+    ax.set_xlim(0, 90); ax.legend(frameon=False, loc='lower right', fontsize=9.5)
+    luu(fig, D + 'quang-duong-dung.svg')
+
+
+def song_am():
+    fig, ax = khung(8.4, 3.0); trong(ax)
+    ax.set_xlim(0, 16.8); ax.set_ylim(0, 6.0)
+    ax.add_patch(Rectangle((0.4, 1.4), 1.6, 3.0, fc='#c98a4a', ec=MAU['den'], lw=1.2))
+    ax.add_patch(Ellipse((2.0, 2.9), 0.5, 3.0, fc='#f3e3c3', ec=MAU['den'], lw=1.2))
+    ax.text(1.2, 0.8, 'mặt trống\ndao động', ha='center', fontsize=9.5)
+    xs = []; x = 2.8
+    for k in range(9):
+        for j in range(5): xs.append(x + j * 0.11)
+        x += 1.25
+    for xx in xs: ax.plot([xx, xx], [1.6, 4.2], color=MAU['lam'], lw=1.2, alpha=0.85)
+    for k in range(9):
+        ax.text(2.95 + k * 1.25, 4.5, 'nén', ha='center', fontsize=8, color=MAU['lam'])
+        if k < 8: ax.text(3.6 + k * 1.25, 1.2, 'dãn', ha='center', fontsize=8, color=MAU['xam'])
+    ax.add_patch(Ellipse((15.6, 2.9), 0.9, 1.5, fc='#f6d2b0', ec=MAU['den'])); ax.text(15.6, 1.6, 'tai', ha='center', fontsize=10)
+    mui_ten(ax, (3.0, 5.3), (14.6, 5.3), MAU['xanh'], 2); ax.text(8.8, 5.55, 'sóng âm truyền đi (không khí ~340 m/s)', ha='center', fontsize=10.5, color=MAU['xanh'])
+    luu(fig, D + 'song-am.svg')
+
+
+def do_to_do_cao():
+    fig, axs = plt.subplots(2, 2, figsize=(8.4, 4.2), sharex=True, sharey=True)
+    t = np.linspace(0, 1, 600)
+    cfg = [(axs[0, 0], 0.4, 3, 'Âm nhỏ, trầm'), (axs[0, 1], 1.0, 3, 'Biên độ lớn ⇒ âm TO hơn'), (axs[1, 0], 0.4, 3, 'Tần số nhỏ ⇒ âm THẤP'), (axs[1, 1], 0.4, 9, 'Tần số lớn ⇒ âm CAO hơn')]
+    cols = [MAU['xam'], MAU['do'], MAU['xam'], MAU['lam']]
+    for (ax, A, f, tt), c in zip(cfg, cols):
+        ax.plot(t, A * np.sin(2 * np.pi * f * t), color=c, lw=2.2)
+        ax.axhline(0, color=MAU['xam'], lw=0.6); ax.set_ylim(-1.2, 1.2); ax.set_xticks([]); ax.set_yticks([])
+        ax.set_title(tt, fontsize=11, color=c)
+        for sp in ax.spines.values(): sp.set_color('#cccccc')
+    fig.tight_layout()
+    luu(fig, D + 'do-to-do-cao.svg')
+
+
+def do_sau_bien():
+    fig, ax = khung(6.4, 4.0); trong(ax)
+    ax.set_xlim(0, 12.8); ax.set_ylim(0, 8)
+    ax.add_patch(Rectangle((0, 1.0), 12.8, 5.6, fc='#d7ecfb', ec='none'))
+    xs = np.linspace(0, 12.8, 50); ax.fill_between(xs, 0, 1.0 + 0.25 * np.sin(xs * 1.3), color='#c9a66b')
+    ax.add_patch(Polygon([(4.4, 6.6), (8.6, 6.6), (8.0, 6.0), (5.0, 6.0)], fc=MAU['do'], ec=MAU['den']))
+    ax.add_patch(Rectangle((5.8, 6.6), 1.2, 0.6, fc='white', ec=MAU['den']))
+    mui_ten(ax, (6.0, 5.9), (6.0, 1.4), MAU['lam'], 2.2); mui_ten(ax, (7.0, 1.4), (7.0, 5.9), MAU['cam'], 2.2)
+    ax.text(5.8, 3.6, 'phát\nsiêu âm', ha='right', fontsize=10.5, color=MAU['lam'])
+    ax.text(7.2, 3.6, 'âm\nphản xạ', ha='left', fontsize=10.5, color=MAU['cam'])
+    ax.annotate('', xy=(11.5, 1.2), xytext=(11.5, 6.6), arrowprops=dict(arrowstyle='<->', color=MAU['xanh'], lw=1.6))
+    ax.text(11.7, 3.9, 'h', fontsize=14, color=MAU['xanh'], weight='bold')
+    ax.text(6.4, 7.5, 'h = v · t : 2', ha='center', fontsize=14, color=MAU['xanh'], weight='bold')
+    luu(fig, D + 'do-sau-bien.svg')
+
+
+def vung_toi():
+    fig, axs = plt.subplots(1, 2, figsize=(9.6, 3.4))
+    for k, ax in enumerate(axs):
+        trong(ax); ax.set_xlim(0, 10); ax.set_ylim(-3.3, 3.3)
+        ax.plot([8.6, 8.6], [-3.1, 3.1], color=MAU['den'], lw=3)
+        ax.add_patch(Circle((4.6, 0), 0.75, fc='#7a7a7a', ec=MAU['den']))
+        if k == 0:
+            ax.add_patch(Circle((0.8, 0), 0.18, fc=MAU['vang'], ec=MAU['cam']))
+            for yb in (0.75, -0.75):
+                ax.plot([0.8, 8.6], [0, yb * (8.6 - 0.8) / (4.6 - 0.8)], color=MAU['vang'], lw=1.2)
+            ys = 0.75 * 7.8 / 3.8
+            ax.add_patch(Polygon([(4.6, 0.75), (8.6, ys), (8.6, -ys), (4.6, -0.75)], fc='#333333', alpha=0.45, ec='none'))
+            ax.set_title('Nguồn sáng nhỏ: chỉ có vùng tối rõ nét', fontsize=11)
+            ax.text(9.0, 0, 'vùng\ntối', fontsize=9.5, va='center')
+        else:
+            ax.add_patch(Rectangle((0.6, -1.4), 0.4, 2.8, fc=MAU['vang'], ec=MAU['cam']))
+            for ys0 in (1.4, -1.4):
+                for yb in (0.75, -0.75):
+                    yy = ys0 + (yb - ys0) * (8.6 - 0.8) / (4.6 - 0.8)
+                    ax.plot([0.8, 8.6], [ys0, yy], color=MAU['vang'], lw=1)
+            yin = -1.4 + (0.75 + 1.4) * 7.8 / 3.8
+            yout = 1.4 + (0.75 - 1.4) * 7.8 / 3.8
+            ax.add_patch(Polygon([(4.6, 0.75), (8.6, yout), (8.6, -yout), (4.6, -0.75)], fc='#333333', alpha=0.5, ec='none'))
+            ax.add_patch(Polygon([(4.6, 0.75), (8.6, yin), (8.6, yout)], fc='#888888', alpha=0.35, ec='none'))
+            ax.add_patch(Polygon([(4.6, -0.75), (8.6, -yin), (8.6, -yout)], fc='#888888', alpha=0.35, ec='none'))
+            ax.set_title('Nguồn sáng rộng: vùng tối + vùng nửa tối', fontsize=11)
+            ax.text(8.75, 0, 'tối', fontsize=9.5, va='center'); ax.text(8.75, 2.2, 'nửa\ntối', fontsize=9, va='center'); ax.text(8.75, -2.2, 'nửa\ntối', fontsize=9, va='center')
+    fig.tight_layout()
+    luu(fig, D + 'vung-toi.svg')
+
+
+def anh_guong_phang():
+    fig, ax = khung(6.4, 4.0); trong(ax)
+    ax.set_xlim(-6.4, 6.4); ax.set_ylim(-0.8, 6.4)
+    ax.add_patch(Rectangle((-0.12, -0.5), 0.24, 6.4, fc='#cfe3f7', ec=MAU['lam'], hatch='////'))
+    ax.text(0, 6.05, 'gương', ha='center', fontsize=10.5, color=MAU['lam'])
+    mui_ten(ax, (-3.5, 0.5), (-3.5, 4.0), MAU['do'], 3)
+    ax.annotate('', xy=(3.5, 4.0), xytext=(3.5, 0.5), arrowprops=dict(arrowstyle='->', color=MAU['do'], lw=2.4, ls='--'))
+    ax.text(-3.9, 0.3, 'A', fontsize=13, weight='bold'); ax.text(-3.9, 4.0, 'B', fontsize=13, weight='bold')
+    ax.text(3.7, 0.3, "A'", fontsize=13, weight='bold'); ax.text(3.7, 4.0, "B'", fontsize=13, weight='bold')
+    for y in (0.5, 4.0): ax.plot([-3.5, 3.5], [y, y], ls=':', color=MAU['xam'], lw=1)
+    ax.annotate('', xy=(0, -0.2), xytext=(-3.5, -0.2), arrowprops=dict(arrowstyle='<->', color=MAU['xanh']))
+    ax.annotate('', xy=(3.5, -0.2), xytext=(0, -0.2), arrowprops=dict(arrowstyle='<->', color=MAU['xanh']))
+    ax.text(-1.75, -0.65, 'd', ha='center', fontsize=12, color=MAU['xanh']); ax.text(1.75, -0.65, 'd', ha='center', fontsize=12, color=MAU['xanh'])
+    ax.text(-3.5, 5.1, 'Vật', ha='center', fontsize=11.5, color=MAU['do'], weight='bold')
+    ax.text(3.5, 5.1, 'Ảnh ảo, bằng vật', ha='center', fontsize=11.5, color=MAU['do'])
+    luu(fig, D + 'anh-guong-phang.svg')
+
+
+ALL += [toc_do, cong_quang_dien, do_thi_s_t, quang_duong_dung, song_am, do_to_do_cao, do_sau_bien, vung_toi, anh_guong_phang]
+
 if __name__ == '__main__':
     for f in ALL:
         f()
