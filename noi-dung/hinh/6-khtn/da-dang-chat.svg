@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="516.24pt" height="227.952pt" viewBox="0 0 516.24 227.952" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:28:59.125896</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 227.952 
+L 516.24 227.952 
+L 516.24 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 108.9864 116.748 
+L 274.1976 116.748 
+Q 277.524 116.748 277.524 113.4216 
+L 277.524 39.6864 
+Q 277.524 36.36 274.1976 36.36 
+L 108.9864 36.36 
+Q 105.66 36.36 105.66 39.6864 
+L 105.66 113.4216 
+Q 105.66 116.748 108.9864 116.748 
+z
+" clip-path="url(#pbe49f7b538)" style="fill: #eef7e6; stroke: #55891b; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 108.9864 210.996 
+L 274.1976 210.996 
+Q 277.524 210.996 277.524 207.6696 
+L 277.524 133.9344 
+Q 277.524 130.608 274.1976 130.608 
+L 108.9864 130.608 
+Q 105.66 130.608 105.66 133.9344 
+L 105.66 207.6696 
+Q 105.66 210.996 108.9864 210.996 
+z
+" clip-path="url(#pbe49f7b538)" style="fill: #f3f3f3; stroke: #6b7a72; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 294.7104 116.748 
+L 498.7296 116.748 
+Q 502.056 116.748 502.056 113.4216 
+L 502.056 39.6864 
+Q 502.056 36.36 498.7296 36.36 
+L 294.7104 36.36 
+Q 291.384 36.36 291.384 39.6864 
+L 291.384 113.4216 
+Q 291.384 116.748 294.7104 116.748 
+z
+" clip-path="url(#pbe49f7b538)" style="fill: #fbfbfb; stroke: #cccccc; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 294.7104 210.996 
+L 498.7296 210.996 
+Q 502.056 210.996 502.056 207.6696 
+L 502.056 133.9344 
+Q 502.056 130.608 498.7296 130.608 
+L 294.7104 130.608 
+Q 291.384 130.608 291.384 133.9344 
+L 291.384 207.6696 
+Q 291.384 210.996 294.7104 210.996 
+z
+" clip-path="url(#pbe49f7b538)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 86.256 123.678 
+L 502.056 123.678 
+" clip-path="url(#pbe49f7b538)" style="fill: none; stroke: #eef4f0; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 283.068 213.768 
+L 283.068 28.044 
+" clip-path="url(#pbe49f7b538)" style="fill: none; stroke: #eef4f0; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #55891b" x="163.872" y="19.728" transform="rotate(-0 163.872 19.728)">Vật thể tự nhiên</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="402.264" y="19.728" transform="rotate(-0 402.264 19.728)">Vật thể nhân tạo</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(14.184 77.486551)">Vật sống</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(14.184 90.892371)">(hữu sinh)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7a72" transform="translate(14.184 158.451234)">Vật không</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7a72" transform="translate(14.184 172.893461)">sống</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7a72" transform="translate(14.184 186.536469)">(vô sinh)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(142.309187 70.237375)">cây bàng, con mèo,</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(142.484187 85.049094)">vi khuẩn, con người</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(148.512312 99.361594)">(tạo nên từ nước,</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(144.220125 113.737375)">protein, tinh bột…)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(146.688875 164.485375)">hòn đá, sông, núi,</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(167.083406 178.985375)">không khí</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(136.070906 193.485375)">(đá vôi, nước, oxygen,</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(163.699031 207.785375)">nitrogen…)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(343.514531 84.737375)">(con người không tạo</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(366.480937 99.469406)">ra vật sống)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(333.977812 172.121312)">cái bàn (gỗ), xe đạp (sắt,</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(337.185625 186.467406)">cao su), cốc (thủy tinh),</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(354.128594 200.659594)">chai nhựa (nhựa)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbe49f7b538">
+   <rect x="8.64" y="8.64" width="498.96" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>

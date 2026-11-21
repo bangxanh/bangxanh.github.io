@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="506.421625pt" height="250.128pt" viewBox="0 0 506.421625 250.128" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:28:59.365288</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 250.128 
+L 506.421625 250.128 
+L 506.421625 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.184 233.172 
+L 291.384 233.172 
+L 263.664 191.592 
+L 41.904 191.592 
+z
+" clip-path="url(#pce0b0f3c9e)" style="fill: #f2d27a; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 41.904 191.592 
+L 263.664 191.592 
+L 235.944 150.012 
+L 69.624 150.012 
+z
+" clip-path="url(#pce0b0f3c9e)" style="fill: #9bd57a; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 69.624 150.012 
+L 235.944 150.012 
+L 208.224 108.432 
+L 97.344 108.432 
+z
+" clip-path="url(#pce0b0f3c9e)" style="fill: #f4a3a3; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 97.344 108.432 
+L 208.224 108.432 
+L 180.504 66.852 
+L 125.064 66.852 
+z
+" clip-path="url(#pce0b0f3c9e)" style="fill: #ffe9a8; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 125.064 66.852 
+L 180.504 66.852 
+L 152.784 25.272 
+L 152.784 25.272 
+z
+" clip-path="url(#pce0b0f3c9e)" style="fill: #e0e0e0; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="308.016" y="215.180047" transform="rotate(-0 308.016 215.180047)">Lương thực: cơm, bánh mì, ngô, khoai</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #333333" x="152.784" y="215.547996" transform="rotate(-0 152.784 215.547996)">ăn đủ</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="308.016" y="173.650828" transform="rotate(-0 308.016 173.650828)">Rau, củ, quả</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #333333" x="152.784" y="174.127137" transform="rotate(-0 152.784 174.127137)">ăn nhiều</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="308.016" y="132.020047" transform="rotate(-0 308.016 132.020047)">Thịt, cá, trứng, đậu, sữa</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #333333" x="152.784" y="132.387996" transform="rotate(-0 152.784 132.387996)">ăn vừa phải</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="308.016" y="90.674422" transform="rotate(-0 308.016 90.674422)">Dầu, mỡ, vừng, lạc</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #333333" x="152.784" y="90.579949" transform="rotate(-0 152.784 90.579949)">ăn ít</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="308.016" y="49.092078" transform="rotate(-0 308.016 49.092078)">Muối, đường</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #333333" x="152.784" y="49.381395" transform="rotate(-0 152.784 49.381395)">hạn chế</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pce0b0f3c9e">
+   <rect x="8.64" y="8.64" width="443.52" height="232.848"/>
+  </clipPath>
+ </defs>
+</svg>

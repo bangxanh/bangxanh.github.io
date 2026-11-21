@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="438.624pt" height="216.864pt" viewBox="0 0 438.624 216.864" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:28:59.251256</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 216.864 
+L 438.624 216.864 
+L 438.624 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.843192 91.810528 
+C 25.1428 100.724294 24.820262 109.846437 25.886856 118.858037 
+C 26.953449 127.869638 29.396596 136.66444 33.130884 144.93497 
+C 36.865171 153.205499 41.846567 160.854238 47.900918 167.61378 
+C 53.955268 174.373322 61.011186 180.163964 68.82199 184.783261 
+C 76.632794 189.402557 85.106387 192.796042 93.946524 194.845076 
+C 102.786662 196.89411 111.889109 197.574532 120.935636 196.862555 
+C 129.982163 196.150578 138.866102 194.054596 147.276863 190.647887 
+C 155.687624 187.241179 163.526035 182.563911 170.518058 176.779607 
+C 177.510081 170.995302 183.573272 164.172164 188.495659 156.548734 
+C 193.418045 148.925304 197.141585 140.591472 199.536101 131.838595 
+C 201.930617 123.085718 202.967876 114.017002 202.611612 104.949497 
+C 202.255349 95.881993 200.509765 86.922615 197.435888 78.384592 
+C 194.36201 69.846568 189.996083 61.830572 184.490744 54.616849 
+C 178.985404 47.403126 172.405566 41.076733 164.981266 35.858847 
+C 157.556966 30.640962 149.375744 26.593108 140.723623 23.856801 
+C 132.071503 21.120495 123.050501 19.728 113.976 19.728 
+L 113.976 108.432 
+z
+" clip-path="url(#pfee4216621)" style="fill: #2f6fde; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 108.40623 19.903037 
+C 88.762934 21.138888 70.078779 28.878119 55.314992 41.894148 
+C 40.551206 54.910176 30.531256 72.477019 26.843192 91.810528 
+L 113.976 108.432 
+z
+" clip-path="url(#pfee4216621)" style="fill: #55891b; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 113.976 19.728 
+C 113.047075 19.728 112.118207 19.742592 111.18974 19.77177 
+C 110.261273 19.800948 109.333322 19.844709 108.40623 19.903037 
+L 113.976 108.432 
+z
+" clip-path="url(#pfee4216621)" style="fill: #bd7a12; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 241.488 66.852 
+L 258.12 66.852 
+L 258.12 50.22 
+L 241.488 50.22 
+z
+" clip-path="url(#pfee4216621)" style="fill: #2f6fde"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 241.488 111.204 
+L 258.12 111.204 
+L 258.12 94.572 
+L 241.488 94.572 
+z
+" clip-path="url(#pfee4216621)" style="fill: #55891b"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 241.488 155.556 
+L 258.12 155.556 
+L 258.12 138.924 
+L 241.488 138.924 
+z
+" clip-path="url(#pfee4216621)" style="fill: #bd7a12"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="144.468" y="151.39625" transform="rotate(-0 144.468 151.39625)">78%</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="77.94" y="73.000953" transform="rotate(-0 77.94 73.000953)">21%</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="266.436" y="61.571312" transform="rotate(-0 266.436 61.571312)">Nitrogen ~78%</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="266.436" y="105.826203" transform="rotate(-0 266.436 105.826203)">Oxygen ~21%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(266.436 144.410937)">Khí khác ~1%</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(266.436 158.319063)">(CO₂, hơi nước, khí hiếm)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfee4216621">
+   <rect x="8.64" y="8.64" width="421.344" height="199.584"/>
+  </clipPath>
+ </defs>
+</svg>

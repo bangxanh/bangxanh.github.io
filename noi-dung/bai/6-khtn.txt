@@ -542,16 +542,595 @@ TC: Lưu ý an toàn | 1
 
 ## Chương II. Chất quanh ta
 ### Bài 9. Sự đa dạng của chất
+> Nước, muối, đường, sắt, nhựa, không khí… Thế giới quanh ta được tạo nên từ vô số chất khác nhau, mỗi chất có những tính chất riêng.
+MT: Nêu được sự đa dạng của chất (chất có ở khắp nơi, trong vật thể tự nhiên, nhân tạo, vật vô sinh, hữu sinh).
+MT: Phân biệt được vật thể tự nhiên – nhân tạo, vật vô sinh – hữu sinh.
+MT: Nêu được tính chất vật lí, tính chất hóa học của chất.
+LT: 1. Chất có ở khắp nơi
+- **Vật thể** là những gì có hình dạng, kích thước, chiếm chỗ trong không gian; vật thể được tạo nên từ **chất**.
+- **Vật thể tự nhiên** (có sẵn trong tự nhiên): cây cối, sông, núi, đá. **Vật thể nhân tạo** (do con người tạo ra): bàn ghế, xe đạp, quần áo.
+- **Vật hữu sinh** (vật sống): con người, cây cối, vi khuẩn. **Vật vô sinh** (vật không sống): đá, nước, cái bàn.
+LT: 2. Tính chất của chất
+- **Tính chất vật lí**: thể (rắn, lỏng, khí), màu sắc, mùi, vị, hình dạng, kích thước, khối lượng riêng, tính tan, nhiệt độ nóng chảy, nhiệt độ sôi, tính dẫn điện, dẫn nhiệt…
+- **Tính chất hóa học**: khả năng **bị biến đổi thành chất khác** (bị phân hủy, bị đốt cháy, bị gỉ…).
+- Sự biến đổi **không tạo ra chất mới** (nước đá tan, muối tan trong nước) là biến đổi vật lí; **tạo ra chất mới** (giấy cháy, sắt gỉ, nến cháy) thể hiện tính chất hóa học.
+HINH: 6-khtn/da-dang-chat.svg | Vật thể tự nhiên và nhân tạo, vật sống và vật không sống; mỗi vật thể được tạo nên từ một hay nhiều chất.
+DB: Dạng 1. Phân biệt vật thể và chất
+- Vật thể: cái cốc, chiếc lá…; chất: thủy tinh, nước, cellulose…
+DB: Dạng 2. Phân loại vật thể
+- Tự nhiên/nhân tạo; hữu sinh/vô sinh.
+DB: Dạng 3. Nhận biết tính chất vật lí – hóa học
+- Có tạo chất mới → tính chất hóa học; không → tính chất vật lí.
+VD: Trong câu "Ấm nhôm dùng để đun nước", đâu là vật thể, đâu là chất?
+B: Vật thể: ấm (do nhôm tạo nên).
+KQ: Chất: nhôm, nước.
+VD: Đường cháy thành than khi đun quá lửa. Đây là tính chất vật lí hay hóa học?
+B: Đường biến thành than (chất mới) và hơi nước.
+KQ: Thể hiện tính chất hóa học của đường.
+GN: Vật thể được tạo nên từ chất.
+GN: Tính chất hóa học gắn với sự tạo thành chất mới.
+GN: Mỗi chất có tính chất xác định, dùng để nhận biết chất.
+Q: mc | Vật thể nào sau đây là vật thể nhân tạo?
+A) Cây lúa
+B) Con sông
+C) Chiếc bút bi *
+D) Hòn đá
+E: Bút bi do con người làm ra.
+Q: mc | Hiện tượng nào thể hiện tính chất hóa học của chất?
+A) Nước đá tan thành nước lỏng
+B) Muối tan trong nước
+C) Cây nến cháy tạo khí carbon dioxide và hơi nước *
+D) Cồn bay hơi
+E: Nến cháy tạo ra chất mới.
+Q: tf | Về chất và vật thể:
+a) Không khí là vật thể. | S
+b) Cái cốc thủy tinh được tạo nên từ chất thủy tinh. | Đ
+c) Con người là vật hữu sinh. | Đ
+d) Nhiệt độ sôi là một tính chất vật lí. | Đ
+E: Không khí là hỗn hợp các chất (khí), không phải vật thể có hình dạng xác định.
+Q: match | Nối vật thể với chất tạo nên nó:
+1) Lõi dây điện | Đồng
+2) Chai nước khoáng | Nhựa
+3) Lốp xe đạp | Cao su
+4) Cửa kính | Thủy tinh
+E: Mỗi vật thể có thể được làm từ chất phù hợp với công dụng.
+Q: sa | Trong các vật thể: con mèo, cái bàn, cây bàng, quyển vở, vi khuẩn, chiếc xe đạp. Có bao nhiêu vật thể nhân tạo?
+ANS: 3
+E: Cái bàn, quyển vở, chiếc xe đạp.
+TL: Nêu 3 tính chất vật lí và 1 tính chất hóa học của nước mà em biết.
+MAU: Tính chất vật lí: ở nhiệt độ thường là chất lỏng, không màu, không mùi, không vị; sôi ở 100 °C, đông đặc ở 0 °C; hòa tan được nhiều chất (muối, đường).
+MAU: Tính chất hóa học: nước bị phân hủy bằng dòng điện tạo thành khí hydrogen và oxygen.
+TC: 3 tính chất vật lí đúng | 2
+TC: 1 tính chất hóa học đúng | 1
+
 ### Bài 10. Các thể của chất và sự chuyển thể
+> Khối nước đá trong cốc tan dần, nồi nước sôi bốc hơi, sương đọng trên lá buổi sáng… Nước luôn chuyển qua lại giữa các thể rắn, lỏng, khí.
+MT: Nêu được đặc điểm cơ bản ba thể (rắn, lỏng, khí) của chất.
+MT: Trình bày được các quá trình chuyển thể: nóng chảy, đông đặc, bay hơi, ngưng tụ, sôi.
+MT: Giải thích được một số hiện tượng chuyển thể trong đời sống.
+LT: 1. Ba thể của chất
+- **Thể rắn**: hình dạng và thể tích **xác định**, rất khó bị nén (hạt sắp xếp khít, chỉ dao động tại chỗ).
+- **Thể lỏng**: thể tích xác định, **hình dạng của vật chứa**, khó bị nén.
+- **Thể khí**: hình dạng và thể tích **không xác định**, chiếm toàn bộ vật chứa, **dễ bị nén** (hạt ở rất xa nhau, chuyển động hỗn loạn).
+LT: 2. Sự chuyển thể
+- **Nóng chảy**: rắn → lỏng (nước đá tan). **Đông đặc**: lỏng → rắn (làm đá trong tủ lạnh).
+- **Bay hơi**: lỏng → khí, xảy ra ở mặt thoáng, ở mọi nhiệt độ. **Ngưng tụ**: khí → lỏng (sương, hơi nước đọng ở nắp nồi).
+- **Sôi**: bay hơi xảy ra cả trong lòng và trên mặt thoáng chất lỏng, ở **nhiệt độ sôi** xác định (nước: 100 °C).
+HINH: 6-khtn/chuyen-the.svg | Ba thể của chất và các quá trình chuyển thể: nóng chảy, đông đặc, bay hơi, ngưng tụ.
+LT: 3. Đặc điểm nhiệt độ
+- Nước đá nóng chảy ở 0 °C; nước đông đặc ở 0 °C; trong khi nóng chảy (đông đặc), sôi, nhiệt độ **không đổi**.
+DB: Dạng 1. Gọi tên quá trình chuyển thể
+- Xác định thể ban đầu → thể lúc sau.
+DB: Dạng 2. So sánh đặc điểm ba thể
+- Hình dạng, thể tích, khả năng bị nén.
+DB: Dạng 3. Giải thích hiện tượng thực tế
+- Phơi quần áo (bay hơi), sương mù (ngưng tụ), đúc tượng đồng (nóng chảy rồi đông đặc).
+VD: Vì sao vào mùa hè, quần áo phơi nhanh khô hơn mùa đông?
+B: Nhiệt độ cao, nắng, gió làm nước bay hơi nhanh hơn.
+KQ: Quần áo mùa hè khô nhanh hơn.
+VD: Lấy chai nước lạnh từ tủ lạnh ra, một lúc sau thấy mặt ngoài chai có nhiều giọt nước. Giải thích.
+B: Hơi nước trong không khí gặp thành chai lạnh.
+KQ: Hơi nước ngưng tụ thành giọt nước bám vào mặt ngoài chai.
+GN: Rắn ⇄ lỏng: nóng chảy/đông đặc; lỏng ⇄ khí: bay hơi/ngưng tụ.
+GN: Chất khí dễ bị nén, chất rắn và lỏng khó bị nén.
+GN: Trong khi sôi, nhiệt độ của nước không đổi.
+Q: mc | Quá trình chuyển từ thể lỏng sang thể rắn gọi là
+A) nóng chảy
+B) đông đặc *
+C) bay hơi
+D) ngưng tụ
+E: Lỏng → rắn là đông đặc.
+Q: mc | Chất ở thể nào dễ bị nén nhất?
+A) Rắn
+B) Lỏng
+C) Khí *
+D) Cả ba như nhau
+E: Các hạt chất khí ở xa nhau nên dễ nén.
+Q: tf | Về sự chuyển thể:
+a) Sương đọng trên lá là hiện tượng ngưng tụ. | Đ
+b) Sự bay hơi chỉ xảy ra ở 100 °C. | S
+c) Nước sôi ở 100 °C (áp suất thường). | Đ
+d) Chất lỏng có hình dạng của vật chứa. | Đ
+E: Bay hơi xảy ra ở mọi nhiệt độ.
+Q: match | Nối hiện tượng với quá trình chuyển thể:
+1) Cục nước đá tan | Nóng chảy
+2) Làm kem trong tủ đá | Đông đặc
+3) Phơi khô quần áo | Bay hơi
+4) Hơi nước đọng ở nắp vung | Ngưng tụ
+E: Xác định thể trước và sau để gọi tên.
+Q: sa | Đun nước từ 25 °C, nhiệt độ tăng thêm 5 °C mỗi phút đến khi sôi. Sau bao nhiêu phút nước bắt đầu sôi (100 °C)?
+ANS: 15
+E: (100 − 25) : 5 = 15 phút.
+TL: Giải thích sự hình thành mây và mưa dựa trên các quá trình chuyển thể của nước.
+MAU: Nước ở sông, hồ, biển bay hơi nhờ nhiệt của Mặt Trời, hơi nước bốc lên cao.
+MAU: Lên cao gặp lạnh, hơi nước ngưng tụ thành các giọt nước nhỏ li ti tạo thành mây.
+MAU: Các giọt nước nhập lại thành giọt lớn, nặng rơi xuống thành mưa; nước lại chảy về sông, biển – vòng tuần hoàn của nước.
+TC: Nêu đúng bay hơi | 1
+TC: Nêu đúng ngưng tụ tạo mây | 1
+TC: Giải thích mưa, vòng tuần hoàn | 1
+
 ### Bài 11. Oxygen. Không khí
+> Chúng ta có thể nhịn ăn vài ngày nhưng không thể nhịn thở quá vài phút. Oxygen trong không khí là "sự sống" của con người và muôn loài.
+MT: Nêu được tính chất vật lí và vai trò của oxygen (duy trì sự sống, sự cháy).
+MT: Nêu được thành phần của không khí; vai trò của không khí.
+MT: Trình bày được sự ô nhiễm không khí và biện pháp bảo vệ môi trường không khí.
+LT: 1. Oxygen
+- Tính chất vật lí: ở điều kiện thường là **chất khí, không màu, không mùi, không vị**, ít tan trong nước, nặng hơn không khí một chút; hóa lỏng ở −183 °C (màu xanh nhạt).
+- Vai trò: **duy trì sự hô hấp** của sinh vật; **duy trì sự cháy** (đốt nhiên liệu, hàn cắt kim loại); dùng trong y tế (bình oxygen).
+LT: 2. Không khí
+- Thành phần theo thể tích: **khoảng 78% nitrogen, 21% oxygen, 1% các khí khác** (carbon dioxide, hơi nước, khí hiếm…).
+- Vai trò: cung cấp oxygen cho hô hấp, cháy; carbon dioxide cho quang hợp; nitrogen cung cấp đạm cho cây (qua vi khuẩn); điều hòa khí hậu.
+HINH: 6-khtn/khong-khi.svg | Thành phần không khí theo thể tích: khoảng 78% nitrogen, 21% oxygen, 1% các khí khác.
+LT: 3. Ô nhiễm không khí và bảo vệ
+- Nguyên nhân: khí thải nhà máy, xe cộ, đốt rơm rạ, rác thải, cháy rừng, núi lửa…
+- Tác hại: bệnh đường hô hấp, mưa acid, hiệu ứng nhà kính, biến đổi khí hậu.
+- Biện pháp: trồng nhiều cây xanh; dùng năng lượng sạch; đi xe đạp, phương tiện công cộng; không đốt rác, rơm rạ; xử lí khí thải.
+DB: Dạng 1. Tính chất và vai trò của oxygen
+- Nhớ: không màu, không mùi, ít tan; duy trì hô hấp và sự cháy.
+DB: Dạng 2. Tính thể tích các khí trong không khí
+- V(oxygen) ≈ 21% × V(không khí); V(nitrogen) ≈ 78% × V(không khí).
+DB: Dạng 3. Nguyên nhân – biện pháp ô nhiễm không khí
+- Liên hệ hoạt động thực tế ở địa phương.
+VD: Một phòng học chứa 200 m³ không khí. Thể tích oxygen trong phòng khoảng bao nhiêu?
+B: V(oxygen) = 21% × 200.
+KQ: Khoảng 42 m³.
+VD: Vì sao khi úp cốc thủy tinh lên ngọn nến đang cháy, nến tắt dần?
+B: Nến cháy tiêu thụ oxygen trong cốc.
+KQ: Khi oxygen gần hết, sự cháy không được duy trì nên nến tắt.
+GN: Không khí: ~78% N₂, ~21% O₂, ~1% khí khác.
+GN: Oxygen duy trì sự sống và sự cháy.
+GN: Trồng cây xanh là biện pháp đơn giản, hiệu quả bảo vệ không khí.
+Q: mc | Thành phần chiếm tỉ lệ thể tích lớn nhất trong không khí là
+A) oxygen
+B) nitrogen *
+C) carbon dioxide
+D) hơi nước
+E: Nitrogen chiếm khoảng 78%.
+Q: mc | Tính chất nào sau đây KHÔNG phải của oxygen?
+A) Chất khí không màu
+B) Không mùi
+C) Tan rất nhiều trong nước *
+D) Duy trì sự cháy
+E: Oxygen ít tan trong nước.
+Q: tf | Về oxygen và không khí:
+a) Oxygen chiếm khoảng 21% thể tích không khí. | Đ
+b) Đốt rơm rạ giúp không khí trong lành hơn. | S
+c) Bệnh nhân khó thở được hỗ trợ bằng bình oxygen. | Đ
+d) Cây xanh hấp thụ carbon dioxide, thải oxygen. | Đ
+E: Đốt rơm rạ gây ô nhiễm không khí.
+Q: ord | Sắp xếp các khí theo tỉ lệ thể tích trong không khí từ lớn đến nhỏ:
+1) Nitrogen
+2) Oxygen
+3) Các khí khác (carbon dioxide, khí hiếm…)
+E: Khoảng 78% > 21% > 1%.
+Q: sa | Một người hít vào mỗi phút khoảng 8 lít không khí. Trong 8 lít đó có khoảng bao nhiêu lít oxygen (lấy 21%, kết quả làm tròn đến hàng phần mười)?
+ANS: 1,7 || 1.7
+E: 8 × 21% = 1,68 ≈ 1,7 lít.
+TL: Em hãy đề xuất 4 việc làm cụ thể mà học sinh có thể thực hiện để giảm ô nhiễm không khí.
+MAU: Đi bộ, đi xe đạp hoặc xe buýt đến trường thay vì để bố mẹ chở bằng xe máy khi có thể.
+MAU: Trồng và chăm sóc cây xanh ở trường, ở nhà.
+MAU: Không đốt rác, đổ rác đúng nơi quy định, phân loại rác.
+MAU: Tắt điện, quạt khi không dùng để tiết kiệm năng lượng; tuyên truyền cho người thân.
+TC: Mỗi việc làm hợp lí | 4
+
 ## Chương III. Một số vật liệu, nguyên liệu, nhiên liệu, lương thực – thực phẩm thông dụng
 ### Bài 12. Một số vật liệu
+> Nồi bằng inox, cửa sổ bằng kính, áo mưa bằng nhựa, nhà bằng gạch… Mỗi vật liệu có tính chất riêng nên được dùng vào việc riêng.
+MT: Trình bày được tính chất và ứng dụng của một số vật liệu thông dụng: kim loại, nhựa, cao su, thủy tinh, gốm, gỗ.
+MT: Đề xuất được cách sử dụng vật liệu an toàn, hiệu quả, bảo đảm sự phát triển bền vững.
+MT: Phân loại và tái chế vật liệu.
+LT: 1. Vật liệu là gì?
+- **Vật liệu** là một chất hoặc hỗn hợp một số chất được con người dùng để **chế tạo ra sản phẩm** phục vụ đời sống và sản xuất.
+LT: 2. Tính chất và ứng dụng của một số vật liệu
+- **Kim loại** (sắt, nhôm, đồng): dẫn điện, dẫn nhiệt tốt, có ánh kim, dễ uốn, dễ dát mỏng; sắt dễ bị gỉ → làm nồi, dây điện, khung nhà, máy móc.
+- **Nhựa**: nhẹ, bền, cách điện, cách nhiệt, khó phân hủy → làm vỏ dây điện, đồ gia dụng, bao bì.
+- **Cao su**: đàn hồi, không thấm nước, cách điện → lốp xe, găng tay, ủng.
+- **Thủy tinh**: trong suốt, giòn, dễ vỡ, không gỉ → cửa kính, chai lọ, dụng cụ thí nghiệm.
+- **Gốm, sứ**: cứng, giòn, chịu nhiệt, cách điện → gạch, ngói, bát đĩa.
+- **Gỗ**: dễ gia công, cách điện, cách nhiệt, dễ cháy, dễ bị mối mọt → bàn ghế, nhà cửa.
+HINH: 6-khtn/vat-lieu.svg | Một số vật liệu thông dụng và đồ dùng làm từ chúng: kim loại, nhựa, cao su, thủy tinh, gốm sứ, gỗ.
+LT: 3. Sử dụng vật liệu an toàn, bền vững
+- Chọn vật liệu phù hợp với công dụng; bảo quản đúng cách (sơn chống gỉ cho sắt).
+- Hạn chế đồ nhựa dùng một lần; **phân loại, tái chế, tái sử dụng** vật liệu.
+DB: Dạng 1. Nối vật liệu với tính chất, ứng dụng
+- Dựa vào tính chất đặc trưng: dẫn điện → kim loại; đàn hồi → cao su; trong suốt → thủy tinh.
+DB: Dạng 2. Giải thích lựa chọn vật liệu
+- Vì sao dây điện có lõi đồng, vỏ nhựa? Vì sao nồi có quai cầm bằng nhựa?
+DB: Dạng 3. Đề xuất sử dụng bền vững
+- Giảm – tái sử dụng – tái chế.
+VD: Vì sao dây điện thường có lõi bằng đồng và vỏ bằng nhựa?
+B: Đồng dẫn điện tốt nên làm lõi để truyền điện.
+KQ: Nhựa cách điện, bảo vệ người dùng không bị điện giật.
+VD: Vì sao cửa sắt thường được sơn?
+B: Sắt tiếp xúc với không khí ẩm dễ bị gỉ.
+KQ: Lớp sơn ngăn sắt tiếp xúc với không khí, nước, làm cửa bền và đẹp hơn.
+GN: Mỗi vật liệu có ưu, nhược điểm riêng.
+GN: Nhựa khó phân hủy – hạn chế đồ nhựa dùng một lần.
+GN: Kim loại dẫn điện, dẫn nhiệt tốt.
+Q: mc | Vật liệu nào dẫn điện tốt?
+A) Nhựa
+B) Đồng *
+C) Cao su
+D) Gỗ khô
+E: Kim loại như đồng dẫn điện tốt.
+Q: mc | Lốp xe được làm từ cao su vì cao su
+A) trong suốt
+B) có tính đàn hồi, bền, không thấm nước *
+C) dẫn điện tốt
+D) dễ vỡ
+E: Tính đàn hồi giúp giảm xóc khi xe chạy.
+Q: tf | Về vật liệu:
+a) Thủy tinh trong suốt nên dùng làm cửa kính. | Đ
+b) Nhựa phân hủy rất nhanh trong tự nhiên. | S
+c) Gỗ dễ bị mối mọt và dễ cháy. | Đ
+d) Sơn lên đồ sắt giúp hạn chế bị gỉ. | Đ
+E: Nhựa phân hủy rất chậm, hàng trăm năm.
+Q: match | Nối vật liệu với ứng dụng phù hợp:
+1) Gốm sứ | Bát, đĩa, gạch ngói
+2) Thủy tinh | Ống nghiệm, chai lọ
+3) Cao su | Găng tay, ủng
+4) Nhôm | Xoong, nồi
+E: Chọn ứng dụng phù hợp tính chất vật liệu.
+Q: sa | Một gia đình mỗi ngày dùng 4 túi nilon. Nếu chuyển sang dùng túi vải, sau 30 ngày gia đình giảm được bao nhiêu túi nilon?
+ANS: 120
+E: 4 × 30 = 120 túi.
+TL: Em hãy giải thích vì sao xoong nồi thường làm bằng kim loại nhưng tay cầm lại làm bằng nhựa hoặc gỗ.
+MAU: Thân nồi bằng kim loại vì kim loại dẫn nhiệt tốt, giúp thức ăn chín nhanh, lại bền, chịu nhiệt.
+MAU: Tay cầm bằng nhựa (loại chịu nhiệt) hoặc gỗ vì chúng dẫn nhiệt kém, tránh bỏng tay khi cầm.
+TC: Giải thích thân nồi đúng | 1
+TC: Giải thích tay cầm đúng | 2
+
 ### Bài 13. Một số nguyên liệu
+> Gạch được làm từ đất sét, xi măng từ đá vôi, thép từ quặng sắt… Nguyên liệu là "đầu vào" của mọi quá trình sản xuất.
+MT: Nêu được khái niệm nguyên liệu; một số nguyên liệu thông dụng (đá vôi, quặng, cát, đất sét, dầu mỏ…).
+MT: Nêu được tính chất, ứng dụng của một số nguyên liệu.
+MT: Đề xuất được cách sử dụng nguyên liệu an toàn, hiệu quả, bền vững.
+LT: 1. Nguyên liệu là gì?
+- **Nguyên liệu** là vật liệu **tự nhiên (vật liệu thô)** chưa qua xử lí, cần được chế biến để tạo ra sản phẩm.
+- Ví dụ: quặng sắt → gang, thép; đá vôi → vôi, xi măng; đất sét → gạch, ngói, gốm; cát → thủy tinh; dầu mỏ → xăng, dầu, nhựa; mủ cao su → cao su.
+LT: 2. Một số nguyên liệu thông dụng
+- **Đá vôi** (thành phần chính calcium carbonate): cứng, không tan trong nước; bị phân hủy khi nung nóng tạo vôi sống → sản xuất vôi, xi măng, làm đá xây dựng.
+- **Quặng**: đất đá chứa khoáng chất có ích (quặng sắt, quặng bauxite chứa nhôm) → khai thác kim loại.
+- **Đất sét, cát**: làm gạch, gốm sứ, thủy tinh, xây dựng.
+HINH: 6-khtn/nguyen-lieu.svg | Từ nguyên liệu đến sản phẩm: đá vôi → vôi, xi măng; quặng sắt → gang, thép; đất sét → gạch, gốm; cát → thủy tinh.
+LT: 3. Sử dụng nguyên liệu bền vững
+- Nguyên liệu khoáng sản **không phải vô tận**; khai thác bừa bãi gây sạt lở, ô nhiễm.
+- Biện pháp: khai thác hợp lí, có kế hoạch; dùng tiết kiệm; tái chế (sắt thép phế liệu); tìm nguyên liệu thay thế.
+DB: Dạng 1. Phân biệt nguyên liệu – vật liệu – sản phẩm
+- Nguyên liệu (thô) → chế biến → vật liệu → chế tạo → sản phẩm.
+DB: Dạng 2. Nối nguyên liệu với sản phẩm
+- Ghi nhớ các chuỗi: đá vôi → xi măng; quặng → kim loại; cát → thủy tinh.
+DB: Dạng 3. Đề xuất sử dụng bền vững
+- Tiết kiệm, tái chế, khai thác hợp lí.
+VD: Quặng sắt chứa 60% sắt. Từ 10 tấn quặng có thể thu được tối đa bao nhiêu tấn sắt?
+B: Khối lượng sắt = 60% × 10.
+KQ: Tối đa 6 tấn sắt.
+VD: Vì sao không nên khai thác cát sông bừa bãi?
+B: Khai thác cát quá mức làm lòng sông bị khoét sâu, thay đổi dòng chảy.
+KQ: Gây sạt lở bờ sông, mất đất, nguy hiểm cho người dân; cần khai thác có kế hoạch.
+GN: Nguyên liệu là vật liệu thô, chưa qua chế biến.
+GN: Đá vôi khi nung tạo vôi sống.
+GN: Tài nguyên khoáng sản có hạn – dùng tiết kiệm, tái chế.
+Q: mc | Nguyên liệu chính để sản xuất xi măng là
+A) cát
+B) đá vôi *
+C) quặng sắt
+D) dầu mỏ
+E: Xi măng được sản xuất chủ yếu từ đá vôi và đất sét.
+Q: mc | Thủy tinh được sản xuất chủ yếu từ
+A) cát *
+B) đất sét
+C) gỗ
+D) cao su
+E: Cát (silicon dioxide) là nguyên liệu chính làm thủy tinh.
+Q: tf | Về nguyên liệu:
+a) Quặng bauxite là nguyên liệu sản xuất nhôm. | Đ
+b) Tài nguyên khoáng sản là vô tận, không cần tiết kiệm. | S
+c) Tái chế sắt thép phế liệu giúp tiết kiệm quặng sắt. | Đ
+d) Đất sét là nguyên liệu làm gạch, ngói. | Đ
+E: Khoáng sản có hạn, cần khai thác hợp lí.
+Q: match | Nối nguyên liệu với sản phẩm:
+1) Đá vôi | Vôi, xi măng
+2) Quặng sắt | Gang, thép
+3) Cát | Thủy tinh
+4) Mủ cây cao su | Lốp xe, găng tay cao su
+E: Mỗi nguyên liệu được chế biến thành sản phẩm khác nhau.
+Q: sa | Một loại quặng chứa 40% nhôm oxide. Từ 5 tấn quặng thu được bao nhiêu tấn nhôm oxide?
+ANS: 2
+E: 40% × 5 = 2 tấn.
+TL: Em hãy nêu tác hại của việc khai thác khoáng sản bừa bãi và đề xuất 3 biện pháp sử dụng nguyên liệu bền vững.
+MAU: Tác hại: phá rừng, sạt lở đất, ô nhiễm nguồn nước, không khí; cạn kiệt tài nguyên.
+MAU: Biện pháp: khai thác có kế hoạch, được cấp phép; tái chế kim loại, thủy tinh, giấy; sử dụng tiết kiệm và tìm vật liệu thay thế thân thiện môi trường.
+TC: Nêu tác hại đúng | 1
+TC: 3 biện pháp hợp lí | 2
+
 ### Bài 14. Một số nhiên liệu
+> Bếp ga nấu cơm, xăng chạy xe máy, than đốt lò… Nhiên liệu cung cấp năng lượng cho mọi hoạt động – nhưng cần dùng an toàn và tiết kiệm.
+MT: Nêu được khái niệm nhiên liệu; phân loại nhiên liệu rắn, lỏng, khí.
+MT: Nêu được tính chất, cách sử dụng nhiên liệu an toàn, hiệu quả.
+MT: Nêu được khái niệm an ninh năng lượng; nhiên liệu thay thế.
+LT: 1. Nhiên liệu là gì?
+- **Nhiên liệu** là những chất **cháy được**, khi cháy **tỏa nhiệt và phát sáng**.
+- Phân loại: **rắn** (than, củi), **lỏng** (xăng, dầu hỏa, cồn), **khí** (khí ga – LPG, khí thiên nhiên, biogas).
+LT: 2. Sử dụng nhiên liệu an toàn, hiệu quả
+- Để cháy cần đủ 3 yếu tố: **nhiên liệu, oxygen (không khí), nhiệt độ đủ cao** (tam giác cháy).
+- Cháy **hiệu quả**: cung cấp đủ không khí; tăng diện tích tiếp xúc (đập nhỏ than, chẻ nhỏ củi); điều chỉnh lượng nhiên liệu phù hợp.
+- **An toàn**: không để nhiên liệu gần nguồn lửa; kiểm tra rò rỉ ga; dùng than tổ ong nơi thoáng khí (tránh ngộ độc khí CO).
+HINH: 6-khtn/tam-giac-chay.svg | Tam giác cháy: nhiên liệu, oxygen và nhiệt độ; thiếu một yếu tố thì đám cháy tắt.
+LT: 3. Nhiên liệu và an ninh năng lượng
+- Nhiên liệu hóa thạch (than đá, dầu mỏ, khí thiên nhiên) đang cạn kiệt, gây ô nhiễm.
+- **An ninh năng lượng**: bảo đảm đủ năng lượng cho đất nước; khai thác, sử dụng tiết kiệm; dùng nhiên liệu thay thế (xăng sinh học E5, biogas, hydrogen).
+DB: Dạng 1. Phân loại nhiên liệu
+- Theo thể: rắn, lỏng, khí.
+DB: Dạng 2. Giải thích cách làm cháy hiệu quả, dập tắt đám cháy
+- Dập lửa: loại bỏ một trong ba yếu tố của tam giác cháy (cách li oxygen, hạ nhiệt độ, cách li nhiên liệu).
+DB: Dạng 3. Tính toán nhiệt lượng, chi phí
+- Nhiệt lượng = năng suất tỏa nhiệt × khối lượng nhiên liệu.
+VD: Vì sao muốn lửa cháy to hơn, người ta thường quạt vào bếp củi?
+B: Quạt đưa thêm không khí (oxygen) vào bếp.
+KQ: Nhiên liệu cháy mạnh, nhanh hơn.
+VD: Một gia đình dùng hết 1 bình ga 12 kg trong 40 ngày. Trung bình mỗi ngày dùng bao nhiêu gam ga?
+B: 12 kg = 12 000 g.
+KQ: 12 000 : 40 = 300 g/ngày.
+GN: 3 yếu tố gây cháy: nhiên liệu, oxygen, nhiệt độ.
+GN: Đốt than trong phòng kín có thể gây ngộ độc khí CO rất nguy hiểm.
+GN: Khi ngửi thấy mùi ga: khóa van, mở cửa, không bật công tắc điện.
+Q: mc | Nhiên liệu nào sau đây là nhiên liệu khí?
+A) Than đá
+B) Xăng
+C) Khí biogas *
+D) Củi
+E: Biogas ở thể khí.
+Q: mc | Khi phát hiện rò rỉ khí ga trong bếp, việc làm đúng đầu tiên là
+A) bật đèn để kiểm tra
+B) khóa van bình ga, mở cửa cho thoáng *
+C) bật quạt điện
+D) châm lửa thử
+E: Không tạo tia lửa điện; khóa van và làm thoáng khí.
+Q: tf | Về nhiên liệu:
+a) Nhiên liệu là chất cháy được, tỏa nhiệt và phát sáng. | Đ
+b) Đập nhỏ than giúp than cháy hiệu quả hơn. | Đ
+c) Có thể đốt than tổ ong trong phòng kín để sưởi ấm. | S
+d) Xăng sinh học E5 là một loại nhiên liệu thay thế. | Đ
+E: Đốt than trong phòng kín gây ngộ độc khí CO.
+Q: match | Nối cách dập lửa với yếu tố bị loại bỏ:
+1) Trùm chăn ướt lên đám cháy nhỏ | Cách li oxygen
+2) Phun nước vào đám cháy củi | Hạ nhiệt độ
+3) Khóa van bình ga đang cháy | Cách li nhiên liệu
+4) Phủ cát lên vũng xăng cháy | Cách li oxygen
+E: Dập tắt đám cháy bằng cách loại bỏ ít nhất một yếu tố của tam giác cháy.
+Q: sa | Một bếp ga mỗi ngày dùng khoảng 250 g ga. Một bình ga 12 kg dùng được khoảng bao nhiêu ngày?
+ANS: 48
+E: 12 000 : 250 = 48 ngày.
+TL: Vì sao không dùng nước để dập đám cháy do xăng dầu? Nêu cách dập đúng.
+MAU: Xăng dầu nhẹ hơn nước và không tan trong nước, nổi lên trên mặt nước, tiếp tục cháy và lan rộng theo dòng nước.
+MAU: Cách dập đúng: dùng cát, chăn ướt, bình chữa cháy (bột, CO₂) phủ lên để cách li đám cháy với oxygen.
+TC: Giải thích đúng vì sao không dùng nước | 2
+TC: Nêu cách dập đúng | 1
+
 ### Bài 15. Một số lương thực, thực phẩm
+> Cơm, bánh mì, thịt, cá, rau, quả… Mỗi loại lương thực, thực phẩm cung cấp những chất dinh dưỡng khác nhau giúp cơ thể khỏe mạnh.
+MT: Nêu được khái niệm lương thực, thực phẩm; vai trò của chúng.
+MT: Nêu được các nhóm chất dinh dưỡng: tinh bột, chất đạm, chất béo, vitamin và chất khoáng.
+MT: Trình bày được cách bảo quản, sử dụng lương thực – thực phẩm an toàn; chế độ ăn cân đối.
+LT: 1. Lương thực, thực phẩm
+- **Lương thực**: các loại cây trồng giàu **tinh bột** dùng làm thức ăn chính (lúa gạo, ngô, khoai, sắn, lúa mì).
+- **Thực phẩm**: sản phẩm con người ăn, uống ở dạng tươi sống hoặc đã chế biến (thịt, cá, trứng, sữa, rau, quả…).
+LT: 2. Các nhóm chất dinh dưỡng
+- **Tinh bột (carbohydrate)**: cung cấp năng lượng chính – gạo, ngô, khoai, bánh mì.
+- **Chất đạm (protein)**: cấu tạo, phát triển cơ thể – thịt, cá, trứng, sữa, đậu.
+- **Chất béo (lipid)**: dự trữ năng lượng, hòa tan vitamin – dầu ăn, mỡ, lạc, vừng.
+- **Vitamin và chất khoáng**: tăng sức đề kháng, giúp cơ thể hoạt động bình thường – rau xanh, hoa quả.
+HINH: 6-khtn/thap-dinh-duong.svg | Tháp dinh dưỡng: ăn nhiều lương thực, rau quả; ăn vừa phải thịt, cá, trứng, sữa; ăn ít dầu mỡ; hạn chế muối, đường.
+LT: 3. Bảo quản và sử dụng an toàn
+- Bảo quản: làm lạnh, phơi sấy khô, ướp muối, đóng hộp, hút chân không…
+- Chọn thực phẩm tươi, có nguồn gốc rõ ràng, còn hạn sử dụng; ăn chín uống sôi; rửa tay trước khi ăn.
+- **Ăn uống cân đối**: đủ chất, đa dạng, đúng bữa; hạn chế đồ chiên rán, nhiều đường, nhiều muối.
+DB: Dạng 1. Phân loại thực phẩm theo nhóm chất
+- Xác định chất dinh dưỡng chính trong mỗi thực phẩm.
+DB: Dạng 2. Đánh giá bữa ăn
+- Kiểm tra đủ 4 nhóm chất chưa; thừa hay thiếu nhóm nào.
+DB: Dạng 3. Bảo quản thực phẩm
+- Chọn phương pháp phù hợp: rau – tủ lạnh; cá – ướp lạnh; thóc – phơi khô.
+VD: Bữa ăn gồm: cơm, cá kho, canh rau muống, chuối tráng miệng. Bữa ăn có cân đối không?
+B: Cơm: tinh bột; cá: đạm (và một ít chất béo); rau muống, chuối: vitamin, chất khoáng.
+KQ: Bữa ăn khá cân đối, đủ các nhóm chất.
+VD: Vì sao nên kiểm tra hạn sử dụng trước khi mua thực phẩm đóng gói?
+B: Thực phẩm quá hạn có thể bị biến chất, vi khuẩn phát triển.
+KQ: Ăn phải thực phẩm hết hạn dễ bị ngộ độc thực phẩm.
+GN: Tinh bột cung cấp năng lượng chính.
+GN: Ăn đa dạng, đủ 4 nhóm chất; hạn chế muối, đường, đồ chiên rán.
+GN: Ăn chín, uống sôi, rửa tay trước khi ăn.
+Q: mc | Thực phẩm nào giàu chất đạm nhất?
+A) Gạo
+B) Trứng gà *
+C) Rau cải
+D) Dầu ăn
+E: Trứng giàu protein.
+Q: mc | Lương thực chính của người Việt Nam là
+A) lúa gạo *
+B) lúa mì
+C) khoai tây
+D) đậu nành
+E: Gạo là lương thực chính.
+Q: tf | Về lương thực, thực phẩm:
+a) Rau xanh và hoa quả cung cấp nhiều vitamin, chất khoáng. | Đ
+b) Ăn càng nhiều đồ chiên rán càng tốt cho sức khỏe. | S
+c) Phơi khô là một cách bảo quản thóc, ngô. | Đ
+d) Thực phẩm quá hạn sử dụng vẫn ăn được nếu còn thơm. | S
+E: Hạn chế đồ chiên rán; không ăn thực phẩm quá hạn.
+Q: match | Nối thực phẩm với nhóm chất dinh dưỡng chính:
+1) Khoai lang | Tinh bột
+2) Thịt bò | Chất đạm
+3) Dầu lạc | Chất béo
+4) Quả cam | Vitamin và chất khoáng
+E: Mỗi thực phẩm giàu một nhóm chất chính.
+Q: sa | Một học sinh cần khoảng 2200 kcal mỗi ngày, trong đó tinh bột cung cấp 60%. Năng lượng từ tinh bột là bao nhiêu kcal?
+ANS: 1320
+E: 2200 × 60% = 1320 kcal.
+TL: Hãy xây dựng thực đơn một ngày (3 bữa) cân đối cho học sinh lớp 6 và giải thích.
+MAU: Sáng: bánh mì kẹp trứng, một hộp sữa – tinh bột, đạm, chất béo.
+MAU: Trưa: cơm, thịt rang, canh bí, dưa hấu – đủ tinh bột, đạm, vitamin.
+MAU: Tối: cơm, cá kho, rau luộc, chuối – đủ chất, nhẹ nhàng; uống đủ nước trong ngày.
+TC: Thực đơn đủ 3 bữa | 1
+TC: Mỗi bữa đủ nhóm chất chính | 1
+TC: Giải thích hợp lí | 1
+
 ## Chương IV. Hỗn hợp. Tách chất ra khỏi hỗn hợp
 ### Bài 16. Hỗn hợp các chất
+> Nước muối, nước đường, không khí, nước phù sa… Phần lớn những gì quanh ta không phải chất tinh khiết mà là hỗn hợp nhiều chất.
+MT: Phân biệt được chất tinh khiết và hỗn hợp; hỗn hợp đồng nhất và không đồng nhất.
+MT: Nêu được khái niệm dung dịch, dung môi, chất tan; huyền phù, nhũ tương.
+MT: Nêu được các yếu tố ảnh hưởng đến lượng chất rắn hòa tan trong nước.
+LT: 1. Chất tinh khiết và hỗn hợp
+- **Chất tinh khiết** (chất nguyên chất): chỉ chứa **một chất**, có tính chất xác định (nước cất sôi ở 100 °C).
+- **Hỗn hợp**: gồm **hai hay nhiều chất** trộn lẫn; tính chất thay đổi theo thành phần.
+- **Hỗn hợp đồng nhất**: thành phần giống nhau ở mọi vị trí (nước muối, không khí). **Hỗn hợp không đồng nhất**: thành phần khác nhau (nước phù sa, hỗn hợp cát và muối).
+LT: 2. Dung dịch, huyền phù, nhũ tương
+- **Dung dịch** là hỗn hợp đồng nhất của **dung môi** (thường là nước) và **chất tan** (nước muối: dung môi là nước, chất tan là muối).
+- **Huyền phù**: chất rắn lơ lửng trong chất lỏng (nước phù sa, nước bột sắn).
+- **Nhũ tương**: chất lỏng phân tán trong chất lỏng khác, không tan vào nhau (dầu ăn lắc với nước, sữa).
+HINH: 6-khtn/hon-hop.svg | Dung dịch (muối tan hoàn toàn, trong suốt), huyền phù (chất rắn lơ lửng, đục), nhũ tương (dầu phân tán thành giọt nhỏ trong nước).
+LT: 3. Yếu tố ảnh hưởng đến sự hòa tan chất rắn
+- **Nhiệt độ**: đa số chất rắn tan nhiều hơn khi nhiệt độ tăng (đường tan nhanh trong nước nóng).
+- **Khuấy trộn**, **nghiền nhỏ** chất rắn giúp hòa tan nhanh hơn.
+- Ở một nhiệt độ, lượng chất tan trong một lượng nước có giới hạn.
+DB: Dạng 1. Phân biệt chất tinh khiết và hỗn hợp
+- Có một chất → tinh khiết; hai chất trở lên → hỗn hợp.
+DB: Dạng 2. Phân loại hỗn hợp
+- Đồng nhất (dung dịch) / không đồng nhất (huyền phù, nhũ tương).
+DB: Dạng 3. Giải thích cách hòa tan nhanh
+- Đun nóng, khuấy, nghiền nhỏ.
+VD: Pha nước chanh đường. Xác định dung môi và chất tan.
+B: Nước là chất dùng để hòa tan, chiếm lượng nhiều nhất.
+KQ: Dung môi: nước; chất tan: đường, nước cốt chanh (axit, chất tạo vị).
+VD: Hòa tan 30 g muối vào 120 g nước. Khối lượng dung dịch thu được là bao nhiêu?
+B: Khối lượng dung dịch = khối lượng chất tan + khối lượng dung môi.
+KQ: 30 + 120 = 150 g.
+GN: Dung dịch là hỗn hợp đồng nhất.
+GN: Huyền phù, nhũ tương là hỗn hợp không đồng nhất.
+GN: m(dung dịch) = m(chất tan) + m(dung môi).
+Q: mc | Chất nào sau đây là chất tinh khiết?
+A) Nước biển
+B) Nước cất *
+C) Không khí
+D) Sữa
+E: Nước cất chỉ chứa một chất là nước.
+Q: mc | Hỗn hợp dầu ăn lắc đều với nước tạo thành
+A) dung dịch
+B) huyền phù
+C) nhũ tương *
+D) chất tinh khiết
+E: Dầu và nước là hai chất lỏng không tan vào nhau.
+Q: tf | Về hỗn hợp:
+a) Nước muối là hỗn hợp đồng nhất. | Đ
+b) Nước phù sa là dung dịch. | S
+c) Khuấy đều giúp đường tan nhanh hơn. | Đ
+d) Không khí là hỗn hợp nhiều chất khí. | Đ
+E: Nước phù sa là huyền phù (không đồng nhất).
+Q: match | Nối hỗn hợp với loại hỗn hợp:
+1) Nước đường | Dung dịch
+2) Nước bột sắn | Huyền phù
+3) Dầu ăn lắc với nước | Nhũ tương
+4) Cát lẫn muối | Hỗn hợp không đồng nhất (rắn – rắn)
+E: Dựa vào trạng thái và sự phân bố các chất.
+Q: sa | Hòa tan 25 g đường vào 175 g nước. Khối lượng dung dịch nước đường là bao nhiêu gam?
+ANS: 200
+E: 25 + 175 = 200 g.
+TL: Em hãy thiết kế thí nghiệm chứng minh nhiệt độ ảnh hưởng đến tốc độ hòa tan của đường trong nước.
+MAU: Chuẩn bị 2 cốc chứa cùng lượng nước (100 mL): một cốc nước lạnh, một cốc nước nóng; 2 thìa đường bằng nhau.
+MAU: Cho đường vào hai cốc cùng lúc, không khuấy (hoặc khuấy như nhau), quan sát thời gian đường tan hết.
+MAU: Kết quả: đường trong cốc nước nóng tan nhanh hơn ⇒ nhiệt độ cao giúp chất rắn hòa tan nhanh hơn.
+TC: Có đối chứng, chỉ khác nhiệt độ | 1
+TC: Cách tiến hành đúng | 1
+TC: Kết luận đúng | 1
+
 ### Bài 17. Tách chất khỏi hỗn hợp
+> Muối ăn được làm từ nước biển, nước giếng được lọc qua cát sỏi… Con người có nhiều cách để tách lấy chất mình cần ra khỏi hỗn hợp.
+MT: Trình bày được cách tách chất bằng phương pháp lọc, cô cạn, chiết.
+MT: Giải thích được nguyên tắc của từng phương pháp (dựa vào tính chất khác nhau của các chất).
+MT: Vận dụng tách chất trong đời sống.
+LT: 1. Nguyên tắc tách chất
+- Dựa vào sự **khác nhau về tính chất** của các chất trong hỗn hợp: kích thước hạt, tính tan, nhiệt độ sôi, khối lượng riêng, từ tính…
+LT: 2. Các phương pháp tách chất
+- **Lọc**: tách chất **rắn không tan** ra khỏi chất lỏng (lọc cát khỏi nước). Dụng cụ: phễu, giấy lọc, cốc.
+- **Cô cạn**: tách chất **rắn tan** ra khỏi dung dịch bằng cách đun cho chất lỏng bay hơi hết (làm muối từ nước biển).
+- **Chiết**: tách hai chất **lỏng không tan vào nhau** (dầu và nước) bằng phễu chiết – chất lỏng nặng hơn ở dưới, chảy ra trước.
+- Ngoài ra: dùng nam châm tách sắt; sàng, sảy tách hạt to nhỏ, nặng nhẹ…
+HINH: 6-khtn/tach-chat.svg | Ba cách tách chất: lọc (giữ cát trên giấy lọc), cô cạn (đun bay hơi nước còn lại muối), chiết (dùng phễu chiết tách dầu và nước).
+LT: 3. Ứng dụng
+- Lọc nước sinh hoạt qua cát, sỏi, than; làm muối từ nước biển (phơi nắng); tách dầu mỡ khỏi nước thải; đãi vàng, sàng gạo.
+DB: Dạng 1. Chọn phương pháp tách phù hợp
+- Rắn không tan + lỏng → lọc; rắn tan + lỏng → cô cạn; lỏng + lỏng không tan → chiết; có sắt → nam châm.
+DB: Dạng 2. Trình bày các bước tách hỗn hợp nhiều chất
+- Ví dụ cát + muối: hòa tan vào nước → lọc lấy cát → cô cạn nước lọc lấy muối.
+DB: Dạng 3. Tính khối lượng chất thu được
+- Khối lượng muối = nồng độ (%) × khối lượng nước biển.
+VD: Trình bày cách tách riêng muối ăn và cát từ hỗn hợp cát lẫn muối.
+B: Cho hỗn hợp vào nước, khuấy đều: muối tan, cát không tan.
+B: Lọc hỗn hợp: cát ở lại trên giấy lọc; nước lọc là dung dịch muối.
+KQ: Cô cạn nước lọc thu được muối; phơi khô phần trên giấy lọc thu được cát.
+VD: Nước biển chứa khoảng 3,5% muối. Cô cạn 200 kg nước biển thu được bao nhiêu kg muối?
+B: Khối lượng muối = 3,5% × 200.
+KQ: 7 kg muối.
+GN: Lọc: rắn không tan; cô cạn: rắn tan; chiết: lỏng không tan vào nhau.
+GN: Nam châm hút sắt – dùng tách bột sắt.
+GN: Khi cô cạn cần đun cẩn thận, dùng kẹp, kính bảo hộ.
+Q: mc | Để tách cát ra khỏi nước, dùng phương pháp
+A) lọc *
+B) cô cạn
+C) chiết
+D) dùng nam châm
+E: Cát không tan trong nước, được giữ lại trên giấy lọc.
+Q: mc | Phương pháp làm muối từ nước biển của diêm dân là
+A) lọc
+B) cô cạn (phơi nắng cho nước bay hơi) *
+C) chiết
+D) chưng cất
+E: Nước bay hơi, muối kết tinh lại.
+Q: ord | Sắp xếp các bước tách muối ăn ra khỏi hỗn hợp muối lẫn cát:
+1) Cho hỗn hợp vào nước, khuấy đều cho muối tan hết
+2) Lọc để loại bỏ cát
+3) Đun nước lọc cho nước bay hơi hết
+4) Thu lấy muối kết tinh
+E: Hòa tan → lọc → cô cạn → thu muối.
+Q: tf | Về tách chất:
+a) Có thể dùng phễu chiết để tách dầu ăn ra khỏi nước. | Đ
+b) Lọc tách được muối ra khỏi nước muối. | S
+c) Dùng nam châm tách được bột sắt ra khỏi bột lưu huỳnh. | Đ
+d) Các phương pháp tách chất dựa trên tính chất khác nhau của các chất. | Đ
+E: Muối tan trong nước nên đi qua giấy lọc; phải cô cạn.
+Q: sa | Nước biển chứa 3,5% muối. Cô cạn 400 kg nước biển thu được bao nhiêu kg muối?
+ANS: 14
+E: 3,5% × 400 = 14 kg.
+TL: Một hỗn hợp gồm bột sắt, cát và muối ăn. Hãy trình bày cách tách riêng từng chất.
+MAU: Dùng nam châm hút bột sắt ra khỏi hỗn hợp.
+MAU: Cho phần còn lại (cát, muối) vào nước, khuấy cho muối tan; lọc lấy cát trên giấy lọc, phơi khô.
+MAU: Cô cạn nước lọc thu được muối ăn.
+TC: Tách sắt đúng | 1
+TC: Tách cát đúng | 1
+TC: Tách muối đúng | 1
+
 ## Chương V. Tế bào
 ### Bài 18. Tế bào – Đơn vị cơ bản của sự sống
 > Mọi cơ thể sống đều được tạo nên từ tế bào – những "viên gạch" nhỏ bé xây nên sự sống.
