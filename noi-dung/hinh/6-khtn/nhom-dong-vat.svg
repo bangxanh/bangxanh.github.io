@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="571.68pt" height="227.952pt" viewBox="0 0 571.68 227.952" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:39:15.327647</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 227.952 
+L 571.68 227.952 
+L 571.68 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 206.0064 41.904 
+L 365.6736 41.904 
+Q 369 41.904 369 38.5776 
+L 369 17.5104 
+Q 369 14.184 365.6736 14.184 
+L 206.0064 14.184 
+Q 202.68 14.184 202.68 17.5104 
+L 202.68 38.5776 
+Q 202.68 41.904 206.0064 41.904 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #e8f4ec; stroke: #1f5640; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 20.2824 97.344 
+L 252.0216 97.344 
+Q 255.348 97.344 255.348 94.0176 
+L 255.348 70.1784 
+Q 255.348 66.852 252.0216 66.852 
+L 20.2824 66.852 
+Q 16.956 66.852 16.956 70.1784 
+L 16.956 94.0176 
+Q 16.956 97.344 20.2824 97.344 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 294.7104 97.344 
+L 551.3976 97.344 
+Q 554.724 97.344 554.724 94.0176 
+L 554.724 70.1784 
+Q 554.724 66.852 551.3976 66.852 
+L 294.7104 66.852 
+Q 291.384 66.852 291.384 70.1784 
+L 291.384 94.0176 
+Q 291.384 97.344 294.7104 97.344 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 256.150973 43.648005 
+Q 197.134755 54.378226 139.878536 64.788448 
+" clip-path="url(#p3a7aac4f9f)" style="fill: none; stroke: #bd7a12; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 146.747737 66.791965 
+L 139.878536 64.788448 
+L 145.60287 60.495198 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #bd7a12; stroke: #bd7a12; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 315.516422 43.691317 
+Q 367.612266 54.377644 417.955743 64.704511 
+" clip-path="url(#p3a7aac4f9f)" style="fill: none; stroke: #2f6fde; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 412.329307 60.28374 
+L 417.955743 64.704511 
+L 411.043264 66.553197 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #2f6fde; stroke: #2f6fde; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 20.2824 152.784 
+L 69.0696 152.784 
+Q 72.396 152.784 72.396 149.4576 
+L 72.396 114.5304 
+Q 72.396 111.204 69.0696 111.204 
+L 20.2824 111.204 
+Q 16.956 111.204 16.956 114.5304 
+L 16.956 149.4576 
+Q 16.956 152.784 20.2824 152.784 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #fff8ec; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 81.2664 152.784 
+L 130.0536 152.784 
+Q 133.38 152.784 133.38 149.4576 
+L 133.38 114.5304 
+Q 133.38 111.204 130.0536 111.204 
+L 81.2664 111.204 
+Q 77.94 111.204 77.94 114.5304 
+L 77.94 149.4576 
+Q 77.94 152.784 81.2664 152.784 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #fff8ec; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 142.2504 152.784 
+L 191.0376 152.784 
+Q 194.364 152.784 194.364 149.4576 
+L 194.364 114.5304 
+Q 194.364 111.204 191.0376 111.204 
+L 142.2504 111.204 
+Q 138.924 111.204 138.924 114.5304 
+L 138.924 149.4576 
+Q 138.924 152.784 142.2504 152.784 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #fff8ec; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 203.2344 152.784 
+L 252.0216 152.784 
+Q 255.348 152.784 255.348 149.4576 
+L 255.348 114.5304 
+Q 255.348 111.204 252.0216 111.204 
+L 203.2344 111.204 
+Q 199.908 111.204 199.908 114.5304 
+L 199.908 149.4576 
+Q 199.908 152.784 203.2344 152.784 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #fff8ec; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 294.7104 152.784 
+L 336.5676 152.784 
+Q 339.894 152.784 339.894 149.4576 
+L 339.894 114.5304 
+Q 339.894 111.204 336.5676 111.204 
+L 294.7104 111.204 
+Q 291.384 111.204 291.384 114.5304 
+L 291.384 149.4576 
+Q 291.384 152.784 294.7104 152.784 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #f4f8ff; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 348.7644 152.784 
+L 390.6216 152.784 
+Q 393.948 152.784 393.948 149.4576 
+L 393.948 114.5304 
+Q 393.948 111.204 390.6216 111.204 
+L 348.7644 111.204 
+Q 345.438 111.204 345.438 114.5304 
+L 345.438 149.4576 
+Q 345.438 152.784 348.7644 152.784 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #f4f8ff; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 402.8184 152.784 
+L 444.6756 152.784 
+Q 448.002 152.784 448.002 149.4576 
+L 448.002 114.5304 
+Q 448.002 111.204 444.6756 111.204 
+L 402.8184 111.204 
+Q 399.492 111.204 399.492 114.5304 
+L 399.492 149.4576 
+Q 399.492 152.784 402.8184 152.784 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #f4f8ff; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 456.8724 152.784 
+L 498.7296 152.784 
+Q 502.056 152.784 502.056 149.4576 
+L 502.056 114.5304 
+Q 502.056 111.204 498.7296 111.204 
+L 456.8724 111.204 
+Q 453.546 111.204 453.546 114.5304 
+L 453.546 149.4576 
+Q 453.546 152.784 456.8724 152.784 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #f4f8ff; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 510.9264 152.784 
+L 552.7836 152.784 
+Q 556.11 152.784 556.11 149.4576 
+L 556.11 114.5304 
+Q 556.11 111.204 552.7836 111.204 
+L 510.9264 111.204 
+Q 507.6 111.204 507.6 114.5304 
+L 507.6 149.4576 
+Q 507.6 152.784 510.9264 152.784 
+z
+" clip-path="url(#p3a7aac4f9f)" style="fill: #f4f8ff; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f5640" x="285.84" y="32.172281" transform="rotate(-0 285.84 32.172281)">GIỚI ĐỘNG VẬT</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="136.152" y="86.630168" transform="rotate(-0 136.152 86.630168)">KHÔNG XƯƠNG SỐNG</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="423.054" y="86.630168" transform="rotate(-0 423.054 86.630168)">CÓ XƯƠNG SỐNG</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(33.237719 128.79068)">Ruột</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(26.145531 140.793414)">khoang</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'" transform="translate(35.083562 180.900531)">sứa,</text>
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'" transform="translate(29.353687 192.409875)">san hô</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="105.66" y="134.592047" transform="rotate(-0 105.66 134.592047)">Giun</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'" transform="translate(85.164844 180.692094)">giun đất,</text>
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'" transform="translate(85.514875 191.412969)">giun đũa</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(154.188531 128.356305)">Thân</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(153.826812 141.227789)">mềm</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'" transform="translate(146.989062 180.806375)">ốc, mực,</text>
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'" transform="translate(158.85275 192.225875)">trai</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(214.735031 128.59068)">Chân</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(215.330344 140.993414)">khớp</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'" transform="translate(202.567344 180.592906)">tôm, nhện,</text>
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'" transform="translate(205.46175 191.518625)">côn trùng</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="315.639" y="134.792047" transform="rotate(-0 315.639 134.792047)">Cá</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(292.421025 183.357141)">thở mang,</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(307.415869 194.111437)">vây</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(354.335969 128.676227)">Lưỡng</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(363.775031 140.67818)">cư</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(353.286197 184.39425)">da trần</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(362.413462 195.263859)">ẩm</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="423.747" y="134.792047" transform="rotate(-0 423.747 134.792047)">Bò sát</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(401.758791 183.357141)">vảy sừng,</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(408.352697 194.983312)">da khô</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="477.801" y="134.592047" transform="rotate(-0 477.801 134.592047)">Chim</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(459.574509 183.311437)">lông vũ,</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(466.726697 194.983312)">cánh</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="531.855" y="134.792047" transform="rotate(-0 531.855 134.792047)">Thú</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(509.249447 177.911437)">lông mao,</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(512.499291 189.583312)">nuôi con</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(511.009369 199.858781)">bằng sữa</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3a7aac4f9f">
+   <rect x="8.64" y="8.64" width="554.4" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -7,6 +7,18 @@ D = '6-khtn/'
 ALL = []
 
 
+def chuoi_hop(ax, items, y, w, h, gap, mau_nen, vien, co=10.5, x0=0.3):
+    """Vẽ một dãy hộp nối bằng mũi tên theo hàng ngang; trả về danh sách tâm."""
+    xs = []
+    for i, t in enumerate(items):
+        x = x0 + i * (w + gap)
+        hop(ax, x, y, w, h, t, mau=mau_nen if isinstance(mau_nen, str) else mau_nen[i], vien=vien if isinstance(vien, str) else vien[i], co=co)
+        if i:
+            mui_ten(ax, (x - gap + 0.05, y + h / 2), (x - 0.05, y + h / 2), MAU['xam'], 1.6)
+        xs.append(x + w / 2)
+    return xs
+
+
 def linh_vuc_khtn():
     fig, ax = khung(9.6, 3.6); trong(ax)
     ax.set_xlim(0, 19.2); ax.set_ylim(0, 7.2)
@@ -652,6 +664,187 @@ def th_nguyen_sinh():
 
 
 ALL += [bac_phan_loai, khoa_luong_phan, vi_khuan, lam_sua_chua, virus, nguyen_sinh_vat, th_nguyen_sinh]
+
+
+def nam_mu(ax, x, y, s=1.0, mau='#c8a27a'):
+    ax.add_patch(Wedge((x, y), 1.5 * s, 0, 180, fc=mau, ec='#7a5530', lw=1.5))
+    for k in range(9):
+        xx = x - 1.3 * s + k * 0.325 * s; ax.plot([xx, x], [y, y - 0.05], color='#8a6a4a', lw=0.6)
+    ax.add_patch(Rectangle((x - 0.25 * s, y - 2.0 * s), 0.5 * s, 2.0 * s, fc='#efe3cf', ec='#7a5530'))
+    for k in range(5):
+        ax.plot([x - 0.1 * s + k * 0.05 * s, x - 0.6 * s + k * 0.3 * s], [y - 2.0 * s, y - 2.6 * s], color='#d9c8a8', lw=0.9)
+
+
+def nam():
+    fig, ax = khung(9.0, 3.6); trong(ax)
+    ax.set_xlim(0, 18); ax.set_ylim(0, 7.2)
+    nam_mu(ax, 3.0, 4.6, 1.3)
+    ax.annotate('mũ nấm', xy=(2.4, 5.8), xytext=(5.2, 6.8), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('phiến nấm\n(mang bào tử)', xy=(4.2, 4.55), xytext=(5.4, 5.0), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('cuống nấm', xy=(3.2, 3.2), xytext=(5.4, 3.3), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('sợi nấm', xy=(2.4, 1.3), xytext=(5.4, 1.4), fontsize=10.5, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.plot([0.3, 4.6], [1.6, 1.6], color='#8a6a3a', lw=1.5)
+    ax.plot([8.6, 8.6], [0.3, 6.9], color=MAU['nhat'], lw=2)
+    for (x, y) in [(9.8, 4.6), (10.4, 4.9), (10.1, 4.1)]:
+        ax.add_patch(Ellipse((x, y), 0.6, 0.45, fc='#fff0c8', ec=MAU['cam']))
+    ax.text(10.1, 2.75, 'nấm men\n(đơn bào)', ha='center', va='top', fontsize=10, linespacing=1.2)
+    ax.add_patch(Rectangle((11.8, 3.6), 2.6, 0.9, fc='#e9c99a', ec='#8a6a3a'))
+    for k in range(7):
+        xx = 12.0 + k * 0.35; ax.plot([xx, xx + 0.05], [4.5, 5.4], color='#bbb', lw=0.8); ax.add_patch(Circle((xx + 0.05, 5.5), 0.11, fc='#2f6f4a' if k % 2 else '#333'))
+    ax.text(13.1, 2.75, 'nấm mốc\n(trên bánh mì)', ha='center', va='top', fontsize=10, linespacing=1.2)
+    nam_mu(ax, 16.4, 4.8, 0.7, '#9a8a7a')
+    ax.text(16.4, 2.75, 'nấm rơm\n(nấm mũ)', ha='center', va='top', fontsize=10, linespacing=1.2)
+    ax.text(13.2, 0.8, 'Nấm: nhân thực, không có lục lạp, sinh sản bằng bào tử', ha='center', fontsize=10.5, weight='bold', color=MAU['xanh'])
+    luu(fig, D + 'nam.svg')
+
+
+def th_nam():
+    fig, ax = khung(8.6, 3.6); trong(ax)
+    ax.set_xlim(0, 17.2); ax.set_ylim(0, 7.2)
+    ax.add_patch(Polygon([[1.0, 4.4], [2.0, 6.2], [3.6, 6.4], [5.0, 4.4]], fc='#b9a48a', ec='#7a5530', lw=1.5))
+    for k in range(8): ax.plot([1.2 + k * 0.5, 3.0], [4.4, 4.9], color='#7a5530', lw=0.6)
+    ax.add_patch(Rectangle((2.7, 1.4), 0.6, 3.0, fc='#efe3cf', ec='#7a5530'))
+    ax.add_patch(Ellipse((3.0, 1.4), 1.6, 0.7, fc='#f6efe2', ec='#7a5530'))
+    ax.text(3.0, 0.3, 'nấm rơm cắt dọc', ha='center', fontsize=10.5, weight='bold', color=MAU['xanh'])
+    ax.annotate('phiến', xy=(4.2, 4.6), xytext=(5.4, 5.3), fontsize=10, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('cuống', xy=(3.3, 2.8), xytext=(5.4, 2.9), fontsize=10, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('bao gốc', xy=(3.8, 1.4), xytext=(5.4, 1.4), fontsize=10, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.add_patch(Circle((11.6, 3.8), 3.0, fc='#fbfaf4', ec='#333', lw=2.2))
+    rng = np.random.default_rng(2)
+    for k in range(9):
+        x0 = 9.4 + k * 0.5; tt = np.linspace(0, 1, 20)
+        ax.plot(x0 + 0.3 * np.sin(tt * 5 + k), 1.8 + 3.2 * tt, color='#bbb', lw=1)
+        ax.add_patch(Circle((x0 + 0.3 * np.sin(5 + k), 5.0 + rng.random() * 0.2), 0.22, fc='#333', ec='#111'))
+    ax.annotate('túi bào tử', xy=(11.0, 5.1), xytext=(14.8, 6.4), fontsize=10, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.annotate('sợi nấm', xy=(12.4, 3.0), xytext=(14.8, 2.6), fontsize=10, arrowprops=dict(arrowstyle='-', color=MAU['xam']))
+    ax.text(11.6, 0.3, 'mốc bánh mì qua kính lúp', ha='center', fontsize=10.5, weight='bold', color=MAU['xanh'])
+    luu(fig, D + 'th-nam.svg')
+
+
+def cay_reu(ax, x, y, s=1.0):
+    for k in range(4):
+        xx = x + (k - 1.5) * 0.35 * s
+        ax.plot([xx, xx], [y, y + 1.2 * s], color='#4f8a2a', lw=1.5)
+        for j in range(4): ax.add_patch(Ellipse((xx + 0.12 * s * (-1) ** j, y + 0.3 * s + j * 0.25 * s), 0.22 * s, 0.1 * s, angle=30 * (-1) ** j, fc='#7cbf4a', ec='none'))
+    ax.plot([x, x + 0.1 * s], [y + 1.2 * s, y + 2.0 * s], color='#a0784a', lw=1); ax.add_patch(Ellipse((x + 0.1 * s, y + 2.05 * s), 0.12 * s, 0.25 * s, fc='#a0784a'))
+
+
+def duong_xi(ax, x, y, s=1.0):
+    for sg in (-1, 1):
+        tt = np.linspace(0, 1, 20); ax.plot(x + sg * 1.4 * s * tt, y + 2.0 * s * tt - 0.6 * s * tt ** 2, color='#3f7a1f', lw=1.4)
+        for k in range(1, 8):
+            t = k / 8; px, py = x + sg * 1.4 * s * t, y + 2.0 * s * t - 0.6 * s * t * t
+            ax.add_patch(Ellipse((px, py + 0.12 * s), 0.18 * s, 0.4 * s * (1.1 - t), angle=-30 * sg, fc='#6fb03a', ec='none'))
+    a = np.linspace(0, 4 * np.pi, 60); r = 0.25 * s * np.linspace(1, 0.1, 60)
+    ax.plot([x, x], [y, y + 1.6 * s], color='#3f7a1f', lw=1.4); ax.plot(x + r * np.cos(a), y + 1.85 * s + r * np.sin(a), color='#3f7a1f', lw=1.2)
+
+
+def cay_thong(ax, x, y, s=1.0):
+    ax.add_patch(Rectangle((x - 0.15 * s, y), 0.3 * s, 0.7 * s, fc='#7a5530'))
+    for k in range(3):
+        w = (1.6 - k * 0.4) * s; yy = y + 0.6 * s + k * 0.7 * s
+        ax.add_patch(Polygon([[x - w / 2, yy], [x + w / 2, yy], [x, yy + 1.0 * s]], fc='#2f6b3a', ec='#1f4a2a'))
+    ax.add_patch(Ellipse((x + 0.75 * s, y + 0.9 * s), 0.3 * s, 0.5 * s, fc='#a0784a', ec='#6a4a2a'))
+
+
+def cay_hoa(ax, x, y, s=1.0):
+    ax.plot([x, x], [y, y + 2.0 * s], color='#4f8a2a', lw=2)
+    ax.add_patch(Ellipse((x - 0.4 * s, y + 0.8 * s), 0.7 * s, 0.3 * s, angle=25, fc='#7cbf4a')); ax.add_patch(Ellipse((x + 0.4 * s, y + 1.2 * s), 0.7 * s, 0.3 * s, angle=-25, fc='#7cbf4a'))
+    for a in range(0, 360, 60):
+        r = np.radians(a); ax.add_patch(Ellipse((x + 0.3 * s * np.cos(r), y + 2.2 * s + 0.3 * s * np.sin(r)), 0.4 * s, 0.22 * s, angle=a, fc='#f7b6c2', ec=MAU['do'], lw=0.6))
+    ax.add_patch(Circle((x, y + 2.2 * s), 0.13 * s, fc=MAU['vang']))
+    ax.add_patch(Circle((x + 0.8 * s, y + 1.6 * s), 0.22 * s, fc='#f2a65a', ec='#b5651d'))
+
+
+def nhom_thuc_vat():
+    fig, ax = khung(10.0, 3.8); trong(ax)
+    ax.set_xlim(0, 20); ax.set_ylim(0, 7.6)
+    data = [('RÊU', 'không có mạch dẫn,\nrễ giả, bào tử', cay_reu, '#eef7e6'), ('DƯƠNG XỈ', 'có mạch dẫn,\nlá non cuộn, bào tử', duong_xi, '#e6f3e0'),
+            ('HẠT TRẦN', 'có mạch, hạt lộ\ntrên nón (thông)', cay_thong, '#e3efe8'), ('HẠT KÍN', 'có mạch, có hoa,\nquả bọc hạt', cay_hoa, '#fdf0f2')]
+    for i, (t, m, fn, nen) in enumerate(data):
+        x = 0.2 + i * 5.0
+        hop(ax, x, 0.2, 4.6, 7.2, '', mau=nen, vien=MAU['la'])
+        ax.text(x + 2.3, 6.8, t, ha='center', fontsize=12, weight='bold', color=MAU['xanh'])
+        fn(ax, x + 2.3, 2.6, 1.3)
+        ax.text(x + 2.3, 1.4, m, ha='center', va='center', fontsize=9.6, linespacing=1.3)
+    luu(fig, D + 'nhom-thuc-vat.svg')
+
+
+def bang_quan_sat(ax, x0, y0, cols, widths, rows, h=0.8, co=9.6):
+    xs = [x0]
+    for w in widths: xs.append(xs[-1] + w)
+    allrows = [cols] + rows
+    for r, row in enumerate(allrows):
+        y = y0 - r * h
+        for c, val in enumerate(row):
+            ax.add_patch(Rectangle((xs[c], y - h), widths[c], h, fc='#e8f4ec' if r == 0 else 'white', ec=MAU['xam'], lw=0.8))
+            ax.text(xs[c] + 0.15, y - h / 2, val, va='center', fontsize=co, weight='bold' if r == 0 else 'normal')
+
+
+def th_thuc_vat():
+    fig, ax = khung(9.6, 3.0); trong(ax)
+    ax.set_xlim(0, 19.2); ax.set_ylim(0, 5.0)
+    bang_quan_sat(ax, 0.2, 4.8, ['Cây', 'Rễ', 'Mạch dẫn', 'Cơ quan sinh sản', 'Nhóm'], [3.2, 2.4, 2.6, 6.6, 4.0],
+                  [['Rêu tường', 'rễ giả', 'không', 'bào tử (ở ngọn)', 'Rêu'], ['Cây ráng', 'rễ thật', 'có', 'túi bào tử mặt dưới lá', 'Dương xỉ'],
+                   ['Cây thông', 'rễ thật', 'có', 'nón, hạt lộ trên vảy', 'Hạt trần'], ['Cây bưởi', 'rễ thật', 'có', 'hoa, quả chứa hạt', 'Hạt kín']])
+    luu(fig, D + 'th-thuc-vat.svg')
+
+
+def nhom_dong_vat():
+    fig, ax = khung(10.0, 3.8); trong(ax)
+    ax.set_xlim(0, 20); ax.set_ylim(0, 7.6)
+    hop(ax, 7.0, 6.4, 6.0, 1.0, 'GIỚI ĐỘNG VẬT', mau='#e8f4ec', vien=MAU['xanh'], co=12, chu_mau=MAU['xanh'])
+    hop(ax, 0.3, 4.4, 8.6, 1.1, 'KHÔNG XƯƠNG SỐNG', mau='#fdf0dc', vien=MAU['cam'], co=11.5, chu_mau=MAU['cam'])
+    hop(ax, 10.2, 4.4, 9.5, 1.1, 'CÓ XƯƠNG SỐNG', mau='#e3eefc', vien=MAU['lam'], co=11.5, chu_mau=MAU['lam'])
+    mui_ten(ax, (9.0, 6.35), (4.6, 5.55), MAU['cam'], 1.6); mui_ten(ax, (11.0, 6.35), (14.9, 5.55), MAU['lam'], 1.6)
+    a = [('Ruột\nkhoang', 'sứa,\nsan hô'), ('Giun', 'giun đất,\ngiun đũa'), ('Thân\nmềm', 'ốc, mực,\ntrai'), ('Chân\nkhớp', 'tôm, nhện,\ncôn trùng')]
+    for i, (t, m) in enumerate(a):
+        x = 0.3 + i * 2.2
+        hop(ax, x, 2.4, 2.0, 1.5, t, mau='#fff8ec', vien=MAU['cam'], co=10)
+        ax.text(x + 1.0, 1.3, m, ha='center', va='center', fontsize=9.2, linespacing=1.2)
+    b = [('Cá', 'thở mang,\nvây'), ('Lưỡng\ncư', 'da trần\nẩm'), ('Bò sát', 'vảy sừng,\nda khô'), ('Chim', 'lông vũ,\ncánh'), ('Thú', 'lông mao,\nnuôi con\nbằng sữa')]
+    for i, (t, m) in enumerate(b):
+        x = 10.2 + i * 1.95
+        hop(ax, x, 2.4, 1.75, 1.5, t, mau='#f4f8ff', vien=MAU['lam'], co=10)
+        ax.text(x + 0.87, 1.2, m, ha='center', va='center', fontsize=9.0, linespacing=1.2)
+    luu(fig, D + 'nhom-dong-vat.svg')
+
+
+def th_dong_vat():
+    fig, ax = khung(9.6, 3.2); trong(ax)
+    ax.set_xlim(0, 19.2); ax.set_ylim(0, 5.6)
+    bang_quan_sat(ax, 0.2, 5.4, ['Con vật', 'Nơi sống', 'Đặc điểm', 'Nhóm'], [3.0, 4.0, 6.8, 5.0],
+                  [['Kiến', 'đất, gốc cây', '6 chân, cơ thể 3 phần', 'Chân khớp'], ['Ốc sên', 'lá cây ẩm', 'thân mềm, vỏ xoắn', 'Thân mềm'],
+                   ['Giun đất', 'trong đất ẩm', 'cơ thể dài, nhiều đốt', 'Giun'], ['Ếch', 'bờ ao', 'da trần, ẩm', 'Lưỡng cư'], ['Chim sẻ', 'mái nhà, cây', 'lông vũ, có cánh', 'Chim']], h=0.85)
+    luu(fig, D + 'th-dong-vat.svg')
+
+
+def da_dang_sinh_hoc():
+    fig, ax = khung(9.6, 3.8); trong(ax)
+    ax.set_xlim(0, 19.2); ax.set_ylim(0, 7.6)
+    env = [('Rừng nhiệt đới', 'rất nhiều loài', 0.95, '#2f8a3a'), ('Biển, đại dương', 'nhiều loài', 0.75, '#2f6fde'), ('Hoang mạc', 'ít loài', 0.25, '#d9a441'), ('Vùng cực', 'rất ít loài', 0.15, '#7fb3d5')]
+    ax.text(5.6, 7.2, 'Mức độ đa dạng theo môi trường', ha='center', fontsize=11.5, weight='bold', color=MAU['xanh'])
+    for i, (t, m, v, c) in enumerate(env):
+        y = 5.8 - i * 1.4
+        ax.text(0.2, y, t, va='center', fontsize=10.5)
+        ax.add_patch(Rectangle((4.0, y - 0.35), 5.6 * v, 0.7, fc=c, ec='none'))
+        ax.text(4.2 + 5.6 * v, y, m, va='center', fontsize=9.6, color=MAU['xam'])
+    hop(ax, 12.6, 0.4, 6.4, 6.8, '', mau='#fdeef0', vien=MAU['do'])
+    ax.text(15.8, 6.6, 'Nguyên nhân suy giảm', ha='center', fontsize=11.5, weight='bold', color=MAU['do'])
+    ax.text(13.0, 3.6, '• phá rừng\n• săn bắt, buôn bán\n  động vật hoang dã\n• ô nhiễm môi trường\n• biến đổi khí hậu\n• khai thác quá mức', fontsize=10.2, va='center', linespacing=1.45)
+    luu(fig, D + 'da-dang-sinh-hoc.svg')
+
+
+def tim_hieu_sinh_vat():
+    fig, ax = khung(10.0, 2.6); trong(ax)
+    ax.set_xlim(0, 20); ax.set_ylim(0, 5.2)
+    chuoi_hop(ax, ['Chuẩn bị,\nlập kế hoạch', 'Quan sát,\nchụp ảnh', 'Ghi chép\nđặc điểm', 'Phân loại\nsinh vật', 'Báo cáo\n(poster)'], 1.8, 3.2, 1.9, 0.85,
+              ['#fff6d6', '#e3eefc', '#eef7e6', '#efe7fb', '#fde9ec'], [MAU['cam'], MAU['lam'], MAU['la'], MAU['tim'], MAU['do']], co=10, x0=0.3)
+    ax.text(10.0, 0.7, 'An toàn: đi theo nhóm • tránh sinh vật độc • không hái, bắt bừa bãi', ha='center', fontsize=10.5, color=MAU['xanh'])
+    luu(fig, D + 'tim-hieu-sinh-vat.svg')
+
+
+ALL += [nam, th_nam, nhom_thuc_vat, th_thuc_vat, nhom_dong_vat, th_dong_vat, da_dang_sinh_hoc, tim_hieu_sinh_vat]
 
 if __name__ == '__main__':
     for f in ALL:

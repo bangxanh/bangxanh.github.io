@@ -2066,13 +2066,527 @@ TC: Kết quả có mô tả, hình vẽ | 1
 TC: Kết luận đúng | 1
 
 ### Bài 32. Nấm
+> Nấm rơm, nấm hương trong bữa ăn; men làm bánh mì; mốc xanh trên miếng bánh để lâu… Nấm có mặt khắp nơi – có loài là món ngon, có loài là chất độc chết người.
+MT: Nêu được đặc điểm, sự đa dạng của nấm (nấm đơn bào, đa bào; nấm đảm, nấm túi).
+MT: Nêu được vai trò và tác hại của nấm; một số bệnh do nấm.
+MT: Phân biệt được nấm ăn và nấm độc qua đặc điểm; nêu cách phòng bệnh do nấm.
+LT: 1. Đặc điểm và đa dạng của nấm
+- Nấm là sinh vật **nhân thực**, **đơn bào** (nấm men) hoặc **đa bào** (nấm mốc, nấm mũ); **không có lục lạp**, sống dị dưỡng (hoại sinh, kí sinh, cộng sinh).
+- Nấm mũ (nấm đảm): gồm **mũ nấm** (có phiến mỏng mang bào tử), **cuống nấm**, **sợi nấm** dưới đất.
+- Nấm sinh sản chủ yếu bằng **bào tử**.
+HINH: 6-khtn/nam.svg | Cấu tạo nấm mũ (mũ nấm, phiến nấm, cuống nấm, sợi nấm) và một số loại nấm: nấm men, nấm mốc, nấm rơm.
+LT: 2. Vai trò của nấm
+- **Có lợi**: làm thực phẩm (nấm rơm, nấm hương, mộc nhĩ); làm men bánh mì, men rượu, nước tương; làm thuốc (penicillin từ nấm *Penicillium*, linh chi); phân hủy xác sinh vật.
+- **Có hại**: gây bệnh cho người (lang ben, hắc lào, nấm da, nấm kẽ chân), cho cây trồng (bệnh đạo ôn lúa, gỉ sắt); làm hỏng thức ăn, đồ dùng; **nấm độc** gây ngộ độc, tử vong.
+LT: 3. Phòng bệnh do nấm và nhận biết nấm độc
+- Giữ cơ thể khô ráo, sạch sẽ; không dùng chung quần áo, khăn; phơi đồ dưới nắng.
+- **Không ăn nấm lạ, nấm mọc dại**. Nấm độc thường có màu sắc sặc sỡ, có vòng cuống và bao gốc (nấm độc tán trắng), mùi khó chịu.
+DB: Dạng 1. Nhận biết cấu tạo nấm mũ
+- Mũ – phiến – cuống – sợi nấm.
+DB: Dạng 2. Phân loại vai trò có lợi – có hại
+- Thực phẩm, thuốc, men → có lợi; bệnh, nấm độc, mốc hỏng đồ → có hại.
+DB: Dạng 3. Giải thích biện pháp phòng bệnh
+- Nấm ưa ẩm ⇒ giữ khô ráo, phơi nắng.
+VD: Vì sao không nên hái nấm mọc dại để ăn?
+B: Nhiều loại nấm độc có hình dạng giống nấm ăn được, rất khó phân biệt.
+KQ: Ăn nhầm nấm độc có thể gây ngộ độc nặng, tử vong.
+VD: Vì sao vào mùa nồm ẩm, quần áo, bánh mì dễ bị mốc?
+B: Nấm mốc phát triển mạnh trong điều kiện ẩm, ấm.
+KQ: Độ ẩm cao giúp bào tử nấm mốc nảy mầm, phát triển trên quần áo, thức ăn.
+GN: Nấm không có lục lạp, sống dị dưỡng.
+GN: Không ăn nấm lạ.
+GN: Penicillin – kháng sinh đầu tiên – được chiết xuất từ nấm.
+Q: mc | Nấm nào sau đây là nấm đơn bào?
+A) Nấm rơm
+B) Nấm men *
+C) Nấm hương
+D) Mộc nhĩ
+E: Nấm men chỉ gồm một tế bào.
+Q: mc | Bệnh nào sau đây do nấm gây ra?
+A) Lang ben *
+B) Sốt rét
+C) Cúm
+D) Lao
+E: Lang ben do nấm kí sinh trên da.
+Q: tf | Về nấm:
+a) Nấm có lục lạp, tự tổng hợp chất hữu cơ. | S
+b) Nấm sinh sản chủ yếu bằng bào tử. | Đ
+c) Men làm bánh mì là một loại nấm. | Đ
+d) Có thể ăn mọi loại nấm mọc ngoài tự nhiên. | S
+E: Nấm không có lục lạp; nhiều nấm dại rất độc.
+Q: match | Nối loại nấm với vai trò:
+1) Nấm rơm | Làm thực phẩm
+2) Nấm men | Làm bánh mì, men rượu
+3) Nấm Penicillium | Sản xuất kháng sinh penicillin
+4) Nấm gây bệnh đạo ôn | Gây hại cho cây lúa
+E: Nấm có cả vai trò có lợi và có hại.
+Q: sa | Một trang trại thu hoạch 120 kg nấm rơm mỗi tuần. Trong 4 tuần thu được bao nhiêu kg nấm?
+ANS: 480
+E: 120 × 4 = 480 kg.
+TL: Nêu 3 vai trò có lợi, 2 tác hại của nấm và 3 biện pháp phòng bệnh nấm da.
+MAU: Có lợi: làm thực phẩm (nấm rơm, mộc nhĩ); làm men bánh mì, rượu; sản xuất thuốc kháng sinh.
+MAU: Có hại: gây bệnh nấm da, hắc lào; nấm độc gây ngộ độc.
+MAU: Phòng bệnh: giữ da khô ráo, sạch sẽ; không dùng chung khăn, quần áo; phơi quần áo dưới nắng.
+TC: Vai trò có lợi | 1
+TC: Tác hại | 1
+TC: Biện pháp phòng bệnh | 1
+
 ### Bài 33. Thực hành: Quan sát các loại nấm
+> Lật một cây nấm rơm, em sẽ thấy hàng trăm phiến mỏng xếp tỏa tròn như nan quạt – nơi chứa hàng triệu bào tử nấm.
+MT: Quan sát được hình dạng, cấu tạo nấm mũ bằng mắt thường, kính lúp.
+MT: Quan sát được nấm mốc bằng kính lúp, kính hiển vi.
+MT: Vẽ và mô tả được các loại nấm đã quan sát; viết báo cáo thực hành.
+LT: 1. Chuẩn bị
+- Kính lúp, kính hiển vi, lam kính, lamen, kim mũi mác, dao nhỏ, đĩa petri.
+- Mẫu: nấm rơm, nấm sò, nấm hương (nấm mũ); bánh mì hoặc cơm để ẩm 3 – 5 ngày cho mọc mốc (đựng trong túi kín).
+LT: 2. Quan sát nấm mũ
+- Quan sát bằng mắt thường, kính lúp: **mũ nấm, phiến nấm** (mặt dưới mũ), **cuống nấm**, gốc nấm.
+- Cắt dọc cây nấm để thấy rõ cấu tạo; vẽ hình và chú thích.
+HINH: 6-khtn/th-nam.svg | Quan sát nấm: cây nấm mũ cắt dọc (mũ, phiến, cuống) và nấm mốc trên bánh mì qua kính lúp (sợi nấm và túi bào tử).
+LT: 3. Quan sát nấm mốc
+- Dùng kính lúp quan sát lớp mốc trên bánh mì: thấy **sợi nấm** trắng và các chấm đen/xanh (túi bào tử).
+- Dùng kim lấy một ít mốc lên lam kính có giọt nước, đậy lamen, quan sát bằng kính hiển vi (vật kính 10x, 40x).
+- **An toàn**: đeo khẩu trang, găng tay; không ngửi trực tiếp mốc (bào tử có thể gây dị ứng); rửa tay sau khi làm.
+DB: Dạng 1. Gọi tên bộ phận nấm mũ
+- Mũ, phiến, cuống, sợi nấm.
+DB: Dạng 2. Giải thích cách chuẩn bị mẫu
+- Để bánh mì nơi ẩm, ấm, trong túi kín → nấm mốc phát triển.
+DB: Dạng 3. Lưu ý an toàn
+- Khẩu trang, găng tay, rửa tay.
+VD: Vì sao phải để bánh mì trong túi kín, nơi ấm và ẩm vài ngày?
+B: Nấm mốc cần độ ẩm và nhiệt độ thích hợp để phát triển.
+KQ: Túi kín giữ ẩm, bào tử nấm có sẵn trong không khí nảy mầm thành mốc.
+VD: Các chấm đen nhỏ trên lớp mốc bánh mì là gì?
+B: Quan sát bằng kính lúp thấy chấm đen nằm ở đầu sợi nấm.
+KQ: Đó là các túi bào tử chứa bào tử nấm.
+GN: Phiến nấm ở mặt dưới mũ nấm, nơi tạo bào tử.
+GN: Đeo khẩu trang, găng tay khi quan sát nấm mốc.
+GN: Không nếm, không ăn mẫu nấm thực hành.
+Q: mc | Phiến nấm nằm ở vị trí nào?
+A) Mặt trên mũ nấm
+B) Mặt dưới mũ nấm *
+C) Trong cuống nấm
+D) Dưới đất
+E: Phiến nấm xếp tỏa tròn ở mặt dưới mũ.
+Q: mc | Các chấm đen trên mốc bánh mì là
+A) hạt bụi
+B) túi bào tử *
+C) trứng côn trùng
+D) vi khuẩn
+E: Túi bào tử chứa bào tử, giúp nấm sinh sản.
+Q: ord | Sắp xếp các bước quan sát nấm mốc bằng kính hiển vi:
+1) Nhỏ một giọt nước lên lam kính
+2) Dùng kim lấy một ít mốc đặt vào giọt nước
+3) Đậy lamen
+4) Quan sát ở vật kính 10x rồi 40x
+E: Chuẩn bị lam → lấy mẫu → lamen → quan sát.
+Q: tf | Về bài thực hành quan sát nấm:
+a) Cần đeo khẩu trang khi quan sát nấm mốc. | Đ
+b) Có thể nếm thử nấm mốc để nhận biết. | S
+c) Cắt dọc cây nấm giúp thấy rõ cấu tạo. | Đ
+d) Nấm mốc phát triển tốt ở nơi khô, lạnh. | S
+E: Không nếm mẫu; nấm mốc ưa ẩm, ấm.
+Q: sa | Một mũ nấm có khoảng 240 phiến nấm, mỗi phiến tạo khoảng 50 000 bào tử. Mũ nấm tạo khoảng bao nhiêu triệu bào tử?
+ANS: 12
+E: 240 × 50 000 = 12 000 000 = 12 triệu.
+TL: Vẽ và chú thích cấu tạo cây nấm rơm; nêu điểm khác nhau giữa nấm mũ và nấm mốc khi quan sát.
+MAU: Cấu tạo nấm rơm: mũ nấm, phiến nấm (mặt dưới mũ), cuống nấm, bao gốc, sợi nấm.
+MAU: Nấm mũ: kích thước lớn, quan sát bằng mắt thường; có mũ, cuống rõ ràng.
+MAU: Nấm mốc: gồm các sợi nấm nhỏ mảnh, túi bào tử; cần kính lúp, kính hiển vi để quan sát.
+TC: Chú thích đúng cấu tạo | 1
+TC: Nêu đúng đặc điểm nấm mũ | 1
+TC: Nêu đúng đặc điểm nấm mốc | 1
+
 ### Bài 34. Thực vật
+> Từ đám rêu nhỏ xíu trên tường ẩm đến cây chò cao hàng chục mét trong rừng, thực vật đa dạng vô cùng và là "lá phổi xanh" của Trái Đất.
+MT: Phân biệt được các nhóm thực vật: Rêu, Dương xỉ, Hạt trần, Hạt kín.
+MT: Nêu được vai trò của thực vật đối với tự nhiên và con người.
+MT: Nêu được vai trò của thực vật trong chống xói mòn, điều hòa khí hậu.
+LT: 1. Đa dạng thực vật
+- **Rêu**: không có mạch dẫn; có rễ giả, thân và lá nhỏ; sinh sản bằng bào tử; sống nơi ẩm ướt.
+- **Dương xỉ**: có mạch dẫn; có rễ, thân, lá thật; lá non cuộn tròn; sinh sản bằng bào tử (túi bào tử ở mặt dưới lá).
+- **Hạt trần**: có mạch dẫn, sinh sản bằng **hạt nằm lộ trên lá noãn** (chưa có hoa, quả thật): thông, vạn tuế, kim giao.
+- **Hạt kín**: có mạch dẫn, **có hoa, quả**, hạt được bảo vệ trong quả: lúa, cam, bưởi, hoa hồng – nhóm đa dạng nhất.
+HINH: 6-khtn/nhom-thuc-vat.svg | Bốn nhóm thực vật: Rêu (không mạch), Dương xỉ (có mạch, bào tử), Hạt trần (hạt lộ trên nón), Hạt kín (có hoa, quả).
+LT: 2. Vai trò của thực vật
+- **Với tự nhiên**: quang hợp tạo O₂, hấp thụ CO₂ – **điều hòa khí hậu**; rễ giữ đất, **chống xói mòn**, sạt lở; giữ nước ngầm, hạn chế lũ lụt; là thức ăn, nơi ở cho động vật.
+- **Với con người**: lương thực, thực phẩm (lúa, rau, quả); dược liệu; gỗ, giấy; cây cảnh, bóng mát.
+DB: Dạng 1. Phân loại nhóm thực vật
+- Không mạch → Rêu; có mạch, bào tử → Dương xỉ; hạt lộ → Hạt trần; có hoa, quả → Hạt kín.
+DB: Dạng 2. Nêu vai trò của thực vật
+- Với môi trường và với con người.
+DB: Dạng 3. Giải thích hiện tượng
+- Vì sao đồi trọc dễ sạt lở; vì sao nên trồng cây xanh trong thành phố.
+VD: Cây thông thuộc nhóm thực vật nào? Vì sao?
+B: Cây thông có mạch dẫn, sinh sản bằng hạt nằm trên các vảy của nón, chưa có hoa và quả thật.
+KQ: Cây thông thuộc nhóm Hạt trần.
+VD: Vì sao ở những đồi trọc, khi mưa lớn dễ xảy ra sạt lở đất?
+B: Không có cây, không có rễ giữ đất, nước mưa chảy mạnh cuốn trôi đất.
+KQ: Đất bị xói mòn, sạt lở; cần trồng rừng phủ xanh đồi trọc.
+GN: Rêu: không có mạch dẫn.
+GN: Hạt kín: có hoa, quả – nhóm tiến hóa và đa dạng nhất.
+GN: Trồng cây là cách chống xói mòn, điều hòa khí hậu hiệu quả.
+Q: mc | Nhóm thực vật nào chưa có mạch dẫn?
+A) Rêu *
+B) Dương xỉ
+C) Hạt trần
+D) Hạt kín
+E: Rêu chưa có mạch dẫn.
+Q: mc | Đặc điểm của thực vật Hạt kín là
+A) sinh sản bằng bào tử
+B) có hoa, quả, hạt nằm trong quả *
+C) hạt nằm lộ trên lá noãn
+D) không có rễ thật
+E: Hạt được quả bao bọc, bảo vệ.
+Q: tf | Về thực vật:
+a) Dương xỉ sinh sản bằng bào tử. | Đ
+b) Cây thông có hoa và quả thật. | S
+c) Thực vật giúp điều hòa khí hậu. | Đ
+d) Rễ cây giúp giữ đất, chống xói mòn. | Đ
+E: Thông là cây Hạt trần, chưa có hoa, quả thật.
+Q: match | Nối cây với nhóm thực vật:
+1) Cây rêu tường | Rêu
+2) Cây rau bợ, cây lông cu li | Dương xỉ
+3) Cây vạn tuế | Hạt trần
+4) Cây cam | Hạt kín
+E: Xếp nhóm theo mạch dẫn, cách sinh sản.
+Q: sa | Một cây xanh trưởng thành hấp thụ khoảng 22 kg CO₂ mỗi năm. Một khu vườn có 50 cây hấp thụ bao nhiêu kg CO₂ mỗi năm?
+ANS: 1100
+E: 22 × 50 = 1100 kg.
+TL: Vì sao nói "rừng là lá phổi xanh của Trái Đất"? Nêu 3 việc em có thể làm để bảo vệ cây xanh.
+MAU: Rừng quang hợp, hấp thụ lượng lớn CO₂ và thải ra O₂, giúp không khí trong lành, điều hòa khí hậu – như lá phổi giúp "thở".
+MAU: Việc làm: trồng và chăm sóc cây xanh; không bẻ cành, ngắt lá, khắc lên thân cây; tuyên truyền bảo vệ rừng, tiết kiệm giấy.
+TC: Giải thích đúng | 1
+TC: 3 việc làm phù hợp | 2
+
 ### Bài 35. Thực hành: Quan sát và phân biệt một số nhóm thực vật
+> Cùng ra vườn trường: tìm một cây rêu, một cây dương xỉ, một cây thông (hoặc vạn tuế) và một cây có hoa – em sẽ thấy rõ sự khác nhau giữa các nhóm thực vật.
+MT: Quan sát, nhận biết được đại diện các nhóm thực vật ngoài thiên nhiên hoặc qua mẫu vật.
+MT: Phân biệt được các nhóm thực vật dựa vào đặc điểm hình thái.
+MT: Lập được bảng ghi chép và viết báo cáo thực hành.
+LT: 1. Chuẩn bị
+- Kính lúp, găng tay, kéo cắt cây, túi đựng mẫu, sổ ghi chép, bút, máy ảnh (điện thoại).
+- Mẫu vật: rêu, dương xỉ (rau bợ, cây ráng), thông/vạn tuế, cây có hoa (cây bưởi, cây hoa hồng, cây cỏ).
+LT: 2. Cách tiến hành
+- Quan sát đặc điểm: có rễ, thân, lá thật không? có hoa, quả không? cơ quan sinh sản là gì (bào tử, hạt lộ, hạt trong quả)?
+- Dùng kính lúp quan sát **túi bào tử** ở mặt dưới lá dương xỉ, **thể bào tử** trên ngọn rêu.
+- Ghi chép vào bảng, chụp ảnh, xếp mẫu vào đúng nhóm.
+HINH: 6-khtn/th-thuc-vat.svg | Bảng nhận biết nhóm thực vật: rêu (rễ giả, không mạch), dương xỉ (lá non cuộn, túi bào tử mặt dưới lá), hạt trần (nón, hạt lộ), hạt kín (hoa, quả).
+LT: 3. An toàn và bảo vệ môi trường
+- Không ngắt nhiều, không phá cây; tránh cây có gai, nhựa độc; rửa tay sau khi thực hành.
+DB: Dạng 1. Nhận biết nhóm thực vật qua đặc điểm
+- Dựa vào mạch dẫn, rễ, cơ quan sinh sản.
+DB: Dạng 2. Lập bảng so sánh
+- Các cột: Tên cây – Rễ – Thân – Lá – Cơ quan sinh sản – Nhóm.
+DB: Dạng 3. Báo cáo thực hành
+- Mục đích – chuẩn bị – cách làm – kết quả – kết luận.
+VD: Quan sát mặt dưới lá một cây thấy nhiều chấm nhỏ màu nâu xếp thành hàng. Cây đó thuộc nhóm nào?
+B: Chấm nâu ở mặt dưới lá là các ổ túi bào tử.
+KQ: Cây đó thuộc nhóm Dương xỉ.
+VD: Cây có hoa nhỏ, có quả chứa hạt. Thuộc nhóm nào?
+B: Có hoa, quả, hạt nằm trong quả.
+KQ: Thuộc nhóm Hạt kín.
+GN: Rêu: rễ giả; dương xỉ: lá non cuộn tròn.
+GN: Hạt trần: hạt nằm trên vảy nón; hạt kín: hạt trong quả.
+GN: Bảo vệ cây khi thực hành, không ngắt bừa bãi.
+Q: mc | Lá non cuộn tròn ở đầu là đặc điểm của nhóm
+A) Rêu
+B) Dương xỉ *
+C) Hạt trần
+D) Hạt kín
+E: Lá non dương xỉ cuộn tròn như vòi voi.
+Q: mc | Cơ quan sinh sản của cây thông là
+A) hoa
+B) nón (mang hạt lộ) *
+C) túi bào tử
+D) quả
+E: Cây thông có nón đực, nón cái; hạt nằm lộ trên vảy nón.
+Q: tf | Về thực hành nhận biết thực vật:
+a) Rêu có rễ giả. | Đ
+b) Dương xỉ có túi bào tử ở mặt dưới lá. | Đ
+c) Có thể ngắt bừa bãi cây để lấy mẫu. | S
+d) Cây bưởi thuộc nhóm Hạt kín. | Đ
+E: Cần bảo vệ cây khi lấy mẫu.
+Q: match | Nối đặc điểm với nhóm thực vật:
+1) Không có mạch dẫn, rễ giả | Rêu
+2) Có túi bào tử ở mặt dưới lá | Dương xỉ
+3) Hạt nằm lộ trên vảy nón | Hạt trần
+4) Có hoa, quả bao bọc hạt | Hạt kín
+E: Đặc điểm đặc trưng của từng nhóm.
+Q: sa | Nhóm em quan sát được 12 cây: 2 rêu, 3 dương xỉ, 1 hạt trần, còn lại là hạt kín. Có bao nhiêu cây hạt kín?
+ANS: 6
+E: 12 − 2 − 3 − 1 = 6.
+TL: Lập bảng ghi chép kết quả quan sát 4 đại diện của 4 nhóm thực vật (tên cây, đặc điểm rễ – thân – lá, cơ quan sinh sản, nhóm).
+MAU: Rêu tường: rễ giả, thân lá nhỏ, chưa có mạch; sinh sản bằng bào tử → Rêu.
+MAU: Cây ráng (dương xỉ): rễ, thân, lá thật; lá non cuộn; túi bào tử mặt dưới lá → Dương xỉ.
+MAU: Cây thông: rễ, thân gỗ, lá kim; nón mang hạt lộ → Hạt trần.
+MAU: Cây bưởi: rễ cọc, thân gỗ, lá đơn; có hoa, quả chứa hạt → Hạt kín.
+TC: Bảng đủ cột hợp lí | 1
+TC: Mô tả đúng đặc điểm | 1
+TC: Xếp đúng nhóm | 1
+
 ### Bài 36. Động vật
+> Từ con giun đất dưới chân, con ong trong vườn đến chú cá heo ngoài biển khơi – giới Động vật đa dạng về hình dạng, kích thước và môi trường sống.
+MT: Phân biệt được động vật không xương sống và động vật có xương sống; nêu được đại diện các nhóm.
+MT: Nêu được vai trò và tác hại của động vật trong đời sống.
+MT: Nhận biết được các nhóm động vật có xương sống: Cá, Lưỡng cư, Bò sát, Chim, Thú.
+LT: 1. Động vật không xương sống
+- **Không có xương sống**: Ruột khoang (sứa, thủy tức, san hô); Giun (giun đất, giun đũa, sán); Thân mềm (ốc, mực, trai); Chân khớp (tôm, cua, nhện, côn trùng).
+LT: 2. Động vật có xương sống
+- **Cá**: sống dưới nước, thở bằng mang, bơi bằng vây.
+- **Lưỡng cư** (ếch, cóc): da trần, ẩm; sống vừa ở nước vừa ở cạn.
+- **Bò sát** (rắn, thằn lằn, rùa, cá sấu): da khô, có vảy sừng.
+- **Chim**: có lông vũ, chi trước biến thành cánh, đẻ trứng.
+- **Thú (Động vật có vú)**: có lông mao, đẻ con, nuôi con bằng sữa.
+HINH: 6-khtn/nhom-dong-vat.svg | Các nhóm động vật: không xương sống (ruột khoang, giun, thân mềm, chân khớp) và có xương sống (cá, lưỡng cư, bò sát, chim, thú).
+LT: 3. Vai trò và tác hại
+- **Có lợi**: cung cấp thực phẩm (thịt, trứng, sữa, tôm, cá), nguyên liệu (da, lông), dược liệu; làm cảnh, sức kéo; thụ phấn cho cây (ong, bướm); tiêu diệt sâu hại (chim, ếch).
+- **Có hại**: gây bệnh, truyền bệnh (muỗi, ruồi, chuột, giun sán kí sinh); phá hoại mùa màng (sâu, chuột).
+DB: Dạng 1. Phân loại có xương sống – không xương sống
+- Có cột sống (xương sống) hay không.
+DB: Dạng 2. Xếp đại diện vào nhóm
+- Dựa vào đặc điểm da, cơ quan hô hấp, cách sinh sản.
+DB: Dạng 3. Nêu vai trò, tác hại
+- Liên hệ thực tế đời sống, sản xuất.
+VD: Cá voi sống ở biển nhưng thuộc nhóm Thú. Vì sao?
+B: Cá voi thở bằng phổi, đẻ con và nuôi con bằng sữa.
+KQ: Đây là đặc điểm của Thú, không phải Cá.
+VD: Con dơi biết bay nhưng có phải chim không?
+B: Dơi có lông mao, đẻ con, nuôi con bằng sữa; không có lông vũ.
+KQ: Dơi thuộc nhóm Thú.
+GN: Động vật có xương sống: Cá, Lưỡng cư, Bò sát, Chim, Thú.
+GN: Thú: lông mao, đẻ con, nuôi con bằng sữa.
+GN: Chim: lông vũ, có cánh, đẻ trứng.
+Q: mc | Động vật nào sau đây thuộc nhóm không xương sống?
+A) Con cá chép
+B) Con tôm *
+C) Con ếch
+D) Con gà
+E: Tôm thuộc ngành Chân khớp, không có xương sống.
+Q: mc | Đặc điểm của nhóm Thú là
+A) có lông vũ, đẻ trứng
+B) da trần, ẩm
+C) có lông mao, đẻ con, nuôi con bằng sữa *
+D) thở bằng mang
+E: Đây là đặc điểm đặc trưng của Thú.
+Q: tf | Về động vật:
+a) Cá heo thuộc nhóm Thú. | Đ
+b) Ếch thuộc nhóm Bò sát. | S
+c) Ong giúp thụ phấn cho cây. | Đ
+d) Muỗi có thể truyền bệnh cho người. | Đ
+E: Ếch thuộc Lưỡng cư.
+Q: match | Nối động vật với nhóm:
+1) Con rắn | Bò sát
+2) Con cóc | Lưỡng cư
+3) Con chim sẻ | Chim
+4) Con mực | Thân mềm
+E: Xếp nhóm theo đặc điểm cấu tạo.
+Q: sa | Trong các con: cá chép, tôm, ếch, rắn, gà, mèo, ốc sên, cua. Có bao nhiêu động vật có xương sống?
+ANS: 5
+E: Cá chép, ếch, rắn, gà, mèo.
+TL: Nêu 3 vai trò có lợi và 2 tác hại của động vật, mỗi ý có ví dụ.
+MAU: Có lợi: cung cấp thực phẩm (lợn, gà, cá); thụ phấn cho cây (ong, bướm); tiêu diệt sâu hại (chim sâu, ếch).
+MAU: Có hại: truyền bệnh (muỗi truyền sốt xuất huyết, chuột truyền dịch hạch); phá hoại mùa màng (chuột, sâu).
+TC: 3 vai trò có lợi có ví dụ | 2
+TC: 2 tác hại có ví dụ | 1
+
 ### Bài 37. Thực hành: Quan sát và nhận biết một số nhóm động vật ngoài thiên nhiên
+> Ra vườn, ra ao, ra cánh đồng – em sẽ gặp kiến, ong, bướm, giun, ốc, ếch, chim… Mỗi con vật là một "đại diện" của một nhóm động vật.
+MT: Quan sát, nhận biết được một số nhóm động vật ngoài thiên nhiên.
+MT: Chụp ảnh, ghi chép đặc điểm, xếp được động vật vào nhóm.
+MT: Có ý thức bảo vệ động vật và môi trường sống của chúng.
+LT: 1. Chuẩn bị
+- Kính lúp, ống nhòm (nếu có), máy ảnh/điện thoại, sổ ghi chép, vợt bắt côn trùng, hộp nhựa trong có lỗ thoáng.
+- Địa điểm: vườn trường, công viên, bờ ao, cánh đồng (đi theo nhóm, có giáo viên).
+LT: 2. Cách tiến hành
+- Quan sát, chụp ảnh; ghi lại: **tên con vật, nơi sống, đặc điểm** (có xương sống hay không, da, cách di chuyển…), **nhóm**.
+- Có thể bắt tạm thời côn trùng nhỏ vào hộp để quan sát bằng kính lúp, **sau đó thả lại** nơi cũ.
+HINH: 6-khtn/th-dong-vat.svg | Phiếu quan sát động vật ngoài thiên nhiên: ghi tên, nơi sống, đặc điểm và xếp nhóm (ví dụ: kiến, ốc sên, giun đất, ếch, chim sẻ).
+LT: 3. An toàn và bảo vệ
+- Không chạm vào động vật lạ, có nọc độc (rắn, rết, ong vò vẽ, sâu róm); đi theo nhóm; mặc quần áo dài, đi giày.
+- Không bắt, giết động vật; thả lại sau khi quan sát; không phá tổ chim, tổ ong.
+DB: Dạng 1. Xếp động vật vào nhóm
+- Dựa vào đặc điểm quan sát được.
+DB: Dạng 2. Lập phiếu quan sát
+- Cột: Tên – Nơi sống – Đặc điểm – Nhóm.
+DB: Dạng 3. Ứng xử an toàn, bảo vệ động vật
+- Nhận biết con vật nguy hiểm; thả lại động vật sau quan sát.
+VD: Quan sát thấy con vật có 6 chân, cơ thể chia 3 phần (đầu, ngực, bụng), có cánh. Đó là nhóm nào?
+B: 6 chân, cơ thể 3 phần là đặc điểm côn trùng.
+KQ: Thuộc lớp Côn trùng, ngành Chân khớp (không xương sống).
+VD: Vì sao phải thả lại côn trùng sau khi quan sát?
+B: Côn trùng có vai trò trong hệ sinh thái (thụ phấn, làm thức ăn cho động vật khác).
+KQ: Thả lại giúp bảo vệ động vật và cân bằng tự nhiên.
+GN: Đi theo nhóm, có giáo viên hướng dẫn.
+GN: Tránh tiếp xúc con vật có nọc độc.
+GN: Quan sát xong thả động vật về nơi cũ.
+Q: mc | Con vật có 8 chân, không có cánh, giăng tơ bắt mồi là
+A) con kiến
+B) con nhện *
+C) con ong
+D) con bướm
+E: Nhện có 8 chân (lớp Hình nhện, ngành Chân khớp).
+Q: mc | Khi gặp sâu róm trong vườn, em nên
+A) cầm lên quan sát
+B) không chạm vào, báo giáo viên *
+C) dẫm chết ngay
+D) bỏ vào túi mang về
+E: Lông sâu róm gây ngứa, dị ứng.
+Q: tf | Về thực hành quan sát động vật:
+a) Giun đất thuộc nhóm động vật không xương sống. | Đ
+b) Ếch thuộc nhóm Lưỡng cư. | Đ
+c) Nên phá tổ chim để quan sát trứng. | S
+d) Cần ghi chép nơi sống của con vật quan sát được. | Đ
+E: Không phá tổ chim.
+Q: match | Nối con vật với nhóm động vật:
+1) Ốc sên | Thân mềm
+2) Giun đất | Giun
+3) Chuồn chuồn | Chân khớp (côn trùng)
+4) Thằn lằn | Bò sát
+E: Xếp theo đặc điểm.
+Q: sa | Nhóm em ghi được 20 con vật, trong đó 60% là côn trùng. Có bao nhiêu con là côn trùng?
+ANS: 12
+E: 20 × 60% = 12.
+TL: Lập phiếu quan sát cho 4 con vật em gặp ở vườn trường hoặc quanh nhà.
+MAU: Kiến – nơi sống: đất, gốc cây – 6 chân, cơ thể 3 phần – Chân khớp (côn trùng).
+MAU: Ốc sên – nơi sống: lá cây ẩm – thân mềm, có vỏ xoắn – Thân mềm.
+MAU: Ếch – nơi sống: bờ ao – da trần ẩm, chân có màng – Lưỡng cư.
+MAU: Chim sẻ – nơi sống: mái nhà, cây – lông vũ, có cánh, mỏ – Chim.
+TC: Đủ thông tin các cột | 1
+TC: Đặc điểm đúng | 1
+TC: Xếp nhóm đúng | 1
+
 ### Bài 38. Đa dạng sinh học
+> Rừng nhiệt đới chiếm chưa tới 10% diện tích Trái Đất nhưng là nhà của hơn một nửa số loài sinh vật. Sự đa dạng ấy đang bị đe dọa từng ngày.
+MT: Nêu được khái niệm đa dạng sinh học; sự đa dạng ở các môi trường sống.
+MT: Nêu được vai trò của đa dạng sinh học đối với tự nhiên và con người.
+MT: Nêu được nguyên nhân suy giảm và biện pháp bảo vệ đa dạng sinh học.
+LT: 1. Đa dạng sinh học
+- **Đa dạng sinh học** là sự phong phú về **số lượng loài**, **số cá thể** của mỗi loài và **môi trường sống**.
+- Đa dạng ở các môi trường: **hoang mạc** (ít loài, thích nghi khô hạn: xương rồng, lạc đà); **rừng mưa nhiệt đới** (rất nhiều loài); **biển, đại dương** (san hô, cá, rong biển); **vùng cực** (ít loài, chịu lạnh: gấu trắng, chim cánh cụt).
+HINH: 6-khtn/da-dang-sinh-hoc.svg | Đa dạng sinh học ở các môi trường: rừng nhiệt đới (nhiều loài nhất), biển, hoang mạc, vùng cực; và các nguyên nhân suy giảm.
+LT: 2. Vai trò của đa dạng sinh học
+- **Với tự nhiên**: duy trì sự ổn định của hệ sinh thái, điều hòa khí hậu, bảo vệ đất, nước.
+- **Với con người**: cung cấp lương thực, thực phẩm, dược liệu, nguyên liệu; du lịch sinh thái; giá trị khoa học.
+LT: 3. Suy giảm và bảo vệ
+- Nguyên nhân: **phá rừng**, săn bắt, buôn bán động vật hoang dã, ô nhiễm môi trường, biến đổi khí hậu, khai thác quá mức.
+- Biện pháp: bảo vệ rừng, trồng rừng; xây dựng **vườn quốc gia, khu bảo tồn** (Cúc Phương, Cát Tiên…); cấm săn bắt, buôn bán động vật quý hiếm; tuyên truyền; giảm ô nhiễm.
+DB: Dạng 1. Nhận biết mức độ đa dạng
+- Rừng nhiệt đới > biển > hoang mạc, vùng cực.
+DB: Dạng 2. Vai trò của đa dạng sinh học
+- Với tự nhiên và con người.
+DB: Dạng 3. Nguyên nhân – biện pháp
+- Ghép nguyên nhân với biện pháp khắc phục tương ứng.
+VD: Vì sao rừng mưa nhiệt đới có độ đa dạng sinh học cao nhất?
+B: Khí hậu nóng ẩm quanh năm, nhiều ánh sáng và nước.
+KQ: Điều kiện thuận lợi cho nhiều loài sinh sống, phát triển; có nhiều tầng cây tạo nhiều nơi ở.
+VD: Một khu rừng có 400 loài, sau 10 năm còn 340 loài. Số loài giảm bao nhiêu phần trăm?
+B: Số loài giảm: 400 − 340 = 60.
+KQ: 60 : 400 × 100% = 15%.
+GN: Đa dạng sinh học: phong phú về loài, cá thể, môi trường sống.
+GN: Phá rừng là nguyên nhân chính làm suy giảm đa dạng sinh học.
+GN: Vườn quốc gia, khu bảo tồn giúp bảo vệ loài.
+Q: mc | Môi trường nào có độ đa dạng sinh học cao nhất?
+A) Hoang mạc
+B) Vùng cực
+C) Rừng mưa nhiệt đới *
+D) Sa mạc cát
+E: Nóng ẩm, nhiều tầng cây tạo điều kiện cho nhiều loài.
+Q: mc | Hoạt động nào làm suy giảm đa dạng sinh học?
+A) Trồng rừng
+B) Săn bắt động vật hoang dã *
+C) Xây dựng khu bảo tồn
+D) Tuyên truyền bảo vệ môi trường
+E: Săn bắt làm giảm số lượng cá thể, có thể gây tuyệt chủng.
+Q: tf | Về đa dạng sinh học:
+a) Vườn quốc gia Cúc Phương góp phần bảo vệ đa dạng sinh học. | Đ
+b) Hoang mạc có rất nhiều loài sinh vật. | S
+c) Đa dạng sinh học giúp ổn định hệ sinh thái. | Đ
+d) Biến đổi khí hậu ảnh hưởng đến đa dạng sinh học. | Đ
+E: Hoang mạc khô hạn, ít loài.
+Q: match | Nối môi trường với sinh vật đặc trưng:
+1) Hoang mạc | Xương rồng, lạc đà
+2) Vùng cực | Gấu trắng, chim cánh cụt
+3) Biển | San hô, cá heo
+4) Rừng nhiệt đới | Vượn, voọc, cây gỗ lớn
+E: Sinh vật thích nghi với môi trường sống.
+Q: sa | Một khu rừng có 500 loài, sau một thời gian bị phá còn 420 loài. Số loài giảm bao nhiêu phần trăm?
+ANS: 16
+E: (500 − 420) : 500 × 100% = 16%.
+TL: Nêu 3 nguyên nhân làm suy giảm đa dạng sinh học ở Việt Nam và 3 việc học sinh có thể làm để bảo vệ đa dạng sinh học.
+MAU: Nguyên nhân: phá rừng làm nương rẫy, khai thác gỗ; săn bắt, buôn bán động vật hoang dã; ô nhiễm môi trường (rác thải, thuốc trừ sâu).
+MAU: Việc làm: không mua, không sử dụng sản phẩm từ động vật hoang dã; trồng cây, giữ gìn vệ sinh môi trường; tuyên truyền cho người thân, bạn bè.
+TC: 3 nguyên nhân đúng | 1
+TC: 3 việc làm phù hợp | 2
+
 ### Bài 39. Tìm hiểu sinh vật ngoài thiên nhiên
+> Một buổi dã ngoại khoa học: quan sát cây cỏ, côn trùng, chim chóc, ghi chép và tự lập "bộ sưu tập" sinh vật của riêng nhóm em.
+MT: Thực hiện được tìm hiểu sinh vật ngoài thiên nhiên: quan sát, ghi chép, chụp ảnh, phân loại.
+MT: Sử dụng được kính lúp, khóa lưỡng phân để nhận biết sinh vật.
+MT: Làm được báo cáo (poster, bài trình chiếu) về sự đa dạng sinh vật đã quan sát.
+LT: 1. Chuẩn bị
+- Dụng cụ: kính lúp, ống nhòm, máy ảnh/điện thoại, sổ ghi chép, bút, túi đựng mẫu, găng tay, thước dây.
+- Lập kế hoạch: chọn địa điểm (vườn trường, công viên, cánh đồng, ven suối), phân công nhiệm vụ trong nhóm.
+LT: 2. Cách tiến hành
+- **Quan sát và ghi chép**: tên sinh vật (nếu biết), nơi sống, đặc điểm nổi bật; chụp ảnh.
+- **Phân loại**: xếp sinh vật vào các giới, nhóm đã học; dùng khóa lưỡng phân để nhận biết.
+- **Thống kê**: đếm số loài thực vật, động vật, nấm… quan sát được.
+HINH: 6-khtn/tim-hieu-sinh-vat.svg | Các bước tìm hiểu sinh vật ngoài thiên nhiên: chuẩn bị → quan sát, chụp ảnh → ghi chép → phân loại → báo cáo.
+LT: 3. Báo cáo kết quả
+- Trình bày dạng poster, bài trình chiếu: hình ảnh, bảng thống kê, nhận xét về sự đa dạng, đề xuất biện pháp bảo vệ.
+- An toàn: đi theo nhóm, không tách đoàn; tránh sinh vật độc; không phá hoại cây cối, động vật.
+DB: Dạng 1. Lập kế hoạch tìm hiểu
+- Mục tiêu – địa điểm – dụng cụ – phân công – thời gian.
+DB: Dạng 2. Thống kê, tính tỉ lệ
+- Tỉ lệ nhóm = số loài nhóm : tổng số loài × 100%.
+DB: Dạng 3. Nhận xét, đề xuất
+- Nơi nào đa dạng hơn, vì sao; cách bảo vệ.
+VD: Nhóm em quan sát được 25 loài, trong đó 15 loài thực vật. Thực vật chiếm bao nhiêu phần trăm?
+B: Tỉ lệ = 15 : 25 × 100%.
+KQ: 60%.
+VD: Vì sao vườn có nhiều loại cây thường có nhiều loài động vật hơn bãi cỏ trống?
+B: Nhiều loại cây tạo nhiều nguồn thức ăn và nơi ở khác nhau.
+KQ: Nhiều loài động vật (côn trùng, chim, bò sát nhỏ) có thể sinh sống ⇒ đa dạng sinh học cao hơn.
+GN: Ghi chép trung thực, có ảnh minh họa.
+GN: Không bắt, hái bừa bãi; bảo vệ môi trường nơi quan sát.
+GN: Đi theo nhóm, tuân thủ hướng dẫn của giáo viên.
+Q: mc | Dụng cụ nào giúp quan sát chim ở xa?
+A) Kính lúp
+B) Ống nhòm *
+C) Kính hiển vi
+D) Thước dây
+E: Ống nhòm giúp nhìn vật ở xa.
+Q: mc | Khi tìm hiểu sinh vật ngoài thiên nhiên, việc làm KHÔNG nên là
+A) chụp ảnh, ghi chép
+B) đi theo nhóm
+C) bẻ cành, bắt chim mang về *
+D) dùng kính lúp quan sát côn trùng
+E: Cần bảo vệ sinh vật và môi trường.
+Q: ord | Sắp xếp các bước tìm hiểu sinh vật ngoài thiên nhiên:
+1) Lập kế hoạch, chuẩn bị dụng cụ
+2) Quan sát, chụp ảnh sinh vật
+3) Ghi chép đặc điểm, nơi sống
+4) Phân loại sinh vật vào các nhóm
+5) Làm báo cáo, trình bày kết quả
+E: Chuẩn bị → quan sát → ghi chép → phân loại → báo cáo.
+Q: tf | Về hoạt động tìm hiểu sinh vật:
+a) Có thể dùng khóa lưỡng phân để nhận biết sinh vật. | Đ
+b) Nên tách đoàn đi một mình để quan sát kĩ hơn. | S
+c) Báo cáo có thể trình bày dưới dạng poster. | Đ
+d) Cần ghi chép trung thực kết quả quan sát. | Đ
+E: Phải đi theo nhóm để đảm bảo an toàn.
+Q: sa | Nhóm em quan sát được 40 loài, trong đó 10 loài côn trùng. Côn trùng chiếm bao nhiêu phần trăm?
+ANS: 25
+E: 10 : 40 × 100% = 25%.
+TL: Lập kế hoạch cho buổi tìm hiểu sinh vật ở vườn trường của nhóm em (mục tiêu, dụng cụ, phân công, sản phẩm).
+MAU: Mục tiêu: quan sát, ghi chép và phân loại các sinh vật ở vườn trường.
+MAU: Dụng cụ: kính lúp, điện thoại chụp ảnh, sổ ghi chép, găng tay, túi đựng mẫu.
+MAU: Phân công: 1 bạn chụp ảnh, 1 bạn ghi chép, 2 bạn quan sát thực vật, 2 bạn quan sát động vật; nhóm trưởng tổng hợp.
+MAU: Sản phẩm: poster gồm ảnh, bảng thống kê số loài theo nhóm, nhận xét và đề xuất bảo vệ.
+TC: Mục tiêu, dụng cụ rõ ràng | 1
+TC: Phân công hợp lí | 1
+TC: Sản phẩm cụ thể | 1
+
 ## Chương VIII. Lực trong đời sống
 ### Bài 40. Lực là gì?
 ### Bài 41. Biểu diễn lực

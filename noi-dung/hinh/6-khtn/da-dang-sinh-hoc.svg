@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="549.504pt" height="227.952pt" viewBox="0 0 549.504 227.952" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T11:39:15.420785</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 227.952 
+L 549.504 227.952 
+L 549.504 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 119.52 68.238 
+L 266.9904 68.238 
+L 266.9904 48.834 
+L 119.52 48.834 
+z
+" clip-path="url(#p21e34ecbb4)" style="fill: #2f8a3a"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 119.52 107.046 
+L 235.944 107.046 
+L 235.944 87.642 
+L 119.52 87.642 
+z
+" clip-path="url(#p21e34ecbb4)" style="fill: #2f6fde"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 119.52 145.854 
+L 158.328 145.854 
+L 158.328 126.45 
+L 119.52 126.45 
+z
+" clip-path="url(#p21e34ecbb4)" style="fill: #d9a441"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 119.52 184.662 
+L 142.8048 184.662 
+L 142.8048 165.258 
+L 119.52 165.258 
+z
+" clip-path="url(#p21e34ecbb4)" style="fill: #7fb3d5"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 361.2384 208.224 
+L 531.9936 208.224 
+Q 535.32 208.224 535.32 204.8976 
+L 535.32 23.0544 
+Q 535.32 19.728 531.9936 19.728 
+L 361.2384 19.728 
+Q 357.912 19.728 357.912 23.0544 
+L 357.912 204.8976 
+Q 357.912 208.224 361.2384 208.224 
+z
+" clip-path="url(#p21e34ecbb4)" style="fill: #fdeef0; stroke: #c93a58; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f5640" x="163.872" y="19.728" transform="rotate(-0 163.872 19.728)">Mức độ đa dạng theo môi trường</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="14.184" y="61.473949" transform="rotate(-0 14.184 61.473949)">Rừng nhiệt đới</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7a72" x="272.5344" y="61.447125" transform="rotate(-0 272.5344 61.447125)">rất nhiều loài</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="14.184" y="100.609254" transform="rotate(-0 14.184 100.609254)">Biển, đại dương</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7a72" x="241.488" y="100.255125" transform="rotate(-0 241.488 100.255125)">nhiều loài</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="14.184" y="138.879539" transform="rotate(-0 14.184 138.879539)">Hoang mạc</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7a72" x="163.872" y="138.838125" transform="rotate(-0 163.872 138.838125)">ít loài</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="14.184" y="177.897949" transform="rotate(-0 14.184 177.897949)">Vùng cực</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7a72" x="148.3488" y="177.868875" transform="rotate(-0 148.3488 177.868875)">rất ít loài</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="446.616" y="36.36" transform="rotate(-0 446.616 36.36)">Nguyên nhân suy giảm</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(369 85.563562)">• phá rừng</text>
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(369 101.214984)">• săn bắt, buôn bán</text>
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(369 115.143562)">  động vật hoang dã</text>
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(369 130.316859)">• ô nhiễm môi trường</text>
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(369 145.168219)">• biến đổi khí hậu</text>
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'" transform="translate(369 159.513562)">• khai thác quá mức</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p21e34ecbb4">
+   <rect x="8.64" y="8.64" width="532.224" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>
