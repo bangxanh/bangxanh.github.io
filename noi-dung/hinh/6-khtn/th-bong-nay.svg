@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="482.976pt" height="216.864pt" viewBox="0 0 482.976 216.864" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T16:20:45.142332</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 216.864 
+L 482.976 216.864 
+L 482.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 52.992 55.764 
+C 55.197429 55.764 57.312826 54.887774 58.8723 53.3283 
+C 60.431774 51.768826 61.308 49.653429 61.308 47.448 
+C 61.308 45.242571 60.431774 43.127174 58.8723 41.5677 
+C 57.312826 40.008226 55.197429 39.132 52.992 39.132 
+C 50.786571 39.132 48.671174 40.008226 47.1117 41.5677 
+C 45.552226 43.127174 44.676 45.242571 44.676 47.448 
+C 44.676 49.653429 45.552226 51.768826 47.1117 53.3283 
+C 48.671174 54.887774 50.786571 55.764 52.992 55.764 
+z
+" clip-path="url(#pa89c4b61c3)" style="fill: #f2a65a; stroke: #b5651d; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 16.956 186.048 
+L 466.02 186.048 
+" clip-path="url(#pa89c4b61c3)" style="fill: none; stroke: #555555; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 122.940799 186.048 
+L 122.940799 82.098 
+" clip-path="url(#pa89c4b61c3)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #6b7a72; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 186.424222 186.048 
+L 186.424222 108.1548 
+" clip-path="url(#pa89c4b61c3)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #6b7a72; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 52.992 47.448 
+L 53.916 47.539124 
+L 54.84 47.812497 
+L 55.764 48.268118 
+L 56.688 48.905988 
+L 57.612 49.726107 
+L 58.536 50.728473 
+L 59.46 51.913089 
+L 60.384 53.279953 
+L 61.308 54.829065 
+L 62.232 56.560426 
+L 63.156 58.474036 
+L 64.08 60.569893 
+L 65.004 62.848 
+L 65.928 65.308355 
+L 66.852 67.950959 
+L 67.776 70.775811 
+L 68.7 73.782911 
+L 69.624 76.97226 
+L 70.548 80.343858 
+L 71.472 83.897704 
+L 72.396 87.633799 
+L 73.32 91.552142 
+L 74.244 95.652734 
+L 75.168 99.935574 
+L 76.092 104.400663 
+L 77.016 109.048 
+L 77.94 113.877586 
+L 78.864 118.88942 
+L 79.788 124.083503 
+L 80.712 129.459834 
+L 81.636 135.018414 
+L 82.56 140.759243 
+L 83.484 146.68232 
+L 84.408 152.787645 
+L 85.332 159.075219 
+L 86.256 165.545041 
+L 87.18 172.197112 
+L 88.104 179.031432 
+L 89.028 186.048 
+L 89.028 186.048 
+L 90.72364 175.659834 
+L 92.41928 165.818414 
+L 94.11492 156.52374 
+L 95.81056 147.775811 
+L 97.5062 139.574627 
+L 99.20184 131.920189 
+L 100.89748 124.812497 
+L 102.59312 118.25155 
+L 104.28876 112.237349 
+L 105.9844 106.769893 
+L 107.68004 101.849183 
+L 109.37568 97.475219 
+L 111.07132 93.648 
+L 112.76696 90.367527 
+L 114.4626 87.633799 
+L 116.158239 85.446817 
+L 117.853879 83.80658 
+L 119.549519 82.713089 
+L 121.245159 82.166343 
+L 122.940799 82.166343 
+L 124.636439 82.713089 
+L 126.332079 83.80658 
+L 128.027719 85.446817 
+L 129.723359 87.633799 
+L 131.418999 90.367527 
+L 133.114639 93.648 
+L 134.810279 97.475219 
+L 136.505919 101.849183 
+L 138.201559 106.769893 
+L 139.897199 112.237349 
+L 141.592839 118.25155 
+L 143.288479 124.812497 
+L 144.984119 131.920189 
+L 146.679759 139.574627 
+L 148.375399 147.775811 
+L 150.071039 156.52374 
+L 151.766679 165.818414 
+L 153.462319 175.659834 
+L 155.157959 186.048 
+L 155.157959 186.048 
+L 156.721272 178.263801 
+L 158.284585 170.889297 
+L 159.847898 163.924488 
+L 161.411211 157.369373 
+L 162.974524 151.223953 
+L 164.537838 145.488227 
+L 166.101151 140.162196 
+L 167.664464 135.24586 
+L 169.227777 130.739219 
+L 170.79109 126.642272 
+L 172.354403 122.95502 
+L 173.917716 119.677463 
+L 175.48103 116.8096 
+L 177.044343 114.351432 
+L 178.607656 112.302959 
+L 180.170969 110.66418 
+L 181.734282 109.435096 
+L 183.297595 108.615707 
+L 184.860908 108.206012 
+L 186.424222 108.206012 
+L 187.987535 108.615707 
+L 189.550848 109.435096 
+L 191.114161 110.66418 
+L 192.677474 112.302959 
+L 194.240787 114.351432 
+L 195.804101 116.8096 
+L 197.367414 119.677463 
+L 198.930727 122.95502 
+L 200.49404 126.642272 
+L 202.057353 130.739219 
+L 203.620666 135.24586 
+L 205.183979 140.162196 
+L 206.747293 145.488227 
+L 208.310606 151.223953 
+L 209.873919 157.369373 
+L 211.437232 163.924488 
+L 213.000545 170.889297 
+L 214.563858 178.263801 
+L 216.127171 186.048 
+" clip-path="url(#pa89c4b61c3)" style="fill: none; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #2f6fde; stroke-width: 1.4"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="127.098799" y="77.94" transform="rotate(-0 127.098799 77.94)">75 cm</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="190.582222" y="103.9968" transform="rotate(-0 190.582222 103.9968)">56 cm</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="66.852" y="36.36" transform="rotate(-0 66.852 36.36)">thả từ 100 cm</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(319.104 63.711844)">Mỗi lần chạm đất:</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(319.104 77.607937)">một phần năng lượng</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(319.104 91.536844)">→ nhiệt năng, âm thanh</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(319.104 105.957937)">⇒ nảy thấp dần</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa89c4b61c3">
+   <rect x="8.64" y="8.64" width="465.696" height="199.584"/>
+  </clipPath>
+ </defs>
+</svg>

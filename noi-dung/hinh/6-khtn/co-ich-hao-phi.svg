@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="549.504pt" height="205.776pt" viewBox="0 0 549.504 205.776" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T16:20:45.058976</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 205.776 
+L 549.504 205.776 
+L 549.504 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 16.956 163.872 
+L 83.484 163.872 
+L 83.484 52.992 
+L 16.956 52.992 
+z
+" clip-path="url(#p5c498a8e6f)" style="fill: #efe7fb; stroke: #7a4cc2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 83.484 52.992 
+L 155.556 47.448 
+L 155.556 52.992 
+L 83.484 58.536 
+z
+" clip-path="url(#p5c498a8e6f)" style="fill: #ffe98a; stroke: #b58a00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 83.484 58.536 
+L 155.556 64.08 
+L 155.556 169.416 
+L 83.484 163.872 
+z
+" clip-path="url(#p5c498a8e6f)" style="fill: #f9c6c6; stroke: #c93a58; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 285.84 163.872 
+L 352.368 163.872 
+L 352.368 52.992 
+L 285.84 52.992 
+z
+" clip-path="url(#p5c498a8e6f)" style="fill: #efe7fb; stroke: #7a4cc2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 352.368 52.992 
+L 424.44 47.448 
+L 424.44 91.8 
+L 352.368 97.344 
+z
+" clip-path="url(#p5c498a8e6f)" style="fill: #ffe98a; stroke: #b58a00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 352.368 97.344 
+L 424.44 102.888 
+L 424.44 169.416 
+L 352.368 163.872 
+z
+" clip-path="url(#p5c498a8e6f)" style="fill: #f9c6c6; stroke: #c93a58; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #7a4cc2" transform="translate(37.97625 99.3695)">điện</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #7a4cc2" transform="translate(36.148125 111.252312)">năng</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #7a4cc2" transform="translate(36.1825 123.142156)">100 J</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; fill: #8a6a00" transform="translate(161.1 47.301)">ánh sáng 5 J</text>
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; fill: #8a6a00" transform="translate(161.1 59.18625)">(có ích)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(161.1 113.8665)">nhiệt 95 J</text>
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(161.1 125.349)">(hao phí)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f5640" x="113.976" y="28.044" transform="rotate(-0 113.976 28.044)">Đèn sợi đốt</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #7a4cc2" transform="translate(306.86025 99.3695)">điện</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #7a4cc2" transform="translate(305.032125 111.252312)">năng</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #7a4cc2" transform="translate(305.0665 123.142156)">100 J</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; fill: #8a6a00" transform="translate(429.984 66.705)">ánh sáng 40 J</text>
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; fill: #8a6a00" transform="translate(429.984 78.59025)">(có ích)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(429.984 133.2705)">nhiệt 60 J</text>
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; fill: #c93a58" transform="translate(429.984 144.753)">(hao phí)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f5640" x="382.86" y="28.044" transform="rotate(-0 382.86 28.044)">Đèn LED</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5c498a8e6f">
+   <rect x="8.64" y="8.64" width="532.224" height="188.496"/>
+  </clipPath>
+ </defs>
+</svg>

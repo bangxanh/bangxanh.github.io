@@ -2976,13 +2976,655 @@ TC: Giải thích đúng về lực cản | 2
 
 ## Chương IX. Năng lượng
 ### Bài 46. Năng lượng và sự truyền năng lượng
+> Bóng đèn sáng, quạt quay, xe chạy, em chạy nhảy… tất cả đều cần năng lượng. Năng lượng còn có thể truyền từ vật này sang vật khác.
+MT: Nêu được năng lượng đặc trưng cho khả năng tác dụng lực (thực hiện công).
+MT: Nêu được sự truyền năng lượng giữa các vật; lấy ví dụ.
+MT: Nhận biết được nhiên liệu là vật liệu giải phóng năng lượng; năng lượng tái tạo và không tái tạo.
+LT: 1. Năng lượng và lực
+- Vật có **năng lượng** thì có khả năng **tác dụng lực** lên vật khác (làm vật khác chuyển động, biến dạng, nóng lên…).
+- Ví dụ: gió có năng lượng làm quay cánh quạt; nước chảy có năng lượng đẩy thuyền; xăng cháy cung cấp năng lượng cho xe chạy.
+LT: 2. Sự truyền năng lượng
+- Năng lượng có thể **truyền** từ vật này sang vật khác: tay truyền năng lượng cho quả bóng khi ném; bếp truyền nhiệt cho nồi nước; Mặt Trời truyền năng lượng ánh sáng, nhiệt cho Trái Đất.
+- Đơn vị năng lượng: **jun (J)**; 1 kJ = 1000 J. Năng lượng thực phẩm thường tính bằng **calo** (1 cal ≈ 4,2 J; 1 kcal ≈ 4200 J).
+HINH: 6-khtn/truyen-nang-luong.svg | Sự truyền năng lượng: gió làm quay cánh quạt, bếp truyền nhiệt cho nồi nước, Mặt Trời truyền ánh sáng cho cây xanh, tay ném bóng.
+LT: 3. Nhiên liệu và nguồn năng lượng
+- **Nhiên liệu** (than, xăng, dầu, khí đốt, củi) khi cháy giải phóng năng lượng.
+- **Năng lượng không tái tạo**: than đá, dầu mỏ, khí tự nhiên – có hạn, sẽ cạn kiệt, gây ô nhiễm.
+- **Năng lượng tái tạo**: Mặt Trời, gió, nước, sinh khối, địa nhiệt – được bổ sung liên tục, ít ô nhiễm.
+DB: Dạng 1. Nhận biết vật có năng lượng
+- Vật đó có tác dụng lực, làm vật khác chuyển động, nóng lên… không?
+DB: Dạng 2. Mô tả sự truyền năng lượng
+- Chỉ rõ: vật truyền → vật nhận, dạng năng lượng.
+DB: Dạng 3. Đổi đơn vị năng lượng
+- 1 kJ = 1000 J; 1 kcal ≈ 4200 J.
+VD: Khi đun nước bằng bếp ga, năng lượng được truyền như thế nào?
+B: Khí ga cháy giải phóng năng lượng (nhiệt).
+KQ: Nhiệt được truyền từ ngọn lửa → đáy nồi → nước, làm nước nóng lên.
+VD: Một chiếc bánh cung cấp 250 kcal. Đổi ra kJ (1 kcal ≈ 4,2 kJ).
+B: 250 × 4,2.
+KQ: 1050 kJ.
+GN: Vật có năng lượng có thể tác dụng lực lên vật khác.
+GN: Đơn vị năng lượng: jun (J).
+GN: Ưu tiên dùng năng lượng tái tạo.
+Q: mc | Đơn vị của năng lượng là
+A) niutơn (N)
+B) jun (J) *
+C) kilôgam (kg)
+D) mét (m)
+E: Năng lượng đo bằng jun.
+Q: mc | Nguồn năng lượng nào là năng lượng tái tạo?
+A) Than đá
+B) Dầu mỏ
+C) Năng lượng gió *
+D) Khí tự nhiên
+E: Gió được bổ sung liên tục trong tự nhiên.
+Q: tf | Về năng lượng:
+a) Gió có năng lượng nên làm quay được cánh quạt. | Đ
+b) Năng lượng không thể truyền từ vật này sang vật khác. | S
+c) Than đá là nguồn năng lượng không tái tạo. | Đ
+d) 1 kJ = 1000 J. | Đ
+E: Năng lượng có thể truyền giữa các vật.
+Q: match | Nối hiện tượng với sự truyền năng lượng:
+1) Mặt Trời chiếu vào cây xanh | Năng lượng ánh sáng truyền cho cây
+2) Bếp đun nồi nước | Nhiệt truyền từ bếp sang nước
+3) Cầu thủ sút bóng | Năng lượng từ chân truyền cho bóng
+4) Gió thổi thuyền buồm | Năng lượng gió truyền cho thuyền
+E: Xác định vật truyền và vật nhận năng lượng.
+Q: sa | Một gói bim bim cung cấp 150 kcal. Đổi ra kJ (1 kcal ≈ 4,2 kJ).
+ANS: 630
+E: 150 × 4,2 = 630 kJ.
+TL: So sánh năng lượng tái tạo và năng lượng không tái tạo; vì sao nên tăng sử dụng năng lượng tái tạo?
+MAU: Không tái tạo (than, dầu, khí): có hạn, sẽ cạn kiệt; khi đốt thải nhiều khí gây ô nhiễm, hiệu ứng nhà kính.
+MAU: Tái tạo (Mặt Trời, gió, nước): được bổ sung liên tục, ít gây ô nhiễm.
+MAU: Nên tăng sử dụng năng lượng tái tạo để bảo đảm nguồn năng lượng lâu dài và bảo vệ môi trường.
+TC: Nêu đặc điểm năng lượng không tái tạo | 1
+TC: Nêu đặc điểm năng lượng tái tạo | 1
+TC: Lí do nên dùng năng lượng tái tạo | 1
+
 ### Bài 47. Một số dạng năng lượng
+> Quả bóng lăn có động năng, dây cung căng có thế năng, bếp lửa có nhiệt năng, bóng đèn phát quang năng… Năng lượng tồn tại dưới nhiều dạng khác nhau.
+MT: Kể được một số dạng năng lượng: động năng, thế năng, nhiệt năng, điện năng, quang năng (năng lượng ánh sáng), năng lượng âm, năng lượng hóa học.
+MT: Nêu được động năng phụ thuộc khối lượng, tốc độ; thế năng hấp dẫn phụ thuộc khối lượng, độ cao.
+MT: Lấy được ví dụ về các dạng năng lượng.
+LT: 1. Động năng và thế năng
+- **Động năng**: năng lượng của vật **đang chuyển động**; vật có khối lượng càng lớn, chuyển động càng nhanh thì động năng càng lớn.
+- **Thế năng hấp dẫn**: năng lượng của vật ở **trên cao** so với mặt đất; vật càng nặng, càng cao thì thế năng càng lớn.
+- **Thế năng đàn hồi**: năng lượng của vật **bị biến dạng đàn hồi** (lò xo nén, dây cung căng).
+LT: 2. Các dạng năng lượng khác
+- **Nhiệt năng**: vật càng nóng, nhiệt năng càng lớn.
+- **Điện năng**: năng lượng của dòng điện.
+- **Năng lượng ánh sáng** (quang năng), **năng lượng âm**, **năng lượng hóa học** (dự trữ trong thức ăn, nhiên liệu, pin).
+HINH: 6-khtn/dang-nang-luong.svg | Các dạng năng lượng: động năng (xe chạy), thế năng hấp dẫn (vật ở trên cao), thế năng đàn hồi (lò xo nén), nhiệt năng, điện năng, quang năng, năng lượng âm, năng lượng hóa học.
+DB: Dạng 1. Nhận biết dạng năng lượng
+- Chuyển động → động năng; ở trên cao → thế năng hấp dẫn; biến dạng → thế năng đàn hồi; nóng → nhiệt năng…
+DB: Dạng 2. So sánh động năng, thế năng
+- Cùng tốc độ, vật nặng hơn có động năng lớn hơn; cùng khối lượng, vật cao hơn có thế năng lớn hơn.
+DB: Dạng 3. Một vật có thể có nhiều dạng năng lượng
+- Máy bay đang bay: vừa có động năng, vừa có thế năng hấp dẫn.
+VD: Xe tải và xe máy chạy cùng tốc độ. Xe nào có động năng lớn hơn?
+B: Cùng tốc độ, động năng phụ thuộc khối lượng.
+KQ: Xe tải nặng hơn nên có động năng lớn hơn.
+VD: Quả dừa trên cây cao đang đứng yên có dạng năng lượng nào?
+B: Quả dừa ở trên cao so với mặt đất, chưa chuyển động.
+KQ: Quả dừa có thế năng hấp dẫn.
+GN: Động năng: vật chuyển động; thế năng hấp dẫn: vật ở trên cao.
+GN: Thế năng đàn hồi: vật biến dạng đàn hồi.
+GN: Năng lượng hóa học dự trữ trong thức ăn, nhiên liệu, pin.
+Q: mc | Vật nào sau đây có động năng?
+A) Quả bóng nằm yên trên sân
+B) Chiếc xe đạp đang chạy *
+C) Quyển sách trên bàn
+D) Lò xo bị nén
+E: Vật đang chuyển động có động năng.
+Q: mc | Năng lượng dự trữ trong pin là
+A) năng lượng hóa học *
+B) động năng
+C) thế năng hấp dẫn
+D) năng lượng âm
+E: Pin chứa hóa chất, phản ứng tạo ra điện.
+Q: tf | Về các dạng năng lượng:
+a) Dây cung đang căng có thế năng đàn hồi. | Đ
+b) Cùng khối lượng, vật ở cao hơn có thế năng hấp dẫn lớn hơn. | Đ
+c) Thức ăn chứa năng lượng hóa học. | Đ
+d) Máy bay đang bay chỉ có động năng. | S
+E: Máy bay đang bay có cả động năng và thế năng hấp dẫn.
+Q: match | Nối vật với dạng năng lượng chủ yếu:
+1) Bóng đèn đang sáng | Năng lượng ánh sáng
+2) Nồi nước sôi | Nhiệt năng
+3) Chiếc loa đang phát nhạc | Năng lượng âm
+4) Hòn đá trên đỉnh núi | Thế năng hấp dẫn
+E: Xác định đặc điểm của vật.
+Q: sa | Trong các vật: xe đang chạy, lò xo nén, quả táo trên cây, bóng đèn sáng, gió thổi. Có bao nhiêu vật có động năng?
+ANS: 2
+E: Xe đang chạy và gió thổi (không khí chuyển động).
+TL: Khi em ném một quả bóng lên cao rồi bóng rơi xuống, hãy mô tả các dạng năng lượng của quả bóng ở lúc vừa rời tay, ở điểm cao nhất và lúc sắp chạm đất.
+MAU: Vừa rời tay: bóng chuyển động nhanh → có động năng lớn; thế năng nhỏ (ở thấp).
+MAU: Điểm cao nhất: bóng dừng lại trong chốc lát → động năng gần bằng 0; thế năng hấp dẫn lớn nhất.
+MAU: Sắp chạm đất: bóng chuyển động nhanh → động năng lớn; thế năng nhỏ.
+TC: Mô tả đúng vị trí ném | 1
+TC: Mô tả đúng điểm cao nhất | 1
+TC: Mô tả đúng lúc sắp chạm đất | 1
+
 ### Bài 48. Sự chuyển hóa năng lượng
+> Quạt điện biến điện năng thành động năng, bóng đèn biến điện năng thành quang năng, cơ thể em biến năng lượng hóa học của thức ăn thành nhiệt và động năng… Năng lượng luôn chuyển hóa.
+MT: Nêu được sự chuyển hóa năng lượng từ dạng này sang dạng khác; lấy ví dụ.
+MT: Phát biểu được định luật bảo toàn năng lượng.
+MT: Vẽ được sơ đồ chuyển hóa năng lượng trong một số thiết bị.
+LT: 1. Sự chuyển hóa năng lượng
+- Năng lượng có thể **chuyển hóa** từ dạng này sang dạng khác:
+- Quạt điện: điện năng → **động năng** (cánh quạt quay) + nhiệt năng, năng lượng âm.
+- Bóng đèn: điện năng → **năng lượng ánh sáng** + nhiệt năng.
+- Bếp ga: năng lượng hóa học → nhiệt năng + quang năng.
+- Nhà máy thủy điện: thế năng của nước → động năng → điện năng.
+- Cây xanh: quang năng → năng lượng hóa học (quang hợp).
+HINH: 6-khtn/chuyen-hoa-nang-luong.svg | Chuyển hóa năng lượng trong quạt điện, bóng đèn và nhà máy thủy điện: năng lượng chuyển từ dạng này sang dạng khác.
+LT: 2. Định luật bảo toàn năng lượng
+- Năng lượng **không tự sinh ra và không tự mất đi**; nó chỉ **chuyển từ dạng này sang dạng khác** hoặc **truyền từ vật này sang vật khác**.
+- Tổng năng lượng lúc đầu = tổng năng lượng lúc sau (kể cả phần hao phí).
+DB: Dạng 1. Viết sơ đồ chuyển hóa
+- Năng lượng đầu vào → năng lượng có ích + năng lượng hao phí.
+DB: Dạng 2. Vận dụng định luật bảo toàn
+- E(đầu vào) = E(có ích) + E(hao phí).
+DB: Dạng 3. Giải thích hiện tượng
+- Xoa hai bàn tay vào nhau thấy nóng: động năng → nhiệt năng.
+VD: Viết sơ đồ chuyển hóa năng lượng khi em đạp xe đạp có đèn dynamo.
+B: Thức ăn cung cấp năng lượng hóa học cho cơ thể → cơ chân hoạt động.
+KQ: Năng lượng hóa học → động năng (xe chạy) → điện năng (dynamo) → năng lượng ánh sáng (đèn) + nhiệt năng.
+VD: Một bóng đèn tiêu thụ 100 J điện năng, phát ra 10 J năng lượng ánh sáng. Năng lượng nhiệt tỏa ra là bao nhiêu?
+B: Theo định luật bảo toàn: 100 = 10 + E(nhiệt).
+KQ: E(nhiệt) = 90 J.
+GN: Năng lượng không tự sinh ra, không tự mất đi.
+GN: Mỗi thiết bị chuyển hóa năng lượng đều có phần hao phí.
+GN: Năng lượng đầu vào = có ích + hao phí.
+Q: mc | Quạt điện hoạt động chuyển hóa chủ yếu
+A) điện năng thành động năng *
+B) nhiệt năng thành điện năng
+C) quang năng thành điện năng
+D) động năng thành năng lượng hóa học
+E: Cánh quạt quay nhờ điện năng.
+Q: mc | Trong quang hợp, cây xanh chuyển hóa
+A) nhiệt năng thành động năng
+B) năng lượng ánh sáng thành năng lượng hóa học *
+C) điện năng thành nhiệt năng
+D) năng lượng âm thành quang năng
+E: Cây dùng ánh sáng tổng hợp chất hữu cơ (dự trữ năng lượng hóa học).
+Q: ord | Sắp xếp các dạng năng lượng trong nhà máy thủy điện theo thứ tự chuyển hóa:
+1) Thế năng của nước trong hồ chứa
+2) Động năng của dòng nước chảy xuống
+3) Động năng của tua bin quay
+4) Điện năng của máy phát
+E: Thế năng → động năng nước → động năng tua bin → điện năng.
+Q: tf | Về chuyển hóa năng lượng:
+a) Năng lượng có thể tự sinh ra. | S
+b) Xoa hai bàn tay vào nhau, động năng chuyển hóa thành nhiệt năng. | Đ
+c) Pin mặt trời chuyển hóa quang năng thành điện năng. | Đ
+d) Bóng đèn chuyển hóa toàn bộ điện năng thành ánh sáng. | S
+E: Năng lượng bảo toàn; bóng đèn có phần hao phí thành nhiệt.
+Q: sa | Một quạt điện tiêu thụ 500 J điện năng, trong đó 400 J chuyển thành động năng. Năng lượng hao phí là bao nhiêu J?
+ANS: 100
+E: 500 − 400 = 100 J.
+TL: Vẽ sơ đồ chuyển hóa năng lượng của nồi cơm điện và của chiếc xe máy đang chạy.
+MAU: Nồi cơm điện: điện năng → nhiệt năng (có ích: nấu chín cơm) + một phần nhiệt hao phí ra môi trường, quang năng (đèn báo).
+MAU: Xe máy: năng lượng hóa học (xăng) → nhiệt năng → động năng (xe chạy) + nhiệt năng, năng lượng âm (hao phí).
+TC: Sơ đồ nồi cơm điện đúng | 1
+TC: Sơ đồ xe máy đúng | 1
+TC: Chỉ ra phần hao phí | 1
+
 ### Bài 49. Năng lượng hao phí
+> Bóng đèn sợi đốt chỉ biến khoảng 5% điện năng thành ánh sáng, phần còn lại thành nhiệt "vô ích". Hiểu năng lượng có ích và hao phí giúp em chọn thiết bị tiết kiệm điện.
+MT: Nêu được năng lượng có ích và năng lượng hao phí trong quá trình chuyển hóa năng lượng.
+MT: Lấy được ví dụ về năng lượng hao phí luôn xuất hiện khi năng lượng chuyển hóa.
+MT: Nêu được biện pháp giảm hao phí, sử dụng năng lượng tiết kiệm.
+LT: 1. Năng lượng có ích và năng lượng hao phí
+- Khi một thiết bị hoạt động, năng lượng đầu vào chuyển hóa thành **năng lượng có ích** (phục vụ mục đích sử dụng) và **năng lượng hao phí** (không mong muốn).
+- Ví dụ: bóng đèn – có ích: năng lượng ánh sáng; hao phí: nhiệt năng. Quạt điện – có ích: động năng của cánh quạt; hao phí: nhiệt năng, năng lượng âm.
+- **Năng lượng hao phí luôn xuất hiện** trong mọi quá trình chuyển hóa năng lượng.
+LT: 2. Quan hệ giữa các phần năng lượng
+- Năng lượng đầu vào = năng lượng có ích + năng lượng hao phí.
+- Thiết bị càng tốt thì phần năng lượng có ích càng lớn, phần hao phí càng nhỏ (ví dụ: đèn LED hao phí ít hơn đèn sợi đốt).
+HINH: 6-khtn/co-ich-hao-phi.svg | Sơ đồ năng lượng của bóng đèn sợi đốt và đèn LED: cùng 100 J điện năng, đèn LED cho nhiều năng lượng ánh sáng có ích hơn, hao phí nhiệt ít hơn (số liệu minh họa).
+LT: 3. Tiết kiệm năng lượng
+- Dùng thiết bị hiệu suất cao (đèn LED, thiết bị có nhãn năng lượng nhiều sao).
+- Tắt thiết bị khi không dùng; tận dụng ánh sáng, gió tự nhiên; bảo dưỡng máy móc (tra dầu mỡ giảm ma sát).
+- Đi bộ, đi xe đạp, dùng phương tiện công cộng.
+DB: Dạng 1. Xác định năng lượng có ích, hao phí
+- Hỏi: mục đích của thiết bị là gì? Phần phục vụ mục đích là có ích, phần còn lại là hao phí.
+DB: Dạng 2. Tính năng lượng có ích, hao phí
+- E(hao phí) = E(đầu vào) − E(có ích); E(có ích) = E(đầu vào) − E(hao phí).
+DB: Dạng 3. Đề xuất biện pháp tiết kiệm năng lượng
+- Giảm hao phí, giảm thời gian sử dụng không cần thiết.
+VD: Một động cơ điện nhận 2000 J điện năng, tạo ra 1600 J động năng. Năng lượng hao phí là bao nhiêu? Hao phí dưới dạng nào?
+B: E(hao phí) = 2000 − 1600 = 400 J.
+KQ: Hao phí 400 J, chủ yếu dưới dạng nhiệt năng (động cơ nóng lên) và năng lượng âm (tiếng ồn).
+VD: Vì sao nên thay bóng đèn sợi đốt bằng bóng đèn LED?
+B: Với cùng độ sáng, đèn LED tiêu thụ ít điện năng hơn nhiều vì hao phí nhiệt ít.
+KQ: Dùng đèn LED tiết kiệm điện, giảm tiền điện và giảm phát thải.
+GN: Năng lượng hao phí luôn tồn tại, không thể loại bỏ hoàn toàn.
+GN: Đầu vào = có ích + hao phí.
+GN: Tắt điện khi ra khỏi phòng là việc làm đơn giản để tiết kiệm năng lượng.
+Q: mc | Đối với bàn là điện, năng lượng có ích là
+A) năng lượng ánh sáng
+B) nhiệt năng *
+C) năng lượng âm
+D) động năng
+E: Bàn là dùng nhiệt để là phẳng quần áo.
+Q: mc | Đối với ti vi, dạng năng lượng nào là hao phí?
+A) Năng lượng ánh sáng trên màn hình
+B) Năng lượng âm của loa
+C) Nhiệt năng làm ti vi nóng lên *
+D) Cả ánh sáng và âm thanh
+E: Ánh sáng và âm thanh là có ích; nhiệt làm nóng máy là hao phí.
+Q: tf | Về năng lượng có ích và hao phí:
+a) Có thể chế tạo thiết bị không có năng lượng hao phí. | S
+b) Năng lượng đầu vào bằng tổng năng lượng có ích và hao phí. | Đ
+c) Đèn LED hao phí ít năng lượng hơn đèn sợi đốt cùng độ sáng. | Đ
+d) Tra dầu mỡ cho máy móc giúp giảm hao phí do ma sát. | Đ
+E: Năng lượng hao phí luôn xuất hiện.
+Q: match | Nối thiết bị với năng lượng có ích chủ yếu:
+1) Bóng đèn | Năng lượng ánh sáng
+2) Quạt điện | Động năng của cánh quạt
+3) Nồi cơm điện | Nhiệt năng
+4) Loa | Năng lượng âm
+E: Năng lượng có ích là phần phục vụ đúng mục đích sử dụng.
+Q: sa | Một bóng đèn nhận 60 J điện năng, phát ra 9 J năng lượng ánh sáng. Năng lượng hao phí là bao nhiêu J?
+ANS: 51
+E: 60 − 9 = 51 J.
+TL: Đề xuất 4 việc làm cụ thể ở nhà hoặc ở trường giúp tiết kiệm năng lượng, giải thích ngắn gọn.
+MAU: Thay bóng đèn sợi đốt bằng đèn LED – hao phí nhiệt ít hơn, tốn ít điện hơn.
+MAU: Tắt đèn, quạt, máy tính khi ra khỏi phòng – không tiêu thụ điện vô ích.
+MAU: Mở cửa sổ đón ánh sáng và gió tự nhiên – giảm dùng đèn, quạt, điều hòa.
+MAU: Đi bộ, đi xe đạp đến trường khi có thể – tiết kiệm xăng, giảm khí thải.
+TC: Mỗi việc làm hợp lí có giải thích | 4
+
 ### Bài 50. Năng lượng tái tạo
+> Mỗi tháng gia đình em trả tiền điện, tiền xăng, tiền ga… Tiết kiệm năng lượng không chỉ giúp tiết kiệm tiền mà còn bảo vệ môi trường cho tương lai.
+MT: Nêu được vì sao cần tiết kiệm năng lượng.
+MT: Đề xuất được biện pháp tiết kiệm năng lượng trong gia đình, trường học và cộng đồng.
+MT: Tính được lượng điện năng tiêu thụ và số tiền tiết kiệm trong các tình huống đơn giản.
+LT: 1. Vì sao cần tiết kiệm năng lượng?
+- Các nguồn năng lượng không tái tạo (than, dầu, khí) đang **cạn kiệt**.
+- Sản xuất và sử dụng năng lượng từ nhiên liệu hóa thạch thải nhiều khí **gây ô nhiễm**, hiệu ứng nhà kính, biến đổi khí hậu.
+- Tiết kiệm năng lượng giúp **giảm chi phí** cho gia đình và xã hội.
+LT: 2. Biện pháp tiết kiệm năng lượng
+- **Trong gia đình**: tắt thiết bị khi không dùng; rút phích cắm sạc khi đầy; dùng đèn LED, thiết bị dán nhãn tiết kiệm năng lượng; đặt điều hòa ở 26 – 28 °C; không mở tủ lạnh lâu.
+- **Ở trường**: tắt đèn, quạt khi ra chơi, tan học; tận dụng ánh sáng tự nhiên.
+- **Giao thông**: đi bộ, xe đạp, phương tiện công cộng.
+- **Sử dụng năng lượng tái tạo**: pin mặt trời, máy nước nóng năng lượng mặt trời.
+HINH: 6-khtn/tiet-kiem-nang-luong.svg | Một số việc làm tiết kiệm năng lượng: dùng đèn LED, tắt thiết bị khi không dùng, đi xe đạp, dùng pin mặt trời.
+LT: 3. Tính điện năng tiêu thụ (làm quen)
+- Số đo trên công tơ điện tính bằng **kWh** (số điện). Một thiết bị công suất 1 kW (1000 W) hoạt động 1 giờ tiêu thụ **1 kWh**.
+- Điện năng (kWh) = công suất (kW) × thời gian (h).
+DB: Dạng 1. Nêu lí do cần tiết kiệm năng lượng
+- Cạn kiệt tài nguyên, ô nhiễm môi trường, chi phí.
+DB: Dạng 2. Đề xuất biện pháp
+- Theo từng nơi: gia đình, trường học, giao thông.
+DB: Dạng 3. Tính điện năng tiêu thụ, tiền điện
+- Đổi W → kW (chia 1000); nhân thời gian (giờ); nhân giá tiền mỗi kWh.
+VD: Một bóng đèn 40 W bật 5 giờ mỗi ngày. Trong 30 ngày tiêu thụ bao nhiêu kWh?
+B: 40 W = 0,04 kW; mỗi ngày: 0,04 × 5 = 0,2 kWh.
+KQ: 30 ngày: 0,2 × 30 = 6 kWh.
+VD: Thay bóng 40 W bằng bóng LED 9 W có độ sáng tương đương, bật 5 giờ/ngày. Trong 30 ngày tiết kiệm bao nhiêu kWh?
+B: Công suất giảm: 40 − 9 = 31 W = 0,031 kW.
+KQ: Tiết kiệm: 0,031 × 5 × 30 = 4,65 kWh.
+GN: 1 kW = 1000 W; 1 kWh = 1 số điện.
+GN: Tắt thiết bị khi không dùng là cách tiết kiệm đơn giản nhất.
+GN: Tiết kiệm năng lượng góp phần bảo vệ môi trường.
+Q: mc | Việc làm nào giúp tiết kiệm năng lượng?
+A) Bật đèn cả ngày dù trời sáng
+B) Để ti vi ở chế độ chờ cả đêm
+C) Tắt quạt, đèn khi ra khỏi phòng *
+D) Mở tủ lạnh thật lâu
+E: Tắt thiết bị không dùng giúp không tiêu thụ điện vô ích.
+Q: mc | Một thiết bị công suất 1 kW hoạt động trong 1 giờ tiêu thụ
+A) 1 kWh *
+B) 10 kWh
+C) 100 kWh
+D) 1000 kWh
+E: 1 kW × 1 h = 1 kWh.
+Q: tf | Về tiết kiệm năng lượng:
+a) Than đá, dầu mỏ là nguồn năng lượng vô tận. | S
+b) Dùng đèn LED giúp tiết kiệm điện. | Đ
+c) Đi xe đạp giúp giảm khí thải. | Đ
+d) Đặt điều hòa ở 18 °C vào mùa hè là cách tiết kiệm điện. | S
+E: Than, dầu có hạn; nhiệt độ điều hòa quá thấp tốn nhiều điện.
+Q: match | Nối việc làm với lợi ích chính:
+1) Lắp pin mặt trời trên mái nhà | Dùng năng lượng tái tạo
+2) Thay đèn sợi đốt bằng đèn LED | Giảm hao phí nhiệt
+3) Đi xe buýt thay xe máy | Giảm tiêu thụ nhiên liệu, khí thải
+4) Rút sạc khi pin đầy | Tránh tiêu thụ điện vô ích
+E: Mỗi việc làm góp phần tiết kiệm năng lượng.
+Q: sa | Một quạt điện 50 W chạy 8 giờ mỗi ngày. Trong 30 ngày quạt tiêu thụ bao nhiêu kWh?
+ANS: 12
+E: 0,05 kW × 8 h × 30 = 12 kWh.
+TL: Em hãy lập kế hoạch "Gia đình tiết kiệm điện" trong một tháng gồm ít nhất 4 việc làm và cách theo dõi kết quả.
+MAU: Việc làm: thay đèn LED; tắt thiết bị khi không dùng; rút phích cắm thiết bị ở chế độ chờ; đặt điều hòa 26 – 28 °C, kết hợp quạt.
+MAU: Theo dõi: ghi chỉ số công tơ điện đầu tháng và cuối tháng, so sánh số kWh với tháng trước.
+MAU: Đánh giá: nếu số điện giảm, duy trì và chia sẻ kinh nghiệm cho hàng xóm.
+TC: Ít nhất 4 việc làm hợp lí | 2
+TC: Có cách theo dõi, đánh giá | 1
+
 ### Bài 51. Tiết kiệm năng lượng
+> Lăn một quả bóng trên sàn rồi để nó tự dừng lại: năng lượng của quả bóng đã đi đâu? Thực hành này giúp em "nhìn thấy" sự chuyển hóa và bảo toàn năng lượng.
+MT: Thực hiện được thí nghiệm đơn giản về sự chuyển hóa năng lượng (thế năng ↔ động năng).
+MT: Chỉ ra được năng lượng hao phí trong thí nghiệm.
+MT: Đề xuất được cách giảm hao phí trong thí nghiệm, liên hệ thực tế.
+LT: 1. Chuẩn bị
+- Quả bóng cao su (hoặc bóng bàn), thước mét, máng nghiêng (tấm gỗ phẳng), viên bi, quyển sách để kê, bút ghi chép.
+LT: 2. Thí nghiệm 1: Thả rơi quả bóng
+- Thả quả bóng từ độ cao 1 m (không ném), đo độ cao bóng nảy lên sau mỗi lần chạm đất.
+- Nhận xét: sau mỗi lần nảy, bóng lên **thấp hơn** độ cao trước ⇒ một phần năng lượng đã chuyển thành nhiệt năng, năng lượng âm (hao phí) khi bóng chạm đất.
+HINH: 6-khtn/th-bong-nay.svg | Quả bóng thả rơi từ độ cao 1 m nảy lên thấp dần: một phần năng lượng chuyển hóa thành nhiệt và âm thanh mỗi lần chạm đất.
+LT: 3. Thí nghiệm 2: Viên bi lăn trên máng nghiêng
+- Thả viên bi từ đỉnh máng nghiêng: thế năng hấp dẫn → động năng; viên bi lăn trên sàn chậm dần rồi dừng do ma sát (động năng → nhiệt năng).
+- Thả bi ở vị trí cao hơn ⇒ bi lăn xa hơn (thế năng lớn hơn).
+DB: Dạng 1. Mô tả sự chuyển hóa năng lượng trong thí nghiệm
+- Ở trên cao: thế năng; đang rơi/lăn: thế năng → động năng; chạm đất, ma sát: → nhiệt năng, âm.
+DB: Dạng 2. Xử lí số liệu
+- Tính độ cao giảm, tỉ lệ độ cao nảy so với độ cao thả.
+DB: Dạng 3. Giải thích, đề xuất cải tiến
+- Giảm ma sát: mặt sàn nhẵn, bóng bơm căng.
+VD: Thả bóng từ độ cao 100 cm, lần nảy thứ nhất cao 75 cm. Độ cao nảy bằng bao nhiêu phần trăm độ cao thả?
+B: 75 : 100 × 100%.
+KQ: 75%. Phần còn lại đã chuyển thành nhiệt năng và năng lượng âm.
+VD: Vì sao viên bi lăn trên thảm dừng lại nhanh hơn khi lăn trên sàn gạch nhẵn?
+B: Thảm có ma sát lớn hơn sàn gạch nhẵn.
+KQ: Động năng của bi chuyển thành nhiệt năng nhanh hơn nên bi dừng sớm hơn.
+GN: Thả bóng nhẹ nhàng, không ném, để đo chính xác.
+GN: Đo nhiều lần, lấy giá trị trung bình.
+GN: Năng lượng không mất đi, chỉ chuyển thành dạng khác (nhiệt, âm).
+Q: mc | Khi quả bóng đang rơi xuống, dạng năng lượng nào tăng dần?
+A) Thế năng hấp dẫn
+B) Động năng *
+C) Năng lượng hóa học
+D) Điện năng
+E: Bóng rơi càng nhanh, động năng càng tăng; thế năng giảm.
+Q: mc | Quả bóng nảy lên thấp dần sau mỗi lần chạm đất vì
+A) năng lượng bị mất đi hoàn toàn
+B) một phần năng lượng chuyển thành nhiệt năng và năng lượng âm *
+C) Trái Đất hút bóng mạnh hơn
+D) bóng nặng dần lên
+E: Năng lượng không mất đi mà chuyển thành dạng hao phí.
+Q: ord | Sắp xếp sự chuyển hóa năng lượng khi viên bi được thả từ đỉnh máng nghiêng đến khi dừng lại trên sàn:
+1) Viên bi ở đỉnh máng có thế năng hấp dẫn
+2) Viên bi lăn xuống, thế năng chuyển dần thành động năng
+3) Viên bi lăn trên sàn, động năng chuyển dần thành nhiệt năng do ma sát
+4) Viên bi dừng lại
+E: Thế năng → động năng → nhiệt năng.
+Q: tf | Về bài thực hành:
+a) Thả bi ở vị trí càng cao trên máng thì bi lăn càng xa. | Đ
+b) Bóng nảy lên cao đúng bằng độ cao thả. | S
+c) Tiếng "bộp" khi bóng chạm đất là năng lượng âm. | Đ
+d) Ma sát làm một phần động năng chuyển thành nhiệt năng. | Đ
+E: Bóng luôn nảy thấp hơn độ cao thả do có hao phí.
+Q: sa | Thả bóng từ độ cao 120 cm, lần nảy đầu cao 90 cm. Độ cao nảy bằng bao nhiêu phần trăm độ cao thả?
+ANS: 75
+E: 90 : 120 × 100% = 75%.
+TL: Viết báo cáo thực hành thí nghiệm thả rơi quả bóng (mục đích, cách làm, bảng số liệu, nhận xét, giải thích).
+MAU: Mục đích: tìm hiểu sự chuyển hóa năng lượng và năng lượng hao phí.
+MAU: Cách làm: thả bóng từ độ cao 1 m, đo độ cao nảy lần 1, 2, 3; lặp lại 3 lần, lấy trung bình.
+MAU: Bảng số liệu: Lần nảy | Độ cao (cm) lần đo 1, 2, 3 | Trung bình.
+MAU: Nhận xét – giải thích: độ cao nảy giảm dần vì mỗi lần chạm đất một phần năng lượng chuyển thành nhiệt và âm thanh (hao phí).
+TC: Mục đích, cách làm đúng | 1
+TC: Có bảng số liệu hợp lí | 1
+TC: Nhận xét, giải thích đúng | 1
+
 ## Chương X. Trái Đất và bầu trời
 ### Bài 52. Chuyển động nhìn thấy của Mặt Trời. Thiên thể
+> Sáng nào Mặt Trời cũng "mọc" ở phía đông, chiều "lặn" ở phía tây. Thật ra Mặt Trời không đi quanh Trái Đất – chính Trái Đất đang tự quay!
+MT: Giải thích được hiện tượng Mặt Trời mọc ở phía đông, lặn ở phía tây (chuyển động nhìn thấy).
+MT: Nêu được khái niệm thiên thể; phân biệt được sao, hành tinh, vệ tinh.
+MT: Vận dụng xác định phương hướng nhờ Mặt Trời.
+LT: 1. Chuyển động nhìn thấy của Mặt Trời
+- Hằng ngày ta thấy Mặt Trời **mọc ở phía đông**, lên cao dần, rồi **lặn ở phía tây**.
+- Nguyên nhân: **Trái Đất tự quay quanh trục từ tây sang đông**, mỗi vòng khoảng **24 giờ**. Người đứng trên Trái Đất quay theo nên thấy Mặt Trời như chuyển động ngược lại, từ đông sang tây.
+- Đây là chuyển động **nhìn thấy** (biểu kiến), giống như khi ngồi trên ô tô đang chạy ta thấy cây bên đường chạy lùi.
+HINH: 6-khtn/mat-troi-moc-lan.svg | Trái Đất tự quay từ tây sang đông nên người quan sát thấy Mặt Trời mọc ở phía đông, lên cao vào buổi trưa và lặn ở phía tây.
+LT: 2. Thiên thể
+- **Thiên thể** là các vật thể tự nhiên trong vũ trụ: sao, hành tinh, vệ tinh, sao chổi, tiểu hành tinh…
+- **Sao**: tự phát sáng (Mặt Trời là một ngôi sao). **Hành tinh**: không tự phát sáng, chuyển động quanh một ngôi sao (Trái Đất). **Vệ tinh**: chuyển động quanh hành tinh (Mặt Trăng là vệ tinh tự nhiên của Trái Đất).
+DB: Dạng 1. Giải thích hiện tượng ngày – đêm, Mặt Trời mọc – lặn
+- Do Trái Đất tự quay quanh trục từ tây sang đông.
+DB: Dạng 2. Phân loại thiên thể
+- Tự phát sáng → sao; quay quanh sao → hành tinh; quay quanh hành tinh → vệ tinh.
+DB: Dạng 3. Xác định phương hướng nhờ Mặt Trời
+- Buổi sáng đứng giang tay, tay phải chỉ hướng Mặt Trời mọc (đông) ⇒ trước mặt là bắc, sau lưng là nam, tay trái là tây.
+VD: Buổi sáng, Nam đứng giang hai tay, tay phải chỉ về phía Mặt Trời mọc. Hỏi trước mặt Nam là hướng nào?
+B: Tay phải chỉ hướng đông, tay trái chỉ hướng tây.
+KQ: Trước mặt Nam là hướng bắc, sau lưng là hướng nam.
+VD: Trái Đất tự quay một vòng hết khoảng 24 giờ. Trong 6 giờ, Trái Đất quay được bao nhiêu độ?
+B: 24 giờ quay 360° ⇒ mỗi giờ quay 360° : 24 = 15°.
+KQ: 6 giờ quay 6 × 15° = 90°.
+GN: Mặt Trời không quay quanh Trái Đất; Trái Đất tự quay từ tây sang đông.
+GN: Mặt Trời là một ngôi sao; Mặt Trăng là vệ tinh của Trái Đất.
+GN: Không nhìn trực tiếp vào Mặt Trời bằng mắt thường hay qua kính.
+Q: mc | Hằng ngày ta thấy Mặt Trời mọc ở phía đông, lặn ở phía tây là do
+A) Mặt Trời quay quanh Trái Đất
+B) Trái Đất tự quay quanh trục từ tây sang đông *
+C) Mặt Trăng che khuất Mặt Trời
+D) Trái Đất đứng yên
+E: Chuyển động nhìn thấy của Mặt Trời là do Trái Đất tự quay.
+Q: mc | Thiên thể nào sau đây là một ngôi sao?
+A) Mặt Trăng
+B) Trái Đất
+C) Mặt Trời *
+D) Sao Hỏa
+E: Mặt Trời tự phát sáng – là một ngôi sao; sao Hỏa thực chất là hành tinh.
+Q: tf | Về chuyển động nhìn thấy của Mặt Trời và thiên thể:
+a) Trái Đất tự quay một vòng quanh trục hết khoảng 24 giờ. | Đ
+b) Mặt Trăng là một ngôi sao vì nó sáng vào ban đêm. | S
+c) Hành tinh không tự phát sáng. | Đ
+d) Buổi chiều Mặt Trời lặn ở phía tây. | Đ
+E: Mặt Trăng không tự phát sáng, nó phản chiếu ánh sáng Mặt Trời và là vệ tinh.
+Q: match | Nối thiên thể với loại thiên thể:
+1) Mặt Trời | Sao
+2) Trái Đất | Hành tinh
+3) Mặt Trăng | Vệ tinh
+4) Sao chổi Halley | Sao chổi
+E: Phân loại theo khả năng phát sáng và chuyển động quanh thiên thể nào.
+Q: sa | Trái Đất tự quay 360° trong khoảng 24 giờ. Trong 4 giờ Trái Đất quay được bao nhiêu độ?
+ANS: 60
+E: 360 : 24 × 4 = 60°.
+TL: Giải thích vì sao khi đi xe buýt nhìn ra cửa sổ ta thấy cây cối "chạy lùi", và liên hệ với hiện tượng Mặt Trời mọc ở đông, lặn ở tây.
+MAU: Xe chuyển động về phía trước, người ngồi trên xe chuyển động cùng xe nên thấy cây cối đứng yên bên đường như chạy lùi về phía sau.
+MAU: Tương tự, người đứng trên Trái Đất quay cùng Trái Đất từ tây sang đông nên thấy Mặt Trời chuyển động ngược lại từ đông sang tây: mọc ở đông, lặn ở tây.
+TC: Giải thích hiện tượng cây "chạy lùi" | 1
+TC: Liên hệ đúng với Trái Đất tự quay | 2
+
 ### Bài 53. Mặt Trăng
+> Có đêm trăng tròn vằng vặc, có đêm chỉ thấy vầng trăng khuyết mảnh như lưỡi liềm, có đêm không thấy trăng. Vì sao hình dạng Mặt Trăng lại thay đổi?
+MT: Nêu được Mặt Trăng là vệ tinh tự nhiên của Trái Đất, không tự phát sáng.
+MT: Giải thích được các pha (hình dạng nhìn thấy) của Mặt Trăng.
+MT: Thiết kế được mô hình thực tế (hoặc vẽ) để giải thích các pha của Mặt Trăng.
+LT: 1. Mặt Trăng
+- Mặt Trăng là **vệ tinh tự nhiên** của Trái Đất, chuyển động quanh Trái Đất.
+- Mặt Trăng **không tự phát sáng**; ta thấy Mặt Trăng sáng vì nó **phản xạ ánh sáng Mặt Trời**.
+- Luôn chỉ có **một nửa** Mặt Trăng được Mặt Trời chiếu sáng.
+LT: 2. Các pha của Mặt Trăng
+- Khi Mặt Trăng chuyển động quanh Trái Đất, phần được chiếu sáng mà ta nhìn thấy thay đổi ⇒ hình dạng nhìn thấy thay đổi gọi là **các pha** (tuần trăng).
+- Thứ tự: **không trăng (trăng mới)** → **trăng lưỡi liềm đầu tháng** → **trăng bán nguyệt đầu tháng** → **trăng khuyết đầu tháng** → **trăng tròn** → **trăng khuyết cuối tháng** → **trăng bán nguyệt cuối tháng** → **trăng lưỡi liềm cuối tháng** → không trăng.
+- Một chu kì tuần trăng khoảng **29,5 ngày**; trăng tròn vào khoảng ngày 14 – 16 âm lịch.
+HINH: 6-khtn/pha-mat-trang.svg | Mặt Trăng chuyển động quanh Trái Đất, luôn được Mặt Trời chiếu sáng một nửa; từ Trái Đất ta thấy phần sáng thay đổi tạo thành các pha.
+DB: Dạng 1. Giải thích vì sao thấy Mặt Trăng sáng
+- Mặt Trăng phản xạ ánh sáng Mặt Trời.
+DB: Dạng 2. Sắp xếp, nhận biết các pha
+- Đầu tháng phần sáng tăng dần đến trăng tròn, cuối tháng giảm dần.
+DB: Dạng 3. Tính toán theo chu kì tuần trăng
+- Chu kì ≈ 29,5 ngày; tính ngày xuất hiện pha kế tiếp.
+VD: Đêm nay là trăng tròn. Khoảng bao nhiêu ngày nữa sẽ lại có trăng tròn?
+B: Hai lần trăng tròn liên tiếp cách nhau một chu kì tuần trăng.
+KQ: Khoảng 29 – 30 ngày (29,5 ngày).
+VD: Vì sao vào ngày không trăng ta không nhìn thấy Mặt Trăng?
+B: Khi đó Mặt Trăng nằm giữa Trái Đất và Mặt Trời.
+KQ: Nửa được chiếu sáng quay về phía Mặt Trời, nửa tối quay về phía Trái Đất nên ta không nhìn thấy.
+GN: Mặt Trăng không tự phát sáng.
+GN: Tuần trăng khoảng 29,5 ngày.
+GN: Trăng tròn vào khoảng giữa tháng âm lịch (rằm).
+Q: mc | Ta nhìn thấy Mặt Trăng sáng vì
+A) Mặt Trăng tự phát sáng
+B) Mặt Trăng phản xạ ánh sáng Mặt Trời *
+C) Trái Đất chiếu sáng Mặt Trăng
+D) Mặt Trăng là một ngôi sao
+E: Mặt Trăng là vệ tinh, không tự phát sáng.
+Q: mc | Một chu kì tuần trăng kéo dài khoảng
+A) 7 ngày
+B) 15 ngày
+C) 29,5 ngày *
+D) 365 ngày
+E: Chu kì các pha Mặt Trăng khoảng 29,5 ngày.
+Q: ord | Sắp xếp các pha Mặt Trăng từ đầu tháng âm lịch đến giữa tháng:
+1) Không trăng
+2) Trăng lưỡi liềm đầu tháng
+3) Trăng bán nguyệt đầu tháng
+4) Trăng khuyết đầu tháng
+5) Trăng tròn
+E: Phần sáng nhìn thấy tăng dần từ đầu tháng đến rằm.
+Q: tf | Về Mặt Trăng:
+a) Mặt Trăng là vệ tinh tự nhiên của Trái Đất. | Đ
+b) Lúc nào cũng có một nửa Mặt Trăng được Mặt Trời chiếu sáng. | Đ
+c) Trăng tròn thường xuất hiện vào ngày 1 âm lịch. | S
+d) Hình dạng thật của Mặt Trăng thay đổi theo ngày. | S
+E: Trăng tròn vào khoảng rằm; hình dạng thật không đổi, chỉ phần sáng nhìn thấy thay đổi.
+Q: sa | Chu kì tuần trăng khoảng 29,5 ngày. Hai chu kì tuần trăng kéo dài khoảng bao nhiêu ngày?
+ANS: 59
+E: 29,5 × 2 = 59 ngày.
+TL: Hãy mô tả cách làm mô hình đơn giản giải thích các pha của Mặt Trăng (dùng đèn pin, quả bóng).
+MAU: Chuẩn bị: đèn pin (Mặt Trời), quả bóng trắng gắn que (Mặt Trăng), người quan sát (Trái Đất); làm trong phòng tối.
+MAU: Đặt đèn pin cố định chiếu về phía người quan sát; người cầm quả bóng ở ngang tầm mắt, xoay người một vòng.
+MAU: Quan sát: phần sáng nhìn thấy trên quả bóng thay đổi từ tối → lưỡi liềm → nửa → tròn → nửa → lưỡi liềm ⇒ giải thích các pha.
+TC: Dụng cụ phù hợp | 1
+TC: Cách làm đúng | 1
+TC: Mô tả, giải thích kết quả | 1
+
 ### Bài 54. Hệ Mặt Trời
+> Trái Đất của chúng ta chỉ là một trong tám hành tinh quay quanh Mặt Trời. Hệ Mặt Trời là "gia đình" thiên thể gần gũi nhất với loài người.
+MT: Mô tả được sơ lược cấu trúc Hệ Mặt Trời: Mặt Trời và 8 hành tinh.
+MT: Nêu được các hành tinh xếp theo thứ tự xa dần Mặt Trời; đơn vị thiên văn (AU).
+MT: Phân biệt được nhóm hành tinh đất đá và nhóm hành tinh khí khổng lồ.
+LT: 1. Cấu trúc Hệ Mặt Trời
+- Hệ Mặt Trời gồm **Mặt Trời** ở trung tâm và các thiên thể chuyển động quanh nó: **8 hành tinh** cùng các vệ tinh, tiểu hành tinh, sao chổi…
+- Tám hành tinh theo thứ tự xa dần Mặt Trời: **Thủy tinh, Kim tinh, Trái Đất, Hỏa tinh, Mộc tinh, Thổ tinh, Thiên Vương tinh, Hải Vương tinh**.
+- Các hành tinh chuyển động quanh Mặt Trời trên các quỹ đạo gần tròn, cùng chiều.
+HINH: 6-khtn/he-mat-troi.svg | Hệ Mặt Trời: Mặt Trời và 8 hành tinh theo thứ tự xa dần (hình không đúng tỉ lệ kích thước và khoảng cách).
+LT: 2. Khoảng cách trong Hệ Mặt Trời
+- **Đơn vị thiên văn (AU)**: khoảng cách trung bình từ Trái Đất đến Mặt Trời, **1 AU ≈ 150 triệu km**.
+- Khoảng cách trung bình đến Mặt Trời: Thủy tinh ≈ 0,39 AU; Kim tinh ≈ 0,72 AU; Trái Đất 1 AU; Hỏa tinh ≈ 1,52 AU; Mộc tinh ≈ 5,2 AU; Thổ tinh ≈ 9,5 AU; Thiên Vương tinh ≈ 19,2 AU; Hải Vương tinh ≈ 30,1 AU.
+- Hành tinh càng xa Mặt Trời thì quay một vòng quanh Mặt Trời càng lâu (Trái Đất: khoảng 365 ngày).
+LT: 3. Hai nhóm hành tinh
+- **Nhóm đất đá** (gần Mặt Trời): Thủy, Kim, Trái Đất, Hỏa – kích thước nhỏ, bề mặt rắn.
+- **Nhóm khí khổng lồ** (xa Mặt Trời): Mộc, Thổ, Thiên Vương, Hải Vương – kích thước lớn, chủ yếu là khí; Mộc tinh lớn nhất.
+DB: Dạng 1. Sắp xếp hành tinh
+- Nhớ câu: "Thủy – Kim – Trái Đất – Hỏa – Mộc – Thổ – Thiên Vương – Hải Vương".
+DB: Dạng 2. Đổi khoảng cách AU ↔ km
+- d (km) = d (AU) × 150 triệu km.
+DB: Dạng 3. Tính thời gian ánh sáng đi
+- t = s : v, tốc độ ánh sáng ≈ 300 000 km/s.
+VD: Hỏa tinh cách Mặt Trời khoảng 1,52 AU. Đổi ra km.
+B: d = 1,52 × 150 triệu km.
+KQ: d ≈ 228 triệu km.
+VD: Ánh sáng đi với tốc độ khoảng 300 000 km/s. Ánh sáng từ Mặt Trời đến Trái Đất (150 triệu km) mất bao lâu?
+B: t = 150 000 000 : 300 000 = 500 s.
+KQ: Khoảng 500 giây ≈ 8 phút 20 giây.
+GN: Hệ Mặt Trời có 8 hành tinh; Trái Đất là hành tinh thứ ba.
+GN: 1 AU ≈ 150 triệu km.
+GN: Mộc tinh lớn nhất; Thủy tinh gần Mặt Trời nhất.
+Q: mc | Hành tinh gần Mặt Trời nhất là
+A) Kim tinh
+B) Thủy tinh *
+C) Trái Đất
+D) Hỏa tinh
+E: Thủy tinh cách Mặt Trời khoảng 0,39 AU.
+Q: mc | Trái Đất là hành tinh thứ mấy tính từ Mặt Trời?
+A) Thứ hai
+B) Thứ ba *
+C) Thứ tư
+D) Thứ năm
+E: Thủy – Kim – Trái Đất.
+Q: ord | Sắp xếp các hành tinh theo thứ tự xa dần Mặt Trời:
+1) Thủy tinh
+2) Kim tinh
+3) Trái Đất
+4) Hỏa tinh
+5) Mộc tinh
+6) Thổ tinh
+E: Thứ tự tiếp theo là Thiên Vương tinh, Hải Vương tinh.
+Q: tf | Về Hệ Mặt Trời:
+a) Mặt Trời nằm ở trung tâm Hệ Mặt Trời. | Đ
+b) Mộc tinh là hành tinh lớn nhất trong Hệ Mặt Trời. | Đ
+c) Hải Vương tinh thuộc nhóm hành tinh đất đá. | S
+d) 1 AU là khoảng cách trung bình từ Trái Đất đến Mặt Trời. | Đ
+E: Hải Vương tinh thuộc nhóm khí khổng lồ.
+Q: sa | Mộc tinh cách Mặt Trời khoảng 5,2 AU. Khoảng cách đó bằng bao nhiêu triệu km (1 AU = 150 triệu km)?
+ANS: 780
+E: 5,2 × 150 = 780 triệu km.
+TL: Em hãy so sánh nhóm hành tinh đất đá và nhóm hành tinh khí khổng lồ trong Hệ Mặt Trời.
+MAU: Đất đá: Thủy, Kim, Trái Đất, Hỏa – gần Mặt Trời, kích thước nhỏ, bề mặt rắn.
+MAU: Khí khổng lồ: Mộc, Thổ, Thiên Vương, Hải Vương – xa Mặt Trời, kích thước rất lớn, cấu tạo chủ yếu là khí.
+MAU: Giống nhau: đều là hành tinh, không tự phát sáng, chuyển động quanh Mặt Trời.
+TC: Nêu đúng nhóm đất đá | 1
+TC: Nêu đúng nhóm khí khổng lồ | 1
+TC: Nêu điểm giống nhau | 1
+
 ### Bài 55. Ngân Hà
+> Vào những đêm trời quang, không trăng, ở nơi ít đèn, em có thể thấy một dải sáng mờ vắt ngang bầu trời – đó là Ngân Hà, "ngôi nhà" lớn của Hệ Mặt Trời.
+MT: Nêu được Ngân Hà là một thiên hà, gồm rất nhiều ngôi sao; Hệ Mặt Trời nằm trong Ngân Hà.
+MT: Nêu được khái niệm năm ánh sáng; tính toán đơn giản với năm ánh sáng.
+MT: Nhận biết được một số chòm sao trên bầu trời đêm.
+LT: 1. Ngân Hà
+- **Thiên hà** là tập hợp rất nhiều ngôi sao, hành tinh, bụi và khí liên kết với nhau.
+- **Ngân Hà** là thiên hà chứa **Hệ Mặt Trời**, gồm **hàng trăm tỉ ngôi sao**; có dạng **đĩa xoắn ốc**, đường kính khoảng **100 000 năm ánh sáng**.
+- Hệ Mặt Trời nằm ở một nhánh xoắn, cách tâm Ngân Hà khá xa. Từ Trái Đất, ta nhìn Ngân Hà theo chiều dọc đĩa nên thấy một **dải sáng mờ** vắt ngang bầu trời (dân gian gọi là sông Ngân).
+HINH: 6-khtn/ngan-ha.svg | Ngân Hà có dạng đĩa xoắn ốc với hàng trăm tỉ ngôi sao; Hệ Mặt Trời nằm trên một nhánh xoắn, cách xa tâm.
+LT: 2. Năm ánh sáng
+- **Năm ánh sáng** là quãng đường ánh sáng đi được trong 1 năm, khoảng **9 460 tỉ km** (≈ 9,46 × 10¹² km). Đây là đơn vị đo **khoảng cách**, không phải thời gian.
+- Ngôi sao gần Hệ Mặt Trời nhất (sao Cận Tinh – Proxima Centauri) cách khoảng **4,2 năm ánh sáng**.
+LT: 3. Chòm sao
+- **Chòm sao** là nhóm sao nhìn thấy gần nhau trên bầu trời, tạo thành hình dạng quen thuộc: Đại Hùng (Gấu Lớn, có hình "cái gáo"), Tiểu Hùng (có sao Bắc Cực), Thiên Hậu (hình chữ W), Lạp Hộ (Orion).
+- Sao Bắc Cực gần như đứng yên trên bầu trời phía bắc ⇒ dùng để **xác định hướng bắc** vào ban đêm.
+DB: Dạng 1. Nhận biết Ngân Hà, thiên hà
+- Ngân Hà là một thiên hà; Hệ Mặt Trời là một phần rất nhỏ của Ngân Hà.
+DB: Dạng 2. Tính toán với năm ánh sáng
+- Khoảng cách (km) = số năm ánh sáng × 9 460 tỉ km.
+DB: Dạng 3. Xác định phương hướng nhờ sao
+- Tìm chòm Đại Hùng, kéo dài cạnh "miệng gáo" khoảng 5 lần để gặp sao Bắc Cực ⇒ hướng bắc.
+VD: Sao Cận Tinh cách Hệ Mặt Trời khoảng 4,2 năm ánh sáng. Ánh sáng từ ngôi sao đó đến Trái Đất mất bao lâu?
+B: Năm ánh sáng là quãng đường ánh sáng đi trong 1 năm.
+KQ: Ánh sáng mất khoảng 4,2 năm ⇒ ta nhìn thấy ngôi sao đó như cách đây 4,2 năm.
+VD: Một ngôi sao cách Trái Đất 2 năm ánh sáng. Khoảng cách đó bằng bao nhiêu tỉ km (1 năm ánh sáng ≈ 9 460 tỉ km)?
+B: Khoảng cách = 2 × 9 460 tỉ km.
+KQ: Khoảng 18 920 tỉ km.
+GN: Năm ánh sáng là đơn vị khoảng cách.
+GN: Hệ Mặt Trời nằm trong Ngân Hà.
+GN: Sao Bắc Cực chỉ hướng bắc.
+Q: mc | Ngân Hà là
+A) một ngôi sao lớn
+B) một hành tinh
+C) thiên hà chứa Hệ Mặt Trời *
+D) một chòm sao
+E: Ngân Hà là thiên hà có hàng trăm tỉ ngôi sao, trong đó có Mặt Trời.
+Q: mc | "Năm ánh sáng" là đơn vị đo
+A) thời gian
+B) khoảng cách *
+C) khối lượng
+D) tốc độ
+E: Là quãng đường ánh sáng đi được trong một năm.
+Q: tf | Về Ngân Hà và các chòm sao:
+a) Ngân Hà có dạng đĩa xoắn ốc. | Đ
+b) Hệ Mặt Trời nằm ở chính giữa tâm Ngân Hà. | S
+c) Sao Bắc Cực giúp xác định hướng bắc ban đêm. | Đ
+d) Ngân Hà chỉ gồm vài trăm ngôi sao. | S
+E: Hệ Mặt Trời nằm xa tâm; Ngân Hà có hàng trăm tỉ ngôi sao.
+Q: match | Nối khái niệm với mô tả:
+1) Thiên hà | Tập hợp rất nhiều sao, khí và bụi
+2) Ngân Hà | Thiên hà chứa Hệ Mặt Trời
+3) Năm ánh sáng | Quãng đường ánh sáng đi trong 1 năm
+4) Chòm sao | Nhóm sao tạo hình quen thuộc trên bầu trời
+E: Phân biệt các khái niệm thiên văn.
+Q: sa | Một ngôi sao cách Trái Đất 3 năm ánh sáng. Khoảng cách đó bằng bao nhiêu tỉ km (1 năm ánh sáng ≈ 9 460 tỉ km)?
+ANS: 28380 || 28 380 || 28.380
+E: 3 × 9 460 = 28 380 tỉ km.
+TL: Vì sao ở thành phố lớn rất khó nhìn thấy dải Ngân Hà? Em cần làm gì để quan sát Ngân Hà rõ hơn?
+MAU: Thành phố có nhiều đèn chiếu sáng (ô nhiễm ánh sáng) và bụi, khói làm bầu trời sáng, mờ ⇒ ánh sáng yếu của Ngân Hà bị át đi.
+MAU: Để quan sát: chọn đêm trời quang, không trăng; đến nơi xa đèn (vùng quê, núi); để mắt quen bóng tối khoảng 15 – 20 phút.
+TC: Giải thích đúng nguyên nhân | 1
+TC: Nêu cách quan sát phù hợp | 2
+

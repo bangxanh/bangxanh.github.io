@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-21T11:42:05.389737</dc:date>
+    <dc:date>2026-11-21T16:20:43.456137</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -34,7 +34,7 @@ z
 L 302.472 202.68 
 L 174.96 25.272 
 z
-" clip-path="url(#pcd31bea44a)" style="fill: #fff3e6; stroke: #bd7a12; stroke-width: 4"/>
+" clip-path="url(#p6b550c5ef2)" style="fill: #fff3e6; stroke: #bd7a12; stroke-width: 4"/>
    </g>
    <g id="patch_3">
     <path d="M 174.96 86.256 
@@ -43,7 +43,7 @@ L 161.1 163.872
 L 188.82 163.872 
 L 197.136 130.608 
 z
-" clip-path="url(#pcd31bea44a)" style="fill: #ff8a00; stroke: #d9480f; stroke-linejoin: miter"/>
+" clip-path="url(#p6b550c5ef2)" style="fill: #ff8a00; stroke: #d9480f; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 174.96 113.976 
@@ -52,7 +52,7 @@ L 169.416 161.1
 L 180.504 161.1 
 L 186.048 141.696 
 z
-" clip-path="url(#pcd31bea44a)" style="fill: #ffd43b"/>
+" clip-path="url(#p6b550c5ef2)" style="fill: #ffd43b"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #8a5a2b" x="174.96" y="219.312" transform="rotate(-0 174.96 219.312)">NHIÊN LIỆU (chất cháy)</text>
@@ -78,7 +78,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pcd31bea44a">
+  <clipPath id="p6b550c5ef2">
    <rect x="8.64" y="8.64" width="421.344" height="221.76"/>
   </clipPath>
  </defs>
