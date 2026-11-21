@@ -2,14 +2,488 @@
 # 7 | khtn | Khoa học tự nhiên 7
 ## Mở đầu
 ### Bài 1. Phương pháp và kĩ năng học tập môn Khoa học tự nhiên
+> Nhà khoa học tìm ra kiến thức mới như thế nào? Em cũng có thể làm giống họ: biết đặt câu hỏi, dự đoán, làm thí nghiệm kiểm tra và rút ra kết luận.
+MT: Trình bày được các bước của phương pháp tìm hiểu tự nhiên.
+MT: Thực hiện được các kĩ năng tiến trình: quan sát, phân loại, liên kết, đo, dự báo, viết và trình bày báo cáo.
+MT: Biết cách đo thời gian bằng đồng hồ hiện số và cổng quang điện.
+LT: 1. Phương pháp tìm hiểu tự nhiên
+- Gồm 5 bước: **(1) Đề xuất vấn đề** cần tìm hiểu → **(2) Đưa ra dự đoán** khoa học → **(3) Lập kế hoạch** kiểm tra dự đoán → **(4) Thực hiện** kế hoạch (thí nghiệm, thu thập số liệu) → **(5) Viết báo cáo**, thảo luận và trình bày kết quả.
+- Nếu kết quả không khớp dự đoán thì quay lại sửa dự đoán hoặc kế hoạch – khoa học luôn được kiểm chứng.
+HINH: 7-khtn/pp-tim-hieu.svg | Năm bước của phương pháp tìm hiểu tự nhiên, áp dụng cho câu hỏi "Hạt đậu có cần nước để nảy mầm không?".
+LT: 2. Các kĩ năng học tập môn Khoa học tự nhiên
+- **Quan sát**: dùng giác quan, dụng cụ (kính lúp, kính hiển vi) để thu thông tin. **Phân loại**: xếp sự vật vào nhóm theo đặc điểm chung.
+- **Liên kết**: tìm mối quan hệ giữa các sự vật, hiện tượng. **Đo**: dùng dụng cụ và đơn vị phù hợp. **Dự báo**: nói trước điều có thể xảy ra dựa trên hiểu biết, số liệu.
+- **Viết báo cáo, thuyết trình**: trình bày rõ mục đích, cách làm, kết quả, kết luận.
+LT: 3. Đồng hồ đo thời gian hiện số và cổng quang điện
+- Cổng quang điện phát tia hồng ngoại; khi vật chắn tia sáng thì cổng gửi tín hiệu cho đồng hồ **bắt đầu** hoặc **dừng** đếm.
+- Đo được khoảng thời gian rất ngắn (tới phần nghìn giây), chính xác hơn bấm đồng hồ bằng tay.
+DB: Dạng 1. Sắp xếp các bước của phương pháp tìm hiểu tự nhiên
+- Nhớ thứ tự: vấn đề → dự đoán → kế hoạch → thực hiện → báo cáo.
+- Đọc tình huống, xác định câu nào là vấn đề, câu nào là dự đoán, câu nào là kết luận.
+DB: Dạng 2. Nhận biết kĩ năng được sử dụng
+- Dùng giác quan/dụng cụ thu thông tin → quan sát; chia nhóm → phân loại; tìm mối quan hệ → liên kết; nói trước kết quả → dự báo.
+DB: Dạng 3. Thiết kế thí nghiệm kiểm tra dự đoán
+- Chỉ thay đổi MỘT yếu tố cần kiểm tra, giữ nguyên các yếu tố khác.
+- Có nhóm đối chứng để so sánh.
+VD: Bạn Lan thấy cây đặt ở góc tối lớp học lá vàng hơn cây ngoài cửa sổ. Hãy trình bày cách tìm hiểu theo 5 bước.
+B: (1) Vấn đề: Ánh sáng có ảnh hưởng đến màu xanh của lá không? (2) Dự đoán: Thiếu ánh sáng làm lá vàng đi.
+B: (3) Kế hoạch: trồng 2 chậu cây giống nhau, cùng đất, cùng lượng nước; một chậu để nơi có nắng, một chậu đặt trong hộp kín. (4) Thực hiện: theo dõi màu lá trong 7 ngày, ghi lại.
+KQ: (5) Báo cáo: nếu chậu trong hộp kín lá vàng đi, dự đoán đúng – ánh sáng cần cho lá giữ màu xanh.
+GN: Thí nghiệm kiểm tra chỉ thay đổi một yếu tố, các điều kiện khác giữ giống nhau.
+GN: Dự đoán có thể đúng hoặc sai; kết luận phải dựa trên kết quả thí nghiệm.
+GN: Đo thời gian ngắn nên dùng đồng hồ hiện số với cổng quang điện để giảm sai số.
+Q: mc | Bước đầu tiên của phương pháp tìm hiểu tự nhiên là
+A) đưa ra dự đoán
+B) đề xuất vấn đề cần tìm hiểu *
+C) lập kế hoạch kiểm tra
+D) viết báo cáo
+E: Muốn tìm hiểu phải có câu hỏi trước: đề xuất vấn đề là bước 1.
+Q: ord | Sắp xếp các bước của phương pháp tìm hiểu tự nhiên theo đúng thứ tự:
+1) Đề xuất vấn đề cần tìm hiểu
+2) Đưa ra dự đoán khoa học
+3) Lập kế hoạch kiểm tra dự đoán
+4) Thực hiện kế hoạch
+5) Viết báo cáo, thảo luận và trình bày
+E: Từ câu hỏi → dự đoán câu trả lời → lên kế hoạch → làm thí nghiệm → báo cáo kết luận.
+Q: match | Nối mỗi hoạt động với kĩ năng tương ứng:
+1) Dùng kính lúp xem gân lá | Quan sát
+2) Chia các con vật thành nhóm có xương sống và không xương sống | Phân loại
+3) Nhận ra trời càng nắng thì nước bay hơi càng nhanh | Liên kết
+4) Dựa vào mây đen kéo đến để nói trước trời sắp mưa | Dự báo
+E: Mỗi hoạt động ứng với một kĩ năng: thu thông tin – quan sát; chia nhóm – phân loại; tìm mối quan hệ – liên kết; nói trước điều sẽ xảy ra – dự báo.
+Q: tf | Về đồng hồ đo thời gian hiện số dùng cổng quang điện:
+a) Đồng hồ bắt đầu đếm khi vật chắn tia hồng ngoại ở cổng quang điện thứ nhất. | Đ
+b) Bấm đồng hồ bằng tay chính xác hơn dùng cổng quang điện. | S
+c) Có thể đo khoảng thời gian rất ngắn. | Đ
+d) Cổng quang điện dùng để đo chiều dài quãng đường. | S
+E: Cổng quang điện điều khiển đồng hồ bắt đầu/dừng đếm khi bị chắn tia sáng; nó giúp đo thời gian chính xác, không đo chiều dài.
+Q: sa | Trong thí nghiệm kiểm tra "hạt đậu cần nước để nảy mầm", bạn Nam chuẩn bị 2 cốc giống nhau, mỗi cốc 10 hạt. Kết quả: cốc có nước nảy mầm 9 hạt. Tỉ lệ hạt nảy mầm ở cốc có nước là bao nhiêu phần trăm?
+ANS: 90
+E: 9 : 10 × 100 = 90%.
+TL: Em hãy đề xuất một vấn đề gần gũi (ví dụ: "Đường tan nhanh hơn trong nước nóng hay nước lạnh?") và trình bày đủ 5 bước tìm hiểu.
+MAU: (1) Vấn đề: Đường tan nhanh hơn trong nước nóng hay nước lạnh?
+MAU: (2) Dự đoán: Đường tan nhanh hơn trong nước nóng.
+MAU: (3) Kế hoạch: 2 cốc cùng lượng nước (một nóng, một lạnh), cùng một thìa đường, khuấy như nhau, đo thời gian tan.
+MAU: (4) Thực hiện: ghi thời gian đường tan hết ở mỗi cốc.
+MAU: (5) Báo cáo: so sánh thời gian, kết luận dự đoán đúng hay sai.
+TC: Nêu đúng vấn đề và dự đoán | 1
+TC: Kế hoạch chỉ thay đổi một yếu tố, có so sánh | 1
+TC: Có bước thực hiện và kết luận rõ ràng | 1
+
 ## Chương I. Nguyên tử. Sơ lược về bảng tuần hoàn các nguyên tố hóa học
 ### Bài 2. Nguyên tử
+> Mọi vật quanh ta – từ giọt nước đến chiếc bút – đều được tạo nên từ những hạt vô cùng nhỏ gọi là nguyên tử.
+MT: Trình bày được mô hình nguyên tử Rutherford – Bohr: hạt nhân ở tâm, electron chuyển động thành từng lớp.
+MT: Nêu được thành phần, điện tích, khối lượng của proton, neutron, electron.
+MT: Biểu diễn được sự sắp xếp electron trên các lớp của nguyên tử 20 nguyên tố đầu.
+LT: 1. Cấu tạo nguyên tử
+- Nguyên tử gồm **hạt nhân** mang điện dương ở tâm và **vỏ nguyên tử** gồm các **electron (e)** mang điện âm chuyển động xung quanh.
+- Hạt nhân gồm **proton (p)** mang điện tích +1 và **neutron (n)** không mang điện.
+- Nguyên tử trung hòa về điện: **số p = số e**.
+LT: 2. Mô hình Rutherford – Bohr
+- Electron chuyển động quanh hạt nhân theo từng **lớp** (quỹ đạo) xác định.
+- Lớp thứ nhất có tối đa **2 electron**; lớp thứ hai có tối đa **8 electron**; với 20 nguyên tố đầu, lớp thứ ba tạm xếp tối đa 8 electron.
+- Electron xếp lần lượt từ lớp trong ra lớp ngoài.
+HINH: 7-khtn/nguyen-tu-bohr.svg | Mô hình nguyên tử oxygen (8p, 8n; electron xếp 2 – 6) và sodium (11p, 12n; electron xếp 2 – 8 – 1).
+LT: 3. Khối lượng nguyên tử
+- Khối lượng nguyên tử rất nhỏ, đo bằng **amu** (đơn vị khối lượng nguyên tử). Proton và neutron nặng khoảng 1 amu; electron rất nhẹ (khoảng 0,00055 amu).
+- Khối lượng nguyên tử ≈ **số p + số n** (amu).
+DB: Dạng 1. Xác định số hạt trong nguyên tử
+- Số e = số p (nguyên tử trung hòa).
+- Số n = khối lượng nguyên tử − số p.
+DB: Dạng 2. Vẽ sơ đồ sắp xếp electron
+- Lớp 1 tối đa 2e, lớp 2 tối đa 8e, lớp 3 (20 nguyên tố đầu) tối đa 8e.
+- Xếp đầy lớp trong rồi mới sang lớp ngoài; đếm số e lớp ngoài cùng.
+DB: Dạng 3. Tính khối lượng nguyên tử
+- Khối lượng ≈ số p + số n (bỏ qua khối lượng electron).
+VD: Nguyên tử oxygen có 8 proton và 8 neutron. Tính số electron, khối lượng nguyên tử và vẽ sơ đồ sắp xếp electron.
+B: Số e = số p = 8.
+B: Khối lượng ≈ 8 + 8 = 16 amu.
+B: Sắp xếp electron: lớp 1 có 2e, lớp 2 có 8 − 2 = 6e.
+KQ: Oxygen có 8e (xếp 2 – 6), khối lượng khoảng 16 amu, lớp ngoài cùng có 6 electron.
+VD: Nguyên tử aluminium có 13 proton, khối lượng 27 amu. Tính số neutron và số electron lớp ngoài cùng.
+B: Số n = 27 − 13 = 14.
+B: 13 electron xếp: 2 – 8 – 3.
+KQ: Aluminium có 14 neutron, lớp ngoài cùng có 3 electron.
+GN: Hạt mang điện: proton (+), electron (−); hạt không mang điện: neutron.
+GN: Khối lượng nguyên tử tập trung ở hạt nhân.
+GN: Viết sơ đồ electron nhớ thứ tự 2 – 8 – 8.
+Q: mc | Hạt nào sau đây mang điện tích âm?
+A) Proton
+B) Neutron
+C) Electron *
+D) Hạt nhân
+E: Electron mang điện tích −1; proton +1; neutron không mang điện; hạt nhân mang điện dương.
+Q: mc | Nguyên tử magnesium có 12 electron. Số electron ở lớp ngoài cùng là
+A) 1
+B) 2 *
+C) 4
+D) 8
+E: 12 electron xếp 2 – 8 – 2, lớp ngoài cùng có 2 electron.
+Q: tf | Nguyên tử nitrogen có 7 proton và 7 neutron.
+a) Nguyên tử nitrogen có 7 electron. | Đ
+b) Khối lượng nguyên tử nitrogen khoảng 14 amu. | Đ
+c) Lớp electron ngoài cùng của nitrogen có 7 electron. | S
+d) Hạt nhân nguyên tử nitrogen mang điện tích âm. | S
+E: e = p = 7; khối lượng ≈ 7 + 7 = 14 amu; sắp xếp 2 – 5 nên lớp ngoài cùng có 5e; hạt nhân mang điện dương.
+Q: sa | Nguyên tử potassium có 19 proton và khối lượng 39 amu. Số neutron là bao nhiêu?
+ANS: 20
+E: Số n = 39 − 19 = 20.
+Q: match | Nối mỗi loại hạt với đặc điểm của nó:
+1) Proton | Mang điện tích +1, nằm trong hạt nhân
+2) Neutron | Không mang điện, nằm trong hạt nhân
+3) Electron | Mang điện tích −1, chuyển động ở vỏ nguyên tử
+E: Hạt nhân gồm proton và neutron; electron ở vỏ nguyên tử.
+TL: Nguyên tử chlorine có 17 proton và 18 neutron. a) Tính số electron và khối lượng nguyên tử. b) Vẽ (mô tả) sơ đồ sắp xếp electron và cho biết số electron lớp ngoài cùng.
+MAU: a) Số e = 17; khối lượng ≈ 17 + 18 = 35 amu.
+MAU: b) 17 electron xếp 2 – 8 – 7: lớp 1 có 2e, lớp 2 có 8e, lớp 3 có 7e; lớp ngoài cùng có 7 electron.
+TC: Tính đúng số electron | 1
+TC: Tính đúng khối lượng nguyên tử | 1
+TC: Sắp xếp đúng 2 – 8 – 7 | 1
+
 ### Bài 3. Nguyên tố hóa học
+> Vàng trong chiếc nhẫn, oxygen trong không khí, sắt trong đinh… mỗi chất được tạo nên từ những "loại nguyên tử" nhất định – đó là nguyên tố hóa học.
+MT: Phát biểu được khái niệm nguyên tố hóa học.
+MT: Viết đúng kí hiệu hóa học và đọc tên một số nguyên tố thường gặp.
+MT: Nêu được vai trò của một số nguyên tố đối với sự sống và đời sống.
+LT: 1. Nguyên tố hóa học là gì?
+- **Nguyên tố hóa học** là tập hợp những nguyên tử **cùng số proton** trong hạt nhân.
+- Số proton là "căn cước" của nguyên tố: mọi nguyên tử có 6 proton đều thuộc nguyên tố carbon, 8 proton thuộc nguyên tố oxygen.
+- Đến nay, các nhà khoa học đã biết 118 nguyên tố hóa học (một số do con người tạo ra).
+LT: 2. Kí hiệu hóa học
+- Mỗi nguyên tố có một **kí hiệu hóa học** gồm 1 hoặc 2 chữ cái: chữ thứ nhất **viết in hoa**, chữ thứ hai (nếu có) **viết thường**.
+- Ví dụ: H (hydrogen), C (carbon), N (nitrogen), O (oxygen), Na (sodium), Mg (magnesium), Al (aluminium), S (sulfur), Cl (chlorine), K (potassium), Ca (calcium), Fe (iron – sắt), Cu (copper – đồng).
+HINH: 7-khtn/nguyen-to.svg | Một số nguyên tố thường gặp: kí hiệu, số proton và khối lượng nguyên tử; chữ đầu viết hoa, chữ sau viết thường.
+LT: 3. Nguyên tố hóa học với sự sống
+- Cơ thể người chủ yếu gồm O, C, H, N; ngoài ra cần Ca (xương, răng), Fe (tạo máu), I (tuyến giáp)…
+- Cây trồng cần N, P, K – có trong phân bón.
+DB: Dạng 1. Nhận biết nguyên tử thuộc cùng nguyên tố
+- So sánh số proton: cùng số proton ⇒ cùng nguyên tố (số neutron có thể khác).
+DB: Dạng 2. Viết, sửa kí hiệu hóa học
+- Chữ đầu in hoa, chữ sau viết thường: Ca chứ không phải CA hay ca.
+- Phân biệt: Co (cobalt) khác CO (carbon monoxide – hợp chất của C và O).
+DB: Dạng 3. Đọc thông tin nguyên tố
+- Từ số proton suy ra tên, kí hiệu; từ kí hiệu đọc tên nguyên tố.
+VD: Cho các nguyên tử: X (6p, 6n), Y (8p, 8n), Z (6p, 8n), T (7p, 7n). Những nguyên tử nào thuộc cùng một nguyên tố?
+B: Nguyên tố được xác định bởi số proton.
+B: X và Z cùng có 6 proton.
+KQ: X và Z cùng thuộc nguyên tố carbon (khác nhau số neutron).
+VD: Bạn Minh viết kí hiệu: "MG, cl, Na, fE". Hãy sửa lại cho đúng.
+B: Chữ đầu viết hoa, chữ thứ hai viết thường.
+KQ: Mg, Cl, Na (đúng), Fe.
+GN: Cùng số proton ⇒ cùng nguyên tố; số neutron có thể khác nhau.
+GN: Kí hiệu hóa học: chữ đầu in hoa, chữ sau viết thường.
+GN: Kí hiệu nhiều nguyên tố lấy từ tên Latin: Na (natrium), K (kalium), Fe (ferrum), Cu (cuprum).
+Q: mc | Nguyên tố hóa học là tập hợp những nguyên tử có cùng
+A) số neutron
+B) số proton *
+C) khối lượng
+D) số lớp electron
+E: Số proton quyết định nguyên tố hóa học.
+Q: mc | Kí hiệu hóa học nào sau đây viết đúng?
+A) CA
+B) ca
+C) Ca *
+D) cA
+E: Chữ đầu in hoa, chữ thứ hai viết thường: Ca (calcium).
+Q: match | Nối tên nguyên tố với kí hiệu hóa học:
+1) Sodium | Na
+2) Iron (sắt) | Fe
+3) Potassium | K
+4) Copper (đồng) | Cu
+E: Các kí hiệu này lấy từ tên Latin: natrium, ferrum, kalium, cuprum.
+Q: tf | Cho hai nguyên tử A (11p, 12n) và B (11p, 13n).
+a) A và B thuộc cùng một nguyên tố hóa học. | Đ
+b) A và B có cùng khối lượng nguyên tử. | S
+c) A và B đều có 11 electron. | Đ
+d) A và B là hai nguyên tố khác nhau vì số neutron khác nhau. | S
+E: Cùng 11 proton ⇒ cùng nguyên tố (sodium), cùng 11 electron; khối lượng khác nhau (23 và 24 amu) vì số neutron khác.
+Q: sa | Có bao nhiêu nguyên tố hóa học khác nhau trong các nguyên tử sau: (6p, 6n), (6p, 7n), (8p, 8n), (8p, 10n), (1p, 0n)?
+ANS: 3
+E: Có 3 giá trị số proton khác nhau: 6 (carbon), 8 (oxygen), 1 (hydrogen).
+TL: Kể tên 4 nguyên tố hóa học cần thiết cho cơ thể người hoặc cây trồng, viết kí hiệu và nêu vai trò của mỗi nguyên tố.
+MAU: Calcium (Ca): cấu tạo xương và răng.
+MAU: Iron (Fe): thành phần của hồng cầu, giúp vận chuyển oxygen.
+MAU: Nitrogen (N): giúp cây xanh tốt, có trong phân đạm.
+MAU: Potassium (K): giúp cây ra hoa, kết quả, chống chịu tốt.
+TC: Nêu đúng tên và kí hiệu 4 nguyên tố | 1,5
+TC: Nêu đúng vai trò mỗi nguyên tố | 1,5
+
 ### Bài 4. Sơ lược về bảng tuần hoàn các nguyên tố hóa học
+> Bảng tuần hoàn giống như "tấm bản đồ" của các nguyên tố: nhìn vị trí một ô, ta đoán được khá nhiều điều về nguyên tố đó.
+MT: Nêu được nguyên tắc xây dựng bảng tuần hoàn các nguyên tố hóa học.
+MT: Mô tả được cấu tạo bảng tuần hoàn: ô nguyên tố, chu kì, nhóm.
+MT: Nhận biết được vị trí các nhóm kim loại, phi kim, khí hiếm trong bảng tuần hoàn.
+LT: 1. Nguyên tắc sắp xếp
+- Các nguyên tố được xếp theo chiều **tăng dần điện tích hạt nhân** (số proton).
+- Các nguyên tố có **cùng số lớp electron** được xếp thành một **hàng** (chu kì).
+- Các nguyên tố có tính chất hóa học tương tự (thường **cùng số electron lớp ngoài cùng**) được xếp thành một **cột** (nhóm).
+LT: 2. Cấu tạo bảng tuần hoàn
+- **Ô nguyên tố** cho biết: số hiệu nguyên tử (= số proton = số electron), kí hiệu hóa học, tên, khối lượng nguyên tử.
+- **Chu kì**: dãy nguyên tố cùng số lớp electron; số thứ tự chu kì = số lớp electron. Bảng có 7 chu kì.
+- **Nhóm**: cột nguyên tố có tính chất tương tự; với nhóm A, số thứ tự nhóm = số electron lớp ngoài cùng.
+HINH: 7-khtn/bang-tuan-hoan.svg | 20 nguyên tố đầu trong bảng tuần hoàn (dạng rút gọn): kim loại, phi kim và khí hiếm có vị trí riêng.
+LT: 3. Kim loại, phi kim, khí hiếm
+- **Kim loại** (đa số nguyên tố) nằm ở bên trái và giữa bảng: Na, Mg, Al, K, Ca, Fe…
+- **Phi kim** nằm ở góc trên bên phải: C, N, O, S, Cl… (H là phi kim đặt ở nhóm IA).
+- **Khí hiếm** ở nhóm cuối cùng (VIIIA): He, Ne, Ar… rất bền, hầu như không phản ứng.
+DB: Dạng 1. Đọc thông tin từ ô nguyên tố
+- Số hiệu nguyên tử = số proton = số electron; đọc kí hiệu, tên, khối lượng.
+DB: Dạng 2. Xác định vị trí (chu kì, nhóm) từ sơ đồ electron
+- Số lớp electron ⇒ chu kì; số electron lớp ngoài cùng ⇒ nhóm A.
+DB: Dạng 3. Xác định kim loại, phi kim, khí hiếm
+- Dựa vào vị trí: trái – giữa là kim loại; góc trên phải là phi kim; cột cuối là khí hiếm.
+VD: Nguyên tố X có số hiệu nguyên tử 12. Xác định số electron, sơ đồ sắp xếp electron, vị trí của X và X là kim loại hay phi kim.
+B: Số e = số p = 12; sắp xếp 2 – 8 – 2.
+B: Có 3 lớp electron ⇒ chu kì 3; lớp ngoài cùng có 2e ⇒ nhóm IIA.
+KQ: X là magnesium (Mg), ở chu kì 3, nhóm IIA, là kim loại.
+VD: Ô nguyên tố ghi: số 17, kí hiệu Cl, tên chlorine, khối lượng 35,5. Cho biết số proton, số electron và vị trí.
+B: Số proton = số electron = 17; sắp xếp 2 – 8 – 7.
+KQ: Chlorine ở chu kì 3 (3 lớp e), nhóm VIIA (7e lớp ngoài cùng), là phi kim.
+GN: Chu kì ↔ số lớp electron; nhóm A ↔ số electron lớp ngoài cùng.
+GN: Bảng tuần hoàn có 7 chu kì; kim loại chiếm phần lớn bảng.
+GN: Khí hiếm có lớp ngoài cùng bền vững (He có 2e, các khí hiếm khác có 8e).
+Q: mc | Các nguyên tố trong bảng tuần hoàn được sắp xếp theo chiều tăng dần của
+A) khối lượng riêng
+B) điện tích hạt nhân *
+C) số neutron
+D) nhiệt độ nóng chảy
+E: Nguyên tắc: xếp theo chiều tăng dần điện tích hạt nhân (số proton).
+Q: mc | Nguyên tố có sơ đồ electron 2 – 8 – 1 nằm ở
+A) chu kì 1, nhóm IA
+B) chu kì 3, nhóm IA *
+C) chu kì 2, nhóm IA
+D) chu kì 3, nhóm VIIIA
+E: 3 lớp electron ⇒ chu kì 3; 1 electron lớp ngoài cùng ⇒ nhóm IA (đó là sodium).
+Q: tf | Nguyên tố Y có số hiệu nguyên tử 8.
+a) Y có 8 electron, sắp xếp 2 – 6. | Đ
+b) Y nằm ở chu kì 2. | Đ
+c) Y thuộc nhóm VIIIA. | S
+d) Y là kim loại. | S
+E: Z = 8 (oxygen): 2 lớp e ⇒ chu kì 2; 6e lớp ngoài cùng ⇒ nhóm VIA; oxygen là phi kim.
+Q: sa | Nguyên tố calcium có số hiệu nguyên tử 20. Calcium ở chu kì mấy?
+ANS: 4
+E: 20 electron xếp 2 – 8 – 8 – 2: có 4 lớp electron ⇒ chu kì 4.
+Q: match | Nối mỗi thành phần của bảng tuần hoàn với ý nghĩa của nó:
+1) Số hiệu nguyên tử | Bằng số proton và số electron
+2) Số thứ tự chu kì | Bằng số lớp electron
+3) Số thứ tự nhóm A | Bằng số electron lớp ngoài cùng
+E: Ba mối liên hệ quan trọng giữa vị trí và cấu tạo nguyên tử.
+TL: Nguyên tố R ở chu kì 3, nhóm VIA. a) Cho biết số lớp electron, số electron lớp ngoài cùng và số hiệu nguyên tử của R. b) R là kim loại hay phi kim?
+MAU: a) Chu kì 3 ⇒ 3 lớp electron; nhóm VIA ⇒ 6 electron lớp ngoài cùng.
+MAU: Sơ đồ electron 2 – 8 – 6 ⇒ tổng 16 electron ⇒ số hiệu nguyên tử 16 (R là sulfur, S).
+MAU: b) Sulfur là phi kim (ở góc trên bên phải bảng tuần hoàn).
+TC: Xác định đúng số lớp e và số e lớp ngoài cùng | 1
+TC: Tính đúng số hiệu nguyên tử 16 | 1
+TC: Kết luận đúng R là phi kim | 1
+
 ## Chương II. Phân tử. Liên kết hóa học
 ### Bài 5. Phân tử – Đơn chất – Hợp chất
+> Một giọt nước gồm vô số phân tử nước giống hệt nhau, mỗi phân tử gồm 2 nguyên tử hydrogen gắn với 1 nguyên tử oxygen.
+MT: Nêu được khái niệm phân tử và tính được khối lượng phân tử.
+MT: Phân biệt được đơn chất và hợp chất, cho ví dụ.
+MT: Nhận biết được đơn chất kim loại, phi kim, khí hiếm.
+LT: 1. Phân tử
+- **Phân tử** là hạt đại diện cho chất, gồm một số nguyên tử liên kết với nhau và thể hiện đầy đủ tính chất hóa học của chất.
+- **Khối lượng phân tử** = tổng khối lượng các nguyên tử trong phân tử (đơn vị amu).
+- Ví dụ: H₂O = 2·1 + 16 = 18 amu; CO₂ = 12 + 2·16 = 44 amu.
+HINH: 7-khtn/phan-tu.svg | Mô hình phân tử hydrogen (H₂), oxygen (O₂) – đơn chất; nước (H₂O), carbon dioxide (CO₂) – hợp chất.
+LT: 2. Đơn chất
+- **Đơn chất** là chất được tạo nên từ **một nguyên tố** hóa học.
+- Đơn chất kim loại (Fe, Cu, Al – dẫn điện, dẫn nhiệt, có ánh kim); đơn chất phi kim (O₂, N₂, H₂, C, S); khí hiếm (He, Ne, Ar) tồn tại dạng nguyên tử riêng lẻ.
+LT: 3. Hợp chất
+- **Hợp chất** là chất được tạo nên từ **hai hay nhiều nguyên tố** hóa học.
+- Ví dụ: nước H₂O (H, O), muối ăn NaCl (Na, Cl), carbon dioxide CO₂ (C, O), đá vôi CaCO₃ (Ca, C, O).
+DB: Dạng 1. Phân biệt đơn chất – hợp chất
+- Đếm số nguyên tố (số loại kí hiệu) trong công thức: 1 loại ⇒ đơn chất; từ 2 loại trở lên ⇒ hợp chất.
+DB: Dạng 2. Tính khối lượng phân tử
+- Nhân khối lượng nguyên tử với số nguyên tử của mỗi nguyên tố rồi cộng lại.
+- Khối lượng nguyên tử hay dùng: H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, Al = 27, S = 32, Cl = 35,5, Ca = 40, Fe = 56, Cu = 64.
+DB: Dạng 3. Đọc thông tin từ công thức hóa học
+- Công thức cho biết: các nguyên tố tạo nên chất, số nguyên tử mỗi nguyên tố trong phân tử, khối lượng phân tử.
+VD: Tính khối lượng phân tử của sulfuric acid H₂SO₄.
+B: H₂SO₄ có 2 nguyên tử H, 1 nguyên tử S, 4 nguyên tử O.
+B: Khối lượng phân tử = 2·1 + 32 + 4·16 = 2 + 32 + 64 = 98 amu.
+KQ: Khối lượng phân tử H₂SO₄ là 98 amu.
+VD: Trong các chất: O₂, CO₂, Fe, NaCl, N₂, CH₄ – chất nào là đơn chất, chất nào là hợp chất?
+B: Đơn chất (1 nguyên tố): O₂, Fe, N₂.
+B: Hợp chất (≥ 2 nguyên tố): CO₂ (C, O), NaCl (Na, Cl), CH₄ (C, H).
+KQ: Đơn chất: O₂, Fe, N₂; hợp chất: CO₂, NaCl, CH₄.
+GN: O₂ và O₃ đều là đơn chất (chỉ có nguyên tố O).
+GN: Chỉ số viết nhỏ phía dưới cho biết số nguyên tử của nguyên tố đứng ngay trước nó.
+GN: Phân biệt 2O (2 nguyên tử oxygen riêng rẽ) với O₂ (1 phân tử oxygen).
+Q: mc | Chất nào sau đây là đơn chất?
+A) H₂O
+B) CO₂
+C) N₂ *
+D) NaCl
+E: N₂ chỉ gồm nguyên tố nitrogen; các chất còn lại gồm hai nguyên tố.
+Q: mc | Khối lượng phân tử của CO₂ là (C = 12, O = 16)
+A) 28 amu
+B) 44 amu *
+C) 32 amu
+D) 40 amu
+E: 12 + 2·16 = 44 amu.
+Q: tf | Xét chất có công thức CaCO₃ (đá vôi).
+a) CaCO₃ là hợp chất. | Đ
+b) Phân tử gồm 3 nguyên tố hóa học. | Đ
+c) Mỗi phân tử có 3 nguyên tử oxygen. | Đ
+d) Khối lượng phân tử của CaCO₃ là 68 amu. | S
+E: Ca, C, O là 3 nguyên tố; khối lượng phân tử = 40 + 12 + 3·16 = 100 amu.
+Q: sa | Tính khối lượng phân tử của ammonia NH₃ (N = 14, H = 1), đơn vị amu.
+ANS: 17
+E: 14 + 3·1 = 17 amu.
+Q: match | Nối mỗi chất với loại chất:
+1) Fe | Đơn chất kim loại
+2) O₂ | Đơn chất phi kim
+3) He | Khí hiếm
+4) H₂O | Hợp chất
+E: Fe là kim loại; O₂ là phi kim; He là khí hiếm; H₂O gồm 2 nguyên tố nên là hợp chất.
+TL: Glucose có công thức C₆H₁₂O₆. a) Glucose là đơn chất hay hợp chất? Vì sao? b) Mỗi phân tử glucose có bao nhiêu nguyên tử? c) Tính khối lượng phân tử glucose.
+MAU: a) Hợp chất, vì được tạo nên từ 3 nguyên tố C, H, O.
+MAU: b) 6 + 12 + 6 = 24 nguyên tử.
+MAU: c) 6·12 + 12·1 + 6·16 = 72 + 12 + 96 = 180 amu.
+TC: Xác định đúng hợp chất và giải thích | 1
+TC: Đếm đúng 24 nguyên tử | 1
+TC: Tính đúng 180 amu | 1
+
 ### Bài 6. Giới thiệu về liên kết hóa học
+> Vì sao muối ăn là chất rắn khó nóng chảy còn nước lại sôi ở 100 °C? Bí mật nằm ở cách các nguyên tử liên kết với nhau.
+MT: Nêu được mô hình sắp xếp electron bền vững của khí hiếm (quy tắc octet).
+MT: Trình bày được sự tạo thành liên kết ion (ví dụ NaCl) và liên kết cộng hóa trị (ví dụ H₂, H₂O).
+MT: Nêu được sự khác nhau về tính chất của chất ion và chất cộng hóa trị.
+LT: 1. Vì sao nguyên tử liên kết với nhau?
+- Khí hiếm có lớp electron ngoài cùng **bền vững** (8 electron, riêng He có 2 electron) nên hầu như không phản ứng.
+- Nguyên tử các nguyên tố khác có xu hướng **nhường, nhận hoặc dùng chung electron** để đạt lớp ngoài cùng giống khí hiếm (**quy tắc octet**).
+LT: 2. Liên kết ion
+- Nguyên tử kim loại **nhường** electron thành **ion dương**; nguyên tử phi kim **nhận** electron thành **ion âm**.
+- Ion dương và ion âm hút nhau bằng lực hút tĩnh điện tạo **liên kết ion**. Ví dụ: Na → Na⁺ + 1e; Cl + 1e → Cl⁻; Na⁺ và Cl⁻ tạo NaCl.
+- Chất ion thường là chất rắn ở nhiệt độ thường, nóng chảy ở nhiệt độ cao, khi tan trong nước dẫn được điện.
+HINH: 7-khtn/lien-ket-ion.svg | Nguyên tử sodium nhường 1 electron cho nguyên tử chlorine, tạo ion Na⁺ và Cl⁻ có lớp ngoài cùng 8 electron bền vững.
+LT: 3. Liên kết cộng hóa trị
+- Hai nguyên tử phi kim **góp chung** electron tạo các **cặp electron dùng chung**. Ví dụ: H₂ có 1 cặp chung; trong H₂O, nguyên tử O dùng chung 2 cặp electron với 2 nguyên tử H.
+- Chất cộng hóa trị có thể ở thể rắn, lỏng, khí; thường có nhiệt độ sôi, nhiệt độ nóng chảy thấp (nước, đường, khí oxygen).
+DB: Dạng 1. Xác định loại liên kết trong chất
+- Kim loại + phi kim (NaCl, MgO, CaCl₂) ⇒ thường là liên kết ion.
+- Phi kim + phi kim (H₂, O₂, H₂O, CO₂, CH₄) ⇒ liên kết cộng hóa trị.
+DB: Dạng 2. Mô tả sự tạo thành ion
+- Viết sơ đồ electron; kim loại có 1, 2, 3e lớp ngoài cùng thì nhường hết; phi kim có 5, 6, 7e thì nhận thêm cho đủ 8.
+- Điện tích ion = số e nhường (dương) hoặc số e nhận (âm).
+DB: Dạng 3. So sánh tính chất chất ion – chất cộng hóa trị
+- Chất ion: rắn, khó nóng chảy, dung dịch dẫn điện; chất cộng hóa trị: thường dễ bay hơi, dễ nóng chảy.
+VD: Mô tả sự tạo thành liên kết trong phân tử magnesium oxide MgO (Mg có 12e, O có 8e).
+B: Mg: 2 – 8 – 2 ⇒ nhường 2e thành Mg²⁺ (2 – 8).
+B: O: 2 – 6 ⇒ nhận 2e thành O²⁻ (2 – 8).
+KQ: Ion Mg²⁺ và O²⁻ hút nhau tạo liên kết ion trong MgO.
+VD: Trong phân tử nước H₂O, có bao nhiêu cặp electron dùng chung?
+B: Nguyên tử O có 6e lớp ngoài cùng, cần thêm 2e; mỗi H có 1e, cần thêm 1e.
+B: O góp chung 1 cặp electron với mỗi nguyên tử H.
+KQ: Phân tử H₂O có 2 cặp electron dùng chung (liên kết cộng hóa trị).
+GN: Kim loại nhường e → ion dương; phi kim nhận e → ion âm.
+GN: Liên kết cộng hóa trị không tạo ion, các nguyên tử dùng chung electron.
+GN: Muối ăn rắn không dẫn điện; dung dịch muối ăn dẫn điện vì có các ion chuyển động tự do.
+Q: mc | Liên kết trong phân tử sodium chloride (NaCl) là
+A) liên kết cộng hóa trị
+B) liên kết ion *
+C) liên kết kim loại
+D) không có liên kết
+E: Na (kim loại) nhường 1e cho Cl (phi kim) tạo ion Na⁺ và Cl⁻ hút nhau: liên kết ion.
+Q: mc | Nguyên tử chlorine (2 – 8 – 7) có xu hướng
+A) nhường 7 electron
+B) nhận 1 electron *
+C) nhường 1 electron
+D) không thay đổi
+E: Nhận thêm 1 electron để lớp ngoài cùng có 8 electron, tạo ion Cl⁻.
+Q: tf | Về liên kết hóa học:
+a) Khí hiếm có lớp electron ngoài cùng bền vững. | Đ
+b) Trong phân tử H₂, hai nguyên tử H dùng chung một cặp electron. | Đ
+c) Chất ion thường ở thể khí ở nhiệt độ thường. | S
+d) CO₂ được tạo thành bằng liên kết ion. | S
+E: Chất ion thường là chất rắn; CO₂ gồm hai phi kim nên có liên kết cộng hóa trị.
+Q: sa | Nguyên tử aluminium (13e) nhường bao nhiêu electron để tạo thành ion bền?
+ANS: 3
+E: Al: 2 – 8 – 3, nhường 3 electron lớp ngoài cùng tạo ion Al³⁺ (2 – 8).
+Q: match | Nối chất với loại liên kết trong chất đó:
+1) MgO | Liên kết ion
+2) CH₄ | Liên kết cộng hóa trị
+3) He | Không tạo liên kết, tồn tại dạng nguyên tử
+E: MgO: kim loại + phi kim ⇒ ion; CH₄: phi kim + phi kim ⇒ cộng hóa trị; He là khí hiếm bền vững.
+TL: Giải thích vì sao muối ăn (NaCl) ở thể rắn, khó nóng chảy, còn khi hòa tan vào nước thì dung dịch dẫn được điện.
+MAU: NaCl được tạo bởi liên kết ion: các ion Na⁺ và Cl⁻ hút nhau rất mạnh, sắp xếp chặt chẽ nên NaCl là chất rắn, khó nóng chảy.
+MAU: Khi tan trong nước, các ion tách ra và chuyển động tự do trong dung dịch.
+MAU: Các ion mang điện chuyển động được nên dung dịch dẫn điện.
+TC: Nêu được NaCl có liên kết ion, lực hút mạnh | 1
+TC: Giải thích được tính chất rắn, khó nóng chảy | 1
+TC: Giải thích được dung dịch dẫn điện nhờ ion tự do | 1
+
 ### Bài 7. Hóa trị và công thức hóa học
+> Vì sao nước là H₂O mà không phải HO hay H₃O? Hóa trị cho biết mỗi nguyên tử "bắt tay" được với bao nhiêu nguyên tử khác.
+MT: Nêu được khái niệm hóa trị (cho chất cộng hóa trị); biết hóa trị của một số nguyên tố, nhóm nguyên tử thường gặp.
+MT: Vận dụng quy tắc hóa trị để lập công thức hóa học và tìm hóa trị.
+MT: Tính được phần trăm khối lượng của nguyên tố trong hợp chất.
+LT: 1. Hóa trị
+- **Hóa trị** của một nguyên tố trong hợp chất cộng hóa trị bằng **số cặp electron dùng chung** của nguyên tử nguyên tố đó; viết bằng số La Mã.
+- Quy ước: H có hóa trị I, O có hóa trị II.
+- Hóa trị thường gặp: Na, K, Ag: I; Mg, Ca, Zn, Ba, Cu: II; Al: III; Fe: II hoặc III; C: IV (hoặc II); S: II, IV, VI; N: III (hoặc V); Cl: I. Nhóm nguyên tử: OH, NO₃: I; SO₄, CO₃: II; PO₄: III.
+LT: 2. Quy tắc hóa trị
+- Trong công thức AₓBᵧ (A hóa trị a, B hóa trị b): **a · x = b · y**.
+- Lập công thức: viết dạng chung → áp dụng quy tắc → chọn x, y là số nguyên dương nhỏ nhất (x = b, y = a rồi rút gọn nếu được).
+HINH: 7-khtn/quy-tac-hoa-tri.svg | Lập công thức hợp chất của Al (III) và O (II) theo quy tắc hóa trị: a·x = b·y ⇒ x = 2, y = 3 ⇒ Al₂O₃.
+LT: 3. Phần trăm khối lượng nguyên tố
+- **%A = (khối lượng nguyên tử A × số nguyên tử A) : khối lượng phân tử × 100%**.
+DB: Dạng 1. Tìm hóa trị của một nguyên tố
+- Biết hóa trị nguyên tố kia và công thức, áp dụng a·x = b·y để tính.
+DB: Dạng 2. Lập công thức hóa học theo hóa trị
+- Viết AₓBᵧ, lập tỉ lệ x : y = b : a, chọn số nguyên tối giản.
+- Kiểm tra lại bằng quy tắc hóa trị.
+DB: Dạng 3. Tính phần trăm khối lượng nguyên tố
+- Tính khối lượng phân tử; nhân khối lượng nguyên tử với số nguyên tử của nguyên tố cần tìm; chia rồi nhân 100%.
+VD: Lập công thức hóa học của hợp chất tạo bởi Al (III) và O (II).
+B: Công thức chung AlₓOᵧ; theo quy tắc: III · x = II · y ⇒ x : y = 2 : 3.
+B: Chọn x = 2, y = 3.
+KQ: Công thức là Al₂O₃ (kiểm tra: III · 2 = II · 3 = 6).
+VD: Tính phần trăm khối lượng của oxygen trong nước H₂O.
+B: Khối lượng phân tử H₂O = 2 + 16 = 18 amu.
+B: %O = 16 : 18 × 100% ≈ 88,9%.
+KQ: Oxygen chiếm khoảng 88,9% khối lượng nước.
+GN: Hóa trị viết bằng số La Mã (I, II, III, IV…).
+GN: Nhóm nguyên tử (SO₄, OH…) coi như một "nguyên tố"; khi có chỉ số phải đặt trong ngoặc: Ca(OH)₂, Al₂(SO₄)₃.
+GN: Kiểm tra công thức bằng cách nhân chéo hóa trị với chỉ số.
+Q: mc | Trong hợp chất CH₄, carbon có hóa trị (H hóa trị I)
+A) I
+B) II
+C) III
+D) IV *
+E: a · 1 = I · 4 ⇒ a = IV.
+Q: mc | Công thức hóa học của hợp chất tạo bởi Ca (II) và nhóm OH (I) là
+A) CaOH
+B) Ca(OH)₂ *
+C) Ca₂OH
+D) Ca(OH)₃
+E: II · 1 = I · 2 ⇒ Ca(OH)₂; nhóm OH có chỉ số 2 nên đặt trong ngoặc.
+Q: tf | Xét hợp chất SO₂ (O hóa trị II).
+a) Lưu huỳnh (S) có hóa trị IV trong SO₂. | Đ
+b) Khối lượng phân tử SO₂ là 64 amu (S = 32, O = 16). | Đ
+c) Phần trăm khối lượng S trong SO₂ là 50%. | Đ
+d) SO₂ là đơn chất. | S
+E: a · 1 = II · 2 ⇒ a = IV; khối lượng 32 + 32 = 64; %S = 32 : 64 = 50%; SO₂ gồm 2 nguyên tố nên là hợp chất.
+Q: sa | Tính phần trăm khối lượng của iron (Fe = 56) trong Fe₂O₃ (O = 16). Làm tròn đến hàng đơn vị.
+ANS: 70
+E: Khối lượng phân tử = 2·56 + 3·16 = 160; %Fe = 112 : 160 × 100% = 70%.
+Q: ord | Sắp xếp các bước lập công thức hóa học của hợp chất theo hóa trị:
+1) Viết công thức dạng chung AₓBᵧ
+2) Áp dụng quy tắc hóa trị: a · x = b · y
+3) Chuyển thành tỉ lệ x : y = b : a và chọn số nguyên tối giản
+4) Viết công thức hóa học và kiểm tra lại
+E: Đi từ công thức chung → quy tắc → tỉ lệ → kết quả, cuối cùng kiểm tra bằng nhân chéo.
+TL: Hợp chất X tạo bởi nitrogen và oxygen, trong đó nitrogen có hóa trị V. a) Lập công thức hóa học của X. b) Tính phần trăm khối lượng nitrogen trong X (N = 14, O = 16), làm tròn đến một chữ số thập phân.
+MAU: a) NₓOᵧ: V · x = II · y ⇒ x : y = 2 : 5 ⇒ N₂O₅.
+MAU: b) Khối lượng phân tử = 2·14 + 5·16 = 28 + 80 = 108 amu.
+MAU: %N = 28 : 108 × 100% ≈ 25,9%.
+TC: Lập đúng công thức N₂O₅ | 1
+TC: Tính đúng khối lượng phân tử 108 amu | 1
+TC: Tính đúng %N ≈ 25,9% | 1
+
 ## Chương III. Tốc độ
 ### Bài 8. Tốc độ chuyển động
 ### Bài 9. Đo tốc độ

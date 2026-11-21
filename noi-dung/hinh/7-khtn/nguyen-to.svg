@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="516.24pt" height="216.864pt" viewBox="0 0 516.24 216.864" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T10:55:36.984512</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 216.864 
+L 516.24 216.864 
+L 516.24 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 22.5 104.274 
+L 83.484 104.274 
+Q 90.414 104.274 90.414 97.344 
+L 90.414 28.044 
+Q 90.414 21.114 83.484 21.114 
+L 22.5 21.114 
+Q 15.57 21.114 15.57 28.044 
+L 15.57 97.344 
+Q 15.57 104.274 22.5 104.274 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 104.274 104.274 
+L 165.258 104.274 
+Q 172.188 104.274 172.188 97.344 
+L 172.188 28.044 
+Q 172.188 21.114 165.258 21.114 
+L 104.274 21.114 
+Q 97.344 21.114 97.344 28.044 
+L 97.344 97.344 
+Q 97.344 104.274 104.274 104.274 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 186.048 104.274 
+L 247.032 104.274 
+Q 253.962 104.274 253.962 97.344 
+L 253.962 28.044 
+Q 253.962 21.114 247.032 21.114 
+L 186.048 21.114 
+Q 179.118 21.114 179.118 28.044 
+L 179.118 97.344 
+Q 179.118 104.274 186.048 104.274 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 267.822 104.274 
+L 328.806 104.274 
+Q 335.736 104.274 335.736 97.344 
+L 335.736 28.044 
+Q 335.736 21.114 328.806 21.114 
+L 267.822 21.114 
+Q 260.892 21.114 260.892 28.044 
+L 260.892 97.344 
+Q 260.892 104.274 267.822 104.274 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 349.596 104.274 
+L 410.58 104.274 
+Q 417.51 104.274 417.51 97.344 
+L 417.51 28.044 
+Q 417.51 21.114 410.58 21.114 
+L 349.596 21.114 
+Q 342.666 21.114 342.666 28.044 
+L 342.666 97.344 
+Q 342.666 104.274 349.596 104.274 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 431.37 104.274 
+L 492.354 104.274 
+Q 499.284 104.274 499.284 97.344 
+L 499.284 28.044 
+Q 499.284 21.114 492.354 21.114 
+L 431.37 21.114 
+Q 424.44 21.114 424.44 28.044 
+L 424.44 97.344 
+Q 424.44 104.274 431.37 104.274 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 22.5 198.522 
+L 83.484 198.522 
+Q 90.414 198.522 90.414 191.592 
+L 90.414 122.292 
+Q 90.414 115.362 83.484 115.362 
+L 22.5 115.362 
+Q 15.57 115.362 15.57 122.292 
+L 15.57 191.592 
+Q 15.57 198.522 22.5 198.522 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 104.274 198.522 
+L 165.258 198.522 
+Q 172.188 198.522 172.188 191.592 
+L 172.188 122.292 
+Q 172.188 115.362 165.258 115.362 
+L 104.274 115.362 
+Q 97.344 115.362 97.344 122.292 
+L 97.344 191.592 
+Q 97.344 198.522 104.274 198.522 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 186.048 198.522 
+L 247.032 198.522 
+Q 253.962 198.522 253.962 191.592 
+L 253.962 122.292 
+Q 253.962 115.362 247.032 115.362 
+L 186.048 115.362 
+Q 179.118 115.362 179.118 122.292 
+L 179.118 191.592 
+Q 179.118 198.522 186.048 198.522 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 267.822 198.522 
+L 328.806 198.522 
+Q 335.736 198.522 335.736 191.592 
+L 335.736 122.292 
+Q 335.736 115.362 328.806 115.362 
+L 267.822 115.362 
+Q 260.892 115.362 260.892 122.292 
+L 260.892 191.592 
+Q 260.892 198.522 267.822 198.522 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 349.596 198.522 
+L 410.58 198.522 
+Q 417.51 198.522 417.51 191.592 
+L 417.51 122.292 
+Q 417.51 115.362 410.58 115.362 
+L 349.596 115.362 
+Q 342.666 115.362 342.666 122.292 
+L 342.666 191.592 
+Q 342.666 198.522 349.596 198.522 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 431.37 198.522 
+L 492.354 198.522 
+Q 499.284 198.522 499.284 191.592 
+L 499.284 122.292 
+Q 499.284 115.362 492.354 115.362 
+L 431.37 115.362 
+Q 424.44 115.362 424.44 122.292 
+L 424.44 191.592 
+Q 424.44 198.522 431.37 198.522 
+z
+" clip-path="url(#peb77b14c35)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="21.114" y="34.799656" transform="rotate(-0 21.114 34.799656)">1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="52.992" y="65.377078" transform="rotate(-0 52.992 65.377078)">H</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="52.992" y="85.874203" transform="rotate(-0 52.992 85.874203)">hydrogen</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="52.992" y="98.798337" transform="rotate(-0 52.992 98.798337)">1 amu</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="102.888" y="34.799656" transform="rotate(-0 102.888 34.799656)">6</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="134.766" y="65.377078" transform="rotate(-0 134.766 65.377078)">C</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="134.766" y="85.874203" transform="rotate(-0 134.766 85.874203)">carbon</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="134.766" y="98.798337" transform="rotate(-0 134.766 98.798337)">12 amu</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="184.662" y="34.799656" transform="rotate(-0 184.662 34.799656)">7</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="216.54" y="65.377078" transform="rotate(-0 216.54 65.377078)">N</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="216.54" y="85.874203" transform="rotate(-0 216.54 85.874203)">nitrogen</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="216.54" y="98.798337" transform="rotate(-0 216.54 98.798337)">14 amu</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="266.436" y="34.799656" transform="rotate(-0 266.436 34.799656)">8</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="298.314" y="65.377078" transform="rotate(-0 298.314 65.377078)">O</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="298.314" y="85.873844" transform="rotate(-0 298.314 85.873844)">oxygen</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="298.314" y="98.798337" transform="rotate(-0 298.314 98.798337)">16 amu</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="348.21" y="34.799656" transform="rotate(-0 348.21 34.799656)">11</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="380.088" y="65.377078" transform="rotate(-0 380.088 65.377078)">Na</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="380.088" y="85.874203" transform="rotate(-0 380.088 85.874203)">sodium</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="380.088" y="98.798337" transform="rotate(-0 380.088 98.798337)">23 amu</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="429.984" y="34.799656" transform="rotate(-0 429.984 34.799656)">12</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="461.862" y="65.377078" transform="rotate(-0 461.862 65.377078)">Mg</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="461.862" y="85.874203" transform="rotate(-0 461.862 85.874203)">magnesium</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="461.862" y="98.798337" transform="rotate(-0 461.862 98.798337)">24 amu</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="21.114" y="129.047656" transform="rotate(-0 21.114 129.047656)">13</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="52.992" y="159.625898" transform="rotate(-0 52.992 159.625898)">Al</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="52.992" y="180.122203" transform="rotate(-0 52.992 180.122203)">aluminium</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="52.992" y="193.046337" transform="rotate(-0 52.992 193.046337)">27 amu</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="102.888" y="129.047656" transform="rotate(-0 102.888 129.047656)">16</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="134.766" y="159.625078" transform="rotate(-0 134.766 159.625078)">S</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="134.766" y="180.122203" transform="rotate(-0 134.766 180.122203)">sulfur</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="134.766" y="193.046337" transform="rotate(-0 134.766 193.046337)">32 amu</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="184.662" y="129.047656" transform="rotate(-0 184.662 129.047656)">17</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="216.54" y="159.625898" transform="rotate(-0 216.54 159.625898)">Cl</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="216.54" y="180.122203" transform="rotate(-0 216.54 180.122203)">chlorine</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="216.54" y="193.046337" transform="rotate(-0 216.54 193.046337)">35,5 amu</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="266.436" y="129.047656" transform="rotate(-0 266.436 129.047656)">19</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="298.314" y="159.625078" transform="rotate(-0 298.314 159.625078)">K</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="298.314" y="180.122203" transform="rotate(-0 298.314 180.122203)">potassium</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="298.314" y="193.046337" transform="rotate(-0 298.314 193.046337)">39 amu</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="348.21" y="129.047656" transform="rotate(-0 348.21 129.047656)">20</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="380.088" y="159.625078" transform="rotate(-0 380.088 159.625078)">Ca</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="380.088" y="180.122203" transform="rotate(-0 380.088 180.122203)">calcium</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="380.088" y="193.046337" transform="rotate(-0 380.088 193.046337)">40 amu</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="429.984" y="129.047656" transform="rotate(-0 429.984 129.047656)">26</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="461.862" y="159.625078" transform="rotate(-0 461.862 159.625078)">Fe</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="461.862" y="180.661266" transform="rotate(-0 461.862 180.661266)">iron (sắt)</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="461.862" y="193.046337" transform="rotate(-0 461.862 193.046337)">56 amu</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="peb77b14c35">
+   <rect x="8.64" y="8.64" width="498.96" height="199.584"/>
+  </clipPath>
+ </defs>
+</svg>

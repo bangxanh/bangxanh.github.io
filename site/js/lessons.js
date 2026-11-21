@@ -40,6 +40,28 @@
       return qs;
     }
   };
+  /* Bài kiểm tra tự tạo từ ngân hàng câu hỏi của các bài đã có bài giảng: kiểm tra chương và kiểm tra định kì. */
+  function testPool(lessons) { var a = []; (lessons || []).forEach(function (l) { if (l.ready && l.qs) a = a.concat(l.qs.filter(isQuizType)); }); return a; }
+  function makeTest(pool, n) {
+    var a = pool.slice(); for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), t = a[i]; a[i] = a[j]; a[j] = t; }
+    var ord = { mc: 0, tf: 1, sa: 2 };
+    return a.slice(0, n).sort(function (x, y) { return ord[x.t] - ord[y.t]; });
+  }
+  function bookTests(book) {
+    var all = []; book.units.forEach(function (u) { all = all.concat(u.lessons); });
+    var N = all.length, q = function (k) { return Math.round(N * k / 4); };
+    var defs = [['Kiểm tra giữa học kì I', 0, q(1), 16, 30], ['Kiểm tra cuối học kì I', 0, q(2), 24, 45], ['Kiểm tra giữa học kì II', q(2), q(3), 16, 30], ['Kiểm tra cuối học kì II', q(2), N, 24, 45], ['Kiểm tra tổng hợp cả năm', 0, N, 30, 50]];
+    return defs.map(function (d) { var pool = testPool(all.slice(d[1], d[2])); return { name: d[0], pool: pool, n: Math.min(d[3], pool.length), min: d[4], from: d[1], to: d[2] }; });
+  }
+  function periodicTests(book) {
+    var ts = bookTests(book), ok = ts.filter(function (t) { return t.n >= 8; });
+    var body = ts.map(function (t, i) {
+      var on = t.n >= 8;
+      return '<div class="kt-item' + (on ? '' : ' off') + '"><div><b>' + esc(t.name) + '</b><small>' + (on ? t.n + ' câu · ' + t.min + ' phút · trộn câu mỗi lần làm' : 'Sẽ mở khi đủ bài giảng trong phạm vi kiểm tra') + '</small></div>' +
+        (on ? '<button class="btn sm primary" data-ktbook="' + i + '">Làm bài</button>' : '<span class="muted small">Chưa mở</span>') + '</div>';
+    }).join('');
+    return '<section class="kt-box"><div class="card-head"><h3>' + icon('clock') + 'Bài kiểm tra định kì</h3><span class="muted small">' + ok.length + '/' + ts.length + ' bài đã mở</span></div><p class="muted small">Đề được tạo ngẫu nhiên từ câu hỏi của các bài trong phạm vi (học kì I: nửa đầu sách, học kì II: nửa sau), có tính giờ, chấm điểm và chữa từng câu. Mỗi chương còn có nút <b>Kiểm tra chương</b>.</p><div class="kt-list">' + body + '</div></section>';
+  }
   function isQuizType(q) { return q && (q.t === 'mc' || q.t === 'tf' || q.t === 'sa'); }
   App.isQuizType = isQuizType;
   function hashStr(t) { var h = 7; t = String(t || ''); for (var i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) % 100003; return h + 1; }
@@ -306,12 +328,13 @@
           var dn = u.lessons.filter(function (l) { return App.isLessonDone(l.id); }).length;
           var done = hasL ? dn === u.lessons.length : !!App.progress[key];
           return '<article class="unit ' + (done ? 'done' : '') + '" id="ch-' + ui + '"><div class="chap-head"><span class="chap-no">' + U.pad(ui + 1) + '</span><h3>' + esc(u.t) + '</h3>' +
-            (hasL ? '<span class="muted small">' + dn + '/' + u.lessons.length + '</span>' : '<label class="done-toggle"><input type="checkbox" data-key="' + key + '"' + (done ? ' checked' : '') + '> Đã học</label>') + '</div>' +
+            (hasL ? '<span class="muted small">' + dn + '/' + u.lessons.length + '</span>' + (testPool(u.lessons).length >= 4 ? '<button class="btn sm ghost kt-btn" data-ktunit="' + ui + '">' + icon('clock') + 'Kiểm tra chương</button>' : '') : '<label class="done-toggle"><input type="checkbox" data-key="' + key + '"' + (done ? ' checked' : '') + '> Đã học</label>') + '</div>' +
             (u.d ? '<p class="muted">' + fmt(u.d) + '</p>' : '') +
             (hasL ? '<div class="lrows">' + u.lessons.map(lessonRow).join('') + '</div>' + (u.pts && u.pts.length ? '<details class="keypts"><summary>Kiến thức trọng tâm của chương</summary><ul class="points">' + u.pts.map(function (it) { return '<li>' + fmt(it) + '</li>'; }).join('') + '</ul></details>' : '')
               : '<ul class="points">' + (u.pts || []).map(function (it) { return '<li>' + fmt(it) + '</li>'; }).join('') + '</ul>') +
             '</article>';
         }).join('') + '</div>' +
+        periodicTests(book) +
         (!nL ? '<div class="callout">Danh mục từng bài của môn này đang được bổ sung dần theo SGK; trang tự cập nhật khi có bài mới. Trong lúc chờ, em học theo các chủ đề ở trên và luyện trắc nghiệm.</div>' : '') +
         '<p class="small muted">Xem sách giáo khoa điện tử miễn phí của NXB Giáo dục Việt Nam tại <a href="' + SGK_URL + '" target="_blank" rel="noopener">taphuan.nxbgd.vn</a>.</p></section>';
     } else {
@@ -330,6 +353,18 @@
     U.$$('[data-s]', main).forEach(function (b) { b.onclick = function () { L.subj = b.getAttribute('data-s'); L.book = 0; App.rerender(); }; });
     U.$$('[data-book]', main).forEach(function (b) { b.onclick = function () { L.book = Number(b.getAttribute('data-book')); App.rerender(); }; });
     U.$$('[data-admintab]', main).forEach(function (a) { a.onclick = function () { App.S.adminTab = a.getAttribute('data-admintab'); }; });
+    U.$$('[data-ktunit]', main).forEach(function (b) {
+      b.onclick = function () {
+        var u = book.units[Number(b.getAttribute('data-ktunit'))], pool = testPool(u.lessons), n = Math.min(20, pool.length);
+        App.startRun({ mode: 'practice', title: 'Kiểm tra chương · ' + u.t, qs: makeTest(pool, n), limit: Math.max(10, Math.round(n * 1.5)) * 60, g: g, s: s });
+      };
+    });
+    U.$$('[data-ktbook]', main).forEach(function (b) {
+      b.onclick = function () {
+        var t = bookTests(book)[Number(b.getAttribute('data-ktbook'))];
+        App.startRun({ mode: 'practice', title: t.name + ' · ' + book.title, qs: makeTest(t.pool, t.n), limit: t.min * 60, g: g, s: s });
+      };
+    });
     U.$$('input[data-key]', main).forEach(function (cb) {
       cb.onchange = async function () { cb.disabled = true; try { await setDone(cb.getAttribute('data-key'), cb.checked); cb.closest('.unit').classList.toggle('done', cb.checked); } catch (e) { cb.checked = !cb.checked; App.fail(e); } cb.disabled = false; };
     });
