@@ -846,6 +846,131 @@ def tim_hieu_sinh_vat():
 
 ALL += [nam, th_nam, nhom_thuc_vat, th_thuc_vat, nhom_dong_vat, th_dong_vat, da_dang_sinh_hoc, tim_hieu_sinh_vat]
 
+
+def tac_dung_luc():
+    fig, ax = khung(10.0, 3.2); trong(ax)
+    ax.set_xlim(0, 20); ax.set_ylim(-0.2, 6.4)
+    for x in (5, 10, 15): ax.plot([x, x], [0.3, 6.1], color=MAU['nhat'], lw=2)
+    ax.add_patch(Rectangle((1.6, 2.0), 2.4, 1.4, fc='#9cc5f0', ec=MAU['lam'], lw=1.5))
+    for xx in (2.1, 3.5): ax.add_patch(Circle((xx, 1.8), 0.3, fc='#333'))
+    mui_ten(ax, (0.2, 2.7), (1.55, 2.7), MAU['do'], 2.6); ax.text(0.5, 3.1, 'đẩy', fontsize=10, color=MAU['do'])
+    ax.text(2.5, 1.2, 'bắt đầu\nchuyển động', ha='center', va='top', fontsize=10, weight='bold', color=MAU['xanh'], linespacing=1.2)
+    ax.add_patch(Circle((7.0, 3.0), 0.3, fc='#fff3a8', ec=MAU['cam']))
+    ax.annotate('', xy=(6.8, 3.0), xytext=(5.3, 4.6), arrowprops=dict(arrowstyle='->', color=MAU['xam'], lw=1.4, ls='--'))
+    ax.annotate('', xy=(8.9, 4.7), xytext=(7.3, 3.1), arrowprops=dict(arrowstyle='->', color=MAU['do'], lw=2))
+    ax.add_patch(Ellipse((7.55, 2.35), 0.9, 1.2, angle=-30, fc='#d64545', ec='#8a2020')); ax.plot([7.8, 8.4], [1.8, 1.0], color='#7a5530', lw=4)
+    ax.text(7.5, 1.2, 'đổi hướng\nchuyển động', ha='center', va='top', fontsize=10, weight='bold', color=MAU['xanh'], linespacing=1.2)
+    ax.add_patch(Ellipse((12.5, 3.2), 2.6, 1.3, fc='#f6a5c0', ec=MAU['do'], lw=1.5))
+    mui_ten(ax, (10.4, 3.2), (11.15, 3.2), MAU['do'], 2.4); mui_ten(ax, (14.6, 3.2), (13.85, 3.2), MAU['do'], 2.4)
+    ax.text(12.5, 4.5, 'bóp', ha='center', fontsize=10, color=MAU['do'])
+    ax.text(12.5, 1.2, 'biến dạng', ha='center', va='top', fontsize=10, weight='bold', color=MAU['xanh'])
+    ax.add_patch(Wedge((16.6, 3.2), 0.9, 90, 270, width=0.45, fc='#d64545', ec='#333'))
+    ax.add_patch(Rectangle((16.6, 2.3), 0.5, 0.45, fc='#c0c0c0', ec='#333')); ax.add_patch(Rectangle((16.6, 3.65), 0.5, 0.45, fc='#c0c0c0', ec='#333'))
+    ax.add_patch(Rectangle((18.4, 2.9), 1.2, 0.18, fc='#888', ec='#333', angle=0))
+    mui_ten(ax, (18.35, 3.0), (17.4, 3.0), MAU['tim'], 2)
+    ax.text(17.5, 1.2, 'không tiếp xúc\n(nam châm hút)', ha='center', va='top', fontsize=10, weight='bold', color=MAU['xanh'], linespacing=1.2)
+    luu(fig, D + 'tac-dung-luc.svg')
+
+
+def bieu_dien_luc():
+    fig, ax = khung(9.0, 3.2); trong(ax)
+    ax.set_xlim(0, 18); ax.set_ylim(0, 6.4)
+    ax.add_patch(Rectangle((0.8, 2.6), 2.6, 1.8, fc='#f3e3c0', ec='#8a6a3a', lw=1.5))
+    ax.add_patch(Circle((3.4, 3.5), 0.12, fc=MAU['den'], zorder=5))
+    mui_ten(ax, (3.4, 3.5), (9.4, 3.5), MAU['do'], 3)
+    for k in range(4): ax.plot([3.4 + k * 2.0, 3.4 + k * 2.0], [3.3, 3.7], color=MAU['do'], lw=1.5)
+    ax.text(6.4, 4.0, 'F = 15 N', ha='center', fontsize=12, weight='bold', color=MAU['do'])
+    ax.text(3.4, 2.15, 'điểm đặt', ha='center', fontsize=9.5)
+    ax.plot([3.4, 5.4], [1.5, 1.5], color=MAU['xanh'], lw=2.5); ax.plot([3.4, 3.4], [1.3, 1.7], color=MAU['xanh'], lw=2); ax.plot([5.4, 5.4], [1.3, 1.7], color=MAU['xanh'], lw=2)
+    ax.text(5.7, 1.5, '1 cm ↔ 5 N (tỉ xích)', va='center', fontsize=10.5, color=MAU['xanh'])
+    ax.plot([12.6, 12.6], [5.8, 6.3], color='#555', lw=2)
+    ax.add_patch(FancyBboxPatch((12.1, 1.8), 1.0, 4.0, boxstyle='round,pad=0,rounding_size=0.2', fc='#e8eef2', ec='#555'))
+    tt = np.linspace(0, 1, 200); ax.plot(12.6 + 0.25 * np.sin(tt * 2 * np.pi * 10), 5.4 - 2.6 * tt, color='#888', lw=1)
+    for k in range(6): ax.plot([13.1, 13.4], [5.3 - k * 0.5, 5.3 - k * 0.5], color='#333', lw=1); ax.text(13.5, 5.3 - k * 0.5, str(k), va='center', fontsize=8.5)
+    ax.plot([12.6, 12.6], [2.8, 1.2], color='#555', lw=1.5); ax.add_patch(Rectangle((12.2, 0.6), 0.8, 0.6, fc='#888'))
+    ax.text(14.6, 3.6, 'lực kế\nlò xo', fontsize=11, weight='bold', color=MAU['xanh'], linespacing=1.2)
+    luu(fig, D + 'bieu-dien-luc.svg')
+
+
+def lo_xo_treo(ax, x, ytop, dai, n):
+    ax.plot([x - 0.6, x + 0.6], [ytop, ytop], color='#333', lw=3)
+    tt = np.linspace(0, 1, 300); ax.plot(x + 0.3 * np.sin(tt * 2 * np.pi * 12), ytop - dai * tt, color='#555', lw=1.2)
+    for k in range(n): ax.add_patch(Rectangle((x - 0.4, ytop - dai - 0.6 - k * 0.62), 0.8, 0.55, fc='#c0c8cc', ec='#333'))
+
+
+def lo_xo():
+    fig, ax = khung(8.4, 4.0); trong(ax)
+    ax.set_xlim(0, 16.8); ax.set_ylim(0, 8)
+    ax.plot([0.3, 16.5], [7.6, 7.6], color='#333', lw=4)
+    l0 = 2.0
+    for i, n in enumerate([0, 1, 2, 3]):
+        x = 1.6 + i * 3.6
+        lo_xo_treo(ax, x, 7.6, l0 + 0.8 * n, n)
+        ax.text(x, 0.3, ['l₀', 'Δl', '2Δl', '3Δl'][i], ha='center', fontsize=12, weight='bold', color=MAU['do'] if n else MAU['xanh'])
+    ax.plot([0.3, 15.5], [7.6 - l0, 7.6 - l0], color=MAU['xanh'], lw=1, ls='--')
+    ax.text(15.6, 7.6 - l0, 'chiều dài\ntự nhiên', va='center', fontsize=9.5, color=MAU['xanh'])
+    for i, n in enumerate([1, 2, 3]):
+        x = 1.6 + (i + 1) * 3.6
+        ax.annotate('', xy=(x + 0.9, 7.6 - l0 - 0.8 * n), xytext=(x + 0.9, 7.6 - l0), arrowprops=dict(arrowstyle='<->', color=MAU['do'], lw=1.3))
+    luu(fig, D + 'lo-xo.svg')
+
+
+def trong_luc():
+    fig, ax = khung(7.6, 3.8); trong(ax)
+    ax.set_xlim(0, 15.2); ax.set_ylim(0, 7.6)
+    ax.add_patch(Circle((4.0, 3.6), 2.6, fc='#9cc5f0', ec=MAU['lam'], lw=2))
+    for a in [70, 160, 250, 340]:
+        r = np.radians(a); ax.add_patch(Ellipse((4.0 + 1.6 * np.cos(r), 3.6 + 1.6 * np.sin(r)), 1.4, 0.8, angle=a, fc='#7cbf4a', ec='none', alpha=0.8))
+    for a in [90, 30, 150, 210, 330]:
+        r = np.radians(a); x0, y0 = 4.0 + 3.6 * np.cos(r), 3.6 + 3.6 * np.sin(r)
+        ax.add_patch(Circle((x0, y0), 0.2, fc=MAU['cam'])); mui_ten(ax, (x0, y0), (4.0 + 2.75 * np.cos(r), 3.6 + 2.75 * np.sin(r)), MAU['do'], 1.8)
+    ax.text(4.0, 3.6, 'Trái Đất', ha='center', va='center', fontsize=11, weight='bold', color='white')
+    ax.add_patch(Rectangle((10.0, 4.8), 1.4, 1.2, fc='#c0c8cc', ec='#333')); ax.text(10.7, 5.4, '1 kg', ha='center', va='center', fontsize=10)
+    mui_ten(ax, (10.7, 4.8), (10.7, 2.6), MAU['do'], 2.6)
+    ax.text(11.2, 3.6, 'P ≈ 10 N', fontsize=12, weight='bold', color=MAU['do'])
+    ax.text(9.0, 1.4, 'P ≈ 10m\n(P: N; m: kg)', fontsize=11, color=MAU['xanh'], linespacing=1.3)
+    luu(fig, D + 'trong-luc.svg')
+
+
+def ma_sat():
+    fig, ax = khung(9.0, 3.0); trong(ax)
+    ax.set_xlim(0, 18); ax.set_ylim(0, 6)
+    ax.add_patch(Rectangle((0.3, 1.4), 8.4, 0.3, fc='#c9b18a', ec='none'))
+    for k in range(20): ax.plot([0.4 + k * 0.42, 0.6 + k * 0.42], [1.4, 1.7], color='#8a6a3a', lw=0.6)
+    ax.add_patch(Rectangle((2.6, 1.7), 2.4, 1.8, fc='#e9c99a', ec='#8a6a3a', lw=1.5))
+    mui_ten(ax, (5.0, 2.6), (7.6, 2.6), MAU['lam'], 2.4); ax.text(6.3, 3.0, 'lực kéo', ha='center', fontsize=10, color=MAU['lam'])
+    mui_ten(ax, (2.6, 1.75), (0.9, 1.75), MAU['do'], 2.4); ax.text(1.7, 2.1, 'F ma sát', ha='center', fontsize=10, color=MAU['do'])
+    ax.text(4.5, 0.6, 'ma sát trượt (lớn)', ha='center', fontsize=11, weight='bold', color=MAU['xanh'])
+    ax.add_patch(Rectangle((9.6, 1.4), 8.0, 0.3, fc='#c9b18a', ec='none'))
+    ax.add_patch(Rectangle((12.0, 2.3), 2.4, 1.8, fc='#e9c99a', ec='#8a6a3a', lw=1.5))
+    for xx in (12.5, 13.9): ax.add_patch(Circle((xx, 2.0), 0.3, fc='#333')); ax.add_patch(Circle((xx, 2.0), 0.1, fc='#aaa'))
+    mui_ten(ax, (14.4, 3.2), (16.4, 3.2), MAU['lam'], 1.8); ax.text(15.4, 3.6, 'lực kéo nhỏ', ha='center', fontsize=10, color=MAU['lam'])
+    mui_ten(ax, (12.0, 1.75), (11.4, 1.75), MAU['do'], 1.8)
+    ax.text(13.6, 0.6, 'ma sát lăn (nhỏ hơn nhiều)', ha='center', fontsize=11, weight='bold', color=MAU['xanh'])
+    luu(fig, D + 'ma-sat.svg')
+
+
+def luc_can():
+    fig, ax = khung(9.0, 3.0); trong(ax)
+    ax.set_xlim(0, 18); ax.set_ylim(0, 6)
+    ax.add_patch(Rectangle((0, 1.2), 18, 4.6, fc='#e3f1fb', ec='none'))
+    for y in (2.0, 3.0, 4.0, 5.0):
+        ax.annotate('', xy=(3.0, y), xytext=(0.4, y), arrowprops=dict(arrowstyle='->', color='#7fb3d5', lw=1.2))
+    ax.add_patch(Rectangle((3.1, 1.8), 0.6, 3.6, fc='#b9894e', ec='#7a5530'))
+    ax.text(3.4, 0.6, 'mặt cản rộng → lực cản LỚN', ha='center', fontsize=10.5, weight='bold', color=MAU['do'])
+    for y in (2.4, 3.2, 4.0):
+        tt = np.linspace(0, 1, 40); ax.plot(9.0 + 2.0 * tt, y + (3.2 - y) * 0.0 + 0.35 * np.sin(tt * np.pi) * (1 if y > 3.2 else -1 if y < 3.2 else 0), color='#7fb3d5', lw=1.2)
+    t = np.linspace(0, 2 * np.pi, 100)
+    ax.add_patch(Polygon(np.c_[13.5 + 2.2 * np.cos(t), 3.2 + 0.8 * np.sin(t) * (1 - 0.25 * np.cos(t))], fc='#f2a65a', ec='#b5651d', lw=1.5))
+    ax.add_patch(Polygon([[15.5, 3.2], [16.6, 4.0], [16.6, 2.4]], fc='#f2a65a', ec='#b5651d'))
+    ax.add_patch(Circle((12.1, 3.45), 0.15, fc='#333'))
+    ax.text(13.5, 0.6, 'hình thuôn → lực cản NHỎ', ha='center', fontsize=10.5, weight='bold', color=MAU['la'])
+    mui_ten(ax, (11.0, 5.2), (9.2, 5.2), MAU['xanh'], 1.6); ax.text(10.1, 5.5, 'cá bơi', ha='center', fontsize=9.5, color=MAU['xanh'])
+    luu(fig, D + 'luc-can.svg')
+
+
+ALL += [tac_dung_luc, bieu_dien_luc, lo_xo, trong_luc, ma_sat, luc_can]
+
 if __name__ == '__main__':
     for f in ALL:
         f()

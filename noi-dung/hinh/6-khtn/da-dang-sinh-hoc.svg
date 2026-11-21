@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-21T11:39:15.420785</dc:date>
+    <dc:date>2026-11-21T11:42:06.721973</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 266.9904 68.238
 L 266.9904 48.834 
 L 119.52 48.834 
 z
-" clip-path="url(#p21e34ecbb4)" style="fill: #2f8a3a"/>
+" clip-path="url(#pace0b04b2e)" style="fill: #2f8a3a"/>
    </g>
    <g id="patch_3">
     <path d="M 119.52 107.046 
@@ -43,7 +43,7 @@ L 235.944 107.046
 L 235.944 87.642 
 L 119.52 87.642 
 z
-" clip-path="url(#p21e34ecbb4)" style="fill: #2f6fde"/>
+" clip-path="url(#pace0b04b2e)" style="fill: #2f6fde"/>
    </g>
    <g id="patch_4">
     <path d="M 119.52 145.854 
@@ -51,7 +51,7 @@ L 158.328 145.854
 L 158.328 126.45 
 L 119.52 126.45 
 z
-" clip-path="url(#p21e34ecbb4)" style="fill: #d9a441"/>
+" clip-path="url(#pace0b04b2e)" style="fill: #d9a441"/>
    </g>
    <g id="patch_5">
     <path d="M 119.52 184.662 
@@ -59,7 +59,7 @@ L 142.8048 184.662
 L 142.8048 165.258 
 L 119.52 165.258 
 z
-" clip-path="url(#p21e34ecbb4)" style="fill: #7fb3d5"/>
+" clip-path="url(#pace0b04b2e)" style="fill: #7fb3d5"/>
    </g>
    <g id="patch_6">
     <path d="M 361.2384 208.224 
@@ -72,7 +72,7 @@ Q 357.912 19.728 357.912 23.0544
 L 357.912 204.8976 
 Q 357.912 208.224 361.2384 208.224 
 z
-" clip-path="url(#p21e34ecbb4)" style="fill: #fdeef0; stroke: #c93a58; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pace0b04b2e)" style="fill: #fdeef0; stroke: #c93a58; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f5640" x="163.872" y="19.728" transform="rotate(-0 163.872 19.728)">Mức độ đa dạng theo môi trường</text>
@@ -115,7 +115,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p21e34ecbb4">
+  <clipPath id="pace0b04b2e">
    <rect x="8.64" y="8.64" width="532.224" height="210.672"/>
   </clipPath>
  </defs>

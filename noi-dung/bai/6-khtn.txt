@@ -2589,11 +2589,391 @@ TC: Sản phẩm cụ thể | 1
 
 ## Chương VIII. Lực trong đời sống
 ### Bài 40. Lực là gì?
+> Đẩy cửa, kéo ghế, đá quả bóng, nam châm hút đinh… Mỗi hoạt động đều có sự tác dụng của lực. Lực làm vật chuyển động, dừng lại hoặc biến dạng.
+MT: Nêu được khái niệm lực (đẩy hoặc kéo); lực tiếp xúc và lực không tiếp xúc.
+MT: Nêu được tác dụng của lực: làm thay đổi tốc độ, hướng chuyển động, làm biến dạng vật.
+MT: Lấy được ví dụ về các tác dụng của lực.
+LT: 1. Lực là gì?
+- Tác dụng **đẩy** hoặc **kéo** của vật này lên vật khác gọi là **lực**.
+- **Lực tiếp xúc**: xuất hiện khi vật gây ra lực **tiếp xúc** với vật chịu lực (tay đẩy xe, chân đá bóng).
+- **Lực không tiếp xúc**: xuất hiện khi vật gây ra lực **không tiếp xúc** với vật chịu lực (nam châm hút đinh sắt từ xa, Trái Đất hút quả táo rơi).
+LT: 2. Tác dụng của lực
+- Làm **thay đổi tốc độ** chuyển động: vật đứng yên bắt đầu chuyển động, vật chuyển động nhanh lên, chậm lại hoặc dừng lại.
+- Làm **thay đổi hướng** chuyển động (đánh bóng bàn đổi hướng).
+- Làm vật **biến dạng** (bóp quả bóng bay, kéo lò xo dãn ra).
+HINH: 6-khtn/tac-dung-luc.svg | Các tác dụng của lực: làm vật bắt đầu chuyển động (đẩy xe), đổi hướng (vợt đánh bóng), biến dạng (bóp quả bóng); lực tiếp xúc và không tiếp xúc (nam châm hút đinh).
+DB: Dạng 1. Nhận biết lực tiếp xúc – không tiếp xúc
+- Có chạm vào nhau → tiếp xúc; không chạm (nam châm, trọng lực) → không tiếp xúc.
+DB: Dạng 2. Chỉ ra tác dụng của lực
+- Thay đổi tốc độ, thay đổi hướng, biến dạng (có thể cùng lúc nhiều tác dụng).
+DB: Dạng 3. Xác định vật tác dụng lực và vật chịu lực
+- "Vật A tác dụng lực lên vật B".
+VD: Thủ môn bắt được quả bóng đang bay tới. Lực của tay thủ môn có tác dụng gì?
+B: Quả bóng đang chuyển động bị dừng lại.
+KQ: Lực làm thay đổi tốc độ (làm bóng dừng lại), đồng thời có thể làm bóng hơi biến dạng.
+VD: Quả táo rơi từ trên cây xuống. Lực nào gây ra? Là lực tiếp xúc hay không tiếp xúc?
+B: Trái Đất hút quả táo (lực hấp dẫn).
+KQ: Lực không tiếp xúc.
+GN: Lực là tác dụng đẩy hoặc kéo.
+GN: Lực có thể làm vật thay đổi tốc độ, hướng chuyển động, biến dạng.
+GN: Một lực có thể gây ra đồng thời nhiều tác dụng.
+Q: mc | Lực nào sau đây là lực không tiếp xúc?
+A) Lực của tay đẩy cửa
+B) Lực của nam châm hút chiếc đinh ở gần *
+C) Lực của chân đá quả bóng
+D) Lực của gió đẩy cánh buồm
+E: Nam châm hút đinh khi chưa chạm vào.
+Q: mc | Dùng tay ép một quả bóng cao su, lực của tay làm quả bóng
+A) chuyển động nhanh hơn
+B) bị biến dạng *
+C) đổi hướng chuyển động
+D) không thay đổi gì
+E: Quả bóng bị bẹp – biến dạng.
+Q: tf | Về lực:
+a) Lực có thể làm vật đang đứng yên bắt đầu chuyển động. | Đ
+b) Lực hút của Trái Đất là lực tiếp xúc. | S
+c) Vợt đánh vào quả bóng làm bóng đổi hướng chuyển động. | Đ
+d) Một lực chỉ gây ra được một tác dụng. | S
+E: Lực hút Trái Đất là lực không tiếp xúc; một lực có thể gây nhiều tác dụng.
+Q: match | Nối hiện tượng với tác dụng chính của lực:
+1) Đá vào quả bóng đang đứng yên | Làm vật bắt đầu chuyển động
+2) Hãm phanh xe đạp | Làm vật chuyển động chậm lại
+3) Gió thổi làm lá cờ bay đổi hướng | Làm thay đổi hướng chuyển động
+4) Kéo dãn sợi dây chun | Làm vật biến dạng
+E: Xác định sự thay đổi của vật.
+Q: sa | Trong các trường hợp: tay đẩy xe, nam châm hút đinh, quả táo rơi, chân đá bóng, gió thổi buồm. Có bao nhiêu trường hợp là lực tiếp xúc?
+ANS: 3
+E: Tay đẩy xe, chân đá bóng, gió thổi buồm (không khí tiếp xúc với buồm).
+TL: Khi cầu thủ đánh đầu vào quả bóng đang bay, lực của đầu cầu thủ gây ra những tác dụng gì lên quả bóng? Đây là lực tiếp xúc hay không tiếp xúc?
+MAU: Lực làm quả bóng thay đổi hướng chuyển động (bay sang hướng khác).
+MAU: Lực có thể làm thay đổi tốc độ của bóng (nhanh hơn hoặc chậm hơn) và làm bóng biến dạng trong thời gian ngắn.
+MAU: Đây là lực tiếp xúc vì đầu cầu thủ chạm vào quả bóng.
+TC: Nêu được tác dụng đổi hướng | 1
+TC: Nêu được thay đổi tốc độ, biến dạng | 1
+TC: Xác định đúng lực tiếp xúc | 1
+
 ### Bài 41. Biểu diễn lực
+> Lực không nhìn thấy được, nhưng ta có thể "vẽ" lực bằng một mũi tên: gốc ở đâu, hướng về đâu, dài bao nhiêu.
+MT: Nêu được đơn vị lực là niutơn (N); đo được lực bằng lực kế.
+MT: Biểu diễn được lực bằng mũi tên có điểm đặt, phương, chiều, độ lớn theo tỉ xích.
+MT: Đọc được lực từ hình biểu diễn.
+LT: 1. Đo lực
+- Đơn vị lực là **niutơn (N)**.
+- Dụng cụ đo lực: **lực kế** (lực kế lò xo). Cách đo: ước lượng lực → chọn lực kế có GHĐ, ĐCNN phù hợp → hiệu chỉnh về vạch 0 → cầm lực kế sao cho lò xo nằm dọc theo phương của lực → đọc số chỉ.
+LT: 2. Biểu diễn lực
+- Lực được biểu diễn bằng **mũi tên** có:
+- **Gốc**: điểm đặt của lực (trên vật chịu lực).
+- **Phương và chiều**: phương, chiều của lực.
+- **Độ dài**: biểu thị độ lớn của lực theo **tỉ xích** cho trước.
+HINH: 6-khtn/bieu-dien-luc.svg | Biểu diễn lực kéo 15 N nằm ngang, chiều từ trái sang phải, tỉ xích 1 cm ứng với 5 N; lực kế lò xo dùng để đo lực.
+DB: Dạng 1. Biểu diễn lực
+- Chọn tỉ xích → tính độ dài mũi tên = độ lớn : giá trị 1 đơn vị độ dài → vẽ.
+DB: Dạng 2. Đọc lực từ hình vẽ
+- Độ lớn = số đoạn × giá trị mỗi đoạn; nêu điểm đặt, phương, chiều.
+DB: Dạng 3. Chọn lực kế, đọc số chỉ lực kế
+- GHĐ ≥ lực cần đo; ĐCNN nhỏ để đo chính xác.
+VD: Biểu diễn lực kéo 20 N, phương nằm ngang, chiều từ trái sang phải, tỉ xích 1 cm ứng với 5 N.
+B: Độ dài mũi tên = 20 : 5 = 4 cm.
+KQ: Vẽ mũi tên dài 4 cm, gốc tại điểm đặt trên vật, nằm ngang, hướng sang phải.
+VD: Một mũi tên biểu diễn lực dài 3 đoạn, mỗi đoạn ứng với 10 N, hướng thẳng đứng từ trên xuống. Lực có độ lớn và hướng thế nào?
+B: Độ lớn = 3 × 10 N.
+KQ: Lực 30 N, phương thẳng đứng, chiều từ trên xuống.
+GN: Đơn vị lực: niutơn (N).
+GN: Mũi tên lực: gốc – điểm đặt; hướng – phương, chiều; độ dài – độ lớn.
+GN: Phải ghi rõ tỉ xích khi biểu diễn lực.
+Q: mc | Đơn vị đo lực là
+A) kilôgam (kg)
+B) niutơn (N) *
+C) mét (m)
+D) giây (s)
+E: Đơn vị lực là niutơn.
+Q: mc | Dụng cụ dùng để đo lực là
+A) cân
+B) lực kế *
+C) nhiệt kế
+D) thước
+E: Lực kế lò xo đo được độ lớn của lực.
+Q: tf | Về biểu diễn lực:
+a) Gốc mũi tên là điểm đặt của lực. | Đ
+b) Độ dài mũi tên biểu thị độ lớn của lực theo tỉ xích. | Đ
+c) Không cần ghi tỉ xích khi biểu diễn lực. | S
+d) Mũi tên lực cho biết phương và chiều của lực. | Đ
+E: Phải có tỉ xích để biết độ lớn.
+Q: ord | Sắp xếp các bước đo lực bằng lực kế:
+1) Ước lượng độ lớn lực cần đo
+2) Chọn lực kế có GHĐ và ĐCNN phù hợp
+3) Hiệu chỉnh lực kế về vạch số 0
+4) Cho lực cần đo tác dụng dọc theo trục lò xo
+5) Đọc và ghi kết quả
+E: Ước lượng → chọn → hiệu chỉnh → đo → đọc.
+Q: sa | Với tỉ xích 1 cm ứng với 5 N, lực 35 N được biểu diễn bằng mũi tên dài bao nhiêu cm?
+ANS: 7
+E: 35 : 5 = 7 cm.
+TL: Biểu diễn hai lực sau trên cùng một hình (tỉ xích 1 cm ứng với 10 N): lực kéo 30 N nằm ngang sang phải và trọng lực 20 N thẳng đứng hướng xuống, cùng đặt tại một điểm trên vật.
+MAU: Chọn điểm đặt O trên vật.
+MAU: Lực kéo: mũi tên gốc O, nằm ngang, hướng sang phải, dài 30 : 10 = 3 cm.
+MAU: Trọng lực: mũi tên gốc O, thẳng đứng, hướng xuống, dài 20 : 10 = 2 cm. Ghi tỉ xích bên cạnh hình.
+TC: Đúng điểm đặt | 1
+TC: Đúng phương, chiều | 1
+TC: Đúng độ dài theo tỉ xích | 1
+
 ### Bài 42. Biến dạng của lò xo
+> Treo càng nhiều quả nặng, lò xo càng dãn dài. Nhờ tính chất này mà người ta chế tạo ra lực kế và cân lò xo.
+MT: Nêu được khái niệm biến dạng đàn hồi của lò xo.
+MT: Thực hiện được thí nghiệm chứng tỏ độ dãn của lò xo tỉ lệ với khối lượng vật treo.
+MT: Tính được độ dãn, chiều dài lò xo khi treo vật.
+LT: 1. Biến dạng của lò xo
+- Treo vật vào lò xo, lò xo **dãn ra**; bỏ vật ra, lò xo **trở lại hình dạng ban đầu** → biến dạng **đàn hồi**.
+- Nếu treo vật quá nặng, lò xo dãn quá giới hạn sẽ **không trở lại** như cũ (mất tính đàn hồi).
+LT: 2. Độ dãn của lò xo
+- **Độ dãn** = chiều dài khi treo vật − chiều dài tự nhiên: Δl = l − l₀.
+- Trong giới hạn đàn hồi, độ dãn của lò xo **tỉ lệ thuận** với khối lượng vật treo (treo vật nặng gấp đôi, độ dãn gấp đôi).
+HINH: 6-khtn/lo-xo.svg | Lò xo có chiều dài tự nhiên l₀; treo 1, 2, 3 quả nặng như nhau thì độ dãn tăng gấp 1, 2, 3 lần.
+LT: 3. Ứng dụng
+- Lực kế lò xo, cân lò xo, giảm xóc xe máy, đệm lò xo, bút bi bấm.
+DB: Dạng 1. Tính độ dãn
+- Δl = l − l₀.
+DB: Dạng 2. Tính chiều dài lò xo khi treo vật
+- Tìm độ dãn ứng với 1 đơn vị khối lượng → nhân với khối lượng mới → l = l₀ + Δl.
+DB: Dạng 3. Đọc bảng số liệu, đồ thị
+- Nhận xét quan hệ tỉ lệ giữa khối lượng và độ dãn.
+VD: Lò xo dài tự nhiên 10 cm. Treo vật 50 g, lò xo dài 12 cm. Độ dãn là bao nhiêu?
+B: Δl = l − l₀ = 12 − 10.
+KQ: Δl = 2 cm.
+VD: Cũng lò xo trên, treo vật 150 g thì lò xo dài bao nhiêu?
+B: 150 g gấp 3 lần 50 g ⇒ độ dãn gấp 3: Δl = 3 × 2 = 6 cm.
+KQ: l = 10 + 6 = 16 cm.
+GN: Độ dãn = chiều dài lúc treo − chiều dài tự nhiên.
+GN: Độ dãn tỉ lệ với khối lượng vật treo (trong giới hạn đàn hồi).
+GN: Không treo vật quá nặng làm hỏng lò xo.
+Q: mc | Lò xo dài tự nhiên 15 cm, treo vật vào dài 18 cm. Độ dãn của lò xo là
+A) 3 cm *
+B) 15 cm
+C) 18 cm
+D) 33 cm
+E: 18 − 15 = 3 cm.
+Q: mc | Treo vật có khối lượng gấp đôi vào lò xo (trong giới hạn đàn hồi) thì độ dãn
+A) không đổi
+B) giảm một nửa
+C) tăng gấp đôi *
+D) tăng gấp bốn
+E: Độ dãn tỉ lệ thuận với khối lượng vật treo.
+Q: tf | Về biến dạng của lò xo:
+a) Lò xo bị dãn rồi trở lại hình dạng ban đầu là biến dạng đàn hồi. | Đ
+b) Có thể treo vật nặng tùy ý mà lò xo vẫn đàn hồi. | S
+c) Lực kế hoạt động dựa vào sự biến dạng của lò xo. | Đ
+d) Độ dãn = chiều dài khi treo − chiều dài tự nhiên. | Đ
+E: Treo quá nặng làm lò xo mất tính đàn hồi.
+Q: sa | Lò xo dài tự nhiên 20 cm. Treo vật 100 g lò xo dài 22 cm. Treo vật 300 g thì lò xo dài bao nhiêu cm?
+ANS: 26
+E: 100 g → dãn 2 cm; 300 g → dãn 6 cm; l = 20 + 6 = 26 cm.
+Q: ord | Sắp xếp các bước thí nghiệm đo độ dãn lò xo:
+1) Treo lò xo lên giá, đo chiều dài tự nhiên l₀
+2) Treo 1 quả nặng, đo chiều dài l₁
+3) Treo thêm quả nặng, đo chiều dài l₂, l₃
+4) Tính độ dãn và nhận xét
+E: Đo l₀ → treo vật, đo l → tính Δl, nhận xét.
+TL: Một lò xo dài 12 cm. Treo vật 200 g thì lò xo dài 16 cm. a) Tính độ dãn. b) Muốn lò xo dài 14 cm thì phải treo vật bao nhiêu gam?
+MAU: a) Δl = 16 − 12 = 4 cm (ứng với 200 g → 1 cm ứng với 50 g).
+MAU: b) Lò xo dài 14 cm ⇒ Δl = 14 − 12 = 2 cm ⇒ khối lượng vật = 2 × 50 = 100 g.
+TC: Câu a đúng | 1
+TC: Tìm được độ dãn ứng với khối lượng | 1
+TC: Câu b đúng | 1
+
 ### Bài 43. Trọng lượng, lực hấp dẫn
+> Vì sao quả bóng ném lên lại rơi xuống? Vì sao Mặt Trăng quay quanh Trái Đất? Câu trả lời là lực hấp dẫn.
+MT: Nêu được khái niệm khối lượng, lực hấp dẫn, trọng lượng.
+MT: Phân biệt được khối lượng và trọng lượng; dùng công thức P ≈ 10m.
+MT: Giải thích được một số hiện tượng do lực hấp dẫn.
+LT: 1. Khối lượng và lực hấp dẫn
+- **Khối lượng** là số đo lượng chất của vật (đơn vị kg).
+- **Lực hấp dẫn** là lực **hút** giữa các vật có khối lượng (Trái Đất hút mọi vật, Mặt Trời hút các hành tinh).
+LT: 2. Trọng lượng
+- **Trọng lượng** là độ lớn của **lực hút của Trái Đất** tác dụng lên vật, đơn vị **niutơn (N)**.
+- Trọng lực có **phương thẳng đứng, chiều hướng về phía Trái Đất** (từ trên xuống).
+- Liên hệ: **P ≈ 10m** (P tính bằng N, m tính bằng kg). Vật 1 kg có trọng lượng khoảng 10 N.
+HINH: 6-khtn/trong-luc.svg | Trọng lực có phương thẳng đứng, hướng về tâm Trái Đất; vật khối lượng 1 kg có trọng lượng khoảng 10 N.
+LT: 3. Phân biệt khối lượng và trọng lượng
+- Khối lượng không đổi khi đưa vật lên Mặt Trăng; trọng lượng trên Mặt Trăng chỉ bằng khoảng **1/6** trên Trái Đất (lực hút của Mặt Trăng nhỏ hơn).
+DB: Dạng 1. Tính trọng lượng từ khối lượng
+- P = 10m (đổi khối lượng về kg).
+DB: Dạng 2. Tính khối lượng từ trọng lượng
+- m = P : 10.
+DB: Dạng 3. Giải thích hiện tượng do lực hấp dẫn
+- Vật rơi, nước chảy từ cao xuống thấp, Mặt Trăng quay quanh Trái Đất.
+VD: Một bao gạo có khối lượng 25 kg. Trọng lượng của bao gạo là bao nhiêu?
+B: P = 10m = 10 × 25.
+KQ: P = 250 N.
+VD: Một nhà du hành có khối lượng 60 kg. Trên Mặt Trăng, khối lượng và trọng lượng của người đó là bao nhiêu?
+B: Khối lượng không đổi: 60 kg. Trọng lượng trên Trái Đất: 600 N.
+KQ: Trên Mặt Trăng: khối lượng 60 kg; trọng lượng khoảng 600 : 6 = 100 N.
+GN: P ≈ 10m.
+GN: Trọng lực: phương thẳng đứng, chiều từ trên xuống.
+GN: Khối lượng (kg) khác trọng lượng (N).
+Q: mc | Một vật có khối lượng 2 kg thì trọng lượng khoảng
+A) 2 N
+B) 20 N *
+C) 200 N
+D) 0,2 N
+E: P = 10 × 2 = 20 N.
+Q: mc | Trọng lực có phương và chiều
+A) nằm ngang, từ trái sang phải
+B) thẳng đứng, từ dưới lên
+C) thẳng đứng, từ trên xuống *
+D) xiên
+E: Trọng lực hướng về phía Trái Đất.
+Q: tf | Về lực hấp dẫn và trọng lượng:
+a) Đơn vị của trọng lượng là kg. | S
+b) Khối lượng của vật không đổi khi đưa lên Mặt Trăng. | Đ
+c) Lực hút của Trái Đất làm quả bóng ném lên rơi xuống. | Đ
+d) Mặt Trời hút các hành tinh bằng lực hấp dẫn. | Đ
+E: Trọng lượng có đơn vị N.
+Q: sa | Một thùng nước có trọng lượng 180 N. Khối lượng thùng nước là bao nhiêu kg?
+ANS: 18
+E: m = 180 : 10 = 18 kg.
+Q: match | Nối khối lượng với trọng lượng tương ứng:
+1) 500 g | 5 N
+2) 3 kg | 30 N
+3) 45 kg | 450 N
+4) 1 tấn | 10 000 N
+E: Đổi về kg rồi nhân 10.
+TL: Bạn An nói: "Lên Mặt Trăng em sẽ nhẹ hơn nên khối lượng của em giảm". Em có đồng ý không? Giải thích.
+MAU: Không đồng ý. Khối lượng là lượng chất tạo nên cơ thể, không thay đổi khi lên Mặt Trăng.
+MAU: Cái thay đổi là trọng lượng: lực hút của Mặt Trăng nhỏ hơn Trái Đất (khoảng 1/6), nên trọng lượng giảm, An cảm thấy "nhẹ" hơn.
+TC: Khẳng định đúng khối lượng không đổi | 1
+TC: Giải thích trọng lượng giảm | 2
+
 ### Bài 44. Lực ma sát
+> Đi trên sàn nhà mới lau rất dễ trượt ngã, nhưng nhờ có ma sát ta mới đi lại, cầm nắm, viết chữ được. Ma sát vừa có lợi, vừa có hại.
+MT: Nêu được khái niệm lực ma sát; lực ma sát trượt, ma sát lăn.
+MT: Nêu được tác dụng cản trở và tác dụng thúc đẩy chuyển động của lực ma sát.
+MT: Nêu được cách làm tăng, giảm ma sát; ma sát và an toàn giao thông.
+LT: 1. Lực ma sát
+- **Lực ma sát** xuất hiện ở **bề mặt tiếp xúc** giữa hai vật, **cản trở chuyển động** của vật.
+- **Ma sát trượt**: khi vật trượt trên bề mặt vật khác (kéo thùng hàng trên sàn).
+- **Ma sát lăn**: khi vật lăn trên bề mặt vật khác (bánh xe lăn trên đường). Ma sát lăn **nhỏ hơn nhiều** ma sát trượt.
+LT: 2. Tác dụng của lực ma sát
+- **Cản trở chuyển động**: làm mòn lốp xe, đế giày, máy móc; tốn năng lượng.
+- **Thúc đẩy (có lợi)**: giúp ta đi lại không trượt; xe phanh được; cầm nắm đồ vật; viết bảng.
+HINH: 6-khtn/ma-sat.svg | Lực ma sát trượt khi kéo thùng trên sàn (cùng phương, ngược chiều chuyển động); ma sát lăn ở bánh xe nhỏ hơn nhiều ma sát trượt.
+LT: 3. Tăng, giảm ma sát và an toàn giao thông
+- **Tăng ma sát** (khi có lợi): lốp xe, đế giày có khía rãnh; rắc cát lên đường trơn.
+- **Giảm ma sát** (khi có hại): tra dầu mỡ vào trục, ổ bi; làm nhẵn bề mặt; thay ma sát trượt bằng ma sát lăn (bánh xe, con lăn).
+- Đường trơn (mưa) ma sát giảm → xe dễ trượt, phanh khó dừng → đi chậm, giữ khoảng cách.
+DB: Dạng 1. Nhận biết loại ma sát
+- Trượt hay lăn.
+DB: Dạng 2. Ma sát có lợi hay có hại
+- Phân tích tình huống: cần ma sát để làm gì? ma sát gây ra tác hại gì?
+DB: Dạng 3. Biện pháp tăng, giảm ma sát
+- Tăng: khía rãnh, tăng độ nhám; giảm: bôi trơn, dùng ổ bi, con lăn.
+VD: Vì sao lốp xe đạp, xe máy phải có khía rãnh?
+B: Khía rãnh làm tăng độ nhám bề mặt tiếp xúc với mặt đường.
+KQ: Tăng ma sát giúp xe không bị trượt, phanh dễ dừng.
+VD: Vì sao người ta thường tra dầu mỡ vào xích xe đạp?
+B: Ma sát giữa xích và líp gây mòn, làm xe đạp nặng.
+KQ: Dầu mỡ làm giảm ma sát, xe đạp nhẹ hơn, bền hơn.
+GN: Ma sát cản trở chuyển động, xuất hiện ở bề mặt tiếp xúc.
+GN: Ma sát lăn nhỏ hơn ma sát trượt.
+GN: Trời mưa đường trơn: đi chậm, giữ khoảng cách an toàn.
+Q: mc | Lực ma sát xuất hiện khi bánh xe lăn trên mặt đường là
+A) ma sát trượt
+B) ma sát lăn *
+C) lực hấp dẫn
+D) lực đàn hồi
+E: Bánh xe lăn trên đường.
+Q: mc | Trường hợp nào ma sát có lợi?
+A) Ma sát làm mòn đế giày
+B) Ma sát giữa trục và ổ bi
+C) Ma sát giúp người đi lại không bị trượt ngã *
+D) Ma sát làm xích xe đạp nhanh mòn
+E: Nhờ ma sát giữa chân và mặt đất, ta đi được.
+Q: tf | Về lực ma sát:
+a) Tra dầu mỡ vào trục bánh xe làm giảm ma sát. | Đ
+b) Ma sát lăn lớn hơn ma sát trượt. | S
+c) Đế giày có khía rãnh để tăng ma sát. | Đ
+d) Đường ướt làm xe dễ trượt hơn. | Đ
+E: Ma sát lăn nhỏ hơn ma sát trượt.
+Q: match | Nối việc làm với mục đích:
+1) Rắc cát lên đường trơn | Tăng ma sát
+2) Tra dầu vào bản lề cửa | Giảm ma sát
+3) Lắp bánh xe cho vali | Thay ma sát trượt bằng ma sát lăn
+4) Lốp xe có khía rãnh | Tăng ma sát
+E: Tăng ma sát khi có lợi, giảm khi có hại.
+Q: sa | Kéo thùng hàng trượt trên sàn cần lực 120 N. Lắp bánh xe thì lực cần chỉ bằng 1/8. Lực kéo khi có bánh xe là bao nhiêu N?
+ANS: 15
+E: 120 : 8 = 15 N.
+TL: Giải thích vì sao khi trời mưa, người đi xe máy cần đi chậm và giữ khoảng cách xa hơn với xe phía trước.
+MAU: Khi trời mưa, mặt đường ướt, ma sát giữa lốp xe và mặt đường giảm.
+MAU: Xe dễ bị trượt, khi phanh xe cần quãng đường dài hơn mới dừng lại được.
+MAU: Đi chậm và giữ khoảng cách giúp có đủ quãng đường phanh, tránh va chạm.
+TC: Nêu đúng ma sát giảm | 1
+TC: Nêu đúng hệ quả trượt, phanh khó | 1
+TC: Kết luận biện pháp an toàn | 1
+
 ### Bài 45. Lực cản của nước
+> Đi bộ dưới nước khó hơn trên cạn rất nhiều – đó là do lực cản của nước. Cá, tàu thuyền đều có hình dạng đặc biệt để "vượt" lực cản này.
+MT: Nêu được lực cản của nước (và không khí) lên vật chuyển động trong nó.
+MT: Nêu được các yếu tố ảnh hưởng đến lực cản: diện tích mặt cản, hình dạng vật.
+MT: Giải thích được hình dạng thuôn của cá, tàu thuyền; ứng dụng.
+LT: 1. Lực cản của nước
+- Khi vật chuyển động trong nước (hoặc không khí), nước (không khí) tác dụng lên vật một lực **cản trở chuyển động** gọi là **lực cản**.
+- Lực cản của nước **lớn hơn** lực cản của không khí rất nhiều.
+LT: 2. Yếu tố ảnh hưởng đến lực cản
+- **Diện tích mặt cản** càng lớn, lực cản càng lớn.
+- **Hình dạng**: vật có hình dạng **thuôn, nhọn** (hình giọt nước) chịu lực cản nhỏ hơn vật có mặt phẳng rộng.
+- Vật chuyển động càng nhanh, lực cản càng lớn.
+HINH: 6-khtn/luc-can.svg | Vật có mặt cản rộng chịu lực cản lớn; vật có hình dạng thuôn (cá, tàu thuyền) chịu lực cản nhỏ, chuyển động dễ dàng hơn.
+LT: 3. Ứng dụng
+- Cá, tàu thuyền, tàu ngầm có **thân thuôn** để giảm lực cản; vận động viên bơi mặc đồ bơi ôm sát, đội mũ bơi.
+- Lợi dụng lực cản: mái chèo dẹt, rộng để đẩy nước mạnh; dù nhảy rộng để giảm tốc độ rơi.
+DB: Dạng 1. So sánh lực cản
+- So sánh diện tích mặt cản, hình dạng, môi trường (nước/không khí).
+DB: Dạng 2. Giải thích hình dạng sinh vật, phương tiện
+- Thân thuôn → giảm lực cản.
+DB: Dạng 3. Lợi dụng lực cản
+- Mái chèo, chân vịt, dù.
+VD: Vì sao đi bộ dưới nước khó hơn đi bộ trên cạn?
+B: Khi đi trong nước, nước tác dụng lực cản lên người lớn hơn nhiều so với không khí.
+KQ: Ta phải dùng lực lớn hơn để thắng lực cản nên di chuyển khó hơn.
+VD: Vì sao mái chèo thuyền thường có bản dẹt, rộng?
+B: Bản rộng có diện tích mặt cản lớn.
+KQ: Khi chèo, mái chèo đẩy được nhiều nước, nước đẩy ngược lại thuyền mạnh hơn, giúp thuyền đi nhanh.
+GN: Lực cản của nước lớn hơn lực cản không khí.
+GN: Hình dạng thuôn giúp giảm lực cản.
+GN: Diện tích mặt cản lớn → lực cản lớn.
+Q: mc | Hình dạng nào chịu lực cản của nước nhỏ nhất?
+A) Hình hộp vuông
+B) Tấm phẳng rộng
+C) Hình thoi thuôn như thân cá *
+D) Hình cầu lớn
+E: Hình thuôn giúp nước chảy qua dễ dàng.
+Q: mc | Lực cản của nước có tác dụng
+A) thúc đẩy vật chuyển động nhanh hơn
+B) cản trở chuyển động của vật trong nước *
+C) làm vật nặng hơn
+D) không ảnh hưởng gì
+E: Lực cản cản trở chuyển động.
+Q: tf | Về lực cản của nước:
+a) Diện tích mặt cản càng lớn thì lực cản càng lớn. | Đ
+b) Thân cá thuôn giúp giảm lực cản của nước. | Đ
+c) Lực cản của nước nhỏ hơn lực cản của không khí. | S
+d) Vận động viên bơi đội mũ bơi để giảm lực cản. | Đ
+E: Lực cản của nước lớn hơn nhiều.
+Q: match | Nối vật với cách tận dụng/giảm lực cản:
+1) Mái chèo bản rộng | Tận dụng lực cản để đẩy thuyền
+2) Mũi tàu thuôn nhọn | Giảm lực cản của nước
+3) Dù nhảy | Tận dụng lực cản không khí để rơi chậm
+4) Đồ bơi ôm sát | Giảm lực cản khi bơi
+E: Lực cản có thể được giảm hoặc tận dụng tùy mục đích.
+Q: sa | Một bạn bơi 50 m hết 40 giây. Khi mặc đồ bơi chuyên dụng giảm lực cản, thời gian giảm 10%. Thời gian mới là bao nhiêu giây?
+ANS: 36
+E: 40 − 40 × 10% = 36 giây.
+TL: Quan sát hình dạng con cá, chiếc tàu thủy, tàu ngầm. Em có nhận xét gì về hình dạng của chúng? Giải thích.
+MAU: Nhận xét: đều có hình dạng thuôn dài, hai đầu nhọn hoặc tròn (hình giọt nước), bề mặt trơn nhẵn.
+MAU: Giải thích: hình dạng thuôn làm giảm diện tích mặt cản và giúp nước chảy qua dễ dàng ⇒ lực cản của nước nhỏ, di chuyển nhanh và tiết kiệm năng lượng.
+TC: Nhận xét đúng hình dạng | 1
+TC: Giải thích đúng về lực cản | 2
+
 ## Chương IX. Năng lượng
 ### Bài 46. Năng lượng và sự truyền năng lượng
 ### Bài 47. Một số dạng năng lượng
