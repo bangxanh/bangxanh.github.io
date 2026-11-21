@@ -1,3 +1,14 @@
+# Trợ lý AI của Bảng Xanh – đang chạy
+
+- Máy chủ: Cloudflare Worker **bangxanh-ai** (tài khoản Cloudflare của thầy Hoàng), địa chỉ https://bangxanh-ai.hoang59876.workers.dev
+- Mô hình mặc định: Cloudflare Workers AI `@cf/google/gemma-4-26b-a4b-it` – **miễn phí** trong hạn mức hằng ngày của gói Workers Free (không cần khóa API).
+- Worker tự cập nhật mỗi khi thư mục `worker/` trong kho GitHub thay đổi (Workers Builds, thư mục gốc `/worker`).
+- Muốn chất lượng cao hơn: tạo khóa Claude tại console.anthropic.com, rồi tự dán vào Cloudflare → Workers & Pages → bangxanh-ai → Settings → Variables and Secrets → Add → loại **Secret**, tên `ANTHROPIC_API_KEY`. Worker sẽ tự chuyển sang Claude. (Không gửi khóa cho ai, kể cả trợ lý.)
+- Hết lượt miễn phí trong ngày, học sinh sẽ thấy thông báo "quay lại vào ngày mai"; có thể nâng lên gói Workers Paid nếu cần nhiều lượt hơn.
+- Tắt AI: xóa địa chỉ ở `site/config.js` (endpoint: '').
+
+---
+
 # Bật Trợ lý AI cho Bảng Xanh
 
 Trang đã có sẵn nút **Trợ lý AI**, nút **Gợi ý từ trợ lý AI** ở từng câu luyện tập và nút **Nhờ trợ lý AI chấm & chữa** ở bài tự luận. Khi chưa bật, các nút này hiện "sắp ra mắt". Để bật, cần một máy chủ trung gian nhỏ (miễn phí) giữ kín khóa API Claude.

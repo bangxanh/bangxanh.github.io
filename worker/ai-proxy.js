@@ -57,6 +57,19 @@ function limited(ip, perHour) {
 }
 const clip = (s, n) => String(s == null ? '' : s).slice(0, n);
 
+/* Đổi kí hiệu LaTeX mà mô hình hay dùng sang kí tự thường cho dễ đọc trên trang. */
+function wrap(x) { return /^[\w.,√π\\]+$/.test(x.trim()) ? x.trim() : '(' + x.trim() + ')'; }
+function tidy(t) {
+  const sym = { cdot: '·', times: '×', le: '≤', leq: '≤', ge: '≥', geq: '≥', ne: '≠', neq: '≠', pi: 'π', alpha: 'α', beta: 'β', gamma: 'γ', Delta: 'Δ', delta: 'δ', lambda: 'λ', omega: 'ω', varphi: 'φ', phi: 'φ', infty: '∞', Rightarrow: '⇒', Leftrightarrow: '⇔', to: '→', rightarrow: '→', approx: '≈', pm: '±', in: '∈', mathbb: '', circ: '°', degree: '°', left: '', right: '', quad: ' ', text: '', mathrm: '' };
+  let s = String(t || '');
+  for (let k = 0; k < 3; k++) s = s.replace(/\\frac\{([^{}]*)\}\{([^{}]*)\}/g, (m, a, b) => wrap(a) + '/' + wrap(b)).replace(/\\sqrt\{([^{}]*)\}/g, '√($1)');
+  s = s.replace(/\\(sin|cos|tan|cot|log|ln|lim|max|min)\b/g, '$1')
+    .replace(/\\([A-Za-z]+)/g, (m, w) => (Object.prototype.hasOwnProperty.call(sym, w) ? sym[w] : w))
+    .replace(/\^\{?2\}?(?![0-9])/g, '²').replace(/\^\{?3\}?(?![0-9])/g, '³').replace(/_\{?([0-9])\}?/g, (m, d) => '₀₁₂₃₄₅₆₇₈₉'[d])
+    .replace(/\$\$?/g, '').replace(/\\[()\[\]]/g, '').replace(/[{}]/g, '');
+  return s;
+}
+
 export default {
   async fetch(request, env) {
     const allowed = String(env.ALLOWED_ORIGINS || 'https://bangxanh.github.io').split(',').map((x) => x.trim()).filter(Boolean);
@@ -91,7 +104,7 @@ export default {
       if (!messages.length) return json({ error: 'Em chưa nhập câu hỏi.' }, 400, h);
     }
 
-    const maxTok = mode === 'grade' ? 1400 : 1000;
+    const maxTok = mode === 'grade' ? 2200 : 1800;
     try {
       if (env.ANTHROPIC_API_KEY) {
         const r = await fetch('https://api.anthropic.com/v1/messages', {
@@ -108,14 +121,17 @@ export default {
       const out = await env.AI.run(model, {
         messages: [{ role: 'system', content: system }].concat(messages),
         max_completion_tokens: maxTok,
-        temperature: 0.4
+        temperature: 0.4,
+        chat_template_kwargs: { enable_thinking: false }
       });
-      let text = '';
+      let text = '', cut = false;
       if (out && Array.isArray(out.choices) && out.choices[0]) {
         const m = out.choices[0].message || {};
+        cut = out.choices[0].finish_reason === 'length';
         text = typeof m.content === 'string' ? m.content : Array.isArray(m.content) ? m.content.map((c) => c.text || '').join('') : '';
       } else if (out && typeof out.response === 'string') text = out.response;
-      text = text.replace(/<think>[\s\S]*?<\/think>/g, '').trim();
+      text = tidy(text.replace(/<think>[\s\S]*?<\/think>/g, '').trim());
+      if (cut) text += '\n\n(Câu trả lời dài nên bị cắt bớt – em hỏi "Giải thích tiếp" để xem phần còn lại.)';
       if (!text) return json({ error: 'Trợ lý AI chưa trả lời được, em hỏi lại theo cách khác nhé.' }, 502, h);
       return json({ text, by: 'workers-ai' }, 200, h);
     } catch (e) {
