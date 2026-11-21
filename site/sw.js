@@ -1,6 +1,6 @@
 /* Bộ nhớ đệm để mở nhanh và học được cả khi mất mạng */
-const CACHE = 'bangxanh-v1.1.0';
-const SHELL = ['./', 'index.html', 'config.js', 'js/grade.js', 'js/ui.js', 'js/store.js', 'js/app.js', 'js/quiz.js', 'js/tools.js', 'js/admin.js', 'data/content.js', 'data/site-data.json', 'data/news.json', 'manifest.webmanifest', 'icon-192.png', 'icon.svg'];
+const CACHE = 'bangxanh-v1.2.0';
+const SHELL = ['./', 'index.html', 'config.js', 'js/grade.js', 'js/ui.js', 'js/store.js', 'js/app.js', 'js/quiz.js', 'js/tools.js', 'js/admin.js', 'js/lessons.js', 'js/ai.js', 'data/bai/index.json', 'data/content.js', 'data/site-data.json', 'data/news.json', 'manifest.webmanifest', 'icon-192.png', 'icon.svg'];
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => Promise.all(SHELL.map((u) => c.add(u).catch(() => null)))).then(() => self.skipWaiting()));
 });

@@ -558,19 +558,137 @@ button.opt:hover{border-color:var(--board)}
 @media (prefers-reduced-motion: reduce){
   *,*::before,*::after{animation:none!important;transition:none!important}
 }
+
+/* ===== Học theo từng bài (lessons.js) ===== */
+.row-gap{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.units{display:flex;flex-direction:column;gap:12px}
+.unit{border:1px solid var(--line);border-radius:12px;padding:14px 18px;background:var(--surface)}
+.unit.done{background:color-mix(in srgb,var(--good) 5%,var(--surface));border-color:color-mix(in srgb,var(--good) 28%,var(--line))}
+.unit.flash{animation:flash 1.6s ease}
+.lrows{display:flex;flex-direction:column;gap:4px;margin:4px 0}
+.lrow{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;padding:9px 12px;border-radius:10px;text-decoration:none;color:inherit;border:1px solid transparent}
+.lrow:hover{background:var(--surface-2);border-color:var(--line)}
+.lno{font-weight:700;color:var(--c);font-size:.86rem;white-space:nowrap;min-width:4.2em}
+.lt{font-weight:500}
+.lst{font-size:.76rem;font-weight:600;white-space:nowrap;display:inline-flex;align-items:center;gap:4px;padding:2px 9px;border-radius:999px}
+.lst svg{width:14px;height:14px}
+.lst.ok{color:var(--good);background:color-mix(in srgb,var(--good) 12%,transparent)}
+.lst.rd{color:var(--c);background:color-mix(in srgb,var(--c) 12%,transparent)}
+.lst.wip{color:var(--muted);background:var(--surface-2)}
+.keypts{margin-top:6px}.keypts summary{cursor:pointer;color:var(--muted);font-weight:600;font-size:.9rem;padding:4px 0}
+.keypts .points{margin-top:6px}
+.lesson-page{max-width:920px}
+.crumbs{color:var(--muted)}.crumbs a{color:inherit}
+.lesson-head{display:flex;flex-direction:column;gap:10px;border-left:6px solid var(--c);padding:4px 0 4px 16px}
+.lesson-head h1{font-size:1.75rem;line-height:1.25}
+.lesson-head .lead{color:var(--muted);font-size:1.05rem;max-width:70ch}
+.toc .chip{text-decoration:none;color:inherit}
+.good-btn{background:var(--good);color:#fff;border-color:var(--good)}
+.goals{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:4px}
+.goals li::marker{content:'✓  ';color:var(--good);font-weight:700}
+.th h3{font-size:1.02rem;margin:4px 0 6px;color:var(--c)}
+.th + .th{border-top:1px dashed var(--line);padding-top:10px}
+.example{border:1px solid var(--line);border-radius:12px;padding:12px 16px;display:flex;flex-direction:column;gap:8px;align-items:flex-start;background:var(--surface)}
+.ex-q{margin:0}
+.ex-sol{width:100%;background:var(--surface-2);border-radius:10px;padding:10px 14px}
+.steps{margin:0;padding-left:1.3em;display:flex;flex-direction:column;gap:4px}
+.ex-ans{margin:8px 0 0}
+.h-sm{font-size:1.05rem;margin-bottom:6px}
+.lp-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px}
+.lp{border:1px solid var(--line);border-radius:14px;padding:14px 16px;display:flex;flex-direction:column;gap:10px}
+.lp.ok{border-color:color-mix(in srgb,var(--good) 45%,var(--line))}
+.lp.no{border-color:color-mix(in srgb,var(--bad) 40%,var(--line))}
+.lp-head{display:flex;gap:8px;align-items:center}
+.lp-act{display:flex;gap:8px;flex-wrap:wrap}
+.sa-in{max-width:320px}
+.sa-in.right{border-color:var(--good);background:color-mix(in srgb,var(--good) 8%,var(--surface))}
+.sa-in.wrong{border-color:var(--bad);background:color-mix(in srgb,var(--bad) 7%,var(--surface))}
+.sol{margin-top:6px}
+b.good{color:var(--good)} b.bad{color:var(--bad)} b.fair{color:var(--fair)}
+.lp-score{font-size:1.05rem;padding:10px 14px;border-radius:12px;background:var(--surface-2);border-left:5px solid var(--muted);margin-bottom:8px}
+.lp-score b{font-size:1.4rem}
+.lp-score.good{border-left-color:var(--good)} .lp-score.fair{border-left-color:var(--fair)} .lp-score.warn{border-left-color:var(--warn)} .lp-score.bad{border-left-color:var(--bad)}
+.essay{display:flex;flex-direction:column;gap:10px;border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.essay-fb{display:flex;flex-direction:column;gap:10px}
+.rubric{display:flex;flex-direction:column;gap:6px;background:var(--surface-2);border-radius:10px;padding:10px 14px}
+.rb{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:start;cursor:pointer}
+.rb-score{margin-top:4px}
+.lesson-nav{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.lesson-nav .btn{max-width:48%;white-space:normal;text-align:left}
+.doc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+.doc-subj{background:var(--surface);border:1px solid var(--line);border-top:5px solid var(--c);border-radius:var(--r);padding:16px;display:flex;flex-direction:column;gap:10px}
+.doc-subj h3{font-size:1rem;margin:4px 0 0}
+.doc-subj .sc-tag{color:var(--c);font-weight:800}
+.mk-card .card-head h2{font-size:1.05rem}
+/* Trang in */
+.print-page{max-width:900px}
+.print-bar{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.paper{background:#fff;color:#111;border:1px solid var(--line);border-radius:12px;padding:32px 40px;font-size:15px;line-height:1.6}
+.paper h1{font-size:1.5rem;margin:6px 0 4px;color:#111}
+.paper h2{font-size:1.15rem;margin:18px 0 6px;border-bottom:1px solid #ccc;padding-bottom:3px;color:#111}
+.paper h3{font-size:1.02rem;margin:12px 0 4px;color:#111}
+.paper h4{font-size:.98rem;margin:10px 0 2px;color:#222}
+.paper ul,.paper ol{padding-left:1.3em;margin:4px 0}
+.p-head{display:flex;justify-content:space-between;font-size:.8rem;color:#555;border-bottom:2px solid #1f5640;padding-bottom:4px}
+.p-brand{font-weight:800;color:#1f5640}
+.p-sub,.p-note{color:#444}
+.p-h{font-weight:700;margin:6px 0 2px}
+.p-qs>li{margin:10px 0}
+.p-opts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2px 24px;margin:4px 0}
+.p-tf{border-collapse:collapse;margin:4px 0}.p-tf td{padding:2px 8px;vertical-align:top}.p-box{white-space:nowrap}
+.p-line{margin:4px 0;color:#444}
+.p-ex{margin:8px 0;padding:6px 12px;border-left:3px solid #ccc}
+.p-unit{break-inside:avoid-page}
+.p-foot{margin-top:24px;font-size:.78rem;color:#666;border-top:1px solid #ccc;padding-top:6px}
+.p-break{height:0}
+/* Trợ lý AI */
+.ai-fab{position:fixed;right:18px;bottom:18px;z-index:60;display:inline-flex;align-items:center;gap:8px;padding:11px 16px;border-radius:999px;border:0;background:var(--board);color:var(--board-ink);font-weight:700;box-shadow:0 8px 24px rgba(0,0,0,.22);cursor:pointer}
+.ai-fab svg{width:18px;height:18px}
+.ai-fab.on{background:var(--chalk);color:var(--chalk-ink)}
+.ai-panel{position:fixed;right:18px;bottom:78px;z-index:61;width:min(420px,calc(100vw - 24px));max-height:min(640px,calc(100vh - 110px));display:flex;flex-direction:column;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:18px;box-shadow:0 18px 48px rgba(0,0,0,.28);overflow:hidden}
+.ai-head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;padding:12px 14px;background:var(--board);color:var(--board-ink)}
+.ai-head small{display:block;opacity:.85;font-size:.76rem}
+.ai-head .icon-btn{color:inherit}
+.ai-ctx{padding:6px 14px;background:var(--surface-2);border-bottom:1px solid var(--line)}
+.ai-body{flex:1;overflow:auto;padding:12px 14px;display:flex;flex-direction:column;gap:10px}
+.ai-msg{max-width:92%;padding:9px 12px;border-radius:14px;line-height:1.5}
+.ai-msg p{margin:0 0 6px}.ai-msg p:last-child{margin:0}.ai-msg ul{margin:4px 0;padding-left:1.2em}
+.ai-msg.user{align-self:flex-end;background:color-mix(in srgb,var(--board) 14%,var(--surface));border-bottom-right-radius:4px}
+.ai-msg.assistant{align-self:flex-start;background:var(--surface-2);border-bottom-left-radius:4px}
+.ai-msg.typing span{display:inline-block;width:7px;height:7px;margin:0 2px;border-radius:50%;background:var(--muted);animation:aidot 1s infinite}
+.ai-msg.typing span:nth-child(2){animation-delay:.15s}.ai-msg.typing span:nth-child(3){animation-delay:.3s}
+@keyframes aidot{0%,80%,100%{opacity:.25}40%{opacity:1}}
+.ai-form{display:grid;grid-template-columns:1fr auto;gap:8px;padding:10px 12px;border-top:1px solid var(--line);align-items:end}
+.ai-attach{grid-column:1/-1;background:var(--surface-2);border-radius:8px;padding:5px 8px}
+.ai-note{margin:0;padding:0 14px 10px;color:var(--muted)}
+.ai-soon{text-align:center;padding:10px 6px}
+.ai-big svg{width:40px;height:40px;color:var(--chalk)}
+.ai-grade{background:var(--surface-2);border-radius:10px;padding:10px 14px}
+@media (max-width:640px){.lrow{grid-template-columns:auto 1fr}.lrow .lst{grid-column:2;justify-self:start}.ai-fab span{display:none}.ai-fab{padding:13px}.paper{padding:18px}.p-opts{grid-template-columns:1fr}.lesson-nav .btn{max-width:100%}}
+@media print{
+  .side,.topbar,.top,header.top,.ai-fab,.ai-panel,#ai-host,.no-print,.update-bar,.toast-host,nav.nav{display:none!important}
+  body,html{background:#fff!important}
+  .shell,.main,#main,.page,.main-wrap{display:block!important;margin:0!important;padding:0!important;max-width:none!important}
+  .side-scrim{display:none!important}
+  .paper{border:0;padding:0;font-size:12.5pt}
+  .p-break{break-before:page}
+  a{color:inherit;text-decoration:none}
+}
 </style>
 </head>
 <body>
 <div id="app"><div class="boot">Đang tải trang học tập…</div></div>
 <noscript><div class="page"><h1>Bảng Xanh – Học tập miễn phí lớp 1 – 12</h1><p>Trang cần bật JavaScript để làm trắc nghiệm. Bạn vẫn có thể đọc kiến thức trọng tâm theo từng lớp, từng môn tại <a href="hoc/">mục lục học liệu</a>.</p></div></noscript>
-<script src="config.js"></script>
-<script src="data/content.js"></script>
-<script src="js/grade.js"></script>
-<script src="js/ui.js"></script>
-<script src="js/store.js"></script>
-<script src="js/app.js"></script>
-<script src="js/quiz.js"></script>
-<script src="js/tools.js"></script>
-<script src="js/admin.js"></script>
+<script src="config.js?v=1.2.0"></script>
+<script src="data/content.js?v=1.2.0"></script>
+<script src="js/grade.js?v=1.2.0"></script>
+<script src="js/ui.js?v=1.2.0"></script>
+<script src="js/store.js?v=1.2.0"></script>
+<script src="js/app.js?v=1.2.0"></script>
+<script src="js/quiz.js?v=1.2.0"></script>
+<script src="js/tools.js?v=1.2.0"></script>
+<script src="js/admin.js?v=1.2.0"></script>
+<script src="js/lessons.js?v=1.2.0"></script>
+<script src="js/ai.js?v=1.2.0"></script>
 </body>
 </html>

@@ -1,0 +1,44 @@
+// Toán 9 – SGK Kết nối tri thức với cuộc sống (danh mục bài; nội dung chi tiết được bổ sung dần)
+# 9 | toan | Toán 9
+## Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn
+### Bài 1. Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn
+### Bài 2. Giải hệ hai phương trình bậc nhất hai ẩn
+### Bài 3. Giải bài toán bằng cách lập hệ phương trình
+## Chương II. Phương trình và bất phương trình bậc nhất một ẩn
+### Bài 4. Phương trình quy về phương trình bậc nhất một ẩn
+### Bài 5. Bất đẳng thức và tính chất
+### Bài 6. Bất phương trình bậc nhất một ẩn
+## Chương III. Căn bậc hai và căn bậc ba
+### Bài 7. Căn bậc hai và căn thức bậc hai
+### Bài 8. Khai căn bậc hai với phép nhân và phép chia
+### Bài 9. Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai
+### Bài 10. Căn bậc ba và căn thức bậc ba
+## Chương IV. Hệ thức lượng trong tam giác vuông
+### Bài 11. Tỉ số lượng giác của góc nhọn
+### Bài 12. Một số hệ thức giữa cạnh, góc trong tam giác vuông và ứng dụng
+## Chương V. Đường tròn
+### Bài 13. Mở đầu về đường tròn
+### Bài 14. Cung và dây của một đường tròn
+### Bài 15. Độ dài của cung tròn. Diện tích hình quạt tròn và hình vành khuyên
+### Bài 16. Vị trí tương đối của đường thẳng và đường tròn
+### Bài 17. Vị trí tương đối của hai đường tròn
+## Chương VI. Hàm số y = ax² (a ≠ 0). Phương trình bậc hai một ẩn
+### Bài 18. Hàm số y = ax² (a ≠ 0)
+### Bài 19. Phương trình bậc hai một ẩn
+### Bài 20. Định lí Viète và ứng dụng
+### Bài 21. Giải bài toán bằng cách lập phương trình
+## Chương VII. Tần số và tần số tương đối
+### Bài 22. Bảng tần số và biểu đồ tần số
+### Bài 23. Bảng tần số tương đối và biểu đồ tần số tương đối
+### Bài 24. Bảng tần số, tần số tương đối ghép nhóm và biểu đồ
+## Chương VIII. Xác suất của biến cố trong một số mô hình xác suất đơn giản
+### Bài 25. Phép thử ngẫu nhiên và không gian mẫu
+### Bài 26. Xác suất của biến cố liên quan tới phép thử
+## Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp
+### Bài 27. Góc nội tiếp
+### Bài 28. Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác
+### Bài 29. Tứ giác nội tiếp
+### Bài 30. Đa giác đều
+## Chương X. Một số hình khối trong thực tiễn
+### Bài 31. Hình trụ và hình nón
+### Bài 32. Hình cầu

@@ -418,7 +418,7 @@
   PublicStore.prototype.feed = async function () { return this.server ? this.server.feed() : staticFeed(); };
   PublicStore.prototype.rev = async function () {
     if (this.server) return this.server.rev();
-    try { var v = await getJson('data/version.json'); return { rev: v.content + '|' + v.site, content: v.content, site: v.site, feedAt: v.news }; } catch (e) { return null; }
+    try { var v = await getJson('data/version.json'); return { rev: v.content + '|' + v.site + '|' + (v.lessons || ''), content: v.content, site: v.site, feedAt: v.news }; } catch (e) { return null; }
   };
   PublicStore.prototype.clearLocal = async function () { PRIVATE.concat(['profile']).forEach(function (k) { lsDel(PK + k); }); };
   PublicStore.prototype.upload = async function () { throw err('Chỉ giáo viên mới tải tệp lên được.'); };

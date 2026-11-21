@@ -248,16 +248,23 @@
   App.initials = initials;
 
   var routeToken = 0;
+  /* Trang không có trên thanh điều hướng: #bai/<mã bài>, #in/<loại>/<lớp-môn> */
+  var HIDDEN_ROUTES = { bai: 'learn', 'in': 'docs' };
   async function route(keep) {
     if (!App.user) return;
     keep = keep === true;
     var keepY = window.scrollY;
-    var name = (location.hash || '#home').slice(1) || 'home';
-    var item = NAV.find(function (n) { return n.id === name; });
+    var raw = (location.hash || '#home').slice(1) || 'home';
+    var cut = raw.indexOf('/');
+    var name = cut >= 0 ? raw.slice(0, cut) : raw;
+    App.routeArg = cut >= 0 ? decodeURIComponent(raw.slice(cut + 1)) : '';
+    var navName = HIDDEN_ROUTES[name] || name;
+    var item = NAV.find(function (n) { return n.id === navName; });
     if (name === 'login' && App.isGuest() && App.server) { App.showAuth('login'); return; }
     if (!item || (item.admin && !App.isAdmin()) || (item.member && App.isGuest()) || !App.views[name]) { name = 'home'; }
     document.body.classList.remove('nav-open');
-    U.$$('[data-nav]').forEach(function (a) { a.classList.toggle('on', a.getAttribute('data-nav') === name); if (a.classList.contains('on')) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
+    if (name !== 'bai' && name !== 'in') document.title = App.settings.siteName || 'Bảng Xanh';
+    U.$$('[data-nav]').forEach(function (a) { a.classList.toggle('on', a.getAttribute('data-nav') === (HIDDEN_ROUTES[name] || name)); if (a.classList.contains('on')) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
     var main = U.$('#main');
     if (!main) return;
     var tk = ++routeToken;
@@ -663,7 +670,7 @@
     if (feedChanged) App.feed = null;
     if (changed) {
       if (r.content && App.revContent && r.content !== App.revContent) showUpdateBar();
-      try { if (App.store.reloadSite && !App.server) await App.store.reloadSite(); App.settings = await App.store.getSettings(); } catch (e) { /* bỏ qua */ }
+      try { if (App.Lessons) App.Lessons.reset(); if (App.store.reloadSite && !App.server) await App.store.reloadSite(); App.settings = await App.store.getSettings(); } catch (e) { /* bỏ qua */ }
       App.rev = r.rev; App.revContent = r.content || App.revContent;
     }
     if (changed || feedChanged) softRefresh(changed ? 'Trang vừa có tài liệu, thông báo mới.' : 'Đã có tin giáo dục mới.');

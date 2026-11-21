@@ -44,6 +44,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Dung du lieu bai hoc tu noi-dung/bai
+        run: node scripts/build-lessons.js noi-dung/bai site
+
       - name: Tao trang hoc lieu cho Google va sitemap
         run: node scripts/build-seo.js site "${{ steps.pages.outputs.base_url }}"
 

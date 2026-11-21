@@ -1,0 +1,51 @@
+// Toán 8 – SGK Kết nối tri thức với cuộc sống (danh mục bài; nội dung chi tiết được bổ sung dần)
+# 8 | toan | Toán 8
+## Chương I. Đa thức
+### Bài 1. Đơn thức
+### Bài 2. Đa thức
+### Bài 3. Phép cộng và phép trừ đa thức
+### Bài 4. Phép nhân đa thức
+### Bài 5. Phép chia đa thức cho đơn thức
+## Chương II. Hằng đẳng thức đáng nhớ và ứng dụng
+### Bài 6. Hiệu hai bình phương. Bình phương của một tổng hay một hiệu
+### Bài 7. Lập phương của một tổng hay một hiệu
+### Bài 8. Tổng và hiệu hai lập phương
+### Bài 9. Phân tích đa thức thành nhân tử
+## Chương III. Tứ giác
+### Bài 10. Tứ giác
+### Bài 11. Hình thang cân
+### Bài 12. Hình bình hành
+### Bài 13. Hình chữ nhật
+### Bài 14. Hình thoi và hình vuông
+## Chương IV. Định lí Thalès
+### Bài 15. Định lí Thalès trong tam giác
+### Bài 16. Đường trung bình của tam giác
+### Bài 17. Tính chất đường phân giác của tam giác
+## Chương V. Dữ liệu và biểu đồ
+### Bài 18. Thu thập và phân loại dữ liệu
+### Bài 19. Biểu diễn dữ liệu bằng bảng, biểu đồ
+### Bài 20. Phân tích số liệu thống kê dựa vào biểu đồ
+## Chương VI. Phân thức đại số
+### Bài 21. Phân thức đại số
+### Bài 22. Tính chất cơ bản của phân thức đại số
+### Bài 23. Phép cộng và phép trừ phân thức đại số
+### Bài 24. Phép nhân và phép chia phân thức đại số
+## Chương VII. Phương trình bậc nhất và hàm số bậc nhất
+### Bài 25. Phương trình bậc nhất một ẩn
+### Bài 26. Giải bài toán bằng cách lập phương trình
+### Bài 27. Khái niệm hàm số và đồ thị của hàm số
+### Bài 28. Hàm số bậc nhất và đồ thị của hàm số bậc nhất
+### Bài 29. Hệ số góc của đường thẳng
+## Chương VIII. Mở đầu về tính xác suất của biến cố
+### Bài 30. Kết quả có thể và kết quả thuận lợi
+### Bài 31. Cách tính xác suất của biến cố bằng tỉ số
+### Bài 32. Mối liên hệ giữa xác suất thực nghiệm với xác suất và ứng dụng
+## Chương IX. Tam giác đồng dạng
+### Bài 33. Hai tam giác đồng dạng
+### Bài 34. Ba trường hợp đồng dạng của hai tam giác
+### Bài 35. Định lí Pythagore và ứng dụng
+### Bài 36. Các trường hợp đồng dạng của hai tam giác vuông
+### Bài 37. Hình đồng dạng
+## Chương X. Một số hình khối trong thực tiễn
+### Bài 38. Hình chóp tam giác đều
+### Bài 39. Hình chóp tứ giác đều

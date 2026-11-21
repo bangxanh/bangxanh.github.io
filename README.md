@@ -4,6 +4,14 @@
 
 Bản này đưa trang học tập lên Internet **miễn phí, chạy 24/7, ai cũng vào học được không cần tài khoản**, Google tìm thấy được, và **tự cập nhật tin giáo dục mỗi 3 giờ**.
 
+## Có gì trong trang (bản 1.2)
+
+- **Học theo từng bài** đúng danh mục SGK Kết nối tri thức: mục tiêu, lý thuyết trọng tâm, ví dụ giải mẫu từng bước, ghi nhớ, luyện tập **chấm và chữa ngay từng câu**, bài tự luận có đáp án mẫu và tiêu chí tự chấm.
+- **Tài liệu theo lớp – môn**: sổ tay kiến thức và phiếu bài tập có đáp án (in hoặc lưu PDF), liên kết SGK điện tử miễn phí.
+- **Sổ lỗi sai**: câu làm sai được lưu lại để luyện lại.
+- **Trợ lý AI** (đang chờ bật): xem `worker/HUONG-DAN-AI.md`.
+- Nội dung bài học nằm ở `noi-dung/bai/` – cách soạn xem `noi-dung/bai/HUONG-DAN.md`.
+
 ## Cách đưa lên mạng (khoảng 10 phút, làm một lần)
 
 1. Tạo tài khoản tại **github.com** (miễn phí) nếu chưa có.

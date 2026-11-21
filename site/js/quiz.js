@@ -189,6 +189,7 @@
       }
     } catch (e) { R.submitting = false; App.fail(e); startTimer(main); return; }
     R.submitting = false;
+    try { if (App.Mistakes && R.result && R.result.detail) App.Mistakes.record(R.qs, R.result.detail); } catch (e) { /* bỏ qua */ }
     renderResult(main);
     window.scrollTo(0, 0);
   }

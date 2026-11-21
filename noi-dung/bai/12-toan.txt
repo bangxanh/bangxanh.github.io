@@ -1,0 +1,895 @@
+// Toán 12 – SGK Kết nối tri thức với cuộc sống. Định dạng: xem noi-dung/bai/HUONG-DAN.md
+# 12 | toan | Toán 12
+
+## Chương I. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị của hàm số
+
+### Bài 1. Tính đơn điệu và cực trị của hàm số
+> Dùng dấu của đạo hàm để biết hàm số tăng, giảm ở đâu và đạt cực đại, cực tiểu tại điểm nào.
+MT: Xét được tính đồng biến, nghịch biến của hàm số dựa vào dấu của đạo hàm.
+MT: Tìm được điểm cực trị, giá trị cực trị của hàm số bằng bảng biến thiên.
+MT: Vận dụng vào bài toán chứa tham số và bài toán thực tế.
+LT: 1. Tính đơn điệu của hàm số
+- Cho hàm số y = f(x) có đạo hàm trên khoảng K. Nếu f'(x) > 0 với mọi x ∈ K thì f **đồng biến** trên K; nếu f'(x) < 0 với mọi x ∈ K thì f **nghịch biến** trên K.
+- Nếu f'(x) ≥ 0 (hoặc f'(x) ≤ 0) với mọi x ∈ K và f'(x) = 0 chỉ tại hữu hạn điểm thì f vẫn đồng biến (nghịch biến) trên K.
+- Các bước xét: (1) tìm tập xác định; (2) tính f'(x), tìm các điểm f'(x) = 0 hoặc f'(x) không xác định; (3) lập bảng biến thiên; (4) kết luận.
+LT: 2. Cực trị của hàm số
+- x₀ là **điểm cực đại** của f nếu có khoảng (a; b) chứa x₀ sao cho f(x) < f(x₀) với mọi x ∈ (a; b), x ≠ x₀. Định nghĩa tương tự cho **điểm cực tiểu**.
+- Nếu f'(x) đổi dấu từ dương sang âm khi x đi qua x₀ thì x₀ là điểm cực đại; đổi dấu từ âm sang dương thì x₀ là điểm cực tiểu.
+- f(x₀) gọi là giá trị cực đại (y_{CĐ}) hoặc giá trị cực tiểu (y_{CT}); điểm M(x₀; f(x₀)) là điểm cực trị của đồ thị.
+- Chú ý: f'(x₀) = 0 chưa đủ để x₀ là điểm cực trị. Ví dụ y = x³ có y'(0) = 0 nhưng y' không đổi dấu qua 0.
+VD: Xét tính đơn điệu và tìm cực trị của hàm số y = x³ − 3x + 2.
+B: Tập xác định D = ℝ. Ta có y' = 3x² − 3; y' = 0 ⇔ x = −1 hoặc x = 1.
+B: y' > 0 trên (−∞; −1) và (1; +∞); y' < 0 trên (−1; 1).
+B: y(−1) = −1 + 3 + 2 = 4; y(1) = 1 − 3 + 2 = 0.
+KQ: Hàm số đồng biến trên (−∞; −1) và (1; +∞), nghịch biến trên (−1; 1). Cực đại tại x = −1, y_{CĐ} = 4; cực tiểu tại x = 1, y_{CT} = 0.
+VD: Tìm các khoảng đơn điệu của hàm số y = (x − 1)/(x + 1).
+B: Tập xác định D = ℝ \ {−1}. y' = 2/(x + 1)² > 0 với mọi x ≠ −1.
+KQ: Hàm số đồng biến trên từng khoảng (−∞; −1) và (−1; +∞). Không viết "đồng biến trên ℝ \ {−1}".
+GN: Kết luận khoảng đơn điệu phải viết thành từng khoảng riêng, không gộp bằng dấu ∪.
+GN: Hàm số y = (ax + b)/(cx + d) với ad − bc ≠ 0 luôn đơn điệu trên từng khoảng xác định nên không có cực trị.
+GN: Hàm bậc ba y = ax³ + bx² + cx + d đồng biến trên ℝ ⇔ a > 0 và Δ' của y' nhỏ hơn hoặc bằng 0.
+Q: mc | Hàm số y = x³ − 3x² nghịch biến trên khoảng nào?
+A) (−∞; 0)
+B) (0; 2) *
+C) (2; +∞)
+D) (−∞; +∞)
+E: y' = 3x² − 6x = 3x(x − 2) < 0 ⇔ 0 < x < 2. Vậy hàm số nghịch biến trên (0; 2).
+Q: mc | Hàm số y = x⁴ − 2x² + 3 có bao nhiêu điểm cực trị?
+A) 0
+B) 1
+C) 2
+D) 3 *
+E: y' = 4x³ − 4x = 4x(x² − 1) = 0 ⇔ x ∈ {−1; 0; 1}. y' đổi dấu khi đi qua cả ba nghiệm nên hàm số có 3 điểm cực trị.
+Q: tf | Cho hàm số f(x) = x³ − 3x² + 4.
+a) f'(x) = 3x² − 6x. | Đ
+b) Hàm số đồng biến trên khoảng (0; 2). | S
+c) Giá trị cực đại của hàm số bằng 4. | Đ
+d) Điểm cực tiểu của đồ thị hàm số là (2; 0). | Đ
+E: f'(x) = 3x(x − 2): f' > 0 trên (−∞; 0) và (2; +∞), f' < 0 trên (0; 2). Cực đại tại x = 0 với f(0) = 4; cực tiểu tại x = 2 với f(2) = 8 − 12 + 4 = 0.
+Q: sa | Tìm giá trị cực đại của hàm số y = −x³ + 3x + 1.
+ANS: 3
+E: y' = −3x² + 3 = 0 ⇔ x = ±1. y' > 0 trên (−1; 1) và y' < 0 ngoài đoạn [−1; 1], nên x = 1 là điểm cực đại: y_{CĐ} = y(1) = −1 + 3 + 1 = 3.
+Q: sa | Có bao nhiêu số nguyên m thuộc đoạn [−10; 10] để hàm số y = x³ − 3x² + mx + 1 đồng biến trên ℝ?
+ANS: 8
+E: y' = 3x² − 6x + m ≥ 0 với mọi x ⇔ Δ' = 9 − 3m ≤ 0 ⇔ m ≥ 3. Các số nguyên từ 3 đến 10 gồm 8 giá trị.
+TL: Một vật chuyển động theo quy luật s(t) = −t³ + 6t² (mét), t tính bằng giây, 0 ≤ t ≤ 6. Trong khoảng thời gian nào vận tốc của vật tăng? Vận tốc lớn nhất bằng bao nhiêu?
+MAU: Vận tốc v(t) = s'(t) = −3t² + 12t; v'(t) = −6t + 12.
+MAU: v'(t) > 0 ⇔ t < 2, nên vận tốc tăng trong khoảng (0; 2) giây và giảm trong khoảng (2; 6) giây.
+MAU: Vận tốc lớn nhất đạt tại t = 2: v(2) = −12 + 24 = 12 (m/s).
+TC: Tính đúng v(t) = s'(t) = −3t² + 12t | 1
+TC: Xét dấu v'(t), kết luận vận tốc tăng trong khoảng (0; 2) | 1
+TC: Kết luận vận tốc lớn nhất 12 m/s tại t = 2 giây | 1
+
+### Bài 2. Giá trị lớn nhất và giá trị nhỏ nhất của hàm số
+> Tìm số lớn nhất, nhỏ nhất mà hàm số đạt được trên một tập – nền tảng của các bài toán tối ưu.
+MT: Nêu được định nghĩa giá trị lớn nhất (GTLN), giá trị nhỏ nhất (GTNN) của hàm số trên một tập.
+MT: Tìm được GTLN, GTNN của hàm số trên đoạn, trên khoảng bằng đạo hàm và bảng biến thiên.
+LT: 1. Định nghĩa
+- M là GTLN của f trên D nếu f(x) ≤ M với mọi x ∈ D và có x₀ ∈ D để f(x₀) = M. Kí hiệu M = max f(x) trên D.
+- m là GTNN của f trên D nếu f(x) ≥ m với mọi x ∈ D và có x₀ ∈ D để f(x₀) = m.
+LT: 2. Cách tìm trên một đoạn [a; b] (f liên tục trên đoạn)
+- Bước 1: tìm các điểm x₁, x₂, … thuộc khoảng (a; b) mà tại đó f'(x) = 0 hoặc f'(x) không xác định.
+- Bước 2: tính f(a), f(b), f(x₁), f(x₂), …
+- Bước 3: số lớn nhất là GTLN, số nhỏ nhất là GTNN của f trên [a; b].
+- Hàm số liên tục trên một đoạn luôn có GTLN và GTNN trên đoạn đó. Trên một khoảng thì lập bảng biến thiên để kết luận (có thể không tồn tại).
+VD: Tìm GTLN, GTNN của f(x) = x³ − 3x + 1 trên đoạn [0; 2].
+B: f'(x) = 3x² − 3 = 0 ⇔ x = 1 (nhận, vì thuộc (0; 2)) hoặc x = −1 (loại).
+B: f(0) = 1; f(1) = −1; f(2) = 8 − 6 + 1 = 3.
+KQ: max f = 3 tại x = 2; min f = −1 tại x = 1.
+VD: Tìm GTNN của f(x) = x + 4/x trên khoảng (0; +∞).
+B: f'(x) = 1 − 4/x² = 0 ⇔ x = 2 (vì x > 0). f' < 0 trên (0; 2), f' > 0 trên (2; +∞).
+KQ: GTNN bằng f(2) = 4, đạt tại x = 2. Hàm số không có GTLN trên (0; +∞).
+GN: Nhớ loại các nghiệm của f'(x) = 0 không thuộc đoạn đang xét.
+GN: Trong bài toán thực tế phải đặt điều kiện cho ẩn rồi mới tìm GTLN, GTNN trên miền đó.
+Q: mc | GTLN của hàm số y = −x² + 4x trên đoạn [0; 3] là
+A) 3
+B) 4 *
+C) 0
+D) 5
+E: y' = −2x + 4 = 0 ⇔ x = 2 ∈ [0; 3]. y(0) = 0, y(2) = 4, y(3) = 3. GTLN là 4.
+Q: mc | GTNN của hàm số y = x⁴ − 2x² + 1 trên đoạn [−2; 2] là
+A) 1
+B) 0 *
+C) 9
+D) −1
+E: y' = 4x³ − 4x = 0 ⇔ x ∈ {−1; 0; 1}. y(0) = 1; y(±1) = 0; y(±2) = 9. GTNN là 0.
+Q: tf | Xét hàm số f(x) = x³ − 3x² trên đoạn [−1; 3].
+a) f'(x) = 0 tại x = 0 và x = 2. | Đ
+b) GTLN của f trên đoạn [−1; 3] bằng 0. | Đ
+c) GTNN của f trên đoạn [−1; 3] đạt tại đúng một điểm. | S
+d) Tổng GTLN và GTNN bằng −4. | Đ
+E: f(−1) = −4; f(0) = 0; f(2) = −4; f(3) = 0. GTLN = 0, GTNN = −4 đạt tại cả x = −1 và x = 2; tổng bằng −4.
+Q: sa | Tìm GTLN của f(x) = (2x + 1)/(x + 1) trên đoạn [0; 2] (làm tròn đến hàng phần trăm).
+ANS: 1,67 || 1.67
+E: f'(x) = 1/(x + 1)² > 0 nên f đồng biến trên [0; 2]. GTLN = f(2) = 5/3 ≈ 1,67.
+Q: sa | Từ một tấm tôn hình vuông cạnh 12 dm, người ta cắt bỏ bốn hình vuông bằng nhau cạnh x (dm) ở bốn góc rồi gấp thành một chiếc hộp không nắp. Thể tích lớn nhất của hộp bằng bao nhiêu dm³?
+ANS: 128
+E: V(x) = x(12 − 2x)² với 0 < x < 6. V'(x) = (12 − 2x)(12 − 6x) = 0 ⇔ x = 2 (x = 6 loại). V(2) = 2·8² = 128 dm³.
+TL: Bác An có 40 m lưới để rào một mảnh vườn hình chữ nhật. Hỏi kích thước của mảnh vườn bằng bao nhiêu để diện tích lớn nhất? Tính diện tích lớn nhất đó.
+MAU: Gọi chiều dài là x (m), 0 < x < 20, thì chiều rộng là 20 − x và diện tích S(x) = x(20 − x) = −x² + 20x.
+MAU: S'(x) = −2x + 20 = 0 ⇔ x = 10; S' > 0 trên (0; 10), S' < 0 trên (10; 20) nên S lớn nhất tại x = 10.
+MAU: Vườn là hình vuông cạnh 10 m, diện tích lớn nhất 100 m².
+TC: Đặt ẩn, điều kiện và lập được hàm S(x) = x(20 − x) | 1
+TC: Tính đạo hàm, lập bảng biến thiên tìm được x = 10 | 1
+TC: Kết luận kích thước 10 m × 10 m và diện tích 100 m² | 1
+
+### Bài 3. Đường tiệm cận của đồ thị hàm số
+> Đường tiệm cận cho biết đồ thị "tiến sát" đường thẳng nào khi x hoặc y ra xa vô cùng.
+MT: Nhận biết và tìm được tiệm cận đứng, tiệm cận ngang, tiệm cận xiên của đồ thị hàm số.
+MT: Giải thích ý nghĩa của đường tiệm cận trong một số bài toán thực tế.
+LT: 1. Các loại đường tiệm cận
+- **Tiệm cận ngang** y = y₀ nếu lim f(x) = y₀ khi x → +∞ hoặc khi x → −∞.
+- **Tiệm cận đứng** x = x₀ nếu ít nhất một trong các giới hạn của f(x) khi x → x₀⁺ hoặc x → x₀⁻ bằng +∞ hoặc −∞.
+- **Tiệm cận xiên** y = ax + b (a ≠ 0) nếu lim [f(x) − (ax + b)] = 0 khi x → +∞ hoặc x → −∞. Khi đó a = lim f(x)/x và b = lim [f(x) − ax].
+LT: 2. Trường hợp thường gặp
+- y = (ax + b)/(cx + d) với c ≠ 0, ad − bc ≠ 0: tiệm cận đứng x = −d/c, tiệm cận ngang y = a/c.
+- y = (ax² + bx + c)/(mx + n): chia đa thức được y = px + q + r/(mx + n); nếu r ≠ 0 thì có tiệm cận đứng x = −n/m và tiệm cận xiên y = px + q.
+- Với phân thức, trước khi kết luận tiệm cận đứng phải kiểm tra nghiệm của mẫu có làm tử bằng 0 không.
+VD: Tìm các đường tiệm cận của đồ thị y = (2x − 1)/(x + 1).
+B: lim y = 2 khi x → ±∞ nên y = 2 là tiệm cận ngang.
+B: Khi x → (−1)⁺, tử → −3, mẫu → 0⁺ nên y → −∞; vậy x = −1 là tiệm cận đứng.
+KQ: Tiệm cận đứng x = −1, tiệm cận ngang y = 2.
+VD: Tìm tiệm cận của y = (x² + x + 1)/(x − 1).
+B: Chia đa thức: y = x + 2 + 3/(x − 1).
+KQ: Tiệm cận đứng x = 1; tiệm cận xiên y = x + 2.
+GN: Đồ thị y = (x² − 3x + 2)/(x − 1) không có tiệm cận đứng x = 1 vì tử cũng bằng 0 tại x = 1 (rút gọn được y = x − 2 với x ≠ 1).
+GN: Trong thực tế, tiệm cận ngang thường mô tả "giá trị giới hạn", ví dụ chi phí trung bình khi sản xuất rất nhiều sản phẩm.
+Q: mc | Tiệm cận ngang của đồ thị hàm số y = (3x + 1)/(x − 2) là
+A) y = 3 *
+B) y = −1/2
+C) x = 2
+D) y = 1
+E: lim y = 3/1 = 3 khi x → ±∞.
+Q: mc | Đồ thị hàm số y = (x + 1)/(x² − 4) có bao nhiêu đường tiệm cận đứng?
+A) 0
+B) 1
+C) 2 *
+D) 3
+E: Mẫu bằng 0 tại x = ±2 và tử khác 0 tại hai điểm đó, nên có 2 tiệm cận đứng x = 2 và x = −2.
+Q: tf | Cho hàm số y = (x² − 3x + 2)/(x − 1).
+a) Tập xác định của hàm số là ℝ \ {1}. | Đ
+b) Đường thẳng x = 1 là tiệm cận đứng của đồ thị. | S
+c) Đồ thị hàm số không có tiệm cận ngang. | Đ
+d) Giới hạn của y khi x → 1 bằng −1. | Đ
+E: Với x ≠ 1: y = (x − 1)(x − 2)/(x − 1) = x − 2, nên khi x → 1 thì y → −1 (không ra vô cùng); khi x → ±∞ thì y → ±∞ nên không có tiệm cận ngang.
+Q: sa | Tìm m để đồ thị hàm số y = (mx + 1)/(x + 2) có tiệm cận ngang là đường thẳng y = 3.
+ANS: 3
+E: Tiệm cận ngang y = m/1 = m. Vậy m = 3.
+TL: Chi phí trung bình để sản xuất x sản phẩm là C(x) = (2x + 50)/x (trăm nghìn đồng). Tìm tiệm cận ngang của đồ thị C(x) và nêu ý nghĩa thực tế.
+MAU: lim C(x) = lim (2 + 50/x) = 2 khi x → +∞, nên y = 2 là tiệm cận ngang.
+MAU: Ý nghĩa: khi sản xuất rất nhiều sản phẩm, chi phí trung bình cho mỗi sản phẩm giảm dần và tiến gần đến 200 nghìn đồng (nhưng không nhỏ hơn).
+TC: Tính đúng giới hạn và kết luận tiệm cận ngang y = 2 | 1.5
+TC: Nêu đúng ý nghĩa thực tế (chi phí trung bình tiến về 200 nghìn đồng) | 1.5
+
+### Bài 4. Khảo sát sự biến thiên và vẽ đồ thị của hàm số
+> Phối hợp đạo hàm, cực trị và tiệm cận để vẽ đồ thị và đọc thông tin từ đồ thị.
+MT: Khảo sát và vẽ được đồ thị hàm bậc ba, hàm y = (ax + b)/(cx + d), hàm y = (ax² + bx + c)/(mx + n).
+MT: Dùng đồ thị để biện luận số nghiệm của phương trình.
+LT: 1. Sơ đồ khảo sát hàm số
+- Bước 1: tìm tập xác định.
+- Bước 2: xét sự biến thiên – tính y', tìm khoảng đơn điệu, cực trị, giới hạn và tiệm cận (nếu có), lập bảng biến thiên.
+- Bước 3: vẽ đồ thị – xác định giao điểm với các trục tọa độ, một số điểm đặc biệt, tâm hoặc trục đối xứng.
+LT: 2. Đặc điểm một số dạng đồ thị
+- Hàm bậc ba y = ax³ + bx² + cx + d (a ≠ 0): có hai cực trị khi y' = 0 có hai nghiệm phân biệt; đồ thị nhận điểm có hoành độ là nghiệm của y'' = 0 làm tâm đối xứng.
+- Hàm y = (ax + b)/(cx + d): có tiệm cận đứng, tiệm cận ngang; đồ thị nhận giao điểm hai tiệm cận làm tâm đối xứng.
+- Số nghiệm của phương trình f(x) = m bằng số giao điểm của đồ thị y = f(x) với đường thẳng y = m.
+VD: Khảo sát và vẽ đồ thị hàm số y = x³ − 3x² + 2.
+B: D = ℝ; y' = 3x² − 6x = 0 ⇔ x = 0 hoặc x = 2.
+B: Đồng biến trên (−∞; 0) và (2; +∞), nghịch biến trên (0; 2). Cực đại (0; 2), cực tiểu (2; −2).
+B: y'' = 6x − 6 = 0 ⇔ x = 1, y(1) = 0: tâm đối xứng I(1; 0). Giao trục tung tại (0; 2).
+KQ: Đồ thị có dạng "lên – xuống – lên", đi qua (0; 2), (1; 0), (2; −2), đối xứng qua I(1; 0).
+VD: Khảo sát hàm số y = (x + 1)/(x − 1).
+B: D = ℝ \ {1}; y' = −2/(x − 1)² < 0: hàm số nghịch biến trên từng khoảng (−∞; 1) và (1; +∞).
+B: Tiệm cận đứng x = 1, tiệm cận ngang y = 1; tâm đối xứng I(1; 1).
+KQ: Đồ thị cắt Ox tại (−1; 0), cắt Oy tại (0; −1), gồm hai nhánh nằm ở hai góc đối nhau tạo bởi hai tiệm cận.
+GN: Đọc bảng biến thiên cẩn thận ở các đầu mút và các giới hạn để biện luận số nghiệm cho đúng.
+Q: mc | Tâm đối xứng của đồ thị hàm số y = x³ − 3x² + 2 là
+A) (0; 2)
+B) (1; 0) *
+C) (2; −2)
+D) (−1; −2)
+E: y'' = 6x − 6 = 0 ⇔ x = 1; y(1) = 1 − 3 + 2 = 0. Tâm đối xứng I(1; 0).
+Q: mc | Đồ thị hàm số nào nhận x = 2 làm tiệm cận đứng và y = 1 làm tiệm cận ngang?
+A) y = (x − 1)/(x − 2) *
+B) y = (x + 2)/(x − 1)
+C) y = (2x + 1)/(x − 2)
+D) y = (x − 2)/(x + 1)
+E: y = (x − 1)/(x − 2) có tiệm cận đứng x = 2 và tiệm cận ngang y = 1/1 = 1.
+Q: tf | Cho hàm số y = x³ − 3x + 1.
+a) y' = 0 tại x = −1 và x = 1. | Đ
+b) Đồ thị cắt trục tung tại điểm (0; 1). | Đ
+c) Tâm đối xứng của đồ thị là (0; 1). | Đ
+d) Phương trình x³ − 3x + 1 = 0 có đúng một nghiệm. | S
+E: y(−1) = 3 > 0 và y(1) = −1 < 0, nên đồ thị cắt Ox tại 3 điểm: phương trình có 3 nghiệm. y'' = 6x = 0 ⇔ x = 0, y(0) = 1.
+Q: sa | Đường thẳng y = 1 cắt đồ thị hàm số y = x³ − 3x tại bao nhiêu điểm?
+ANS: 3
+E: y_{CĐ} = y(−1) = 2, y_{CT} = y(1) = −2. Vì −2 < 1 < 2 nên đường thẳng y = 1 cắt đồ thị tại 3 điểm.
+TL: Dựa vào bảng biến thiên của hàm số y = x³ − 3x² + 2, biện luận theo m số nghiệm của phương trình x³ − 3x² + 2 = m.
+MAU: Hàm số có y_{CĐ} = 2 (tại x = 0) và y_{CT} = −2 (tại x = 2); y → ±∞ khi x → ±∞.
+MAU: m > 2 hoặc m < −2: phương trình có 1 nghiệm.
+MAU: m = 2 hoặc m = −2: phương trình có 2 nghiệm.
+MAU: −2 < m < 2: phương trình có 3 nghiệm.
+TC: Chỉ ra đúng các giá trị cực đại 2 và cực tiểu −2 | 1
+TC: Biện luận đúng trường hợp 1 nghiệm và 2 nghiệm | 1
+TC: Biện luận đúng trường hợp 3 nghiệm | 1
+
+### Bài 5. Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn
+> Đạo hàm là "tốc độ thay đổi": dùng để tính vận tốc, chi phí biên và tìm phương án tốt nhất.
+MT: Hiểu đạo hàm là tốc độ thay đổi của một đại lượng (vận tốc, gia tốc, chi phí biên, …).
+MT: Giải được bài toán tối ưu đơn giản trong thực tế bằng cách lập hàm số và tìm GTLN, GTNN.
+LT: 1. Đạo hàm và tốc độ thay đổi
+- f'(x₀) là tốc độ thay đổi tức thời của đại lượng y = f(x) tại x₀.
+- Trong vật lí: vận tốc v(t) = s'(t), gia tốc a(t) = v'(t).
+- Trong kinh tế: chi phí C(x), doanh thu R(x), lợi nhuận P(x) = R(x) − C(x); C'(x) là chi phí biên, xấp xỉ chi phí sản xuất thêm một đơn vị sản phẩm.
+LT: 2. Các bước giải bài toán tối ưu
+- Chọn ẩn x, đặt điều kiện cho x.
+- Biểu diễn đại lượng cần tìm thành hàm số f(x).
+- Tìm GTLN (hoặc GTNN) của f trên miền điều kiện bằng đạo hàm, bảng biến thiên.
+- Đối chiếu điều kiện và trả lời theo yêu cầu bài toán.
+VD: Lợi nhuận P(x) = −x³ + 12x² + 60x (triệu đồng) khi doanh nghiệp sản xuất x trăm sản phẩm, 0 ≤ x ≤ 12. Sản xuất bao nhiêu để lợi nhuận lớn nhất?
+B: P'(x) = −3x² + 24x + 60 = 0 ⇔ x² − 8x − 20 = 0 ⇔ x = 10 hoặc x = −2 (loại).
+B: P(0) = 0; P(10) = −1000 + 1200 + 600 = 800; P(12) = −1728 + 1728 + 720 = 720.
+KQ: Sản xuất 1 000 sản phẩm thì lợi nhuận lớn nhất là 800 triệu đồng.
+VD: Một chất điểm chuyển động theo phương trình s(t) = t³ − 6t² + 9t (m). Tìm gia tốc tại thời điểm vận tốc bằng 0 lần đầu.
+B: v(t) = 3t² − 12t + 9 = 0 ⇔ t = 1 hoặc t = 3; lần đầu tại t = 1.
+B: a(t) = v'(t) = 6t − 12, a(1) = −6.
+KQ: Gia tốc bằng −6 m/s² (vật đang giảm tốc).
+GN: Luôn kiểm tra nghiệm tìm được có thỏa điều kiện thực tế (độ dài dương, số sản phẩm không âm, …).
+Q: mc | Một vật chuyển động theo phương trình s(t) = t³ − 3t² + 5t (m). Vận tốc của vật tại thời điểm t = 2 giây là
+A) 5 m/s *
+B) 6 m/s
+C) 10 m/s
+D) 1 m/s
+E: v(t) = 3t² − 6t + 5, v(2) = 12 − 12 + 5 = 5 m/s.
+Q: mc | Chi phí sản xuất x sản phẩm là C(x) = x² + 10x + 500 (nghìn đồng). Chi phí biên tại x = 50 là
+A) 3 500 nghìn đồng
+B) 110 nghìn đồng *
+C) 60 nghìn đồng
+D) 100 nghìn đồng
+E: C'(x) = 2x + 10, C'(50) = 110 (nghìn đồng/sản phẩm).
+Q: sa | Một bể chứa hình hộp chữ nhật không nắp, đáy hình vuông, có thể tích 32 m³. Diện tích vật liệu làm bể (đáy và 4 mặt bên) nhỏ nhất bằng bao nhiêu m²?
+ANS: 48
+E: Gọi cạnh đáy x, chiều cao h = 32/x². S(x) = x² + 4xh = x² + 128/x. S'(x) = 2x − 128/x² = 0 ⇔ x = 4. S(4) = 16 + 32 = 48 m².
+TL: Trong các hình chữ nhật nội tiếp nửa đường tròn bán kính 10 cm (một cạnh nằm trên đường kính), tìm hình chữ nhật có diện tích lớn nhất.
+MAU: Đặt nửa cạnh nằm trên đường kính là x (0 < x < 10), cạnh còn lại là √(100 − x²). Diện tích S(x) = 2x√(100 − x²).
+MAU: S'(x) = 2√(100 − x²) − 2x²/√(100 − x²) = 2(100 − 2x²)/√(100 − x²) = 0 ⇔ x = 5√2.
+MAU: S lớn nhất bằng 2·5√2·5√2 = 100 cm², khi các cạnh là 10√2 cm và 5√2 cm.
+TC: Đặt ẩn, điều kiện, lập đúng hàm diện tích | 1
+TC: Tính đạo hàm và tìm được x = 5√2 | 1
+TC: Kết luận diện tích lớn nhất 100 cm² và kích thước | 1
+
+## Chương II. Vectơ và hệ trục tọa độ trong không gian
+
+### Bài 6. Vectơ trong không gian
+> Mở rộng khái niệm vectơ và các phép toán từ mặt phẳng sang không gian.
+MT: Nhận biết vectơ, hai vectơ cùng phương, cùng hướng, bằng nhau trong không gian.
+MT: Thực hiện phép cộng, trừ vectơ, nhân vectơ với một số, tích vô hướng của hai vectơ trong không gian.
+LT: 1. Các phép toán
+- Quy tắc ba điểm: AB→ + BC→ = AC→; quy tắc hiệu: OB→ − OA→ = AB→.
+- **Quy tắc hình hộp**: với hình hộp ABCD.A'B'C'D' thì AB→ + AD→ + AA'→ = AC'→.
+- I là trung điểm AB ⇔ IA→ + IB→ = 0→; G là trọng tâm tứ diện ABCD ⇔ GA→ + GB→ + GC→ + GD→ = 0→.
+LT: 2. Tích vô hướng
+- u→·v→ = |u→|·|v→|·cos(u→, v→); u→ ⊥ v→ ⇔ u→·v→ = 0; u→² = |u→|².
+- Góc giữa hai vectơ được xác định bằng cách đưa về cùng một điểm gốc.
+VD: Cho hình lập phương ABCD.A'B'C'D' cạnh a. Tính AB→·A'C'→.
+B: A'C'→ = AC→ (hai vectơ bằng nhau), góc giữa AB→ và AC→ bằng 45°.
+B: AB→·AC→ = a·a√2·cos 45° = a².
+KQ: AB→·A'C'→ = a².
+GN: Muốn tính góc giữa hai vectơ không chung gốc, thay một vectơ bằng vectơ bằng nó để đưa về chung gốc.
+Q: mc | Cho hình hộp ABCD.A'B'C'D'. Vectơ AB→ + AD→ + AA'→ bằng
+A) AC→
+B) AC'→ *
+C) AD'→
+D) BD'→
+E: Theo quy tắc hình hộp, AB→ + AD→ + AA'→ = AC'→.
+Q: mc | Cho hình lập phương ABCD.A'B'C'D' cạnh 1. Tích vô hướng AB→·AC'→ bằng
+A) 0
+B) 1 *
+C) √2
+D) √3
+E: AC'→ = AB→ + AD→ + AA'→ nên AB→·AC'→ = AB→² + AB→·AD→ + AB→·AA'→ = 1 + 0 + 0 = 1.
+Q: tf | Cho tứ diện đều ABCD cạnh a.
+a) AB→·AC→ = a²/2. | Đ
+b) AB→·CD→ = 0. | Đ
+c) |AB→ + AC→| = a√3. | Đ
+d) Góc giữa hai vectơ AB→ và BC→ bằng 60°. | S
+E: Góc (AB→, AC→) = 60°. Hai cạnh đối của tứ diện đều vuông góc nên AB→·CD→ = 0. |AB→ + AC→| = 2·(a√3/2) = a√3. Góc (AB→, BC→) = 180° − 60° = 120°.
+Q: sa | Cho hình lập phương cạnh 2. Tính độ dài vectơ AC'→ (làm tròn đến hàng phần trăm).
+ANS: 3,46 || 3.46
+E: |AC'→| là độ dài đường chéo hình lập phương: 2√3 ≈ 3,46.
+TL: Ba lực F₁→, F₂→, F₃→ đôi một vuông góc, có cường độ lần lượt 3 N, 4 N, 12 N cùng tác dụng vào một vật. Tính cường độ hợp lực.
+MAU: Hợp lực F→ = F₁→ + F₂→ + F₃→. Vì các lực đôi một vuông góc nên F→² = F₁² + F₂² + F₃² (các tích vô hướng chéo bằng 0).
+MAU: |F→| = √(9 + 16 + 144) = √169 = 13 (N).
+TC: Viết được hợp lực là tổng ba vectơ lực | 1
+TC: Giải thích các tích vô hướng chéo bằng 0 | 1
+TC: Tính đúng cường độ 13 N | 1
+
+### Bài 7. Hệ trục tọa độ trong không gian
+> Gắn hệ trục Oxyz để mô tả vị trí mọi điểm trong không gian bằng ba số.
+MT: Nhận biết hệ trục tọa độ Oxyz, tọa độ của điểm và của vectơ.
+MT: Xác định tọa độ hình chiếu, điểm đối xứng và tọa độ vectơ khi biết hai đầu mút.
+LT: 1. Tọa độ điểm và vectơ
+- Hệ Oxyz gồm ba trục Ox, Oy, Oz đôi một vuông góc với các vectơ đơn vị i→, j→, k→.
+- M(x; y; z) ⇔ OM→ = x·i→ + y·j→ + z·k→; a→ = (a₁; a₂; a₃) ⇔ a→ = a₁i→ + a₂j→ + a₃k→.
+- AB→ = (x_B − x_A; y_B − y_A; z_B − z_A).
+LT: 2. Hình chiếu và đối xứng của M(x; y; z)
+- Hình chiếu lên (Oxy): (x; y; 0); lên (Oyz): (0; y; z); lên (Oxz): (x; 0; z).
+- Hình chiếu lên Ox: (x; 0; 0); lên Oy: (0; y; 0); lên Oz: (0; 0; z).
+- Đối xứng qua gốc O: (−x; −y; −z); qua (Oxy): (x; y; −z).
+VD: Cho A(1; 2; 3), B(3; 0; −1). Tìm tọa độ AB→.
+B: AB→ = (3 − 1; 0 − 2; −1 − 3).
+KQ: AB→ = (2; −2; −4).
+VD: Hình hộp chữ nhật OABC.O'A'B'C' có A(2; 0; 0), C(0; 3; 0), O'(0; 0; 4). Tìm tọa độ B'.
+KQ: B' = (2; 3; 4).
+GN: Khoảng cách từ M(x; y; z) đến mặt phẳng (Oxy) là |z|.
+Q: mc | Hình chiếu của điểm M(3; −1; 2) lên mặt phẳng (Oxz) là
+A) (3; 0; 2) *
+B) (0; −1; 2)
+C) (3; −1; 0)
+D) (0; 0; 2)
+E: Chiếu lên (Oxz) giữ nguyên x, z và cho y = 0.
+Q: mc | Tọa độ của vectơ a→ = 2i→ − 3k→ là
+A) (2; −3; 0)
+B) (2; 0; −3) *
+C) (0; 2; −3)
+D) (2; 3; 0)
+E: Hệ số của j→ bằng 0 nên a→ = (2; 0; −3).
+Q: tf | Cho điểm M(1; −2; 3).
+a) Hình chiếu của M lên trục Oy là (0; −2; 0). | Đ
+b) Điểm đối xứng với M qua mặt phẳng (Oxy) là (1; −2; −3). | Đ
+c) Khoảng cách từ M đến mặt phẳng (Oxy) bằng 3. | Đ
+d) Điểm đối xứng với M qua gốc O là (−1; 2; 3). | S
+E: Đối xứng qua O đổi dấu cả ba tọa độ: (−1; 2; −3).
+Q: sa | Cho A(1; 0; 2), B(2; 3; −1). Tính tổng các tọa độ của vectơ AB→.
+ANS: 1
+E: AB→ = (1; 3; −3), tổng 1 + 3 − 3 = 1.
+TL: Một phòng học dạng hình hộp chữ nhật dài 8 m, rộng 6 m, cao 4 m. Chọn hệ trục Oxyz có gốc O ở một góc sàn, các trục theo chiều dài, chiều rộng, chiều cao. Tìm tọa độ bóng đèn treo ở chính giữa trần nhà.
+MAU: Sàn nằm trong mặt phẳng (Oxy), trần là mặt phẳng z = 4.
+MAU: Tâm trần có x = 8/2 = 4, y = 6/2 = 3, z = 4. Bóng đèn có tọa độ (4; 3; 4).
+TC: Mô tả đúng hệ trục và mặt phẳng trần z = 4 | 1
+TC: Tính đúng tọa độ (4; 3; 4) | 2
+
+### Bài 8. Biểu thức tọa độ của các phép toán vectơ
+> Tính toán vectơ bằng tọa độ: tổng, hiệu, tích vô hướng, độ dài, góc, trung điểm, trọng tâm.
+MT: Thực hiện các phép toán vectơ bằng tọa độ.
+MT: Tính độ dài đoạn thẳng, góc giữa hai vectơ; tìm trung điểm, trọng tâm.
+LT: 1. Biểu thức tọa độ (a→ = (a₁; a₂; a₃), b→ = (b₁; b₂; b₃))
+- a→ ± b→ = (a₁ ± b₁; a₂ ± b₂; a₃ ± b₃); k·a→ = (ka₁; ka₂; ka₃).
+- a→·b→ = a₁b₁ + a₂b₂ + a₃b₃; |a→| = √(a₁² + a₂² + a₃²).
+- cos(a→, b→) = a→·b→/(|a→|·|b→|); a→ ⊥ b→ ⇔ a₁b₁ + a₂b₂ + a₃b₃ = 0.
+LT: 2. Ứng dụng
+- AB = √[(x_B − x_A)² + (y_B − y_A)² + (z_B − z_A)²].
+- Trung điểm I của AB: I((x_A + x_B)/2; (y_A + y_B)/2; (z_A + z_B)/2).
+- Trọng tâm G của tam giác ABC: G((x_A + x_B + x_C)/3; (y_A + y_B + y_C)/3; (z_A + z_B + z_C)/3).
+VD: Cho a→ = (1; 2; −2), b→ = (2; 0; 1). Tính a→·b→ và |a→|.
+B: a→·b→ = 2 + 0 − 2 = 0, nên a→ ⊥ b→.
+KQ: a→·b→ = 0; |a→| = √(1 + 4 + 4) = 3.
+VD: Tìm trọng tâm tam giác ABC với A(1; 2; 3), B(3; 4; −1), C(2; 0; 1).
+KQ: G(2; 2; 1).
+GN: Khi tính góc giữa hai vectơ, kết quả nằm trong [0°; 180°].
+Q: mc | Độ dài của vectơ a→ = (2; −1; 2) là
+A) 3 *
+B) 9
+C) √5
+D) 5
+E: |a→| = √(4 + 1 + 4) = 3.
+Q: mc | Cho a→ = (1; m; 2), b→ = (2; 1; −1). Giá trị của m để a→ ⊥ b→ là
+A) m = 1
+B) m = 0 *
+C) m = −2
+D) m = 2
+E: a→·b→ = 2 + m − 2 = m = 0.
+Q: tf | Cho A(1; 0; 0), B(0; 1; 0), C(0; 0; 1).
+a) AB→ = (−1; 1; 0). | Đ
+b) AB = √2. | Đ
+c) Tam giác ABC là tam giác đều. | Đ
+d) Trọng tâm tam giác ABC là (1; 1; 1). | S
+E: AB = BC = CA = √2 nên tam giác đều; trọng tâm G(1/3; 1/3; 1/3).
+Q: sa | Tính góc (đơn vị độ) giữa hai vectơ a→ = (1; 1; 0) và b→ = (1; 0; 1).
+ANS: 60
+E: cos(a→, b→) = 1/(√2·√2) = 1/2, nên góc bằng 60°.
+TL: Một lực F→ = (2; 3; 1) (N) làm vật dịch chuyển từ A(1; 0; 0) đến B(4; 2; 1) (đơn vị mét). Tính công của lực (công W = F→·AB→).
+MAU: AB→ = (3; 2; 1).
+MAU: W = F→·AB→ = 2·3 + 3·2 + 1·1 = 13 (J).
+TC: Tìm đúng AB→ = (3; 2; 1) | 1
+TC: Tính đúng tích vô hướng, kết luận công 13 J | 2
+
+## Chương III. Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm
+
+### Bài 9. Khoảng biến thiên và khoảng tứ phân vị
+> Đo độ "trải rộng" của số liệu đã chia thành các nhóm.
+MT: Tính được khoảng biến thiên và khoảng tứ phân vị của mẫu số liệu ghép nhóm.
+MT: Giải thích ý nghĩa và so sánh độ phân tán của hai mẫu số liệu.
+LT: 1. Khoảng biến thiên
+- Mẫu ghép nhóm gồm các nhóm [a₁; a₂), [a₂; a₃), …, [a_k; a_{k+1}). Khoảng biến thiên R = a_{k+1} − a₁.
+- R càng lớn thì số liệu càng phân tán; R dễ bị ảnh hưởng bởi giá trị bất thường.
+LT: 2. Khoảng tứ phân vị
+- Tứ phân vị thứ nhất: Q₁ = u_m + [(n/4 − C)/n_m]·(u_{m+1} − u_m), trong đó [u_m; u_{m+1}) là nhóm chứa phần tử thứ n/4, n_m là tần số nhóm đó, C là tổng tần số các nhóm đứng trước.
+- Tứ phân vị thứ ba Q₃ tính tương tự với 3n/4 thay cho n/4.
+- Khoảng tứ phân vị ΔQ = Q₃ − Q₁ đo độ phân tán của nửa số liệu ở giữa, ít bị ảnh hưởng bởi giá trị bất thường.
+VD: Thời gian tự học (phút) của 40 học sinh: [0; 10): 4; [10; 20): 10; [20; 30): 14; [30; 40): 8; [40; 50): 4. Tính R và ΔQ.
+B: R = 50 − 0 = 50 (phút).
+B: n/4 = 10, tần số tích lũy 4; 14 nên Q₁ thuộc [10; 20): Q₁ = 10 + (10 − 4)/10·10 = 16.
+B: 3n/4 = 30, tần số tích lũy 4; 14; 28; 36 nên Q₃ thuộc [30; 40): Q₃ = 30 + (30 − 28)/8·10 = 32,5.
+KQ: R = 50 phút; ΔQ = 32,5 − 16 = 16,5 phút.
+GN: Phải lập cột tần số tích lũy để xác định đúng nhóm chứa Q₁, Q₃.
+Q: mc | Mẫu số liệu ghép nhóm có các nhóm [150; 155), [155; 160), …, [170; 175). Khoảng biến thiên của mẫu là
+A) 20
+B) 25 *
+C) 5
+D) 175
+E: R = 175 − 150 = 25.
+Q: sa | Mẫu số liệu: [40; 50): 5; [50; 60): 15; [60; 70): 20; [70; 80): 10. Tính tứ phân vị thứ nhất Q₁.
+ANS: 55
+E: n = 50, n/4 = 12,5; tần số tích lũy 5; 20 nên Q₁ thuộc [50; 60): Q₁ = 50 + (12,5 − 5)/15·10 = 55.
+Q: tf | Với mẫu số liệu: [40; 50): 5; [50; 60): 15; [60; 70): 20; [70; 80): 10.
+a) Khoảng biến thiên của mẫu là 40. | Đ
+b) Tứ phân vị thứ ba thuộc nhóm [60; 70). | Đ
+c) Q₃ = 68,75. | Đ
+d) Khoảng tứ phân vị bằng 15. | S
+E: 3n/4 = 37,5 thuộc nhóm [60; 70): Q₃ = 60 + (37,5 − 20)/20·10 = 68,75. ΔQ = 68,75 − 55 = 13,75.
+TL: Hai lớp 12A và 12B có khoảng tứ phân vị điểm kiểm tra Toán lần lượt là 1,8 và 3,2. Lớp nào có điểm số đồng đều hơn? Giải thích.
+MAU: Khoảng tứ phân vị càng nhỏ thì nửa số liệu ở giữa càng tập trung.
+MAU: Vì 1,8 < 3,2 nên điểm của lớp 12A đồng đều hơn lớp 12B.
+TC: Nêu đúng ý nghĩa của khoảng tứ phân vị | 1.5
+TC: Kết luận đúng lớp 12A đồng đều hơn | 1.5
+
+### Bài 10. Phương sai và độ lệch chuẩn
+> Đo mức độ phân tán của số liệu ghép nhóm quanh số trung bình.
+MT: Tính được phương sai, độ lệch chuẩn của mẫu số liệu ghép nhóm.
+MT: Dùng độ lệch chuẩn để so sánh độ ổn định, mức độ rủi ro trong thực tế.
+LT: 1. Công thức
+- Giá trị đại diện của nhóm [a_i; a_{i+1}) là x_i = (a_i + a_{i+1})/2.
+- Số trung bình: x̄ = (m₁x₁ + m₂x₂ + … + m_kx_k)/n.
+- Phương sai: s² = [m₁(x₁ − x̄)² + … + m_k(x_k − x̄)²]/n = (m₁x₁² + … + m_kx_k²)/n − x̄².
+- Độ lệch chuẩn: s = √s² (cùng đơn vị với số liệu).
+LT: 2. Ý nghĩa
+- s càng lớn thì số liệu càng phân tán quanh số trung bình.
+- Trong đầu tư, độ lệch chuẩn của lợi nhuận càng lớn thì rủi ro càng cao.
+VD: Mẫu số liệu: [0; 2): 2; [2; 4): 5; [4; 6): 3. Tính phương sai và độ lệch chuẩn.
+B: Giá trị đại diện 1; 3; 5; n = 10. x̄ = (2 + 15 + 15)/10 = 3,2.
+B: (2·1 + 5·9 + 3·25)/10 = 12,2. s² = 12,2 − 3,2² = 12,2 − 10,24 = 1,96.
+KQ: s² = 1,96; s = 1,4.
+GN: Phương sai không âm; nếu tính ra số âm là đã nhầm ở bước tính trung bình hoặc bình phương.
+Q: mc | Giá trị đại diện của nhóm [10; 20) là
+A) 10
+B) 20
+C) 15 *
+D) 30
+E: (10 + 20)/2 = 15.
+Q: sa | Mẫu số liệu: [0; 4): 3; [4; 8): 4; [8; 12): 3. Tính phương sai s².
+ANS: 9,6 || 9.6
+E: Giá trị đại diện 2; 6; 10, n = 10. x̄ = (6 + 24 + 30)/10 = 6. (3·4 + 4·36 + 3·100)/10 = 45,6. s² = 45,6 − 36 = 9,6.
+Q: tf | Về phương sai và độ lệch chuẩn của mẫu số liệu ghép nhóm:
+a) Độ lệch chuẩn là căn bậc hai số học của phương sai. | Đ
+b) Độ lệch chuẩn có cùng đơn vị đo với số liệu. | Đ
+c) Phương sai luôn lớn hơn hoặc bằng 0. | Đ
+d) Hai mẫu có cùng số trung bình thì có cùng độ lệch chuẩn. | S
+E: Hai mẫu có thể cùng trung bình nhưng mức phân tán khác nhau.
+TL: Lợi nhuận hằng năm của phương án đầu tư A có trung bình 8%, độ lệch chuẩn 1,5%; phương án B có trung bình 8%, độ lệch chuẩn 4%. Nên chọn phương án nào nếu muốn ít rủi ro? Giải thích.
+MAU: Hai phương án có cùng lợi nhuận trung bình 8%.
+MAU: Độ lệch chuẩn của A nhỏ hơn nên lợi nhuận của A ổn định hơn, ít rủi ro hơn. Chọn phương án A.
+TC: So sánh đúng hai độ lệch chuẩn | 1.5
+TC: Kết luận chọn A và giải thích theo ý nghĩa rủi ro | 1.5
+
+## Chương IV. Nguyên hàm và tích phân
+
+### Bài 11. Nguyên hàm
+> Phép toán ngược của đạo hàm: biết tốc độ thay đổi, tìm lại đại lượng ban đầu.
+MT: Nêu được khái niệm nguyên hàm, tính chất của nguyên hàm.
+MT: Tính được nguyên hàm của các hàm số sơ cấp cơ bản và vận dụng vào bài toán thực tế.
+LT: 1. Khái niệm
+- F(x) là một **nguyên hàm** của f(x) trên K nếu F'(x) = f(x) với mọi x ∈ K.
+- Nếu F là một nguyên hàm của f thì mọi nguyên hàm của f có dạng F(x) + C; viết ∫f(x)dx = F(x) + C.
+LT: 2. Tính chất
+- ∫k·f(x)dx = k∫f(x)dx (k ≠ 0); ∫[f(x) ± g(x)]dx = ∫f(x)dx ± ∫g(x)dx.
+- ∫f'(x)dx = f(x) + C.
+LT: 3. Bảng nguyên hàm cơ bản
+- ∫x^{α}dx = x^{α+1}/(α + 1) + C (α ≠ −1); ∫(1/x)dx = ln|x| + C.
+- ∫e^{x}dx = e^{x} + C; ∫a^{x}dx = a^{x}/ln a + C (0 < a ≠ 1).
+- ∫sin x dx = −cos x + C; ∫cos x dx = sin x + C.
+- ∫(1/cos²x)dx = tan x + C; ∫(1/sin²x)dx = −cot x + C.
+VD: Tính ∫(3x² − 4x + 5)dx.
+KQ: x³ − 2x² + 5x + C.
+VD: Tìm nguyên hàm F(x) của f(x) = 2x + 1 thỏa mãn F(1) = 3.
+B: F(x) = x² + x + C; F(1) = 2 + C = 3 ⇒ C = 1.
+KQ: F(x) = x² + x + 1.
+VD: Tính ∫(2e^{x} − 3/x)dx.
+KQ: 2e^{x} − 3ln|x| + C.
+GN: Đừng quên hằng số C. Kiểm tra lại kết quả bằng cách lấy đạo hàm.
+GN: ∫(1/x)dx = ln|x| + C, có dấu giá trị tuyệt đối.
+Q: mc | ∫cos x dx bằng
+A) −sin x + C
+B) sin x + C *
+C) cos x + C
+D) −cos x + C
+E: (sin x)' = cos x.
+Q: mc | Một nguyên hàm của f(x) = x³ là
+A) 3x²
+B) x⁴
+C) x⁴/4 *
+D) x⁴/3
+E: (x⁴/4)' = x³.
+Q: tf | Cho hàm số f(x) = 2x + e^{x}.
+a) F(x) = x² + e^{x} là một nguyên hàm của f(x). | Đ
+b) ∫f(x)dx = 2 + e^{x} + C. | S
+c) Nguyên hàm F của f thỏa mãn F(0) = 2 là F(x) = x² + e^{x} + 1. | Đ
+d) Mọi nguyên hàm của f đều có dạng x² + e^{x} + C. | Đ
+E: (x² + e^{x})' = 2x + e^{x}. Ý b) là đạo hàm của f chứ không phải nguyên hàm. F(0) = 1 + C = 2 ⇒ C = 1.
+Q: sa | Biết F(x) là nguyên hàm của f(x) = 3x² − 2 và F(1) = 4. Tính F(2).
+ANS: 9
+E: F(x) = x³ − 2x + C; F(1) = −1 + C = 4 ⇒ C = 5. F(2) = 8 − 4 + 5 = 9.
+Q: sa | Một vật chuyển động với vận tốc v(t) = 3t² + 2 (m/s), quãng đường s(0) = 0. Tính quãng đường vật đi được sau 2 giây.
+ANS: 12
+E: s(t) = t³ + 2t + C, s(0) = 0 ⇒ C = 0. s(2) = 8 + 4 = 12 (m).
+TL: Một quần thể vi khuẩn có tốc độ tăng số lượng N'(t) = 1000/(t + 1) (con/ngày), ban đầu có 5000 con. Tìm N(t) và tính số vi khuẩn sau 9 ngày (làm tròn đến hàng đơn vị).
+MAU: N(t) = ∫1000/(t + 1)dt = 1000·ln(t + 1) + C (vì t + 1 > 0).
+MAU: N(0) = 5000 ⇒ C = 5000. Vậy N(t) = 1000·ln(t + 1) + 5000.
+MAU: N(9) = 1000·ln 10 + 5000 ≈ 7303 (con).
+TC: Tìm đúng nguyên hàm 1000·ln(t + 1) + C | 1
+TC: Dùng điều kiện ban đầu tìm C = 5000 | 1
+TC: Tính đúng N(9) ≈ 7303 | 1
+
+### Bài 12. Tích phân
+> Tích phân đo "tổng tích lũy": diện tích, quãng đường, lượng thay đổi.
+MT: Nêu được định nghĩa, tính chất và ý nghĩa hình học của tích phân.
+MT: Tính được tích phân của các hàm số đơn giản, kể cả hàm chứa dấu giá trị tuyệt đối.
+LT: 1. Định nghĩa và ý nghĩa
+- ∫_{a}^{b} f(x)dx = F(b) − F(a), với F là một nguyên hàm của f trên [a; b].
+- Nếu f liên tục, không âm trên [a; b] thì ∫_{a}^{b} f(x)dx là diện tích hình thang cong giới hạn bởi y = f(x), trục Ox và hai đường thẳng x = a, x = b.
+- Quãng đường vật đi được từ thời điểm a đến b: s = ∫_{a}^{b} v(t)dt.
+LT: 2. Tính chất
+- ∫_{a}^{a} f(x)dx = 0; ∫_{a}^{b} f(x)dx = −∫_{b}^{a} f(x)dx.
+- ∫_{a}^{b} k·f(x)dx = k∫_{a}^{b} f(x)dx; ∫_{a}^{b} [f(x) ± g(x)]dx = ∫_{a}^{b} f(x)dx ± ∫_{a}^{b} g(x)dx.
+- ∫_{a}^{b} f(x)dx = ∫_{a}^{c} f(x)dx + ∫_{c}^{b} f(x)dx.
+VD: Tính ∫_{0}^{2} (3x² − 2x)dx.
+B: Một nguyên hàm là x³ − x².
+KQ: (8 − 4) − 0 = 4.
+VD: Tính ∫_{0}^{π} sin x dx.
+KQ: [−cos x] từ 0 đến π = −cos π + cos 0 = 2.
+VD: Tính ∫_{0}^{3} |x − 1|dx.
+B: Trên [0; 1]: |x − 1| = 1 − x; trên [1; 3]: |x − 1| = x − 1.
+B: ∫_{0}^{1}(1 − x)dx = 1/2; ∫_{1}^{3}(x − 1)dx = 2.
+KQ: 2,5.
+GN: Tích phân không phụ thuộc vào tên biến: ∫_{a}^{b} f(x)dx = ∫_{a}^{b} f(t)dt.
+Q: mc | ∫_{1}^{e} (1/x)dx bằng
+A) e
+B) 1 *
+C) 0
+D) e − 1
+E: ln e − ln 1 = 1.
+Q: mc | Biết ∫_{0}^{2} f(x)dx = 3 và ∫_{0}^{2} g(x)dx = −1. Giá trị ∫_{0}^{2} [2f(x) − g(x)]dx là
+A) 5
+B) 7 *
+C) 6
+D) 4
+E: 2·3 − (−1) = 7.
+Q: tf | Xét tính đúng sai:
+a) ∫_{0}^{1} e^{x}dx = e − 1. | Đ
+b) ∫_{0}^{π/2} cos x dx = 1. | Đ
+c) Nếu ∫_{1}^{3} f(x)dx = 5 và ∫_{1}^{2} f(x)dx = 2 thì ∫_{2}^{3} f(x)dx = 3. | Đ
+d) ∫_{−1}^{1} x³dx = 2. | S
+E: ∫_{−1}^{1} x³dx = [x⁴/4] từ −1 đến 1 = 1/4 − 1/4 = 0.
+Q: sa | Một ô tô đang chạy thì hãm phanh, vận tốc v(t) = 10 − 2t (m/s). Tính quãng đường ô tô đi được từ lúc hãm phanh đến khi dừng hẳn (đơn vị mét).
+ANS: 25
+E: Xe dừng khi v = 0 ⇔ t = 5. s = ∫_{0}^{5}(10 − 2t)dt = 50 − 25 = 25 (m).
+TL: Lợi nhuận biên của một xưởng là P'(x) = 50 − 0,4x (triệu đồng/trăm sản phẩm). Tính lợi nhuận tăng thêm khi sản lượng tăng từ 50 lên 100 trăm sản phẩm.
+MAU: Lợi nhuận tăng thêm = ∫_{50}^{100} (50 − 0,4x)dx = [50x − 0,2x²] từ 50 đến 100.
+MAU: = (5000 − 2000) − (2500 − 500) = 3000 − 2000 = 1000 (triệu đồng).
+TC: Lập đúng tích phân với cận 50 và 100 | 1
+TC: Tìm đúng nguyên hàm 50x − 0,2x² | 1
+TC: Tính đúng kết quả 1000 triệu đồng | 1
+
+### Bài 13. Ứng dụng hình học của tích phân
+> Dùng tích phân tính diện tích hình phẳng và thể tích vật thể, khối tròn xoay.
+MT: Tính được diện tích hình phẳng giới hạn bởi các đường cong.
+MT: Tính được thể tích vật thể và thể tích khối tròn xoay.
+LT: 1. Diện tích hình phẳng
+- Hình phẳng giới hạn bởi y = f(x), trục Ox, x = a, x = b: S = ∫_{a}^{b} |f(x)|dx.
+- Giới hạn bởi y = f(x), y = g(x), x = a, x = b: S = ∫_{a}^{b} |f(x) − g(x)|dx.
+- Cách làm: giải f(x) = g(x) để tìm các nghiệm trong [a; b], chia đoạn và bỏ dấu giá trị tuyệt đối trên từng đoạn.
+LT: 2. Thể tích
+- Vật thể có diện tích thiết diện S(x) (vuông góc với Ox tại x), a ≤ x ≤ b: V = ∫_{a}^{b} S(x)dx.
+- Quay hình phẳng giới hạn bởi y = f(x), Ox, x = a, x = b quanh trục Ox: V = π∫_{a}^{b} f²(x)dx.
+VD: Tính diện tích hình phẳng giới hạn bởi y = x² và y = x.
+B: x² = x ⇔ x = 0 hoặc x = 1; trên [0; 1] ta có x ≥ x².
+KQ: S = ∫_{0}^{1}(x − x²)dx = 1/2 − 1/3 = 1/6.
+VD: Tính thể tích khối tròn xoay khi quay hình phẳng giới hạn bởi y = √x, Ox, x = 0, x = 4 quanh Ox.
+KQ: V = π∫_{0}^{4} x dx = 8π.
+GN: Quên dấu giá trị tuyệt đối là lỗi hay gặp nhất: diện tích luôn dương.
+Q: mc | Diện tích hình phẳng giới hạn bởi y = x², trục Ox, x = 0, x = 3 là
+A) 3
+B) 9 *
+C) 27
+D) 6
+E: S = ∫_{0}^{3} x²dx = 27/3 = 9.
+Q: mc | Quay hình phẳng giới hạn bởi y = x, trục Ox, x = 0, x = 1 quanh Ox. Thể tích khối tròn xoay là
+A) π/2
+B) π/3 *
+C) π
+D) 1/3
+E: V = π∫_{0}^{1} x²dx = π/3.
+Q: tf | Cho hình phẳng H giới hạn bởi y = x² − 2x và trục Ox.
+a) Đồ thị cắt Ox tại x = 0 và x = 2. | Đ
+b) Diện tích của H là ∫_{0}^{2}(x² − 2x)dx. | S
+c) Diện tích của H bằng 4/3. | Đ
+d) Thể tích khối tròn xoay khi quay H quanh Ox là π∫_{0}^{2}(x² − 2x)²dx. | Đ
+E: Trên [0; 2] thì x² − 2x ≤ 0, nên S = ∫_{0}^{2}(2x − x²)dx = 4 − 8/3 = 4/3.
+Q: sa | Tính diện tích hình phẳng giới hạn bởi hai đồ thị y = x³ và y = x.
+ANS: 0,5 || 0.5 || 1/2
+E: x³ = x ⇔ x ∈ {−1; 0; 1}. S = ∫_{−1}^{0}(x³ − x)dx + ∫_{0}^{1}(x − x³)dx = 1/4 + 1/4 = 0,5.
+TL: Một cổng chào có dạng parabol, chiều rộng chân cổng 4 m, chiều cao 4 m. Tính diện tích mặt cổng (làm tròn đến hàng phần trăm).
+MAU: Chọn hệ trục có gốc ở trung điểm chân cổng: parabol y = 4 − x², chân cổng từ x = −2 đến x = 2.
+MAU: S = ∫_{−2}^{2}(4 − x²)dx = 16 − 16/3 = 32/3 ≈ 10,67 (m²).
+TC: Chọn hệ trục và viết đúng phương trình parabol | 1
+TC: Lập đúng tích phân với cận −2 và 2 | 1
+TC: Tính đúng diện tích ≈ 10,67 m² | 1
+
+## Chương V. Phương pháp tọa độ trong không gian
+
+### Bài 14. Phương trình mặt phẳng
+> Mô tả mặt phẳng bằng một phương trình bậc nhất ba ẩn.
+MT: Xác định vectơ pháp tuyến, viết phương trình mặt phẳng trong các trường hợp thường gặp.
+MT: Xét song song, vuông góc của hai mặt phẳng; tính khoảng cách từ một điểm đến mặt phẳng.
+LT: 1. Vectơ pháp tuyến
+- n→ ≠ 0→ là vectơ pháp tuyến (VTPT) của (P) nếu giá của n→ vuông góc với (P).
+- Nếu u→ = (u₁; u₂; u₃), v→ = (v₁; v₂; v₃) không cùng phương và có giá song song hoặc nằm trong (P) thì n→ = (u₂v₃ − u₃v₂; u₃v₁ − u₁v₃; u₁v₂ − u₂v₁) là một VTPT của (P).
+LT: 2. Phương trình mặt phẳng
+- Phương trình tổng quát: Ax + By + Cz + D = 0 (A² + B² + C² > 0) có VTPT n→ = (A; B; C).
+- Mặt phẳng qua M₀(x₀; y₀; z₀) có VTPT n→ = (A; B; C): A(x − x₀) + B(y − y₀) + C(z − z₀) = 0.
+- Mặt phẳng qua A(a; 0; 0), B(0; b; 0), C(0; 0; c) (abc ≠ 0): x/a + y/b + z/c = 1.
+LT: 3. Vị trí tương đối và khoảng cách
+- (P) ∥ (Q) hoặc trùng nhau ⇔ hai VTPT cùng phương; (P) ⊥ (Q) ⇔ n₁→·n₂→ = 0.
+- Khoảng cách từ M₀ đến (P): d = |Ax₀ + By₀ + Cz₀ + D|/√(A² + B² + C²).
+VD: Viết phương trình mặt phẳng (P) qua M(1; −2; 3) có VTPT n→ = (2; −1; 2), rồi tính khoảng cách từ O đến (P).
+B: 2(x − 1) − (y + 2) + 2(z − 3) = 0 ⇔ 2x − y + 2z − 10 = 0.
+B: d(O, (P)) = |−10|/√(4 + 1 + 4) = 10/3.
+KQ: (P): 2x − y + 2z − 10 = 0; d = 10/3.
+VD: Viết phương trình mặt phẳng qua A(1; 0; 0), B(0; 2; 0), C(0; 0; 3).
+KQ: x/1 + y/2 + z/3 = 1 ⇔ 6x + 3y + 2z − 6 = 0.
+GN: Một mặt phẳng có vô số VTPT, chúng cùng phương với nhau.
+Q: mc | Một vectơ pháp tuyến của mặt phẳng 2x − 3z + 1 = 0 là
+A) (2; −3; 1)
+B) (2; 0; −3) *
+C) (2; −3; 0)
+D) (0; 2; −3)
+E: Hệ số của y bằng 0 nên n→ = (2; 0; −3).
+Q: mc | Khoảng cách từ M(1; 2; 3) đến mặt phẳng x + 2y + 2z − 4 = 0 là
+A) 7/3 *
+B) 3
+C) 11/3
+D) 7
+E: d = |1 + 4 + 6 − 4|/√(1 + 4 + 4) = 7/3.
+Q: tf | Cho mặt phẳng (P): x − 2y + 2z − 3 = 0.
+a) (P) có VTPT n→ = (1; −2; 2). | Đ
+b) Điểm A(1; −1; 0) thuộc (P). | Đ
+c) Mặt phẳng (Q): 2x − 4y + 4z + 1 = 0 song song với (P). | Đ
+d) Khoảng cách từ O đến (P) bằng 3. | S
+E: 1 + 2 + 0 − 3 = 0 nên A ∈ (P). VTPT của (Q) gấp 2 lần của (P) nhưng hệ số tự do không tương ứng nên (Q) ∥ (P). d(O, (P)) = 3/3 = 1.
+Q: sa | Tìm m để mặt phẳng (P): x + my − z + 1 = 0 vuông góc với mặt phẳng (Q): 2x + y + 3z = 0.
+ANS: 1
+E: n₁→·n₂→ = 2 + m − 3 = 0 ⇔ m = 1.
+TL: Cho (P): x + 2y − 2z + 1 = 0 và (Q): x + 2y − 2z − 8 = 0. Chứng minh (P) ∥ (Q) và tính khoảng cách giữa chúng.
+MAU: Hai VTPT bằng nhau (1; 2; −2) còn hệ số tự do khác nhau (1 ≠ −8) nên (P) ∥ (Q).
+MAU: Lấy A(−1; 0; 0) ∈ (P). d((P), (Q)) = d(A, (Q)) = |−1 − 8|/√(1 + 4 + 4) = 3.
+TC: Chứng minh đúng hai mặt phẳng song song | 1
+TC: Chọn được một điểm thuộc (P) | 1
+TC: Tính đúng khoảng cách bằng 3 | 1
+
+### Bài 15. Phương trình đường thẳng trong không gian
+> Mô tả đường thẳng bằng một điểm và một vectơ chỉ phương.
+MT: Viết được phương trình tham số, phương trình chính tắc của đường thẳng.
+MT: Xét vị trí tương đối giữa hai đường thẳng, giữa đường thẳng và mặt phẳng; tìm giao điểm.
+LT: 1. Phương trình đường thẳng
+- u→ ≠ 0→ là vectơ chỉ phương (VTCP) của Δ nếu giá của u→ song song hoặc trùng với Δ.
+- Δ qua M₀(x₀; y₀; z₀), VTCP u→ = (a; b; c): phương trình tham số x = x₀ + at; y = y₀ + bt; z = z₀ + ct (t ∈ ℝ).
+- Nếu abc ≠ 0: phương trình chính tắc (x − x₀)/a = (y − y₀)/b = (z − z₀)/c.
+LT: 2. Vị trí tương đối
+- Hai đường thẳng: song song, trùng nhau, cắt nhau hoặc chéo nhau (xét hai VTCP có cùng phương không và hai đường có điểm chung không).
+- Δ ⊥ (P) ⇔ u→ cùng phương với n→; Δ ∥ (P) ⇔ u→·n→ = 0 và M₀ ∉ (P).
+- Tìm giao điểm của Δ và (P): thay x, y, z theo t vào phương trình (P) để tìm t.
+VD: Viết phương trình đường thẳng qua A(1; 2; 3) và B(3; 1; 1), rồi tìm giao điểm với (P): x + y + z − 3 = 0.
+B: u→ = AB→ = (2; −1; −2): x = 1 + 2t; y = 2 − t; z = 3 − 2t.
+B: Thay vào (P): (1 + 2t) + (2 − t) + (3 − 2t) − 3 = 0 ⇔ 3 − t = 0 ⇔ t = 3.
+KQ: Giao điểm (7; −1; −3).
+GN: Một đường thẳng có vô số phương trình tham số (tùy chọn điểm và VTCP).
+Q: mc | Một vectơ chỉ phương của đường thẳng (x − 1)/2 = (y + 3)/(−1) = z/4 là
+A) (1; −3; 0)
+B) (2; −1; 4) *
+C) (−1; 3; 0)
+D) (2; 1; 4)
+E: Đọc các mẫu số: u→ = (2; −1; 4).
+Q: mc | Điểm nào thuộc đường thẳng x = 1 + t; y = 2t; z = −1 + 3t?
+A) (2; 2; 2) *
+B) (1; 2; 3)
+C) (0; 2; 4)
+D) (2; 1; 2)
+E: Với t = 1 ta được (2; 2; 2).
+Q: tf | Cho Δ: x = 1 + t; y = 2 − t; z = 3 + 2t và (P): x − y + 2z + 1 = 0.
+a) Δ có VTCP u→ = (1; −1; 2). | Đ
+b) Δ vuông góc với (P). | Đ
+c) Δ đi qua điểm M(1; 2; 3). | Đ
+d) Δ song song với (P). | S
+E: VTPT của (P) là (1; −1; 2) trùng với VTCP của Δ nên Δ ⊥ (P), không thể song song.
+Q: sa | Đường thẳng x = t; y = 1 + t; z = 2 − t cắt mặt phẳng (Oxy) tại điểm M. Tính tổng các tọa độ của M.
+ANS: 5
+E: (Oxy): z = 0 ⇔ 2 − t = 0 ⇔ t = 2. M(2; 3; 0), tổng bằng 5.
+TL: Một thiết bị bay xuất phát từ A(0; 0; 10) và bay thẳng đều với vectơ vận tốc u→ = (3; 4; 0) (km/h). Viết phương trình đường bay, tìm vị trí sau 2 giờ và quãng đường đã bay.
+MAU: Phương trình đường bay: x = 3t; y = 4t; z = 10 (t ≥ 0, tính bằng giờ).
+MAU: Sau 2 giờ thiết bị ở (6; 8; 10).
+MAU: Tốc độ |u→| = 5 km/h nên quãng đường bay được là 10 km.
+TC: Viết đúng phương trình tham số | 1
+TC: Tìm đúng vị trí (6; 8; 10) | 1
+TC: Tính đúng quãng đường 10 km | 1
+
+### Bài 16. Công thức tính góc trong không gian
+> Tính góc giữa hai đường thẳng, giữa đường thẳng và mặt phẳng, giữa hai mặt phẳng bằng tọa độ.
+MT: Tính được các loại góc trong không gian bằng phương pháp tọa độ.
+MT: Vận dụng vào bài toán thực tế (độ dốc mái nhà, góc nghiêng, …).
+LT: 1. Các công thức (các góc đều thuộc [0°; 90°])
+- Hai đường thẳng có VTCP u₁→, u₂→: cos(Δ₁, Δ₂) = |u₁→·u₂→|/(|u₁→|·|u₂→|).
+- Đường thẳng (VTCP u→) và mặt phẳng (VTPT n→): sin(Δ, (P)) = |u→·n→|/(|u→|·|n→|).
+- Hai mặt phẳng có VTPT n₁→, n₂→: cos((P), (Q)) = |n₁→·n₂→|/(|n₁→|·|n₂→|).
+VD: Tính góc giữa hai mặt phẳng (P): x − z = 0 và (Q): y − z = 0.
+B: n₁→ = (1; 0; −1), n₂→ = (0; 1; −1); cos = |0 + 0 + 1|/(√2·√2) = 1/2.
+KQ: Góc giữa (P) và (Q) bằng 60°.
+VD: Tính góc giữa đường thẳng có VTCP u→ = (1; 0; 1) và mặt phẳng (Oxy).
+B: (Oxy) có VTPT k→ = (0; 0; 1); sin = 1/(√2·1) = √2/2.
+KQ: Góc bằng 45°.
+GN: Góc giữa đường thẳng và mặt phẳng dùng **sin** (không phải cos).
+Q: mc | Góc giữa hai đường thẳng có VTCP u₁→ = (1; 1; 0) và u₂→ = (0; 1; 1) bằng
+A) 30°
+B) 45°
+C) 60° *
+D) 90°
+E: cos = 1/(√2·√2) = 1/2 nên góc bằng 60°.
+Q: mc | Góc giữa đường thẳng có VTCP (0; 0; 1) và mặt phẳng z = 5 bằng
+A) 0°
+B) 45°
+C) 60°
+D) 90° *
+E: VTCP cùng phương với VTPT (0; 0; 1) nên đường thẳng vuông góc với mặt phẳng.
+Q: tf | Cho (P): x + y + z − 1 = 0.
+a) Góc giữa (P) và (Oxy) có côsin bằng 1/√3. | Đ
+b) Đường thẳng có VTCP (1; −1; 0) song song hoặc nằm trong (P). | Đ
+c) Góc giữa trục Oz và (P) bằng 90°. | S
+d) (P) vuông góc với mặt phẳng x − y = 0. | Đ
+E: (1; 1; 1)·(0; 0; 1) = 1 nên cos = 1/√3. (1; 1; 1)·(1; −1; 0) = 0. sin(Oz, (P)) = 1/√3 nên góc không bằng 90°. (1; 1; 1)·(1; −1; 0) = 0 nên hai mặt phẳng vuông góc.
+Q: sa | Một mái nhà nằm trong mặt phẳng x + z − 3 = 0, mặt đất là mặt phẳng z = 0. Tính góc nghiêng của mái nhà so với mặt đất (đơn vị độ).
+ANS: 45
+E: n₁→ = (1; 0; 1), n₂→ = (0; 0; 1); cos = 1/√2, góc bằng 45°.
+TL: Cho A(1; 0; 0), B(0; 1; 0), C(0; 0; 1). Tính góc giữa đường thẳng OA và mặt phẳng (ABC) (làm tròn đến độ).
+MAU: (ABC): x + y + z − 1 = 0, VTPT n→ = (1; 1; 1). OA có VTCP u→ = (1; 0; 0).
+MAU: sin = |1|/(1·√3) = 1/√3 ⇒ góc ≈ 35°.
+TC: Viết đúng phương trình (ABC) hoặc VTPT | 1
+TC: Áp dụng đúng công thức sin | 1
+TC: Tính đúng góc ≈ 35° | 1
+
+### Bài 17. Phương trình mặt cầu
+> Mặt cầu là tập hợp các điểm cách đều một điểm cố định.
+MT: Nhận biết, viết được phương trình mặt cầu; xác định tâm và bán kính.
+MT: Xét vị trí tương đối giữa mặt cầu và mặt phẳng; vận dụng vào thực tế.
+LT: 1. Phương trình mặt cầu
+- Mặt cầu tâm I(a; b; c), bán kính R: (x − a)² + (y − b)² + (z − c)² = R².
+- Phương trình x² + y² + z² − 2ax − 2by − 2cz + d = 0 là phương trình mặt cầu ⇔ a² + b² + c² − d > 0; khi đó tâm I(a; b; c), R = √(a² + b² + c² − d).
+LT: 2. Mặt cầu và mặt phẳng (h = d(I, (P)))
+- h > R: không có điểm chung; h = R: tiếp xúc; h < R: cắt theo đường tròn bán kính r = √(R² − h²).
+VD: Tìm tâm và bán kính mặt cầu x² + y² + z² − 2x + 4y − 6z − 2 = 0.
+B: a = 1, b = −2, c = 3, d = −2.
+KQ: I(1; −2; 3), R = √(1 + 4 + 9 + 2) = 4.
+VD: Viết phương trình mặt cầu tâm I(1; 2; 3) tiếp xúc với (P): 2x − y + 2z + 3 = 0.
+B: R = d(I, (P)) = |2 − 2 + 6 + 3|/3 = 3.
+KQ: (x − 1)² + (y − 2)² + (z − 3)² = 9.
+GN: Với dạng khai triển, nhớ chia cho hệ số của x² (nếu khác 1) trước khi đọc tâm.
+Q: mc | Mặt cầu (x − 1)² + y² + (z + 2)² = 9 có tâm và bán kính là
+A) I(1; 0; −2), R = 3 *
+B) I(−1; 0; 2), R = 3
+C) I(1; 0; −2), R = 9
+D) I(1; 0; 2), R = 3
+E: Đọc trực tiếp từ dạng chính tắc.
+Q: mc | Mặt cầu đường kính AB với A(1; 0; 2), B(3; 2; 0) có bán kính
+A) √3 *
+B) 2√3
+C) 3
+D) √12
+E: AB = √(4 + 4 + 4) = 2√3, R = AB/2 = √3.
+Q: tf | Cho mặt cầu (S): x² + y² + z² − 4x + 2z − 4 = 0.
+a) (S) có tâm I(2; 0; −1). | Đ
+b) Bán kính của (S) bằng 3. | Đ
+c) Gốc tọa độ O nằm bên trong mặt cầu. | Đ
+d) (S) tiếp xúc với mặt phẳng (Oxy). | S
+E: R² = 4 + 0 + 1 + 4 = 9. OI = √5 < 3. d(I, (Oxy)) = 1 < 3 nên (S) cắt (Oxy).
+Q: sa | Mặt cầu x² + y² + z² = 25 cắt mặt phẳng z = 3 theo một đường tròn. Tính bán kính đường tròn đó.
+ANS: 4
+E: R = 5, h = 3, r = √(25 − 9) = 4.
+TL: Một trạm phát sóng đặt tại I(2; 1; 0) phủ sóng trong phạm vi bán kính 5 km (đơn vị trên các trục là km). Viết phương trình mặt cầu biên vùng phủ sóng. Điểm A(5; 5; 0) có nhận được sóng không?
+MAU: Mặt cầu: (x − 2)² + (y − 1)² + z² = 25.
+MAU: IA = √(9 + 16 + 0) = 5 = R, nên A nằm trên biên vùng phủ sóng, vẫn nhận được sóng (ở rìa).
+TC: Viết đúng phương trình mặt cầu | 1
+TC: Tính đúng IA = 5 | 1
+TC: So sánh với R và kết luận đúng | 1
+
+## Chương VI. Xác suất có điều kiện
+
+### Bài 18. Xác suất có điều kiện
+> Xác suất của một biến cố thay đổi thế nào khi biết thêm thông tin.
+MT: Hiểu và tính được xác suất có điều kiện; sử dụng công thức nhân xác suất.
+MT: Dùng sơ đồ hình cây, bảng hai chiều để tính xác suất.
+LT: 1. Định nghĩa
+- Xác suất của A với điều kiện B (P(B) > 0): P(A|B) = P(A ∩ B)/P(B).
+- Với không gian mẫu gồm các kết quả đồng khả năng: P(A|B) = n(A ∩ B)/n(B).
+LT: 2. Công thức nhân và tính độc lập
+- P(A ∩ B) = P(B)·P(A|B) = P(A)·P(B|A).
+- A và B độc lập ⇔ P(A|B) = P(A) ⇔ P(A ∩ B) = P(A)·P(B).
+- Sơ đồ hình cây: nhân các xác suất dọc theo một nhánh, cộng xác suất của các nhánh cùng dẫn đến biến cố.
+VD: Lớp có 40 học sinh, 25 nữ, trong đó 15 nữ thích môn Toán. Chọn ngẫu nhiên một học sinh, biết đó là học sinh nữ. Tính xác suất học sinh đó thích Toán.
+KQ: P = 15/25 = 0,6.
+VD: Hộp có 5 bi đỏ và 3 bi xanh. Lấy lần lượt 2 bi không hoàn lại. Tính xác suất cả hai bi đều đỏ.
+B: P(lần 1 đỏ) = 5/8; P(lần 2 đỏ | lần 1 đỏ) = 4/7.
+KQ: P = 5/8·4/7 = 5/14.
+GN: Phân biệt P(A|B) với P(B|A) – hai số này thường khác nhau.
+Q: mc | Biết P(B) = 0,5 và P(A ∩ B) = 0,2. Giá trị P(A|B) là
+A) 0,1
+B) 0,4 *
+C) 0,7
+D) 0,25
+E: P(A|B) = 0,2/0,5 = 0,4.
+Q: mc | Gieo một con xúc xắc cân đối. Biết số chấm xuất hiện là số chẵn, xác suất ra mặt 6 chấm là
+A) 1/6
+B) 1/2
+C) 1/3 *
+D) 2/3
+E: Có 3 mặt chẵn (2; 4; 6), trong đó một mặt 6: P = 1/3.
+Q: tf | Cho P(A) = 0,4; P(B) = 0,5; P(A ∩ B) = 0,2.
+a) P(A|B) = 0,4. | Đ
+b) A và B là hai biến cố độc lập. | Đ
+c) P(B|A) = 0,5. | Đ
+d) P(A ∪ B) = 0,9. | S
+E: P(A)·P(B) = 0,2 = P(A ∩ B) nên A, B độc lập. P(A ∪ B) = 0,4 + 0,5 − 0,2 = 0,7.
+Q: sa | Rút lần lượt hai thẻ không hoàn lại từ 10 thẻ đánh số 1 đến 10. Biết thẻ thứ nhất mang số chẵn, tính xác suất thẻ thứ hai cũng mang số chẵn (làm tròn đến hàng phần trăm).
+ANS: 0,44 || 0.44
+E: Còn 9 thẻ, trong đó 4 thẻ chẵn: P = 4/9 ≈ 0,44.
+TL: Khảo sát 100 học sinh: 60 em tham gia câu lạc bộ thể thao, trong số đó 24 em đeo kính; trong 40 em không tham gia có 20 em đeo kính. Chọn ngẫu nhiên một em. Tính xác suất em đó đeo kính biết em tham gia câu lạc bộ; và xác suất em đó tham gia câu lạc bộ biết em đeo kính.
+MAU: P(kính | thể thao) = 24/60 = 0,4.
+MAU: Số em đeo kính: 24 + 20 = 44. P(thể thao | kính) = 24/44 ≈ 0,55.
+TC: Lập bảng hoặc xác định đúng các số liệu | 1
+TC: Tính đúng P(kính | thể thao) = 0,4 | 1
+TC: Tính đúng P(thể thao | kính) ≈ 0,55 | 1
+
+### Bài 19. Công thức xác suất toàn phần và công thức Bayes
+> Tính xác suất qua các trường hợp và "suy ngược" nguyên nhân từ kết quả.
+MT: Sử dụng được công thức xác suất toàn phần và công thức Bayes.
+MT: Vận dụng vào các bài toán thực tế: kiểm tra chất lượng, xét nghiệm, lọc thư rác.
+LT: 1. Công thức xác suất toàn phần
+- Với 0 < P(B) < 1: P(A) = P(B)·P(A|B) + P(B̄)·P(A|B̄).
+LT: 2. Công thức Bayes
+- P(B|A) = P(B)·P(A|B)/P(A) = P(B)·P(A|B)/[P(B)·P(A|B) + P(B̄)·P(A|B̄)] (P(A) > 0).
+- Ý nghĩa: cập nhật xác suất của "nguyên nhân" B khi đã quan sát được "kết quả" A.
+VD: Máy I sản xuất 60% sản phẩm với tỉ lệ lỗi 2%, máy II sản xuất 40% với tỉ lệ lỗi 3%. Chọn ngẫu nhiên một sản phẩm. Tính xác suất sản phẩm bị lỗi; biết sản phẩm bị lỗi, tính xác suất nó do máy I sản xuất.
+B: P(lỗi) = 0,6·0,02 + 0,4·0,03 = 0,012 + 0,012 = 0,024.
+B: P(máy I | lỗi) = 0,012/0,024 = 0,5.
+KQ: P(lỗi) = 0,024; P(máy I | lỗi) = 0,5.
+VD: Tỉ lệ mắc một bệnh là 1%. Xét nghiệm cho kết quả dương tính đúng ở 95% người bệnh và dương tính nhầm ở 5% người không bệnh. Một người có kết quả dương tính, xác suất người đó thực sự mắc bệnh là bao nhiêu?
+B: P(+) = 0,01·0,95 + 0,99·0,05 = 0,0095 + 0,0495 = 0,059.
+KQ: P(bệnh | +) = 0,0095/0,059 ≈ 0,16 – thấp hơn nhiều so với trực giác.
+GN: Vẽ sơ đồ hình cây hai tầng giúp áp dụng đúng hai công thức.
+Q: mc | Cho P(B) = 0,3; P(A|B) = 0,5; P(A|B̄) = 0,2. Giá trị P(A) là
+A) 0,29 *
+B) 0,35
+C) 0,7
+D) 0,15
+E: P(A) = 0,3·0,5 + 0,7·0,2 = 0,15 + 0,14 = 0,29.
+Q: sa | Với P(B) = 0,3; P(A|B) = 0,5; P(A|B̄) = 0,2, tính P(B|A) (làm tròn đến hàng phần trăm).
+ANS: 0,52 || 0.52
+E: P(B|A) = 0,15/0,29 ≈ 0,52.
+Q: tf | Một xưởng có hai dây chuyền: dây chuyền 1 làm 70% sản phẩm, tỉ lệ đạt chuẩn 90%; dây chuyền 2 làm 30%, tỉ lệ đạt chuẩn 80%.
+a) Xác suất một sản phẩm chọn ngẫu nhiên đạt chuẩn là 0,87. | Đ
+b) Xác suất một sản phẩm không đạt chuẩn là 0,13. | Đ
+c) Biết sản phẩm không đạt chuẩn, xác suất nó do dây chuyền 2 làm ra lớn hơn 0,5. | S
+d) Biết sản phẩm đạt chuẩn, xác suất nó do dây chuyền 1 làm ra là 0,7. | S
+E: P(đạt) = 0,7·0,9 + 0,3·0,8 = 0,63 + 0,24 = 0,87, nên P(không đạt) = 0,13. P(dc2 | không đạt) = 0,3·0,2/0,13 = 0,06/0,13 ≈ 0,46 < 0,5. P(dc1 | đạt) = 0,63/0,87 ≈ 0,72 ≠ 0,7.
+TL: Có 30% thư điện tử là thư rác. Từ "khuyến mãi" xuất hiện trong 60% thư rác và trong 5% thư thường. Một thư có chứa từ "khuyến mãi". Tính xác suất thư đó là thư rác (làm tròn đến hàng phần trăm).
+MAU: P(có từ) = 0,3·0,6 + 0,7·0,05 = 0,18 + 0,035 = 0,215.
+MAU: P(rác | có từ) = 0,18/0,215 ≈ 0,84.
+TC: Áp dụng đúng công thức xác suất toàn phần, P = 0,215 | 1.5
+TC: Áp dụng đúng công thức Bayes, kết quả ≈ 0,84 | 1.5
