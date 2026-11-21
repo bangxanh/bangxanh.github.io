@@ -2,18 +2,901 @@
 # 6 | toan | Toán 6
 ## Chương I. Tập hợp các số tự nhiên
 ### Bài 1. Tập hợp
+> Hộp bút của em có bút chì, bút bi, thước kẻ, tẩy – đó là một "tập hợp" đồ dùng học tập. Trong Toán học, ta gom các đối tượng có chung đặc điểm thành một tập hợp để nghiên cứu cho gọn và rõ.
+MT: Nhận biết được tập hợp và phần tử của tập hợp; sử dụng đúng các kí hiệu ∈ (thuộc) và ∉ (không thuộc).
+MT: Mô tả được một tập hợp bằng hai cách: liệt kê các phần tử và chỉ ra tính chất đặc trưng cho các phần tử.
+MT: Minh họa được tập hợp bằng vòng kín (sơ đồ Ven); vận dụng để viết tập hợp, đếm số phần tử trong các bài toán đơn giản.
+LT: 1. Tập hợp và phần tử của tập hợp
+- Các đối tượng có chung một đặc điểm nào đó được gom lại thành một **tập hợp**; mỗi đối tượng là một **phần tử** của tập hợp.
+- Người ta thường đặt tên tập hợp bằng chữ cái in hoa: A, B, C, M, …
+- Nếu x là phần tử của tập hợp A, ta viết **x ∈ A** (đọc: x thuộc A). Nếu y không là phần tử của A, ta viết **y ∉ A** (đọc: y không thuộc A).
+- Ví dụ: gọi B là tập hợp các số tự nhiên nhỏ hơn 4 thì 0 ∈ B, 3 ∈ B nhưng 4 ∉ B.
+LT: 2. Mô tả một tập hợp
+- Cách 1 – **Liệt kê các phần tử**: viết các phần tử trong hai dấu ngoặc nhọn { }, cách nhau bởi dấu chấm phẩy ";". Ví dụ: B = {0; 1; 2; 3}.
+- Mỗi phần tử chỉ được liệt kê **một lần**, thứ tự liệt kê tùy ý: {0; 1; 2; 3} và {3; 1; 0; 2} là cùng một tập hợp.
+- Cách 2 – **Chỉ ra tính chất đặc trưng** cho các phần tử: B = {x | x là số tự nhiên nhỏ hơn 4}, hay gọn hơn B = {x ∈ ℕ | x < 4}, trong đó **ℕ** là tập hợp các số tự nhiên.
+- Có thể minh họa tập hợp bằng một **vòng kín** (sơ đồ Ven): mỗi phần tử là một dấu chấm nằm bên trong vòng; đối tượng không thuộc tập hợp được vẽ bên ngoài vòng.
+HINH: 6-toan/bai1-so-do-ven.svg | Sơ đồ Ven của tập hợp A các số tự nhiên lẻ nhỏ hơn 10: số 3 nằm trong vòng kín nên 3 ∈ A; số 4 và số 8 nằm ngoài nên 4 ∉ A, 8 ∉ A.
+DB: Dạng 1. Viết tập hợp bằng cách liệt kê các phần tử
+- Bước 1: Đọc kĩ điều kiện, xác định đúng các đối tượng thỏa mãn (chú ý "nhỏ hơn" (<) khác "không vượt quá" (≤); ℕ có chứa số 0).
+- Bước 2: Viết các phần tử trong dấu { }, ngăn cách bởi dấu ";", mỗi phần tử chỉ viết một lần.
+DB: Dạng 2. Viết tập hợp bằng cách chỉ ra tính chất đặc trưng
+- Bước 1: Quan sát các phần tử đã cho, tìm đặc điểm chung (số chẵn, số lẻ, nằm giữa hai số nào…).
+- Bước 2: Viết dưới dạng {x | tính chất của x} hoặc {x ∈ ℕ | điều kiện của x}.
+DB: Dạng 3. Dùng kí hiệu ∈, ∉ và đếm số phần tử của tập hợp
+- Kiểm tra đối tượng có thỏa mãn tính chất đặc trưng hay không: thỏa mãn thì dùng ∈, không thỏa mãn thì dùng ∉.
+- Tập hợp ít phần tử: liệt kê rồi đếm. Tập hợp các số cách đều nhau: số phần tử = (số lớn nhất − số nhỏ nhất) : khoảng cách + 1.
+VD: Gọi A là tập hợp các chữ cái trong cụm từ "NHA TRANG". Viết tập hợp A bằng cách liệt kê các phần tử. A có bao nhiêu phần tử?
+B: Các chữ cái lần lượt xuất hiện: N, H, A, T, R, A, N, G.
+B: Chữ A và chữ N xuất hiện hai lần nhưng mỗi phần tử chỉ được viết một lần.
+KQ: A = {N; H; A; T; R; G}; tập hợp A có 6 phần tử.
+VD: Cho tập hợp B = {x ∈ ℕ | 7 < x ≤ 12}. Viết B bằng cách liệt kê các phần tử rồi điền kí hiệu ∈ hoặc ∉ thích hợp: 7 … B; 12 … B.
+B: x là số tự nhiên lớn hơn 7 (không lấy 7) và không vượt quá 12 (lấy cả 12).
+B: Các số đó là 8; 9; 10; 11; 12.
+B: 7 không thỏa mãn điều kiện 7 < x; còn 12 thỏa mãn 7 < 12 ≤ 12.
+KQ: B = {8; 9; 10; 11; 12}; 7 ∉ B; 12 ∈ B.
+GN: Mỗi phần tử chỉ viết một lần; chữ cái (hoặc số) lặp lại trong đề bài cũng chỉ ghi một lần.
+GN: Phân biệt "nhỏ hơn" (<) với "không vượt quá" (≤); "lớn hơn" (>) với "không nhỏ hơn" (≥). Đừng quên số 0 là số tự nhiên.
+GN: Các phần tử là số được ngăn cách bởi dấu ";" (không dùng dấu phẩy, để khỏi nhầm với số thập phân); kí hiệu ∈, ∉ đặt giữa một phần tử và một tập hợp.
+Q: mc | Cho tập hợp M = {2; 4; 6; 8}. Cách viết nào sau đây đúng?
+A) 4 ∉ M
+B) 5 ∈ M
+C) 8 ∈ M *
+D) 2 ∉ M
+E: Các phần tử của M là 2, 4, 6, 8. Vậy 8 ∈ M là đúng; 4 ∈ M và 2 ∈ M nên A, D sai; 5 ∉ M nên B sai.
+Q: mc | Tập hợp P = {x ∈ ℕ | x < 4} viết bằng cách liệt kê các phần tử là
+A) P = {1; 2; 3}
+B) P = {0; 1; 2; 3} *
+C) P = {0; 1; 2; 3; 4}
+D) P = {1; 2; 3; 4}
+E: x là số tự nhiên nhỏ hơn 4 nên x ∈ {0; 1; 2; 3}. Phương án A thiếu số 0; C và D có số 4 không thỏa mãn x < 4.
+Q: tf | Cho tập hợp E = {x ∈ ℕ | 3 ≤ x < 9}.
+a) Tập hợp E có 6 phần tử. | Đ
+b) 9 ∈ E. | S
+c) 3 ∈ E. | Đ
+d) E = {4; 5; 6; 7; 8}. | S
+E: E = {3; 4; 5; 6; 7; 8} gồm 6 phần tử. Số 3 thuộc E vì 3 ≤ 3 < 9; số 9 không thuộc E vì không thỏa mãn x < 9; ý d) thiếu phần tử 3.
+Q: sa | Tập hợp các số tự nhiên chẵn lớn hơn 20 và nhỏ hơn 60 có bao nhiêu phần tử?
+ANS: 19
+E: Các số đó là 22; 24; …; 58 (cách đều 2 đơn vị). Số phần tử: (58 − 22) : 2 + 1 = 18 + 1 = 19.
+Q: match | Nối mỗi tập hợp (mô tả bằng lời) với cách viết liệt kê tương ứng:
+1) Các số tự nhiên nhỏ hơn 3 | {0; 1; 2}
+2) Các số tự nhiên khác 0 và nhỏ hơn 3 | {1; 2}
+3) Các số tự nhiên không vượt quá 3 | {0; 1; 2; 3}
+4) Các số tự nhiên lớn hơn 2 và nhỏ hơn 4 | {3}
+E: "Không vượt quá 3" nghĩa là ≤ 3 nên có cả số 3; "khác 0" thì bỏ số 0; số tự nhiên vừa lớn hơn 2 vừa nhỏ hơn 4 chỉ có số 3.
+TL: Cho A là tập hợp các số tự nhiên lớn hơn 5 và không vượt quá 11. a) Viết tập hợp A bằng hai cách. b) Điền kí hiệu ∈ hoặc ∉ vào chỗ chấm: 5 … A; 11 … A; 8 … A. c) Tập hợp A có bao nhiêu phần tử?
+MAU: a) Liệt kê: A = {6; 7; 8; 9; 10; 11}. Chỉ ra tính chất đặc trưng: A = {x ∈ ℕ | 5 < x ≤ 11}.
+MAU: b) 5 ∉ A (vì 5 không lớn hơn 5); 11 ∈ A (vì "không vượt quá 11" có lấy 11); 8 ∈ A.
+MAU: c) Tập hợp A có 6 phần tử.
+TC: Viết đúng A bằng cách liệt kê và bằng cách chỉ ra tính chất đặc trưng | 1
+TC: Điền đúng cả ba kí hiệu ∈, ∉ và có giải thích | 1
+TC: Đếm đúng số phần tử của A | 1
+
 ### Bài 2. Cách ghi số tự nhiên
+> Chỉ với mười chữ số từ 0 đến 9, ta ghi được mọi số tự nhiên – từ số học sinh trong lớp đến số dân của cả một đất nước. Bí quyết nằm ở "giá trị theo vị trí" của mỗi chữ số.
+MT: Nhận biết được hệ thập phân: cách ghi số tự nhiên bằng mười chữ số, hàng và lớp; giá trị của mỗi chữ số phụ thuộc vào vị trí của nó.
+MT: Đọc, viết được số tự nhiên; biểu diễn được một số thành tổng giá trị các chữ số của nó.
+MT: Đọc và viết được các số La Mã không quá 30.
+LT: 1. Hệ thập phân
+- Trong **hệ thập phân**, người ta dùng mười chữ số 0; 1; 2; 3; 4; 5; 6; 7; 8; 9 để ghi số tự nhiên.
+- Cứ 10 đơn vị ở một hàng thì làm thành 1 đơn vị ở hàng liền trước nó (hàng cao hơn): 10 đơn vị = 1 chục; 10 chục = 1 trăm; 10 trăm = 1 nghìn; …
+- Mỗi chữ số có **giá trị phụ thuộc vào vị trí** của nó. Ví dụ trong số 777: chữ số 7 đầu tiên có giá trị 700, chữ số 7 thứ hai có giá trị 70, chữ số 7 cuối cùng có giá trị 7.
+- Khi viết số có nhiều chữ số, ta tách thành từng **lớp** gồm ba hàng tính từ phải sang trái: lớp đơn vị (đơn vị, chục, trăm), lớp nghìn, lớp triệu, lớp tỉ… Đọc số lần lượt theo từng lớp, từ lớp cao đến lớp thấp.
+- Mỗi số tự nhiên bằng **tổng giá trị các chữ số** của nó. Ví dụ: 4 653 = 4 · 1 000 + 6 · 100 + 5 · 10 + 3. Kí hiệu a̅b̅ chỉ số có hai chữ số (a ≠ 0): a̅b̅ = a · 10 + b; a̅b̅c̅ = a · 100 + b · 10 + c.
+HINH: 6-toan/bai2-hang-lop.svg | Bảng hàng và lớp của số 803 506 274: mỗi lớp gồm ba hàng; chữ số 5 đứng ở hàng trăm nghìn nên có giá trị 500 000.
+LT: 2. Số La Mã
+- Số La Mã được ghi bởi các chữ số **I (1), V (5), X (10)** (với số lớn hơn còn có L = 50, C = 100, D = 500, M = 1 000).
+- Các thành phần đặc biệt: **IV = 4** (I đứng bên trái V: 5 − 1), **IX = 9** (I đứng bên trái X: 10 − 1).
+- Mỗi số La Mã có giá trị bằng **tổng giá trị các thành phần** tạo nên nó. Ví dụ: XVII = X + V + I + I = 10 + 5 + 1 + 1 = 17; XXIV = X + X + IV = 24.
+- Các chữ số I, X không được viết liền nhau quá ba lần (viết IV chứ không viết IIII; viết IX chứ không viết VIIII).
+HINH: 6-toan/bai2-so-la-ma.svg | Bảng số La Mã từ 1 đến 30: thêm X hoặc XX vào bên trái các số từ I đến X ta được các số từ 11 đến 20 hoặc từ 21 đến 30.
+DB: Dạng 1. Đọc, viết số tự nhiên; xác định hàng, lớp và giá trị của một chữ số
+- Tách số thành các lớp, mỗi lớp ba chữ số tính từ phải sang trái.
+- Đọc từng lớp kèm tên lớp (triệu, nghìn); lớp có chữ số 0 ở hàng trăm đọc "không trăm", hàng chục bằng 0 đọc "linh" (hoặc "lẻ").
+- Giá trị của chữ số = chữ số đó × giá trị của hàng (1; 10; 100; 1 000; …).
+DB: Dạng 2. Viết số thành tổng giá trị các chữ số
+- Xác định hàng của từng chữ số rồi viết tổng: chữ số · 1 000 + chữ số · 100 + chữ số · 10 + chữ số đơn vị.
+- Với số có chữ số chưa biết: a̅b̅ = 10a + b; a̅b̅c̅ = 100a + 10b + c (chữ số đầu tiên khác 0).
+DB: Dạng 3. Đọc và viết số La Mã
+- Đọc: tách số La Mã thành các thành phần (X, V, I, IV, IX) rồi cộng giá trị các thành phần.
+- Viết: tách số thành chục và đơn vị: chục viết bằng X, XX, XXX; đơn vị viết theo bảng từ I đến IX.
+VD: Cho số 2 708 415. a) Đọc số đó. b) Cho biết giá trị của chữ số 7 và chữ số 4. c) Viết số đó thành tổng giá trị các chữ số của nó.
+B: Tách lớp: 2 | 708 | 415 (lớp triệu, lớp nghìn, lớp đơn vị). Đọc: Hai triệu bảy trăm linh tám nghìn bốn trăm mười lăm.
+B: Chữ số 7 ở hàng trăm nghìn nên có giá trị 700 000; chữ số 4 ở hàng trăm nên có giá trị 400.
+B: 2 708 415 = 2 · 1 000 000 + 7 · 100 000 + 0 · 10 000 + 8 · 1 000 + 4 · 100 + 1 · 10 + 5.
+KQ: Chữ số 7 có giá trị 700 000, chữ số 4 có giá trị 400; tổng các giá trị trên đúng bằng 2 708 415.
+VD: a) Đọc các số La Mã XIV và XXIX. b) Viết các số 18 và 26 bằng số La Mã.
+B: XIV = X + IV = 10 + 4 = 14; XXIX = XX + IX = 20 + 9 = 29.
+B: 18 = 10 + 8 nên viết X và VIII: XVIII. 26 = 20 + 6 nên viết XX và VI: XXVI.
+KQ: XIV = 14; XXIX = 29; 18 = XVIII; 26 = XXVI.
+GN: Phân biệt chữ số và giá trị của chữ số: trong 3 052, chữ số 5 có giá trị 50 chứ không phải 5.
+GN: Khi đọc số, lớp nào có chữ số 0 vẫn phải đọc đúng: 15 060 208 đọc là "mười lăm triệu không trăm sáu mươi nghìn hai trăm linh tám".
+GN: Trong số La Mã, I đứng bên trái V hoặc X thì làm giảm (IV = 4, IX = 9); đứng bên phải thì làm tăng (VI = 6, XI = 11).
+Q: mc | Trong số 6 054 312, chữ số 5 có giá trị là
+A) 5
+B) 500
+C) 5 000
+D) 50 000 *
+E: Tách lớp: 6 | 054 | 312. Chữ số 5 ở hàng chục nghìn nên có giá trị 5 · 10 000 = 50 000.
+Q: mc | Số La Mã XIX biểu diễn số nào?
+A) 21
+B) 19 *
+C) 11
+D) 9
+E: XIX = X + IX = 10 + 9 = 19.
+Q: tf | Xét tính đúng – sai của các khẳng định sau:
+a) Số 40 506 đọc là "bốn mươi nghìn năm trăm linh sáu". | Đ
+b) Trong hệ thập phân, cứ 10 đơn vị ở một hàng thì làm thành 1 đơn vị ở hàng liền sau (thấp hơn) nó. | S
+c) Số La Mã IV có giá trị là 6. | S
+d) 7 093 = 7 · 1 000 + 9 · 10 + 3. | Đ
+E: a) Đúng: 40 | 506. b) Sai: 10 đơn vị của một hàng làm thành 1 đơn vị của hàng liền trước (cao hơn). c) Sai: IV = 5 − 1 = 4. d) Đúng: 7 000 + 90 + 3 = 7 093 (chữ số hàng trăm bằng 0).
+Q: sa | Số tự nhiên nhỏ nhất có ba chữ số khác nhau là số nào?
+ANS: 102
+E: Chữ số hàng trăm nhỏ nhất khác 0 là 1; hàng chục chọn 0; hàng đơn vị chọn chữ số nhỏ nhất còn lại khác 1 và 0 là 2. Vậy số cần tìm là 102.
+Q: ord | Sắp xếp các số La Mã sau theo thứ tự giá trị tăng dần:
+1) IV
+2) VI
+3) IX
+4) XI
+5) XXI
+E: IV = 4; VI = 6; IX = 9; XI = 11; XXI = 21.
+TL: a) Đọc số 15 060 208 và cho biết số đó có mấy lớp, mỗi lớp gồm những chữ số nào. b) Viết số 27 bằng số La Mã và giải thích cách viết.
+MAU: a) Đọc: Mười lăm triệu không trăm sáu mươi nghìn hai trăm linh tám.
+MAU: Số có 3 lớp: lớp triệu gồm 1 và 5 (15); lớp nghìn gồm 0, 6, 0 (060); lớp đơn vị gồm 2, 0, 8 (208).
+MAU: b) 27 = 20 + 7 = X + X + VII, nên 27 viết là XXVII.
+TC: Đọc đúng số 15 060 208 (có "không trăm", "linh") | 1
+TC: Chỉ ra đúng 3 lớp và các chữ số của từng lớp | 1
+TC: Viết đúng XXVII và giải thích được | 1
+
 ### Bài 3. Thứ tự trong tập hợp các số tự nhiên
+> Xếp hàng theo chiều cao, so sánh giá hai món đồ, sắp xếp số báo danh… đều cần biết số nào lớn hơn, số nào nhỏ hơn. Tia số giúp ta "nhìn thấy" thứ tự đó.
+MT: Nhận biết được tập hợp ℕ các số tự nhiên và tập hợp ℕ* các số tự nhiên khác 0.
+MT: So sánh được hai số tự nhiên; biểu diễn được số tự nhiên trên tia số; sử dụng đúng các kí hiệu <, >, ≤, ≥.
+MT: Nhận biết được số liền trước, số liền sau và tính chất bắc cầu của thứ tự; vận dụng để sắp xếp các số.
+LT: 1. Tập hợp ℕ và ℕ*
+- Tập hợp các số tự nhiên kí hiệu là **ℕ**: ℕ = {0; 1; 2; 3; …}.
+- Tập hợp các số tự nhiên khác 0 kí hiệu là ℕ*: ℕ* = {1; 2; 3; …}.
+- Ví dụ: 0 ∈ ℕ nhưng 0 ∉ ℕ*; 15 ∈ ℕ và 15 ∈ ℕ*.
+LT: 2. Thứ tự trong tập hợp các số tự nhiên
+- Trong hai số tự nhiên khác nhau, có một số nhỏ hơn số kia. Nếu a nhỏ hơn b thì viết **a < b** hoặc b > a.
+- Trên tia số (nằm ngang, chiều mũi tên từ trái sang phải), nếu a < b thì điểm a nằm **bên trái** điểm b.
+- **Tính chất bắc cầu**: nếu a < b và b < c thì a < c.
+- Mỗi số tự nhiên có đúng một **số liền sau** (lớn hơn nó 1 đơn vị). Mỗi số tự nhiên khác 0 có đúng một **số liền trước** (nhỏ hơn nó 1 đơn vị). Hai số tự nhiên liên tiếp hơn kém nhau 1 đơn vị.
+- Số 0 là số tự nhiên nhỏ nhất; **không có** số tự nhiên lớn nhất.
+- Viết **a ≤ b** nghĩa là a < b hoặc a = b; viết a ≥ b nghĩa là a > b hoặc a = b.
+- So sánh hai số: số nào có nhiều chữ số hơn thì lớn hơn; nếu số chữ số bằng nhau thì so sánh từng cặp chữ số cùng hàng, lần lượt từ trái sang phải.
+HINH: 6-toan/bai3-tia-so.svg | Trên tia số, số nhỏ hơn nằm bên trái số lớn hơn; điểm gốc ứng với số 0 – số tự nhiên nhỏ nhất; hai số liền nhau cách nhau một đoạn bằng nhau.
+DB: Dạng 1. So sánh và sắp xếp các số tự nhiên
+- So sánh số chữ số trước; nếu bằng nhau, so sánh từng hàng từ trái sang phải đến khi gặp cặp chữ số khác nhau.
+- Sắp xếp tăng dần (từ bé đến lớn) hay giảm dần (từ lớn đến bé) theo đúng yêu cầu đề bài.
+DB: Dạng 2. Số liền trước, số liền sau; viết tập hợp theo điều kiện thứ tự
+- Số liền sau của a là a + 1; số liền trước của a (a ≠ 0) là a − 1.
+- Với điều kiện dạng m < x ≤ n: không lấy m, có lấy n; chú ý x thuộc ℕ hay ℕ* (ℕ* không có số 0).
+DB: Dạng 3. Biểu diễn số tự nhiên trên tia số
+- Vẽ tia số, chọn độ dài đơn vị; đánh dấu các điểm cách đều nhau.
+- Điểm biểu diễn số lớn hơn nằm bên phải; dùng tính chất bắc cầu để so sánh mà không cần tính toán.
+VD: Sắp xếp các số 30 512; 3 512; 35 012; 30 125 theo thứ tự tăng dần.
+B: 3 512 có bốn chữ số, các số còn lại có năm chữ số nên 3 512 là số nhỏ nhất.
+B: So sánh ba số có năm chữ số: hàng chục nghìn đều là 3; hàng nghìn: 30 512 và 30 125 có chữ số 0, còn 35 012 có chữ số 5 nên 35 012 lớn nhất.
+B: So sánh 30 512 và 30 125: hàng trăm có 5 > 1 nên 30 512 > 30 125.
+KQ: Thứ tự tăng dần: 3 512; 30 125; 30 512; 35 012.
+VD: Tìm số liền trước và số liền sau của số 2 000. Viết tập hợp C = {x ∈ ℕ | 1 998 < x ≤ 2 001} bằng cách liệt kê các phần tử.
+B: Số liền trước của 2 000 là 2 000 − 1 = 1 999; số liền sau là 2 000 + 1 = 2 001.
+B: x lớn hơn 1 998 (không lấy 1 998) và không vượt quá 2 001 (có lấy 2 001).
+KQ: Số liền trước là 1 999, số liền sau là 2 001; C = {1 999; 2 000; 2 001}.
+GN: ℕ có số 0, ℕ* không có số 0. Số 0 không có số liền trước trong tập hợp số tự nhiên.
+GN: Không so sánh hai số chỉ bằng chữ số đầu tiên khi hai số có số chữ số khác nhau (ví dụ 9 899 < 10 089 dù 9 > 1).
+GN: "Tăng dần" là từ bé đến lớn, "giảm dần" là từ lớn đến bé – đọc kĩ đề trước khi sắp xếp.
+Q: mc | Số liền trước của số 10 000 là
+A) 9 000
+B) 9 999 *
+C) 10 001
+D) 99 999
+E: Số liền trước của 10 000 là 10 000 − 1 = 9 999. (10 001 là số liền sau.)
+Q: mc | Tập hợp {x ∈ ℕ* | x < 4} viết bằng cách liệt kê là
+A) {0; 1; 2; 3}
+B) {1; 2; 3} *
+C) {1; 2; 3; 4}
+D) {0; 1; 2; 3; 4}
+E: ℕ* không chứa số 0 và x < 4 nên không lấy 4. Vậy tập hợp là {1; 2; 3}.
+Q: tf | Xét tính đúng – sai của các khẳng định sau:
+a) 0 ∈ ℕ*. | S
+b) Số 0 là số tự nhiên nhỏ nhất. | Đ
+c) Có số tự nhiên lớn nhất. | S
+d) Nếu a < b và b < 15 thì a < 15. | Đ
+E: a) Sai vì ℕ* là tập hợp các số tự nhiên khác 0. b) Đúng. c) Sai: mọi số tự nhiên đều có số liền sau lớn hơn nó. d) Đúng theo tính chất bắc cầu.
+Q: sa | Có bao nhiêu số tự nhiên x thỏa mãn 47 < x ≤ 63?
+ANS: 16
+E: Các số đó là 48; 49; …; 63. Số lượng: 63 − 48 + 1 = 16.
+Q: ord | Sắp xếp các số sau theo thứ tự tăng dần:
+1) 9 899
+2) 9 989
+3) 9 998
+4) 10 089
+5) 10 098
+E: Hai số có bốn chữ số nhỏ hơn hai số có năm chữ số. So sánh từ trái sang phải: 9 899 < 9 989 < 9 998 và 10 089 < 10 098.
+TL: Cho ba số tự nhiên a, b, c, trong đó a = 25 309, b = 25 390 và c là số liền sau của b. a) Tìm c. b) Sắp xếp a, b, c theo thứ tự tăng dần. c) Giải thích vì sao có thể khẳng định a < c mà không cần so sánh trực tiếp hai số đó.
+MAU: a) c = 25 390 + 1 = 25 391.
+MAU: b) a và b có hàng chục nghìn, nghìn, trăm giống nhau; hàng chục: 0 < 9 nên a < b. Mà b < c (c là số liền sau của b). Thứ tự tăng dần: a; b; c (25 309; 25 390; 25 391).
+MAU: c) Vì a < b và b < c nên a < c (tính chất bắc cầu).
+TC: Tìm đúng c = 25 391 | 1
+TC: So sánh đúng và sắp xếp đúng thứ tự tăng dần | 1
+TC: Nêu được tính chất bắc cầu để giải thích a < c | 1
+
 ### Bài 4. Phép cộng và phép trừ số tự nhiên
+> Đi chợ mua thêm đồ thì cộng tiền, trả tiền rồi nhận lại tiền thừa thì trừ. Biết dùng tính chất của phép cộng, em có thể tính nhẩm nhanh hơn cả máy tính.
+MT: Nhận biết được các thành phần của phép cộng (số hạng, tổng) và phép trừ (số bị trừ, số trừ, hiệu) trong tập hợp số tự nhiên.
+MT: Vận dụng được tính chất giao hoán, kết hợp của phép cộng để tính nhẩm, tính nhanh một cách hợp lí.
+MT: Tìm được số chưa biết trong phép cộng, phép trừ; giải được bài toán thực tế có sử dụng phép cộng, phép trừ.
+LT: 1. Phép cộng số tự nhiên
+- Phép cộng a + b = c: a và b là các **số hạng**, c là **tổng**.
+- **Tính chất giao hoán**: a + b = b + a (đổi chỗ các số hạng thì tổng không đổi).
+- **Tính chất kết hợp**: (a + b) + c = a + (b + c). Nhờ đó tổng a + b + c được viết không cần dấu ngoặc.
+- Cộng với số 0: a + 0 = 0 + a = a.
+- Ứng dụng: nhóm các số hạng có tổng tròn chục, tròn trăm để tính nhanh. Ví dụ: 28 + 64 + 72 = (28 + 72) + 64 = 100 + 64 = 164.
+LT: 2. Phép trừ số tự nhiên
+- Phép trừ a − b = c: a là **số bị trừ**, b là **số trừ**, c là **hiệu**.
+- Trong tập hợp số tự nhiên, phép trừ a − b chỉ thực hiện được khi **a ≥ b**.
+- Quan hệ giữa phép cộng và phép trừ: a − b = c thì a = b + c (lấy hiệu cộng với số trừ được số bị trừ).
+- Tìm số chưa biết: x + b = a ⇒ x = a − b; x − b = a ⇒ x = a + b; a − x = b ⇒ x = a − b.
+HINH: 6-toan/bai4-cong-tru.svg | Minh họa trên tia số: phép cộng 5 + 4 là đi tiếp sang phải 4 đơn vị kể từ điểm 5; phép trừ 9 − 4 là lùi sang trái 4 đơn vị kể từ điểm 9.
+DB: Dạng 1. Tính nhẩm, tính nhanh
+- Quan sát các số hạng, tìm những cặp có tổng tròn chục, tròn trăm, tròn nghìn.
+- Dùng tính chất giao hoán và kết hợp để đổi chỗ, nhóm các cặp đó lại rồi tính.
+DB: Dạng 2. Tìm số chưa biết x
+- Xác định x đóng vai trò gì: số hạng, số bị trừ hay số trừ.
+- Số hạng chưa biết = tổng − số hạng đã biết; số bị trừ = hiệu + số trừ; số trừ = số bị trừ − hiệu.
+- Với đẳng thức nhiều bước, coi cả cụm chứa x là một số chưa biết rồi giải dần từ ngoài vào trong. Thử lại kết quả.
+DB: Dạng 3. Bài toán thực tế
+- Đọc đề, xác định đại lượng cần tìm là tổng (gộp lại, thêm vào) hay hiệu (bớt đi, ít hơn, còn lại).
+- Lập phép tính, tính và trả lời kèm đơn vị.
+VD: Tính nhanh: 135 + 360 + 65 + 40.
+B: Nhận thấy 135 + 65 = 200 và 360 + 40 = 400 đều là số tròn trăm.
+B: Dùng tính chất giao hoán và kết hợp: 135 + 360 + 65 + 40 = (135 + 65) + (360 + 40).
+B: = 200 + 400.
+KQ: 135 + 360 + 65 + 40 = 600.
+VD: Tìm số tự nhiên x, biết (x + 74) − 318 = 200.
+B: Coi x + 74 là số bị trừ: x + 74 = 200 + 318 = 518.
+B: x là số hạng chưa biết: x = 518 − 74 = 444.
+B: Thử lại: (444 + 74) − 318 = 518 − 318 = 200 (đúng).
+KQ: x = 444.
+GN: Phép trừ a − b chỉ thực hiện được trong ℕ khi a ≥ b; a − a = 0 và a − 0 = a.
+GN: Đổi chỗ các số hạng là tính chất giao hoán; nhóm các số hạng là tính chất kết hợp. Phép trừ không có tính chất giao hoán: 10 − 3 ≠ 3 − 10.
+GN: Tìm x xong nên thử lại; lỗi hay gặp: từ x − b = a lại tính x = a − b (đúng phải là x = a + b).
+Q: mc | Kết quả của phép tính 46 + 17 + 54 là
+A) 107
+B) 117 *
+C) 127
+D) 100
+E: 46 + 17 + 54 = (46 + 54) + 17 = 100 + 17 = 117.
+Q: mc | Phép trừ nào sau đây KHÔNG thực hiện được trong tập hợp số tự nhiên?
+A) 25 − 25
+B) 0 − 0
+C) 18 − 21 *
+D) 100 − 1
+E: Phép trừ a − b chỉ thực hiện được khi a ≥ b. Vì 18 < 21 nên phép trừ 18 − 21 không thực hiện được trong ℕ.
+Q: tf | Xét tính đúng – sai của các khẳng định sau:
+a) Với mọi số tự nhiên a, ta có a + 0 = a. | Đ
+b) Đẳng thức 37 + 63 = 63 + 37 thể hiện tính chất kết hợp của phép cộng. | S
+c) Nếu x − 25 = 40 thì x = 15. | S
+d) Trong phép trừ a − b = c, số a gọi là số bị trừ. | Đ
+E: b) Sai: đổi chỗ hai số hạng là tính chất giao hoán. c) Sai: x là số bị trừ nên x = 40 + 25 = 65.
+Q: sa | Tìm số tự nhiên x, biết 1 250 − x = 375.
+ANS: 875
+E: x là số trừ: x = 1 250 − 375 = 875. Thử lại: 1 250 − 875 = 375.
+Q: match | Nối mỗi đẳng thức ở cột A với giá trị của x ở cột B:
+1) x + 12 = 50 | x = 38
+2) x − 12 = 50 | x = 62
+3) 50 − x = 18 | x = 32
+4) 18 + x = 70 | x = 52
+E: x + 12 = 50 ⇒ x = 50 − 12 = 38; x − 12 = 50 ⇒ x = 50 + 12 = 62; 50 − x = 18 ⇒ x = 50 − 18 = 32; 18 + x = 70 ⇒ x = 70 − 18 = 52.
+TL: Một cửa hàng buổi sáng bán được 1 245 kg gạo, buổi chiều bán được ít hơn buổi sáng 378 kg. Hỏi cả ngày cửa hàng bán được bao nhiêu ki-lô-gam gạo?
+MAU: Số gạo bán buổi chiều: 1 245 − 378 = 867 (kg).
+MAU: Số gạo bán cả ngày: 1 245 + 867 = 2 112 (kg).
+MAU: Đáp số: 2 112 kg gạo.
+TC: Tính đúng số gạo bán buổi chiều (phép trừ) | 1
+TC: Tính đúng số gạo bán cả ngày (phép cộng) | 1
+TC: Lời giải, đơn vị và đáp số rõ ràng | 1
+
 ### Bài 5. Phép nhân và phép chia số tự nhiên
+> Mua 25 quyển vở giá 8 000 đồng mỗi quyển hết bao nhiêu tiền? Chia 345 học sinh lên các xe 45 chỗ thì cần mấy xe? Phép nhân và phép chia giúp ta trả lời nhanh những câu hỏi như vậy.
+MT: Nhận biết được các thành phần của phép nhân (thừa số, tích) và phép chia (số bị chia, số chia, thương, số dư).
+MT: Vận dụng được tính chất giao hoán, kết hợp của phép nhân và tính chất phân phối của phép nhân đối với phép cộng để tính nhẩm, tính nhanh.
+MT: Thực hiện được phép chia hết và phép chia có dư; viết được a = b · q + r; giải được bài toán thực tế.
+LT: 1. Phép nhân số tự nhiên
+- Phép nhân a × b = c (còn viết a · b = c): a và b là các **thừa số**, c là **tích**. Nếu các thừa số đều bằng chữ, hoặc chỉ có một thừa số bằng số, ta có thể không viết dấu nhân: a · b = ab; 4 · x = 4x.
+- **Tính chất giao hoán**: a · b = b · a. **Tính chất kết hợp**: (a · b) · c = a · (b · c).
+- Nhân với số 1: a · 1 = 1 · a = a. Nhân với số 0: a · 0 = 0 · a = 0.
+- **Tính chất phân phối của phép nhân đối với phép cộng**: a · (b + c) = a · b + a · c. Tương tự với phép trừ: a · (b − c) = a · b − a · c (b ≥ c).
+- Ứng dụng tính nhanh: ghép 25 · 4 = 100; 125 · 8 = 1 000; 5 · 2 = 10; tách 99 = 100 − 1, 101 = 100 + 1. Ví dụ: 36 · 99 = 36 · 100 − 36 = 3 564.
+HINH: 6-toan/bai5-phan-phoi.svg | Tính chất phân phối qua diện tích: hình chữ nhật 6 × (20 + 4) được chia thành hai hình chữ nhật 6 × 20 và 6 × 4, nên 6 · (20 + 4) = 6 · 20 + 6 · 4.
+LT: 2. Phép chia hết và phép chia có dư
+- Cho hai số tự nhiên a và b (b ≠ 0). Nếu có số tự nhiên q sao cho a = b · q thì ta có **phép chia hết** a : b = q: a là **số bị chia**, b là **số chia**, q là **thương**.
+- Nếu a không chia hết cho b thì luôn tìm được đúng hai số tự nhiên q và r sao cho **a = b · q + r**, với 0 < r < b. Đây là **phép chia có dư**: q là thương, r là **số dư**.
+- Khi r = 0 thì ta có phép chia hết. Như vậy với mọi phép chia: **số chia khác 0** và **số dư nhỏ hơn số chia**.
+- Quan hệ: số bị chia = số chia · thương + số dư; số chia = (số bị chia − số dư) : thương.
+HINH: 6-toan/bai5-chia-co-du.svg | Đặt tính phép chia 4 817 : 23 được thương 209 và số dư 10; vì 21 < 23 nên viết chữ số 0 ở thương rồi hạ tiếp chữ số 7.
+DB: Dạng 1. Tính nhẩm, tính nhanh
+- Dùng giao hoán, kết hợp để ghép các cặp có tích tròn chục, tròn trăm (25 và 4, 125 và 8, 5 và 2…).
+- Thấy thừa số chung thì dùng tính chất phân phối: a · b + a · c = a · (b + c).
+DB: Dạng 2. Phép chia có dư
+- Đặt tính, tìm thương q và số dư r; kiểm tra 0 ≤ r < b.
+- Viết a = b · q + r. Tìm số bị chia: a = b · q + r; số dư lớn nhất có thể khi chia cho b là b − 1.
+DB: Dạng 3. Bài toán thực tế (xếp xe, đóng hộp, chia đều)
+- Lập phép chia, xác định thương và số dư.
+- Biện luận theo đề: nếu còn dư mà đề hỏi "cần ít nhất bao nhiêu xe (hộp)" thì lấy thương cộng thêm 1; nếu hỏi "được nhiều nhất bao nhiêu hộp đầy" thì lấy thương.
+VD: Tính nhanh: a) 25 · 37 · 4; b) 47 · 63 + 47 · 37.
+B: a) Giao hoán và kết hợp: 25 · 37 · 4 = (25 · 4) · 37 = 100 · 37 = 3 700.
+B: b) Hai tích có thừa số chung 47, dùng tính chất phân phối: 47 · 63 + 47 · 37 = 47 · (63 + 37) = 47 · 100 = 4 700.
+KQ: a) 3 700; b) 4 700.
+VD: Thực hiện phép chia 4 817 : 23 và viết kết quả dưới dạng a = b · q + r.
+B: 48 : 23 được 2; 2 · 23 = 46; 48 − 46 = 2. Hạ 1 được 21.
+B: 21 < 23 nên được 0, viết 0 vào thương; hạ 7 được 217.
+B: 217 : 23 được 9; 9 · 23 = 207; 217 − 207 = 10. Số dư 10 < 23.
+KQ: 4 817 : 23 = 209 (dư 10), tức là 4 817 = 23 · 209 + 10.
+GN: Không có phép chia cho 0. Số dư luôn nhỏ hơn số chia: chia cho 5 thì số dư chỉ có thể là 0; 1; 2; 3; 4.
+GN: Khi đặt tính, nếu số bị chia "hạ xuống" nhỏ hơn số chia thì phải viết chữ số 0 vào thương – hay quên chữ số 0 này.
+GN: Bài toán xếp chỗ còn dư thì cần thêm 1 xe (1 hộp, 1 chuyến…) cho phần dư.
+Q: mc | Trong phép chia có dư cho 7, số dư có thể là
+A) 7
+B) 8
+C) 6 *
+D) 9
+E: Số dư phải nhỏ hơn số chia 7, nên chỉ có thể là 1; 2; 3; 4; 5; 6. Trong các phương án chỉ có 6 thỏa mãn.
+Q: mc | Kết quả của 125 · 19 · 8 là
+A) 1 900
+B) 19 000 *
+C) 190 000
+D) 15 200
+E: 125 · 19 · 8 = (125 · 8) · 19 = 1 000 · 19 = 19 000.
+Q: tf | Cho phép chia 2 024 : 9.
+a) Thương của phép chia là 224. | Đ
+b) Số dư của phép chia là 7. | S
+c) 2 024 = 9 · 224 + 8. | Đ
+d) Nếu số bị chia tăng thêm 1 đơn vị thì được một phép chia hết. | Đ
+E: 9 · 224 = 2 016 và 2 024 − 2 016 = 8 < 9, nên thương là 224, số dư là 8. Khi đó 2 025 = 9 · 224 + 9 = 9 · 225, chia hết cho 9.
+Q: sa | Tìm số bị chia của một phép chia, biết số chia là 12, thương là 15 và số dư là 9.
+ANS: 189
+E: Số bị chia = số chia · thương + số dư = 12 · 15 + 9 = 180 + 9 = 189.
+Q: match | Nối mỗi tính chất với đẳng thức tương ứng:
+1) Tính chất giao hoán của phép nhân | a · b = b · a
+2) Tính chất kết hợp của phép nhân | (a · b) · c = a · (b · c)
+3) Tính chất phân phối của phép nhân đối với phép cộng | a · (b + c) = a · b + a · c
+4) Nhân với số 1 | a · 1 = 1 · a = a
+E: Giao hoán: đổi chỗ các thừa số; kết hợp: nhóm các thừa số; phân phối: nhân một số với một tổng bằng cộng các tích.
+TL: Một trường tổ chức cho 427 học sinh và 13 thầy cô đi tham quan. Mỗi xe ô tô chở được nhiều nhất 45 người. Hỏi cần ít nhất bao nhiêu xe?
+MAU: Tổng số người đi tham quan: 427 + 13 = 440 (người).
+MAU: Thực hiện phép chia: 440 = 45 · 9 + 35, tức là 9 xe chở đủ 45 người thì còn dư 35 người.
+MAU: 35 người còn lại cần thêm 1 xe nữa. Vậy cần ít nhất 9 + 1 = 10 xe.
+TC: Tính đúng tổng số người 440 | 1
+TC: Thực hiện đúng phép chia có dư 440 = 45 · 9 + 35 | 1
+TC: Biện luận đúng phần dư, kết luận 10 xe | 1
+
 ### Bài 6. Lũy thừa với số mũ tự nhiên
+> Một tờ giấy gấp đôi thì được 2 lớp, gấp đôi lần nữa được 4 lớp, rồi 8, 16, 32 lớp… Để viết gọn phép nhân nhiều thừa số bằng nhau như 2 · 2 · 2 · 2 · 2, người ta dùng lũy thừa.
+MT: Nhận biết được lũy thừa với số mũ tự nhiên: cơ số, số mũ; đọc, viết và tính được giá trị của lũy thừa.
+MT: Thực hiện được phép nhân và phép chia hai lũy thừa cùng cơ số với số mũ tự nhiên.
+MT: Vận dụng lũy thừa để viết gọn tích, so sánh, tìm số chưa biết và viết số dưới dạng tổng các lũy thừa của 10.
+LT: 1. Lũy thừa với số mũ tự nhiên
+- **Lũy thừa bậc n của a** là tích của n thừa số bằng nhau, mỗi thừa số bằng a: **aⁿ = a · a · … · a** (n thừa số a, n ∈ ℕ*).
+- Trong aⁿ: a là **cơ số**, n là **số mũ**. aⁿ đọc là "a mũ n" hoặc "a lũy thừa n" hoặc "lũy thừa bậc n của a". Phép nhân nhiều thừa số bằng nhau gọi là **phép nâng lên lũy thừa**.
+- a² còn đọc là "a bình phương" (bình phương của a); a³ còn đọc là "a lập phương" (lập phương của a). Quy ước: **a¹ = a**.
+- Lũy thừa của 10: 10² = 100; 10³ = 1 000; 10⁶ = 1 000 000 (10ⁿ là số 1 theo sau n chữ số 0). Mọi số tự nhiên đều viết được thành tổng các lũy thừa của 10, ví dụ 4 506 = 4 · 10³ + 5 · 10² + 6.
+HINH: 6-toan/bai6-luy-thua.svg | 2⁵ có cơ số 2, số mũ 5; 3² là số ô vuông nhỏ của hình vuông cạnh 3 (3 bình phương); 3³ là số khối lập phương nhỏ của khối lập phương cạnh 3 (3 lập phương).
+LT: 2. Nhân và chia hai lũy thừa cùng cơ số
+- Khi nhân hai lũy thừa cùng cơ số, ta giữ nguyên cơ số và **cộng** các số mũ: **a^{m} · a^{n} = a^{m + n}**.
+- Khi chia hai lũy thừa cùng cơ số (khác 0), ta giữ nguyên cơ số và **trừ** các số mũ: **a^{m} : a^{n} = a^{m − n}** (a ≠ 0; m ≥ n).
+- Quy ước: **a⁰ = 1** (a ≠ 0). Ví dụ: 5³ : 5³ = 5⁰ = 1.
+- Chú ý: chỉ cộng (trừ) số mũ khi **cùng cơ số**; 2³ · 3² không gộp được thành một lũy thừa.
+DB: Dạng 1. Viết gọn tích bằng lũy thừa; tính giá trị lũy thừa
+- Đếm số thừa số bằng nhau: số đó là số mũ, thừa số lặp lại là cơ số.
+- Tính aⁿ bằng cách nhân lần lượt n thừa số a (không nhầm aⁿ với a · n).
+DB: Dạng 2. Nhân, chia hai lũy thừa cùng cơ số
+- Đưa các lũy thừa về cùng cơ số (ví dụ 8 = 2³; 9 = 3²; 1 000 = 10³).
+- Nhân: cộng số mũ; chia: trừ số mũ; giữ nguyên cơ số.
+DB: Dạng 3. Tìm số mũ hoặc cơ số chưa biết; so sánh lũy thừa
+- Viết hai vế thành lũy thừa cùng cơ số rồi cho hai số mũ bằng nhau (hoặc cùng số mũ thì cho hai cơ số bằng nhau).
+- So sánh: cùng cơ số (lớn hơn 1) thì số mũ lớn hơn cho lũy thừa lớn hơn; cùng số mũ thì cơ số lớn hơn cho lũy thừa lớn hơn; nếu không thì tính giá trị rồi so sánh.
+VD: Viết gọn các tích sau bằng cách dùng lũy thừa rồi tính giá trị: a) 5 · 5 · 5 · 5; b) 2 · 2 · 2 · 3 · 3.
+B: a) Có 4 thừa số 5 nên 5 · 5 · 5 · 5 = 5⁴ = 25 · 25 = 625.
+B: b) Có 3 thừa số 2 và 2 thừa số 3 nên 2 · 2 · 2 · 3 · 3 = 2³ · 3² = 8 · 9 = 72.
+KQ: a) 5⁴ = 625; b) 2³ · 3² = 72.
+VD: Viết kết quả dưới dạng một lũy thừa: a) 3⁴ · 3⁵; b) 7⁸ : 7³; c) 2⁵ · 8.
+B: a) Cùng cơ số 3, cộng số mũ: 3⁴ · 3⁵ = 3^{4 + 5} = 3⁹.
+B: b) Cùng cơ số 7, trừ số mũ: 7⁸ : 7³ = 7^{8 − 3} = 7⁵.
+B: c) Đổi 8 = 2³ rồi cộng số mũ: 2⁵ · 8 = 2⁵ · 2³ = 2⁸.
+KQ: a) 3⁹; b) 7⁵; c) 2⁸.
+GN: aⁿ khác a · n: 2³ = 2 · 2 · 2 = 8 chứ không phải 2 · 3 = 6.
+GN: Nhân hai lũy thừa cùng cơ số thì CỘNG số mũ (không nhân số mũ): 3⁴ · 3⁵ = 3⁹, không phải 3²⁰.
+GN: a¹ = a; a⁰ = 1 với a ≠ 0; 1ⁿ = 1 với mọi n.
+Q: mc | Giá trị của 2⁶ là
+A) 12
+B) 36
+C) 64 *
+D) 32
+E: 2⁶ = 2 · 2 · 2 · 2 · 2 · 2 = 64. (12 = 2 · 6 là lỗi nhầm aⁿ với a · n; 36 = 6².)
+Q: mc | Kết quả của phép chia 5⁷ : 5³ viết dưới dạng một lũy thừa là
+A) 5⁴ *
+B) 5¹⁰
+C) 5²¹
+D) 1⁴
+E: Chia hai lũy thừa cùng cơ số: giữ nguyên cơ số 5 và trừ các số mũ: 5^{7 − 3} = 5⁴.
+Q: tf | Xét tính đúng – sai của các khẳng định sau:
+a) 3⁴ = 12. | S
+b) 10⁶ = 1 000 000. | Đ
+c) 4³ = 4 · 4 · 4. | Đ
+d) 6⁰ = 0. | S
+E: a) Sai: 3⁴ = 3 · 3 · 3 · 3 = 81. b) Đúng: số 1 theo sau 6 chữ số 0. c) Đúng theo định nghĩa. d) Sai: quy ước a⁰ = 1 (a ≠ 0) nên 6⁰ = 1.
+Q: sa | Tìm số tự nhiên n, biết 3ⁿ = 243.
+ANS: 5
+E: 243 = 3 · 3 · 3 · 3 · 3 = 3⁵. Vậy 3ⁿ = 3⁵ nên n = 5.
+Q: match | Nối mỗi lũy thừa với giá trị của nó:
+1) 2⁵ | 32
+2) 5² | 25
+3) 3³ | 27
+4) 10³ | 1 000
+5) 7¹ | 7
+E: 2⁵ = 32; 5² = 25; 3³ = 27; 10³ = 1 000; 7¹ = 7. Chú ý 2⁵ ≠ 5².
+TL: Giả sử một loại vi khuẩn cứ sau 1 giờ thì mỗi con tách thành 2 con. Ban đầu có 1 con. a) Viết số vi khuẩn sau 3 giờ, sau 10 giờ dưới dạng lũy thừa và tính. b) Sau ít nhất bao nhiêu giờ thì số vi khuẩn vượt quá 1 000 con?
+MAU: a) Sau mỗi giờ số vi khuẩn gấp 2 lần. Sau 3 giờ: 2 · 2 · 2 = 2³ = 8 (con). Sau 10 giờ: 2¹⁰ = 1 024 (con).
+MAU: b) Sau 9 giờ có 2⁹ = 512 con (chưa vượt quá 1 000); sau 10 giờ có 2¹⁰ = 1 024 con (vượt quá 1 000).
+MAU: Vậy sau ít nhất 10 giờ thì số vi khuẩn vượt quá 1 000 con.
+TC: Viết đúng số vi khuẩn dưới dạng lũy thừa của 2 | 1
+TC: Tính đúng 2³ = 8 và 2¹⁰ = 1 024 | 1
+TC: So sánh 2⁹ và 2¹⁰ với 1 000, kết luận 10 giờ | 1
+
 ### Bài 7. Thứ tự thực hiện các phép tính
+> Cùng một dãy phép tính 3 + 2 · 5² mà mỗi bạn làm theo một thứ tự thì sẽ ra những kết quả khác nhau. Vì vậy, Toán học thống nhất một "luật chơi" chung: thứ tự thực hiện các phép tính.
+MT: Nhận biết được thứ tự thực hiện các phép tính trong biểu thức không có dấu ngoặc và có dấu ngoặc.
+MT: Tính đúng giá trị của biểu thức số có các phép tính cộng, trừ, nhân, chia, nâng lên lũy thừa.
+MT: Vận dụng thứ tự thực hiện phép tính để tìm số chưa biết và giải bài toán thực tế.
+LT: 1. Biểu thức không có dấu ngoặc
+- Nếu chỉ có các phép cộng, trừ (hoặc chỉ có các phép nhân, chia), ta thực hiện **từ trái sang phải**. Ví dụ: 60 − 25 + 5 = 35 + 5 = 40; 48 : 6 · 2 = 8 · 2 = 16.
+- Nếu có các phép cộng, trừ, nhân, chia, nâng lên lũy thừa, ta thực hiện: **Lũy thừa → Nhân và chia → Cộng và trừ**.
+- Ví dụ: 40 − 3 · 2³ = 40 − 3 · 8 = 40 − 24 = 16.
+LT: 2. Biểu thức có dấu ngoặc
+- Nếu biểu thức có các dấu ngoặc tròn ( ), ngoặc vuông [ ], ngoặc nhọn { }, ta thực hiện theo thứ tự: **( ) → [ ] → { }**.
+- Bên trong mỗi dấu ngoặc vẫn làm theo thứ tự: lũy thừa → nhân, chia → cộng, trừ.
+- Ví dụ: 5 · [12 − (2 + 1)²] = 5 · [12 − 3²] = 5 · [12 − 9] = 5 · 3 = 15.
+HINH: 6-toan/bai7-thu-tu.svg | Sơ đồ thứ tự thực hiện các phép tính: không có ngoặc thì lũy thừa trước, rồi nhân chia, cuối cùng cộng trừ; có ngoặc thì làm ngoặc tròn, rồi ngoặc vuông, rồi ngoặc nhọn.
+DB: Dạng 1. Tính giá trị biểu thức không có dấu ngoặc
+- Bước 1: Tính các lũy thừa.
+- Bước 2: Thực hiện nhân, chia từ trái sang phải.
+- Bước 3: Thực hiện cộng, trừ từ trái sang phải.
+DB: Dạng 2. Tính giá trị biểu thức có dấu ngoặc
+- Làm trong ngoặc tròn trước, rồi đến ngoặc vuông, cuối cùng là ngoặc nhọn.
+- Mỗi bước chỉ tính một phần, chép lại đầy đủ các phần chưa tính để tránh sót.
+DB: Dạng 3. Tìm số chưa biết x
+- Xác định phép tính thực hiện sau cùng trong vế chứa x; coi cả cụm còn lại là một số chưa biết.
+- Tìm dần từ ngoài vào trong (dùng quan hệ giữa các thành phần của phép tính), cuối cùng thử lại.
+VD: Tính giá trị của biểu thức A = 72 : 2³ + 5 · 4² − 30.
+B: Tính lũy thừa: 2³ = 8; 4² = 16. Ta được A = 72 : 8 + 5 · 16 − 30.
+B: Thực hiện chia và nhân: 72 : 8 = 9; 5 · 16 = 80. Ta được A = 9 + 80 − 30.
+B: Cộng, trừ từ trái sang phải: 9 + 80 = 89; 89 − 30 = 59.
+KQ: A = 59.
+VD: Tính giá trị của biểu thức B = 2 · {80 − [(17 − 5)² : 12 + 3]}.
+B: Ngoặc tròn: 17 − 5 = 12. Ta được B = 2 · {80 − [12² : 12 + 3]}.
+B: Ngoặc vuông: 12² = 144; 144 : 12 = 12; 12 + 3 = 15. Ta được B = 2 · {80 − 15}.
+B: Ngoặc nhọn: 80 − 15 = 65. Cuối cùng B = 2 · 65 = 130.
+KQ: B = 130.
+GN: Nhân, chia ngang hàng nhau (không phải "nhân trước, chia sau") – làm từ trái sang phải; cộng, trừ cũng vậy: 20 − 5 + 3 = 18, không phải 12.
+GN: Lũy thừa tính trước phép nhân: 2 · 3² = 2 · 9 = 18, không phải 6² = 36.
+GN: Mỗi bước biến đổi phải chép lại các phần chưa tính; nên dùng dấu "=" nối các bước theo hàng dọc cho rõ ràng.
+Q: mc | Giá trị của biểu thức 20 − 12 : 4 + 2 là
+A) 4
+B) 15
+C) 18
+D) 19 *
+E: Chia trước: 12 : 4 = 3. Sau đó cộng, trừ từ trái sang phải: 20 − 3 + 2 = 17 + 2 = 19.
+Q: mc | Với biểu thức có đủ các loại dấu ngoặc, thứ tự thực hiện đúng là
+A) [ ] → ( ) → { }
+B) ( ) → [ ] → { } *
+C) { } → [ ] → ( )
+D) Làm theo thứ tự tùy ý
+E: Thực hiện ngoặc tròn trước, rồi đến ngoặc vuông, cuối cùng là ngoặc nhọn.
+Q: tf | Cho biểu thức P = 3 + 2 · 5².
+a) Phải tính 2 · 5 trước rồi mới bình phương. | S
+b) 5² = 25. | Đ
+c) P = 53. | Đ
+d) P = 125. | S
+E: Tính lũy thừa trước: 5² = 25; rồi nhân: 2 · 25 = 50; cuối cùng cộng: P = 3 + 50 = 53. Kết quả 125 là do làm sai thứ tự: (3 + 2) · 5².
+Q: sa | Tìm số tự nhiên x, biết 5 · (x − 3) = 2⁵ + 8.
+ANS: 11
+E: Vế phải: 2⁵ + 8 = 32 + 8 = 40. Khi đó 5 · (x − 3) = 40 nên x − 3 = 40 : 5 = 8, suy ra x = 8 + 3 = 11. Thử lại: 5 · (11 − 3) = 40.
+Q: ord | Sắp xếp các bước tính giá trị biểu thức 100 − [(3 + 2)² + 15] : 8 theo đúng thứ tự:
+1) Tính trong ngoặc tròn: 3 + 2 = 5
+2) Tính lũy thừa: 5² = 25
+3) Tính trong ngoặc vuông: 25 + 15 = 40
+4) Thực hiện phép chia: 40 : 8 = 5
+5) Thực hiện phép trừ: 100 − 5 = 95
+E: Làm ngoặc tròn, rồi ngoặc vuông (trong ngoặc vuông tính lũy thừa trước, cộng sau); ra khỏi ngoặc thì chia trước, trừ sau. Kết quả bằng 95.
+TL: Bạn Minh mua 3 quyển vở, mỗi quyển giá 12 000 đồng và 2 chiếc bút, mỗi chiếc giá 8 000 đồng. Minh đưa cho cô bán hàng tờ 100 000 đồng. Hãy viết một biểu thức tính số tiền Minh được trả lại rồi tính giá trị của biểu thức đó.
+MAU: Biểu thức: 100 000 − (3 · 12 000 + 2 · 8 000).
+MAU: Tính trong ngoặc: 3 · 12 000 = 36 000; 2 · 8 000 = 16 000; 36 000 + 16 000 = 52 000.
+MAU: Số tiền được trả lại: 100 000 − 52 000 = 48 000 (đồng).
+TC: Viết đúng biểu thức (có dấu ngoặc) | 1
+TC: Tính đúng tổng tiền mua 52 000 đồng theo đúng thứ tự | 1
+TC: Kết luận đúng 48 000 đồng | 1
+
 ## Chương II. Tính chia hết trong tập hợp các số tự nhiên
 ### Bài 8. Quan hệ chia hết và tính chất
+> Có 12 viên kẹo, em có thể chia đều cho 2, 3, 4 hay 6 bạn mà không thừa viên nào, nhưng chia đều cho 5 bạn thì không được. Đó chính là quan hệ chia hết giữa các số tự nhiên.
+MT: Nhận biết được quan hệ chia hết; khái niệm ước và bội; sử dụng đúng các kí hiệu ⋮, Ư(a), B(a).
+MT: Tìm được các ước của một số, các bội của một số (thỏa mãn điều kiện cho trước).
+MT: Vận dụng được tính chất chia hết của một tổng (hiệu) để xét một tổng có chia hết cho một số hay không mà không cần tính tổng.
+LT: 1. Quan hệ chia hết. Ước và bội
+- Cho hai số tự nhiên a và b (b ≠ 0). Nếu có số tự nhiên q sao cho a = b · q thì ta nói **a chia hết cho b**, kí hiệu **a ⋮ b**. Nếu a không chia hết cho b, ta kí hiệu a ⋮̸ b.
+- Nếu a ⋮ b thì ta nói **a là bội của b** và **b là ước của a**. Ví dụ: 12 ⋮ 3 nên 12 là bội của 3, 3 là ước của 12.
+- Tập hợp các ước của a kí hiệu là **Ư(a)**; tập hợp các bội của b kí hiệu là **B(b)**.
+LT: 2. Cách tìm ước và bội
+- Tìm các ước của a (a > 1): lần lượt chia a cho các số tự nhiên từ 1 đến a; a chia hết cho số nào thì số đó là ước của a.
+- Tìm các bội của b (b ≠ 0): lần lượt nhân b với 0; 1; 2; 3; … Kết quả nhận được là các bội của b.
+- Số 1 là ước của mọi số tự nhiên; số 0 là bội của mọi số tự nhiên khác 0. Mỗi số a > 1 có ít nhất hai ước là 1 và chính nó.
+HINH: 6-toan/bai8-uoc-boi.svg | Xếp 12 ô vuông thành các hình chữ nhật 1 × 12, 2 × 6, 3 × 4 cho ta các ước của 12; nhảy từng bước 4 đơn vị trên tia số cho ta các bội của 4.
+LT: 3. Tính chất chia hết của một tổng
+- **Tính chất 1**: Nếu tất cả các số hạng của một tổng đều chia hết cho cùng một số thì tổng chia hết cho số đó: a ⋮ m và b ⋮ m ⇒ (a + b) ⋮ m.
+- **Tính chất 2**: Nếu có **một** số hạng của tổng không chia hết cho một số đã cho, các số hạng còn lại đều chia hết cho số đó thì tổng **không** chia hết cho số đã cho.
+- Hai tính chất trên cũng đúng với một hiệu (số bị trừ lớn hơn hoặc bằng số trừ) và với tổng có nhiều số hạng.
+DB: Dạng 1. Tìm ước, tìm bội của một số
+- Tìm ước: chia a lần lượt cho 1; 2; 3; …; mỗi lần tìm được ước d thì a : d cũng là ước (tìm theo cặp cho nhanh).
+- Tìm bội: nhân b lần lượt với 0; 1; 2; …; rồi chọn các bội thỏa mãn điều kiện của đề bài.
+DB: Dạng 2. Xét tổng (hiệu) có chia hết cho một số hay không (không tính tổng)
+- Xét từng số hạng có chia hết cho số đã cho không.
+- Tất cả đều chia hết ⇒ tổng chia hết (Tính chất 1). Đúng một số hạng không chia hết ⇒ tổng không chia hết (Tính chất 2).
+- Có từ hai số hạng trở lên không chia hết thì chưa kết luận được, phải tính hoặc nhóm lại.
+DB: Dạng 3. Bài toán thực tế về chia đều
+- "Chia đều không thừa" nghĩa là số lượng chia hết cho số phần (số người, số nhóm).
+- Số phần có thể chia được là các ước của số lượng; lọc theo điều kiện của đề bài.
+VD: a) Tìm tập hợp Ư(18). b) Tìm các bội của 7 nhỏ hơn 50.
+B: a) Chia 18 lần lượt cho các số từ 1 đến 18: 18 chia hết cho 1; 2; 3; 6; 9; 18 (theo cặp: 1 · 18 = 2 · 9 = 3 · 6 = 18).
+B: b) Nhân 7 lần lượt với 0; 1; 2; …; 7: được 0; 7; 14; 21; 28; 35; 42; 49 (7 · 8 = 56 > 50 thì dừng).
+KQ: Ư(18) = {1; 2; 3; 6; 9; 18}; các bội của 7 nhỏ hơn 50 là 0; 7; 14; 21; 28; 35; 42; 49.
+VD: Không tính tổng, hãy cho biết: a) 42 + 70 + 140 có chia hết cho 7 không? b) 42 + 70 + 145 có chia hết cho 7 không?
+B: a) 42 ⋮ 7; 70 ⋮ 7; 140 ⋮ 7 nên theo Tính chất 1, tổng 42 + 70 + 140 chia hết cho 7.
+B: b) 42 ⋮ 7; 70 ⋮ 7 nhưng 145 không chia hết cho 7 (145 = 7 · 20 + 5). Chỉ có một số hạng không chia hết nên theo Tính chất 2, tổng không chia hết cho 7.
+KQ: a) Có; b) Không.
+GN: Phân biệt "a chia hết cho b" (a ⋮ b, a là bội của b) với "a chia cho b" (có thể có dư).
+GN: Số 0 là bội của mọi số khác 0 nên khi liệt kê bội đừng quên số 0; số 1 và chính số a luôn là ước của a.
+GN: Tính chất 2 chỉ dùng khi có ĐÚNG MỘT số hạng không chia hết. Ví dụ 5 + 9 có hai số hạng không chia hết cho 7 nhưng tổng 14 lại chia hết cho 7.
+Q: mc | Tập hợp Ư(15) là
+A) {1; 3; 5}
+B) {1; 3; 5; 15} *
+C) {0; 15; 30}
+D) {3; 5}
+E: 15 chia hết cho 1; 3; 5; 15 nên Ư(15) = {1; 3; 5; 15}. Phương án C là một số bội của 15.
+Q: mc | Tổng nào sau đây chia hết cho 6?
+A) 24 + 36 + 13
+B) 18 + 30 + 42 *
+C) 12 + 25
+D) 60 + 9
+E: 18, 30, 42 đều chia hết cho 6 nên tổng chia hết cho 6 (Tính chất 1). Ở A, C, D có đúng một số hạng (13; 25; 9) không chia hết cho 6 nên tổng không chia hết cho 6.
+Q: tf | Xét tính đúng – sai của các khẳng định sau:
+a) Số 0 là bội của mọi số tự nhiên khác 0. | Đ
+b) Số 1 là ước của mọi số tự nhiên. | Đ
+c) Tập hợp các bội của 9 nhỏ hơn 40 là {9; 18; 27; 36}. | S
+d) Nếu a ⋮ 5 và b không chia hết cho 5 thì (a + b) ⋮ 5. | S
+E: c) Sai vì thiếu số 0: các bội của 9 nhỏ hơn 40 là 0; 9; 18; 27; 36. d) Sai: theo Tính chất 2, tổng a + b không chia hết cho 5.
+Q: sa | Số 24 có bao nhiêu ước?
+ANS: 8
+E: Tìm theo cặp: 24 = 1 · 24 = 2 · 12 = 3 · 8 = 4 · 6. Vậy Ư(24) = {1; 2; 3; 4; 6; 8; 12; 24}, gồm 8 ước.
+Q: match | Nối mỗi tập hợp ở cột A với cách viết liệt kê ở cột B:
+1) Ư(10) | {1; 2; 5; 10}
+2) Ư(7) | {1; 7}
+3) Ư(16) | {1; 2; 4; 8; 16}
+4) Các bội của 5 nhỏ hơn 20 | {0; 5; 10; 15}
+E: 10 = 1 · 10 = 2 · 5; 7 chỉ chia hết cho 1 và 7; 16 = 1 · 16 = 2 · 8 = 4 · 4; các bội của 5 là 0; 5; 10; 15; 20; … và chọn các số nhỏ hơn 20.
+TL: Cô giáo có 42 quyển vở muốn chia đều cho một nhóm học sinh (mỗi bạn được số vở như nhau, không thừa quyển nào). Biết nhóm có nhiều hơn 1 bạn và không quá 10 bạn. Hỏi nhóm có thể có bao nhiêu bạn? Với mỗi trường hợp, mỗi bạn được mấy quyển?
+MAU: Số bạn phải là ước của 42. Ư(42) = {1; 2; 3; 6; 7; 14; 21; 42}.
+MAU: Chọn các ước lớn hơn 1 và không quá 10: 2; 3; 6; 7.
+MAU: Nhóm 2 bạn: mỗi bạn 21 quyển; 3 bạn: 14 quyển; 6 bạn: 7 quyển; 7 bạn: 6 quyển.
+TC: Nhận ra số bạn là ước của 42 và tìm đúng Ư(42) | 1
+TC: Chọn đúng các giá trị 2; 3; 6; 7 | 1
+TC: Tính đúng số vở mỗi bạn trong từng trường hợp | 1
+
 ### Bài 9. Dấu hiệu chia hết
+> Không cần đặt tính, chỉ nhìn chữ số tận cùng hoặc cộng nhẩm các chữ số, em đã biết ngay một số có chia hết cho 2, 3, 5 hay 9 hay không – rất tiện khi chia đều đồ vật hay kiểm tra kết quả tính toán.
+MT: Nhận biết được dấu hiệu chia hết cho 2, cho 5 (dựa vào chữ số tận cùng).
+MT: Nhận biết được dấu hiệu chia hết cho 9, cho 3 (dựa vào tổng các chữ số).
+MT: Vận dụng các dấu hiệu chia hết để nhận biết, tìm chữ số chưa biết, lập số và giải bài toán thực tế.
+LT: 1. Dấu hiệu chia hết cho 2, cho 5
+- Các số có chữ số tận cùng là **0; 2; 4; 6; 8** (chữ số chẵn) thì chia hết cho 2 và **chỉ những số đó** mới chia hết cho 2.
+- Các số có chữ số tận cùng là **0 hoặc 5** thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.
+- Số chia hết cho cả 2 và 5 là số có chữ số tận cùng là **0**. Ví dụ: 370 chia hết cho cả 2 và 5; 375 chia hết cho 5 nhưng không chia hết cho 2.
+HINH: 6-toan/bai9-dau-hieu.svg | Bên trái: các số chia hết cho 2 và các số chia hết cho 5; phần chung gồm các số tận cùng là 0. Bên phải: mọi số chia hết cho 9 đều chia hết cho 3, nhưng có số chia hết cho 3 mà không chia hết cho 9 (như 12, 21, 48).
+LT: 2. Dấu hiệu chia hết cho 9, cho 3
+- Các số có **tổng các chữ số chia hết cho 9** thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.
+- Các số có **tổng các chữ số chia hết cho 3** thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.
+- Số chia hết cho 9 thì chia hết cho 3; nhưng số chia hết cho 3 chưa chắc chia hết cho 9. Ví dụ: 2 457 có tổng các chữ số 2 + 4 + 5 + 7 = 18 nên chia hết cho cả 9 và 3; 105 có tổng các chữ số bằng 6 nên chia hết cho 3 nhưng không chia hết cho 9.
+DB: Dạng 1. Nhận biết số chia hết cho 2, 3, 5, 9
+- Cho 2, cho 5: chỉ xét chữ số tận cùng.
+- Cho 3, cho 9: tính tổng các chữ số rồi xét tổng đó.
+- Chia hết cho cả 2 và 5 ⇔ tận cùng là 0.
+DB: Dạng 2. Tìm chữ số chưa biết (ô trống □) để được số chia hết
+- Điều kiện về 2, 5 thì xét chữ số tận cùng trước; điều kiện về 3, 9 thì lập tổng các chữ số (chứa □).
+- Thử các giá trị của □ từ 0 đến 9 (chữ số đầu tiên phải khác 0), chọn các giá trị thỏa mãn mọi điều kiện, rồi kiểm tra lại.
+DB: Dạng 3. Lập số và bài toán thực tế
+- Lập số từ các chữ số cho trước: chọn chữ số tận cùng (cho 2, 5) hoặc chọn bộ chữ số có tổng thích hợp (cho 3, 9).
+- Bài toán chia đều: số lượng chia hết cho số phần thì chia đều được (không thừa).
+VD: Cho các số 1 234; 3 105; 4 050; 7 281; 590. Trong các số đó, số nào chia hết cho 2? cho 5? cho 3? cho 9?
+B: Chữ số tận cùng chẵn: 1 234; 4 050; 590 ⇒ chia hết cho 2. Tận cùng là 0 hoặc 5: 3 105; 4 050; 590 ⇒ chia hết cho 5.
+B: Tổng các chữ số: 1 234 → 10; 3 105 → 9; 4 050 → 9; 7 281 → 18; 590 → 14.
+B: Tổng chia hết cho 9 (cũng chia hết cho 3): 3 105; 4 050; 7 281. Tổng 10 và 14 không chia hết cho 3.
+KQ: Chia hết cho 2: 1 234; 4 050; 590. Chia hết cho 5: 3 105; 4 050; 590. Chia hết cho 3 và cho 9: 3 105; 4 050; 7 281.
+VD: Thay □ bằng chữ số thích hợp để số 6□4 chia hết cho 3 nhưng không chia hết cho 9.
+B: Tổng các chữ số: 6 + □ + 4 = 10 + □, với □ là một trong các chữ số 0; 1; …; 9.
+B: 6□4 chia hết cho 3 khi 10 + □ chia hết cho 3 ⇒ 10 + □ ∈ {12; 15; 18} ⇒ □ ∈ {2; 5; 8}.
+B: Loại □ = 8 vì khi đó tổng bằng 18 chia hết cho 9 (684 chia hết cho 9).
+KQ: □ = 2 hoặc □ = 5, ta được các số 624 và 654.
+GN: Dấu hiệu chia hết cho 2, 5 xét chữ số tận cùng; dấu hiệu chia hết cho 3, 9 xét tổng các chữ số – không nhầm lẫn hai loại.
+GN: Số chia hết cho 9 thì chia hết cho 3, nhưng điều ngược lại không đúng (ví dụ 12 chia hết cho 3 nhưng không chia hết cho 9).
+GN: Không có "dấu hiệu chữ số tận cùng" cho 3 và 9: 13 tận cùng là 3 nhưng không chia hết cho 3; 19 tận cùng là 9 nhưng không chia hết cho 9.
+Q: mc | Số nào sau đây chia hết cho cả 2 và 5?
+A) 125
+B) 252
+C) 520 *
+D) 205
+E: Số chia hết cho cả 2 và 5 phải có chữ số tận cùng là 0. Chỉ có 520 thỏa mãn.
+Q: mc | Số nào sau đây chia hết cho 9?
+A) 1 236
+B) 4 563 *
+C) 7 302
+D) 5 110
+E: Tổng các chữ số: 1 236 → 12; 4 563 → 18; 7 302 → 12; 5 110 → 7. Chỉ có 18 chia hết cho 9, nên 4 563 chia hết cho 9.
+Q: tf | Xét tính đúng – sai của các khẳng định sau:
+a) Số có chữ số tận cùng là 4 thì chia hết cho 2. | Đ
+b) Số chia hết cho 3 thì chia hết cho 9. | S
+c) Số 2 025 chia hết cho cả 5 và 9. | Đ
+d) Số 4 572 chia hết cho 5. | S
+E: a) Đúng vì 4 là chữ số chẵn. b) Sai, ví dụ 12 chia hết cho 3 nhưng không chia hết cho 9. c) Đúng: tận cùng là 5 và tổng các chữ số 2 + 0 + 2 + 5 = 9. d) Sai vì chữ số tận cùng là 2.
+Q: sa | Có bao nhiêu số tự nhiên có hai chữ số chia hết cho 3?
+ANS: 30
+E: Các số đó là 12; 15; 18; …; 99 (cách đều 3 đơn vị). Số lượng: (99 − 12) : 3 + 1 = 29 + 1 = 30.
+Q: match | Nối mỗi số ở cột A với nhận xét đúng về số đó ở cột B (chỉ xét tính chia hết cho 2; 3; 5; 9):
+1) 136 | Chỉ chia hết cho 2
+2) 2 370 | Chia hết cho 2, 3 và 5 nhưng không chia hết cho 9
+3) 711 | Chia hết cho 3 và 9, không chia hết cho 2 và 5
+4) 1 260 | Chia hết cho cả bốn số 2; 3; 5; 9
+E: 136: tận cùng 6, tổng chữ số 10. 2 370: tận cùng 0, tổng chữ số 12. 711: tận cùng 1, tổng chữ số 9. 1 260: tận cùng 0, tổng chữ số 9.
+TL: Một cửa hàng có 135 quả cam và 270 quả quýt. Không thực hiện phép chia, hãy cho biết: a) Có thể chia đều mỗi loại quả vào 9 giỏ được không? b) Có thể chia đều mỗi loại quả vào 2 giỏ được không? Giải thích.
+MAU: a) 135 có tổng các chữ số 1 + 3 + 5 = 9; 270 có tổng các chữ số 2 + 7 + 0 = 9. Cả hai số đều chia hết cho 9 nên chia đều được mỗi loại vào 9 giỏ.
+MAU: b) 270 có chữ số tận cùng là 0 nên chia hết cho 2: chia đều quýt vào 2 giỏ được.
+MAU: 135 có chữ số tận cùng là 5 (lẻ) nên không chia hết cho 2: không chia đều cam vào 2 giỏ được.
+TC: Dùng đúng dấu hiệu chia hết cho 9 với cả hai số | 1
+TC: Dùng đúng dấu hiệu chia hết cho 2 với số 270 | 1
+TC: Kết luận đúng cam không chia đều vào 2 giỏ, có giải thích | 1
+
 ### Bài 10. Số nguyên tố
+> Có 37 viên gạch vuông, em chỉ xếp được chúng thành một hàng dài 1 × 37, không thể xếp thành hình chữ nhật nào khác. Đó là vì 37 là một số nguyên tố – "viên gạch" để xây nên mọi số tự nhiên.
+MT: Nhận biết được số nguyên tố, hợp số; biết số 0 và số 1 không là số nguyên tố, cũng không là hợp số.
+MT: Phân tích được một số tự nhiên lớn hơn 1 ra thừa số nguyên tố bằng sơ đồ cây hoặc sơ đồ cột; viết gọn kết quả bằng lũy thừa.
+MT: Vận dụng sự phân tích ra thừa số nguyên tố để tìm ước, xét tính chia hết trong những trường hợp đơn giản.
+LT: 1. Số nguyên tố và hợp số
+- **Số nguyên tố** là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó. Ví dụ: 2; 3; 5; 7; 11; 13.
+- **Hợp số** là số tự nhiên lớn hơn 1, có nhiều hơn hai ước. Ví dụ: 4 (có các ước 1; 2; 4), 9, 15.
+- Số 0 và số 1 **không là số nguyên tố và cũng không là hợp số**.
+- Số 2 là **số nguyên tố chẵn duy nhất**; mọi số nguyên tố khác đều là số lẻ.
+- Để chứng tỏ một số a > 1 là hợp số, chỉ cần chỉ ra một ước của a khác 1 và khác a (thường dùng dấu hiệu chia hết). Ví dụ: 57 có tổng các chữ số 12 chia hết cho 3 nên 57 ⋮ 3, vậy 57 là hợp số.
+HINH: 6-toan/bai10-sang.svg | Bảng các số từ 1 đến 50, tô đỏ 15 số nguyên tố: 2; 3; 5; 7; 11; 13; 17; 19; 23; 29; 31; 37; 41; 43; 47.
+LT: 2. Phân tích một số ra thừa số nguyên tố
+- **Phân tích một số tự nhiên lớn hơn 1 ra thừa số nguyên tố** là viết số đó dưới dạng một tích các thừa số nguyên tố. Mỗi số nguyên tố là dạng phân tích của chính nó.
+- **Sơ đồ cây**: tách số đã cho thành tích hai số, tiếp tục tách các thừa số chưa nguyên tố cho đến khi mọi "nhánh" cuối đều là số nguyên tố.
+- **Sơ đồ cột**: chia số đã cho lần lượt cho các số nguyên tố từ nhỏ đến lớn (2; 3; 5; 7; …), viết số chia ở bên phải, thương ở bên trái dòng dưới, cho đến khi được thương bằng 1.
+- Thường viết kết quả gọn bằng lũy thừa, các thừa số nguyên tố theo thứ tự tăng dần. Dù phân tích theo cách nào, ta cũng được **cùng một kết quả**.
+HINH: 6-toan/bai10-phan-tich.svg | Phân tích 180 ra thừa số nguyên tố bằng sơ đồ cây và bằng sơ đồ cột; cả hai cách đều cho 180 = 2² · 3² · 5.
+DB: Dạng 1. Nhận biết số nguyên tố, hợp số
+- Số nhỏ: tra bảng số nguyên tố. Số lớn hơn: thử chia cho các số nguyên tố 2; 3; 5; 7; 11; … (dùng dấu hiệu chia hết).
+- Tìm được một ước khác 1 và khác chính nó ⇒ hợp số. Nhớ loại riêng số 0 và số 1.
+DB: Dạng 2. Phân tích một số ra thừa số nguyên tố
+- Dùng sơ đồ cây hoặc sơ đồ cột; ở sơ đồ cột luôn chia cho số nguyên tố nhỏ nhất có thể trước.
+- Kiểm tra mọi thừa số đều là số nguyên tố; viết gọn bằng lũy thừa và nhân lại để thử.
+DB: Dạng 3. Vận dụng phân tích để xét tính chia hết
+- Biết a = 2^{x} · 3^{y} · 5^{z} · …, số a chia hết cho một số b khi mọi thừa số nguyên tố của b đều có mặt trong a với số mũ không lớn hơn.
+- Ví dụ: 2² · 3 · 5 chia hết cho 4 = 2² và cho 15 = 3 · 5 nhưng không chia hết cho 9 = 3².
+VD: Trong các số 0; 1; 17; 27; 31; 51, số nào là số nguyên tố, số nào là hợp số?
+B: 0 và 1 không là số nguyên tố, cũng không là hợp số.
+B: 17 và 31 chỉ có hai ước là 1 và chính nó (không chia hết cho 2; 3; 5) nên là số nguyên tố.
+B: 27 = 3 · 9 và 51 = 3 · 17 (tổng các chữ số đều chia hết cho 3) nên có ước 3, là hợp số.
+KQ: Số nguyên tố: 17; 31. Hợp số: 27; 51. Số 0 và 1 không là số nguyên tố, cũng không là hợp số.
+VD: Phân tích số 420 ra thừa số nguyên tố.
+B: Sơ đồ cột: 420 : 2 = 210; 210 : 2 = 105; 105 : 3 = 35; 35 : 5 = 7; 7 : 7 = 1.
+B: Vậy 420 = 2 · 2 · 3 · 5 · 7. Thử lại bằng sơ đồ cây: 420 = 42 · 10 = (2 · 3 · 7) · (2 · 5).
+KQ: 420 = 2² · 3 · 5 · 7.
+GN: 0 và 1 không là số nguyên tố, cũng không là hợp số; 2 là số nguyên tố nhỏ nhất và là số nguyên tố chẵn duy nhất.
+GN: Không phải số lẻ nào cũng là số nguyên tố: 9, 15, 21, 27, 91 = 7 · 13 đều là hợp số.
+GN: Viết 180 = 4 · 45 chưa phải là phân tích ra thừa số nguyên tố vì 4 và 45 không phải số nguyên tố; phải phân tích tiếp đến khi mọi thừa số đều nguyên tố.
+Q: mc | Số nào sau đây là số nguyên tố?
+A) 1
+B) 21
+C) 29 *
+D) 39
+E: 29 chỉ có hai ước là 1 và 29. Số 1 không là số nguyên tố; 21 = 3 · 7 và 39 = 3 · 13 là hợp số.
+Q: mc | Kết quả phân tích số 72 ra thừa số nguyên tố là
+A) 8 · 9
+B) 2³ · 3² *
+C) 2² · 3³
+D) 2 · 36
+E: 72 = 2 · 36 = 2 · 2 · 18 = 2 · 2 · 2 · 9 = 2³ · 3². Phương án A và D chưa phải tích các thừa số nguyên tố; C có giá trị 4 · 27 = 108.
+Q: tf | Xét tính đúng – sai của các khẳng định sau:
+a) Mọi số nguyên tố đều là số lẻ. | S
+b) Số 1 không là số nguyên tố, cũng không là hợp số. | Đ
+c) 91 là số nguyên tố. | S
+d) Tích của hai số nguyên tố là một hợp số. | Đ
+E: a) Sai vì 2 là số nguyên tố chẵn. c) Sai vì 91 = 7 · 13. d) Đúng: tích p · q của hai số nguyên tố lớn hơn 1 và có ít nhất ba ước 1; p; p · q nên là hợp số.
+Q: sa | Có bao nhiêu số nguyên tố nhỏ hơn 20?
+ANS: 8
+E: Các số nguyên tố nhỏ hơn 20 là 2; 3; 5; 7; 11; 13; 17; 19 – gồm 8 số.
+Q: ord | Sắp xếp các bước phân tích số 150 ra thừa số nguyên tố theo sơ đồ cột:
+1) 150 : 2 = 75
+2) 75 : 3 = 25
+3) 25 : 5 = 5
+4) 5 : 5 = 1
+5) Kết luận: 150 = 2 · 3 · 5²
+E: Chia lần lượt cho các số nguyên tố từ nhỏ đến lớn (2 rồi 3 rồi 5) cho đến khi thương bằng 1; tích các số chia là 2 · 3 · 5 · 5 = 150.
+TL: Một số tự nhiên a khi phân tích ra thừa số nguyên tố có dạng a = 2³ · 5 · 7. a) Tìm số a. b) Không thực hiện phép chia, hãy cho biết a có chia hết cho 4, cho 10, cho 14, cho 25 hay không. Giải thích.
+MAU: a) a = 2³ · 5 · 7 = 8 · 35 = 280.
+MAU: b) 4 = 2², 10 = 2 · 5, 14 = 2 · 7: các thừa số nguyên tố này đều có trong a với số mũ không lớn hơn nên a chia hết cho 4, 10 và 14.
+MAU: 25 = 5², nhưng trong a thừa số 5 chỉ có số mũ 1, nên a không chia hết cho 25 (thật vậy 280 = 25 · 11 + 5).
+TC: Tính đúng a = 280 | 1
+TC: Giải thích đúng a chia hết cho 4, 10, 14 | 1
+TC: Giải thích đúng a không chia hết cho 25 | 1
+
 ### Bài 11. Ước chung. Ước chung lớn nhất
+> Cô giáo có 48 bút bi và 60 quyển vở, muốn chia thành các phần thưởng giống hệt nhau và nhiều phần nhất có thể. Có bao nhiêu phần thưởng? Câu trả lời chính là ước chung lớn nhất của 48 và 60.
+MT: Nhận biết được ước chung, ước chung lớn nhất (ƯCLN) của hai hay nhiều số; nhận biết hai số nguyên tố cùng nhau.
+MT: Tìm được ƯCLN bằng cách phân tích các số ra thừa số nguyên tố; tìm ước chung thông qua ƯCLN.
+MT: Vận dụng ƯCLN để rút gọn phân số về phân số tối giản và giải bài toán thực tế.
+LT: 1. Ước chung và ước chung lớn nhất
+- **Ước chung** của hai hay nhiều số là ước của tất cả các số đó. Tập hợp các ước chung của a và b kí hiệu là **ƯC(a, b)**.
+- **Ước chung lớn nhất** của hai hay nhiều số là số lớn nhất trong tập hợp các ước chung của các số đó, kí hiệu **ƯCLN(a, b)**.
+- **Tất cả các ước chung** của a và b **đều là ước của ƯCLN(a, b)**. Vì vậy, muốn tìm ƯC(a, b) ta tìm ƯCLN(a, b) rồi tìm các ước của nó.
+- Nhận xét: nếu a ⋮ b thì ƯCLN(a, b) = b; ƯCLN(a, 1) = 1.
+- Hai số có ƯCLN bằng 1 gọi là **hai số nguyên tố cùng nhau**. Ví dụ: 8 và 15 là hai số nguyên tố cùng nhau.
+HINH: 6-toan/bai11-uoc-chung.svg | Phần chung của Ư(18) và Ư(30) là ƯC(18, 30) = {1; 2; 3; 6}; số lớn nhất trong phần chung là ƯCLN(18, 30) = 6, và 1; 2; 3; 6 đều là ước của 6.
+LT: 2. Cách tìm ƯCLN bằng cách phân tích các số ra thừa số nguyên tố
+- Bước 1: Phân tích mỗi số ra thừa số nguyên tố.
+- Bước 2: Chọn ra các **thừa số nguyên tố chung**.
+- Bước 3: Lập tích các thừa số đã chọn, mỗi thừa số lấy với **số mũ nhỏ nhất**. Tích đó là ƯCLN phải tìm.
+- Nếu các số không có thừa số nguyên tố chung thì ƯCLN của chúng bằng 1.
+LT: 3. Rút gọn về phân số tối giản
+- Phân số a/b được gọi là **phân số tối giản** nếu ƯCLN(a, b) = 1 (tử và mẫu chỉ có ước chung là 1).
+- Muốn rút gọn một phân số về phân số tối giản, ta **chia cả tử và mẫu cho ƯCLN** của chúng. Ví dụ: ƯCLN(24, 36) = 12 nên 24/36 = (24 : 12)/(36 : 12) = 2/3.
+DB: Dạng 1. Tìm ƯCLN và ƯC của hai hay nhiều số
+- Nếu số nhỏ là ước của các số còn lại thì ƯCLN chính là số nhỏ đó.
+- Nếu không, phân tích ra thừa số nguyên tố, lấy các thừa số chung với số mũ nhỏ nhất.
+- ƯC(a, b) = Ư(ƯCLN(a, b)): liệt kê các ước của ƯCLN.
+DB: Dạng 2. Rút gọn phân số về phân số tối giản
+- Tìm ƯCLN của tử và mẫu, chia cả tử và mẫu cho ƯCLN đó.
+- Kiểm tra: phân số tối giản khi tử và mẫu là hai số nguyên tố cùng nhau.
+DB: Dạng 3. Bài toán thực tế dẫn đến tìm ƯCLN (ƯC)
+- Dấu hiệu: chia đều nhiều loại đồ vật thành các phần như nhau với số phần "nhiều nhất"; cắt thành các hình vuông "lớn nhất"…
+- Gọi số cần tìm là x thì x là ước chung của các số đã cho; "lớn nhất" ⇒ x = ƯCLN; có thêm điều kiện thì chọn trong tập ƯC.
+VD: Tìm ƯCLN(36, 84) rồi tìm ƯC(36, 84).
+B: Phân tích: 36 = 2² · 3²; 84 = 2² · 3 · 7.
+B: Thừa số nguyên tố chung là 2 và 3; số mũ nhỏ nhất của 2 là 2, của 3 là 1.
+B: ƯCLN(36, 84) = 2² · 3 = 12. Các ước chung là các ước của 12.
+KQ: ƯCLN(36, 84) = 12; ƯC(36, 84) = Ư(12) = {1; 2; 3; 4; 6; 12}.
+VD: Cô giáo có 48 bút bi và 60 quyển vở, muốn chia đều thành các phần thưởng như nhau (mỗi phần có cả bút và vở, không thừa). Có thể chia được nhiều nhất bao nhiêu phần thưởng? Khi đó mỗi phần có mấy bút, mấy vở?
+B: Số phần thưởng là ước chung của 48 và 60; nhiều nhất nên là ƯCLN(48, 60).
+B: 48 = 2⁴ · 3; 60 = 2² · 3 · 5 ⇒ ƯCLN(48, 60) = 2² · 3 = 12.
+B: Mỗi phần có 48 : 12 = 4 bút bi và 60 : 12 = 5 quyển vở.
+KQ: Chia được nhiều nhất 12 phần thưởng, mỗi phần gồm 4 bút bi và 5 quyển vở.
+GN: Tìm ƯCLN: thừa số nguyên tố CHUNG, số mũ NHỎ NHẤT (không nhầm với BCNN).
+GN: ƯCLN của các số không lớn hơn số nhỏ nhất trong các số đó; nếu số nhỏ nhất là ước của các số còn lại thì nó chính là ƯCLN.
+GN: Hai số nguyên tố cùng nhau không nhất thiết là số nguyên tố: 8 và 9 đều là hợp số nhưng ƯCLN(8, 9) = 1.
+Q: mc | ƯCLN(24, 40) bằng
+A) 4
+B) 8 *
+C) 120
+D) 2
+E: 24 = 2³ · 3; 40 = 2³ · 5. Thừa số chung là 2 với số mũ nhỏ nhất 3 nên ƯCLN(24, 40) = 2³ = 8.
+Q: mc | Phân số nào sau đây là phân số tối giản?
+A) 14/21
+B) 15/28 *
+C) 12/30
+D) 9/27
+E: 15 = 3 · 5 và 28 = 2² · 7 không có thừa số nguyên tố chung nên ƯCLN(15, 28) = 1. Các phân số còn lại rút gọn được: 14/21 = 2/3; 12/30 = 2/5; 9/27 = 1/3.
+Q: tf | Xét tính đúng – sai của các khẳng định sau:
+a) ƯC(12, 18) = {1; 2; 3; 6}. | Đ
+b) ƯCLN(15, 45) = 15. | Đ
+c) 8 và 12 là hai số nguyên tố cùng nhau. | S
+d) ƯCLN(16, 24) = 4. | S
+E: a) ƯCLN(12, 18) = 6 nên ƯC(12, 18) = Ư(6) = {1; 2; 3; 6}. b) 45 ⋮ 15 nên ƯCLN = 15. c) ƯCLN(8, 12) = 4 ≠ 1. d) 16 = 2⁴, 24 = 2³ · 3 nên ƯCLN(16, 24) = 2³ = 8.
+Q: sa | Tìm ƯCLN(54, 72).
+ANS: 18
+E: 54 = 2 · 3³; 72 = 2³ · 3². ƯCLN(54, 72) = 2 · 3² = 18. (Từ đó rút gọn 54/72 = 3/4.)
+Q: match | Nối mỗi cặp số với ƯCLN của chúng:
+1) ƯCLN(12, 30) | 6
+2) ƯCLN(20, 35) | 5
+3) ƯCLN(9, 16) | 1
+4) ƯCLN(28, 42) | 14
+E: 12 = 2² · 3, 30 = 2 · 3 · 5 ⇒ 2 · 3 = 6; 20 = 2² · 5, 35 = 5 · 7 ⇒ 5; 9 = 3², 16 = 2⁴ không có thừa số chung ⇒ 1; 28 = 2² · 7, 42 = 2 · 3 · 7 ⇒ 2 · 7 = 14.
+TL: Một mảnh vườn hình chữ nhật có chiều dài 112 m, chiều rộng 40 m. Người ta muốn chia mảnh vườn thành các ô đất hình vuông bằng nhau (độ dài cạnh là số tự nhiên, tính bằng mét) sao cho không thừa đất. Tính độ dài lớn nhất của cạnh ô vuông. Khi đó chia được bao nhiêu ô?
+MAU: Độ dài cạnh ô vuông phải là ước chung của 112 và 40; lớn nhất nên bằng ƯCLN(112, 40).
+MAU: 112 = 2⁴ · 7; 40 = 2³ · 5 ⇒ ƯCLN(112, 40) = 2³ = 8. Cạnh ô vuông lớn nhất là 8 m.
+MAU: Theo chiều dài có 112 : 8 = 14 ô, theo chiều rộng có 40 : 8 = 5 ô. Số ô vuông: 14 · 5 = 70 (ô).
+TC: Lập luận cạnh ô vuông là ƯCLN(112, 40) | 1
+TC: Tính đúng ƯCLN(112, 40) = 8 | 1
+TC: Tính đúng số ô vuông là 70 | 1
+
 ### Bài 12. Bội chung. Bội chung nhỏ nhất
+> Hai chuyến xe buýt cùng xuất phát lúc 6 giờ sáng, một tuyến cứ 10 phút có một chuyến, tuyến kia cứ 15 phút có một chuyến. Khi nào hai tuyến lại cùng xuất phát? Bội chung nhỏ nhất sẽ cho ta câu trả lời: 30 phút sau, tức là lúc 6 giờ 30 phút.
+MT: Nhận biết được bội chung, bội chung nhỏ nhất (BCNN) của hai hay nhiều số.
+MT: Tìm được BCNN bằng cách phân tích các số ra thừa số nguyên tố; tìm bội chung thông qua BCNN.
+MT: Vận dụng BCNN để quy đồng mẫu các phân số, cộng trừ phân số và giải bài toán thực tế.
+LT: 1. Bội chung và bội chung nhỏ nhất
+- **Bội chung** của hai hay nhiều số là bội của tất cả các số đó. Tập hợp các bội chung của a và b kí hiệu là **BC(a, b)**.
+- **Bội chung nhỏ nhất** của hai hay nhiều số là số nhỏ nhất **khác 0** trong tập hợp các bội chung của các số đó, kí hiệu **BCNN(a, b)**.
+- **Tất cả các bội chung** của a và b **đều là bội của BCNN(a, b)**. Muốn tìm BC(a, b), ta tìm BCNN(a, b) rồi nhân nó lần lượt với 0; 1; 2; 3; …
+- Nhận xét: nếu a ⋮ b thì BCNN(a, b) = a; BCNN(a, 1) = a; nếu a và b là hai số nguyên tố cùng nhau thì BCNN(a, b) = a · b.
+HINH: 6-toan/bai12-boi-chung.svg | Đánh dấu các bội của 4 và các bội của 6 trên hai tia số: các bội chung là 0; 12; 24; 36; …; số nhỏ nhất khác 0 trong đó là BCNN(4, 6) = 12.
+LT: 2. Cách tìm BCNN bằng cách phân tích các số ra thừa số nguyên tố
+- Bước 1: Phân tích mỗi số ra thừa số nguyên tố.
+- Bước 2: Chọn ra các **thừa số nguyên tố chung và riêng**.
+- Bước 3: Lập tích các thừa số đã chọn, mỗi thừa số lấy với **số mũ lớn nhất**. Tích đó là BCNN phải tìm.
+LT: 3. Ứng dụng trong quy đồng mẫu các phân số
+- Khi quy đồng mẫu các phân số, ta thường lấy **mẫu chung là BCNN của các mẫu** (mẫu chung nhỏ nhất).
+- Tìm **thừa số phụ** của mỗi mẫu bằng cách chia mẫu chung cho từng mẫu; nhân cả tử và mẫu của mỗi phân số với thừa số phụ tương ứng.
+- Sau khi quy đồng, cộng (trừ) các phân số cùng mẫu bằng cách cộng (trừ) các tử và giữ nguyên mẫu.
+DB: Dạng 1. Tìm BCNN và BC của hai hay nhiều số
+- Nếu số lớn nhất chia hết cho các số còn lại thì BCNN chính là số lớn nhất đó.
+- Nếu không, phân tích ra thừa số nguyên tố, lấy các thừa số chung và riêng với số mũ lớn nhất.
+- BC(a, b) là các bội của BCNN(a, b); chọn những bội thỏa mãn điều kiện của đề.
+DB: Dạng 2. Quy đồng mẫu, cộng trừ phân số
+- Tìm BCNN của các mẫu làm mẫu chung; tìm thừa số phụ; nhân tử và mẫu với thừa số phụ.
+- Cộng, trừ các tử; rút gọn kết quả nếu được.
+DB: Dạng 3. Bài toán thực tế dẫn đến tìm BCNN (BC)
+- Dấu hiệu: các sự việc lặp lại theo chu kì "lại cùng xảy ra"; xếp hàng 2, hàng 3… "đều vừa đủ"; số lượng nằm trong một khoảng cho trước.
+- Gọi số cần tìm là x thì x là bội chung của các số đã cho; "ít nhất", "sớm nhất" ⇒ x = BCNN; có khoảng giới hạn thì chọn trong BC.
+VD: Tìm BCNN(12, 18, 30).
+B: Phân tích: 12 = 2² · 3; 18 = 2 · 3²; 30 = 2 · 3 · 5.
+B: Các thừa số nguyên tố chung và riêng là 2; 3; 5 với số mũ lớn nhất lần lượt là 2; 2; 1.
+B: BCNN(12, 18, 30) = 2² · 3² · 5 = 4 · 9 · 5.
+KQ: BCNN(12, 18, 30) = 180.
+VD: Quy đồng mẫu hai phân số 5/12 và 7/18 rồi tính tổng 5/12 + 7/18.
+B: Mẫu chung là BCNN(12, 18) = 2² · 3² = 36.
+B: Thừa số phụ: 36 : 12 = 3; 36 : 18 = 2. Ta có 5/12 = (5 · 3)/(12 · 3) = 15/36 và 7/18 = (7 · 2)/(18 · 2) = 14/36.
+B: 5/12 + 7/18 = 15/36 + 14/36 = 29/36 (tối giản vì ƯCLN(29, 36) = 1).
+KQ: 5/12 = 15/36; 7/18 = 14/36; tổng bằng 29/36.
+GN: Tìm BCNN: thừa số nguyên tố CHUNG VÀ RIÊNG, số mũ LỚN NHẤT; tìm ƯCLN: thừa số CHUNG, số mũ NHỎ NHẤT.
+GN: BCNN là số nhỏ nhất KHÁC 0 trong tập hợp bội chung (số 0 là bội chung của mọi số nhưng không phải BCNN).
+GN: Lấy tích các mẫu làm mẫu chung vẫn đúng nhưng số thường lớn; dùng BCNN của các mẫu để tính gọn hơn.
+Q: mc | BCNN(8, 12) bằng
+A) 4
+B) 24 *
+C) 48
+D) 96
+E: 8 = 2³; 12 = 2² · 3 ⇒ BCNN(8, 12) = 2³ · 3 = 24. (4 là ƯCLN; 96 là tích 8 · 12; 48 là một bội chung nhưng không nhỏ nhất.)
+Q: mc | BCNN(7, 9) bằng
+A) 1
+B) 16
+C) 63 *
+D) 9
+E: 7 và 9 là hai số nguyên tố cùng nhau nên BCNN(7, 9) = 7 · 9 = 63.
+Q: tf | Xét tính đúng – sai của các khẳng định sau:
+a) BC(4, 6) = {0; 12; 24; 36; …}. | Đ
+b) BCNN(5, 15) = 15. | Đ
+c) BCNN(10, 25) = 250. | S
+d) Mẫu chung nhỏ nhất khi quy đồng hai phân số 1/6 và 1/8 là 48. | S
+E: a) BCNN(4, 6) = 12 nên BC(4, 6) là các bội của 12. b) 15 ⋮ 5 nên BCNN = 15. c) 10 = 2 · 5, 25 = 5² ⇒ BCNN = 2 · 5² = 50. d) BCNN(6, 8) = 2³ · 3 = 24, nên mẫu chung nhỏ nhất là 24.
+Q: sa | Tìm BCNN(20, 24).
+ANS: 120
+E: 20 = 2² · 5; 24 = 2³ · 3. BCNN(20, 24) = 2³ · 3 · 5 = 120.
+Q: ord | Sắp xếp các bước quy đồng mẫu hai phân số 3/8 và 5/12 theo đúng thứ tự:
+1) Tìm mẫu chung: BCNN(8, 12) = 24
+2) Tìm thừa số phụ: 24 : 8 = 3; 24 : 12 = 2
+3) Nhân cả tử và mẫu của mỗi phân số với thừa số phụ tương ứng
+4) Kết quả: 3/8 = 9/24; 5/12 = 10/24
+E: Quy đồng theo ba bước: tìm mẫu chung (BCNN của các mẫu), tìm thừa số phụ, nhân tử và mẫu với thừa số phụ. 3 · 3 = 9; 5 · 2 = 10.
+TL: Số học sinh khối 6 của một trường khi xếp thành hàng 12, hàng 15 hay hàng 18 đều vừa đủ, không thừa ai. Biết số học sinh trong khoảng từ 300 đến 400. Tính số học sinh khối 6 của trường đó.
+MAU: Gọi số học sinh là x (300 ≤ x ≤ 400). Vì x chia hết cho 12, 15 và 18 nên x ∈ BC(12, 15, 18).
+MAU: 12 = 2² · 3; 15 = 3 · 5; 18 = 2 · 3² ⇒ BCNN(12, 15, 18) = 2² · 3² · 5 = 180.
+MAU: BC(12, 15, 18) = B(180) = {0; 180; 360; 540; …}. Trong khoảng từ 300 đến 400 chỉ có 360.
+MAU: Vậy khối 6 của trường có 360 học sinh.
+TC: Lập luận x là bội chung của 12, 15, 18 | 1
+TC: Tìm đúng BCNN(12, 15, 18) = 180 | 1
+TC: Chọn đúng x = 360 trong khoảng đã cho và kết luận | 1
+
 ## Chương III. Số nguyên
 ### Bài 13. Tập hợp các số nguyên
 ### Bài 14. Phép cộng và phép trừ số nguyên

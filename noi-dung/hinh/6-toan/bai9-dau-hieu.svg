@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="560.592pt" height="261.216pt" viewBox="0 0 560.592 261.216" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T23:49:24.602851</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 261.216 
+L 560.592 261.216 
+L 560.592 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 102.888 197.136 
+C 122.001718 197.136 140.33516 189.542039 153.8506 176.0266 
+C 167.366039 162.51116 174.96 144.177718 174.96 125.064 
+C 174.96 105.950282 167.366039 87.61684 153.8506 74.1014 
+C 140.33516 60.585961 122.001718 52.992 102.888 52.992 
+C 83.774282 52.992 65.44084 60.585961 51.9254 74.1014 
+C 38.409961 87.61684 30.816 105.950282 30.816 125.064 
+C 30.816 144.177718 38.409961 162.51116 51.9254 176.0266 
+C 65.44084 189.542039 83.774282 197.136 102.888 197.136 
+z
+" clip-path="url(#p70445d8ff8)" style="fill: #e3eefc; opacity: 0.85; stroke: #2f6fde; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 191.592 197.136 
+C 210.705718 197.136 229.03916 189.542039 242.5546 176.0266 
+C 256.070039 162.51116 263.664 144.177718 263.664 125.064 
+C 263.664 105.950282 256.070039 87.61684 242.5546 74.1014 
+C 229.03916 60.585961 210.705718 52.992 191.592 52.992 
+C 172.478282 52.992 154.14484 60.585961 140.6294 74.1014 
+C 127.113961 87.61684 119.52 105.950282 119.52 125.064 
+C 119.52 144.177718 127.113961 162.51116 140.6294 176.0266 
+C 154.14484 189.542039 172.478282 197.136 191.592 197.136 
+z
+" clip-path="url(#p70445d8ff8)" style="fill: #fdf0dc; opacity: 0.6; stroke: #bd7a12; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 421.668 205.452 
+C 443.72229 205.452 464.876262 196.689738 480.471 181.095 
+C 496.065738 165.500262 504.828 144.34629 504.828 122.292 
+C 504.828 100.23771 496.065738 79.083738 480.471 63.489 
+C 464.876262 47.894262 443.72229 39.132 421.668 39.132 
+C 399.61371 39.132 378.459738 47.894262 362.865 63.489 
+C 347.270262 79.083738 338.508 100.23771 338.508 122.292 
+C 338.508 144.34629 347.270262 165.500262 362.865 181.095 
+C 378.459738 196.689738 399.61371 205.452 421.668 205.452 
+z
+" clip-path="url(#p70445d8ff8)" style="fill: #eef7e6; stroke: #55891b; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 449.388 180.504 
+C 461.150288 180.504 472.432406 175.830793 480.7496 167.5136 
+C 489.066793 159.196406 493.74 147.914288 493.74 136.152 
+C 493.74 124.389712 489.066793 113.107594 480.7496 104.7904 
+C 472.432406 96.473207 461.150288 91.8 449.388 91.8 
+C 437.625712 91.8 426.343594 96.473207 418.0264 104.7904 
+C 409.709207 113.107594 405.036 124.389712 405.036 136.152 
+C 405.036 147.914288 409.709207 159.196406 418.0264 167.5136 
+C 426.343594 175.830793 437.625712 180.504 449.388 180.504 
+z
+" clip-path="url(#p70445d8ff8)" style="fill: #efe7fb; stroke: #7a4cc2; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 291.384 247.032 
+L 291.384 19.728 
+" clip-path="url(#p70445d8ff8)" style="fill: none; stroke: #eef4f0; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="69.624" y="37.746" transform="rotate(-0 69.624 37.746)">chia hết cho 2</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="224.856" y="37.746" transform="rotate(-0 224.856 37.746)">chia hết cho 5</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="64.08" y="100.461188" transform="rotate(-0 64.08 100.461188)">14</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="66.852" y="133.725188" transform="rotate(-0 66.852 133.725188)">36</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="75.168" y="166.989188" transform="rotate(-0 75.168 166.989188)">58</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="147.24" y="106.005188" transform="rotate(-0 147.24 106.005188)">20</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="147.24" y="133.725188" transform="rotate(-0 147.24 133.725188)">70</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="147.24" y="161.445188" transform="rotate(-0 147.24 161.445188)">130</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="224.856" y="100.461188" transform="rotate(-0 224.856 100.461188)">15</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="227.628" y="133.725188" transform="rotate(-0 227.628 133.725188)">45</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="219.312" y="166.989188" transform="rotate(-0 219.312 166.989188)">95</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="25.272" y="216.885188" transform="rotate(-0 25.272 216.885188)">21</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="269.208" y="216.885188" transform="rotate(-0 269.208 216.885188)">33</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="147.24" y="212.382" transform="rotate(-0 147.24 212.382)">Phần chung: tận cùng là 0</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="147.24" y="235.944" transform="rotate(-0 147.24 235.944)">Cho 2: tận cùng 0; 2; 4; 6; 8.  Cho 5: tận cùng 0; 5.</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #55891b" x="369" y="26.658" transform="rotate(-0 369 26.658)">chia hết cho 3</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #7a4cc2" x="449.388" y="77.94" transform="rotate(-0 449.388 77.94)">chia hết cho 9</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #7a4cc2" x="435.528" y="118.479188" transform="rotate(-0 435.528 118.479188)">18</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #7a4cc2" x="466.02" y="128.181188" transform="rotate(-0 466.02 128.181188)">54</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #7a4cc2" x="443.844" y="158.673188" transform="rotate(-0 443.844 158.673188)">81</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="371.772" y="100.461188" transform="rotate(-0 371.772 100.461188)">12</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="366.228" y="136.497188" transform="rotate(-0 366.228 136.497188)">21</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="385.632" y="172.533188" transform="rotate(-0 385.632 172.533188)">48</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="319.104" y="216.885188" transform="rotate(-0 319.104 216.885188)">25</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b7a72" x="524.232" y="216.885188" transform="rotate(-0 524.232 216.885188)">41</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(324.801594 232.715094)">Tổng các chữ số chia hết cho 3 (cho 9)</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(342.1555 246.015875)">thì số đó chia hết cho 3 (cho 9).</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p70445d8ff8">
+   <rect x="8.64" y="8.64" width="543.312" height="243.936"/>
+  </clipPath>
+ </defs>
+</svg>
