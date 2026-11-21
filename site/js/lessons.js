@@ -87,7 +87,7 @@
   function practiceBlock(qs, prefix) {
     return '<ol class="lp-list">' + qs.map(function (q, i) {
       return '<li class="lp" id="' + prefix + 'q' + i + '"><div class="lp-head"><span class="rv-no">Câu ' + (i + 1) + '</span><span class="badge">' + (App.TYPE_SHORT ? App.TYPE_SHORT[q.t] : q.t) + '</span></div>' +
-        '<div class="q-text">' + fmt(q.q) + '</div>' + qInput(q, i, prefix) +
+        '<div class="q-text">' + fmt(q.q) + '</div>' + (q.img ? figs([q.img]) : '') + qInput(q, i, prefix) +
         '<div class="lp-act"><button type="button" class="btn sm primary" data-check="' + i + '">' + icon('check') + 'Kiểm tra</button><button type="button" class="btn sm ghost" data-hint="' + i + '">Gợi ý từ trợ lý AI</button></div>' +
         '<div class="lp-fb" id="' + prefix + 'fb' + i + '"></div></li>';
     }).join('') + '</ol><div class="lp-sum" id="' + prefix + 'sum"></div>';
@@ -163,6 +163,10 @@
     return String(g || '');
   }
   App.qText = qText;
+  function figs(arr) {
+    return (arr || []).map(function (f) { return '<figure class="fig"><img src="' + esc(f.f) + '" alt="' + esc(f.c || 'Hình minh họa') + '" loading="lazy">' + (f.c ? '<figcaption>' + fmt(f.c) + '</figcaption>' : '') + '</figure>'; }).join('');
+  }
+  App.figs = figs;
 
   /* ---------- Tự luận: đáp án mẫu + tự chấm theo tiêu chí (AI chấm khi đã bật) ---------- */
   function essayBlock(es, id) {
@@ -353,10 +357,11 @@
         (u.pts && u.pts.length ? '<h2>Kiến thức trọng tâm của chương</h2><ul class="points">' + u.pts.map(function (it) { return '<li>' + fmt(it) + '</li>'; }).join('') + '</ul>' : '') +
         '<div class="row-gap"><button class="btn primary" id="ls-quiz">' + icon('quiz') + 'Luyện trắc nghiệm ' + esc(App.subjShort(s, g)) + ' ' + g + '</button><a class="btn ghost" href="' + SGK_URL + '" target="_blank" rel="noopener">' + icon('book') + 'SGK điện tử (NXB Giáo dục)</a></div></section>';
     }
+    if (l.figs && l.figs.length) h += '<section class="card figs-card">' + figs(l.figs) + '</section>';
     if (l.goals.length) h += '<section class="card" id="sec-goals"><h2>Mục tiêu bài học</h2><ul class="goals">' + l.goals.map(function (x) { return '<li>' + fmt(x) + '</li>'; }).join('') + '</ul></section>';
-    if (l.theory.length) h += '<section class="card" id="sec-theory"><h2>Kiến thức trọng tâm</h2>' + l.theory.map(function (t) { return '<div class="th"><h3>' + fmt(t.h) + '</h3><ul class="points">' + t.pts.map(function (x) { return '<li>' + fmt(x) + '</li>'; }).join('') + '</ul></div>'; }).join('') + '</section>';
+    if (l.theory.length) h += '<section class="card" id="sec-theory"><h2>Kiến thức trọng tâm</h2>' + l.theory.map(function (t) { return '<div class="th"><h3>' + fmt(t.h) + '</h3>' + (t.pts.length ? '<ul class="points">' + t.pts.map(function (x) { return '<li>' + fmt(x) + '</li>'; }).join('') + '</ul>' : '') + figs(t.img) + '</div>'; }).join('') + '</section>';
     if (l.examples.length) h += '<section class="card" id="sec-ex"><h2>Ví dụ giải mẫu</h2><p class="muted small">Em tự làm trước, sau đó bấm để xem lời giải từng bước.</p>' + l.examples.map(function (e, i) {
-      return '<article class="example"><p class="ex-q"><b>Ví dụ ' + (i + 1) + '.</b> ' + fmt(e.q) + '</p><button type="button" class="btn sm ghost" data-reveal="' + i + '">Xem lời giải</button>' +
+      return '<article class="example"><p class="ex-q"><b>Ví dụ ' + (i + 1) + '.</b> ' + fmt(e.q) + '</p>' + figs(e.img) + '<button type="button" class="btn sm ghost" data-reveal="' + i + '">Xem lời giải</button>' +
         '<div class="ex-sol" id="exs' + i + '" hidden>' + (e.steps.length ? '<ol class="steps">' + e.steps.map(function (x) { return '<li>' + fmt(x) + '</li>'; }).join('') + '</ol>' : '') + (e.ans ? '<p class="ex-ans"><b>Kết luận:</b> ' + fmt(e.ans) + '</p>' : '') + '</div></article>';
     }).join('') + '</section>';
     if (l.notes.length) h += '<section class="callout warn" id="sec-notes"><h2 class="h-sm">Ghi nhớ & lỗi thường gặp</h2><ul class="points">' + l.notes.map(function (x) { return '<li>' + fmt(x) + '</li>'; }).join('') + '</ul></section>';
@@ -401,7 +406,7 @@
     if (q.t === 'mc') body = '<ol class="p-opts" type="A">' + q.o.map(function (o) { return '<li>' + fmt(o) + '</li>'; }).join('') + '</ol>';
     else if (q.t === 'tf') body = '<table class="p-tf"><tbody>' + q.o.map(function (o, k) { return '<tr><td>' + 'abcd'[k] + ')</td><td>' + fmt(o) + '</td><td class="p-box">Đ ☐ S ☐</td></tr>'; }).join('') + '</tbody></table>';
     else body = '<p class="p-line">Đáp số: ……………………</p>';
-    return '<li class="p-q"><div>' + fmt(q.q) + '</div>' + body + '</li>';
+    return '<li class="p-q"><div>' + fmt(q.q) + '</div>' + (q.img ? figs([q.img]) : '') + body + '</li>';
   }
   function printKey(q, i) {
     var a = q.t === 'mc' ? LETTERS[q.a] : q.t === 'tf' ? q.a.map(function (v, k) { return 'abcd'[k] + ')' + (v ? 'Đ' : 'S'); }).join(' ') : (q.a || []).join(' hoặc ');
@@ -418,8 +423,8 @@
       var l = x.l; title = (l.n ? l.n + '. ' : '') + l.t;
       body = '<p class="p-sub">' + esc(x.b.title + ' · ' + x.u.t) + '</p>' +
         (l.goals.length ? '<h2>Mục tiêu</h2><ul>' + l.goals.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' : '') +
-        (l.theory.length ? '<h2>Kiến thức trọng tâm</h2>' + l.theory.map(function (t) { return '<h3>' + fmt(t.h) + '</h3><ul>' + t.pts.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>'; }).join('') : (x.u.pts && x.u.pts.length ? '<h2>Kiến thức trọng tâm của chương</h2><ul>' + x.u.pts.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' : '')) +
-        (l.examples.length ? '<h2>Ví dụ giải mẫu</h2>' + l.examples.map(function (e, i) { return '<div class="p-ex"><p><b>Ví dụ ' + (i + 1) + '.</b> ' + fmt(e.q) + '</p><ol>' + e.steps.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ol>' + (e.ans ? '<p><b>Kết luận:</b> ' + fmt(e.ans) + '</p>' : '') + '</div>'; }).join('') : '') +
+        (l.figs ? figs(l.figs) : '') + (l.theory.length ? '<h2>Kiến thức trọng tâm</h2>' + l.theory.map(function (t) { return '<h3>' + fmt(t.h) + '</h3><ul>' + t.pts.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' + figs(t.img); }).join('') : (x.u.pts && x.u.pts.length ? '<h2>Kiến thức trọng tâm của chương</h2><ul>' + x.u.pts.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' : '')) +
+        (l.examples.length ? '<h2>Ví dụ giải mẫu</h2>' + l.examples.map(function (e, i) { return '<div class="p-ex"><p><b>Ví dụ ' + (i + 1) + '.</b> ' + fmt(e.q) + '</p>' + figs(e.img) + '<ol>' + e.steps.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ol>' + (e.ans ? '<p><b>Kết luận:</b> ' + fmt(e.ans) + '</p>' : '') + '</div>'; }).join('') : '') +
         (l.notes.length ? '<h2>Ghi nhớ</h2><ul>' + l.notes.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' : '') +
         (l.qs.length ? '<h2>Bài tập</h2><ol class="p-qs">' + l.qs.map(printQ).join('') + '</ol>' : '') +
         (l.essays.length ? '<h2>Tự luận</h2><ol>' + l.essays.map(function (e) { return '<li>' + fmt(e.q) + '</li>'; }).join('') + '</ol>' : '') +

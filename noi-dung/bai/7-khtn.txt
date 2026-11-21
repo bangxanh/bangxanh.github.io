@@ -1,0 +1,116 @@
+// Khoa học tự nhiên 7 – SGK Kết nối tri thức (danh mục đối chiếu loigiaihay.com; nội dung chi tiết bổ sung dần)
+# 7 | khtn | Khoa học tự nhiên 7
+## Mở đầu
+### Bài 1. Phương pháp và kĩ năng học tập môn Khoa học tự nhiên
+## Chương I. Nguyên tử. Sơ lược về bảng tuần hoàn các nguyên tố hóa học
+### Bài 2. Nguyên tử
+### Bài 3. Nguyên tố hóa học
+### Bài 4. Sơ lược về bảng tuần hoàn các nguyên tố hóa học
+## Chương II. Phân tử. Liên kết hóa học
+### Bài 5. Phân tử – Đơn chất – Hợp chất
+### Bài 6. Giới thiệu về liên kết hóa học
+### Bài 7. Hóa trị và công thức hóa học
+## Chương III. Tốc độ
+### Bài 8. Tốc độ chuyển động
+### Bài 9. Đo tốc độ
+### Bài 10. Đồ thị quãng đường – thời gian
+### Bài 11. Thảo luận về ảnh hưởng của tốc độ trong an toàn giao thông
+## Chương IV. Âm thanh
+### Bài 12. Sóng âm
+### Bài 13. Độ to và độ cao của âm
+### Bài 14. Phản xạ âm, chống ô nhiễm tiếng ồn
+## Chương V. Ánh sáng
+### Bài 15. Năng lượng ánh sáng. Tia sáng, vùng tối
+### Bài 16. Sự phản xạ ánh sáng
+> Vì sao ta nhìn thấy mình trong gương? Bài học giải thích hiện tượng ánh sáng "bật lại" khi gặp bề mặt nhẵn bóng.
+MT: Phát biểu được định luật phản xạ ánh sáng.
+MT: Vẽ được tia phản xạ khi biết tia tới; tính được góc tới, góc phản xạ.
+MT: Phân biệt được phản xạ gương và phản xạ khuếch tán.
+LT: 1. Hiện tượng phản xạ ánh sáng
+- Chiếu ánh sáng tới một bề mặt nhẵn bóng (gương), ánh sáng bị hắt trở lại theo một hướng xác định – đó là **hiện tượng phản xạ ánh sáng**.
+- **SI** là tia tới, **IR** là tia phản xạ, **I** là điểm tới, **IN** là pháp tuyến (đường vuông góc với mặt gương tại I).
+- **Góc tới** i = góc SIN; **góc phản xạ** i' = góc NIR.
+LT: 2. Định luật phản xạ ánh sáng
+- Tia phản xạ nằm trong mặt phẳng chứa tia tới và pháp tuyến của gương ở điểm tới.
+- **Góc phản xạ bằng góc tới: i' = i.**
+HINH: 7-khtn/phan-xa.svg | Tia tới SI, pháp tuyến IN và tia phản xạ IR: góc phản xạ i' luôn bằng góc tới i.
+LT: 3. Phản xạ gương và phản xạ khuếch tán
+- **Phản xạ gương**: bề mặt nhẵn, chùm tia tới song song cho chùm tia phản xạ song song → tạo ảnh rõ nét (gương, mặt nước phẳng lặng).
+- **Phản xạ khuếch tán**: bề mặt gồ ghề, các tia phản xạ đi theo mọi hướng → không tạo ảnh nhưng giúp ta nhìn thấy vật từ nhiều phía (trang giấy, bức tường).
+VD: Chiếu một tia sáng tới gương phẳng, tia tới hợp với mặt gương một góc 30°. Tính góc tới và góc phản xạ.
+B: Pháp tuyến vuông góc với mặt gương nên góc tới i = 90° − 30° = 60°.
+B: Theo định luật phản xạ: i' = i = 60°.
+KQ: Góc tới bằng 60°, góc phản xạ bằng 60°. Chú ý: góc tới đo so với pháp tuyến, không phải so với mặt gương.
+VD: Góc tạo bởi tia tới và tia phản xạ là 80°. Tính góc tới.
+B: Góc SIR = i + i' = 2i.
+B: 2i = 80° ⇒ i = 40°.
+KQ: Góc tới bằng 40°.
+GN: Góc tới, góc phản xạ luôn đo so với **pháp tuyến**.
+GN: i' = i, nên góc giữa tia tới và tia phản xạ bằng 2i.
+GN: Tia tới vuông góc với gương (i = 0°) thì tia phản xạ bật ngược trở lại theo đường cũ.
+Q: mc | Theo định luật phản xạ ánh sáng, góc phản xạ
+A) lớn hơn góc tới
+B) nhỏ hơn góc tới
+C) bằng góc tới *
+D) bằng một nửa góc tới
+E: Định luật phản xạ ánh sáng: góc phản xạ bằng góc tới (i' = i).
+Q: mc | Tia tới hợp với mặt gương phẳng một góc 25°. Góc phản xạ bằng
+A) 25°
+B) 50°
+C) 65° *
+D) 130°
+E: Góc tới i = 90° − 25° = 65°, nên góc phản xạ i' = 65°.
+Q: tf | Chiếu một tia sáng tới gương phẳng với góc tới 35°.
+a) Góc phản xạ bằng 35°. | Đ
+b) Góc tạo bởi tia tới và mặt gương bằng 55°. | Đ
+c) Góc tạo bởi tia tới và tia phản xạ bằng 35°. | S
+d) Tia phản xạ nằm trong mặt phẳng chứa tia tới và pháp tuyến tại điểm tới. | Đ
+E: i' = i = 35°; góc giữa tia tới và mặt gương là 90° − 35° = 55°; góc giữa tia tới và tia phản xạ là 2 · 35° = 70°.
+Q: sa | Góc tạo bởi tia tới và tia phản xạ bằng 120°. Góc tới bằng bao nhiêu độ?
+ANS: 60
+E: 2i = 120° ⇒ i = 60°.
+Q: mc | Ta nhìn thấy trang sách từ nhiều phía khác nhau là nhờ
+A) phản xạ gương
+B) phản xạ khuếch tán *
+C) ánh sáng truyền thẳng xuyên qua trang sách
+D) trang sách tự phát ra ánh sáng
+E: Mặt giấy gồ ghề làm ánh sáng phản xạ theo mọi hướng (phản xạ khuếch tán) nên ta thấy trang sách từ nhiều phía.
+TL: Muốn chiếu ánh nắng xuống đáy một cái giếng thẳng đứng bằng một gương phẳng. Tia nắng hợp với mặt đất nằm ngang một góc 40°. Phải đặt gương hợp với mặt đất một góc bao nhiêu? Vẽ hình minh họa.
+MAU: Tia phản xạ cần có phương thẳng đứng, hướng xuống. Góc giữa tia tới (kéo ngược về phía Mặt Trời) và tia phản xạ là 40° + 90° = 130°.
+MAU: Pháp tuyến là tia phân giác của góc này: 2i = 130° ⇒ i = 65°.
+MAU: Gương vuông góc với pháp tuyến; tính được gương hợp với mặt đất nằm ngang một góc (40° + 90°) : 2 = 65°.
+TC: Xác định được góc giữa tia tới và tia phản xạ bằng 130° | 1
+TC: Suy ra góc tới 65° nhờ pháp tuyến là tia phân giác | 1
+TC: Kết luận gương hợp với mặt đất 65° và vẽ hình đúng | 1
+
+### Bài 17. Ảnh của vật qua gương phẳng
+## Chương VI. Từ
+### Bài 18. Nam châm
+### Bài 19. Từ trường
+### Bài 20. Chế tạo nam châm điện đơn giản
+## Chương VII. Trao đổi chất và chuyển hóa năng lượng ở sinh vật
+### Bài 21. Khái quát về trao đổi chất và chuyển hóa năng lượng
+### Bài 22. Quang hợp ở thực vật
+### Bài 23. Một số yếu tố ảnh hưởng đến quang hợp
+### Bài 24. Thực hành: Chứng minh quang hợp ở cây xanh
+### Bài 25. Hô hấp tế bào
+### Bài 26. Một số yếu tố ảnh hưởng đến hô hấp tế bào
+### Bài 27. Thực hành: Hô hấp ở thực vật
+### Bài 28. Trao đổi khí ở sinh vật
+### Bài 29. Vai trò của nước và các chất dinh dưỡng đối với cơ thể sinh vật
+### Bài 30. Trao đổi nước và chất dinh dưỡng ở thực vật
+### Bài 31. Trao đổi nước và chất dinh dưỡng ở động vật
+### Bài 32. Thực hành: Chứng minh thân vận chuyển nước và lá thoát hơi nước
+## Chương VIII. Cảm ứng ở sinh vật
+### Bài 33. Cảm ứng ở sinh vật và tập tính ở động vật
+### Bài 34. Vận dụng hiện tượng cảm ứng ở sinh vật vào thực tiễn
+### Bài 35. Thực hành: Cảm ứng ở sinh vật
+## Chương IX. Sinh trưởng và phát triển ở sinh vật
+### Bài 36. Khái quát về sinh trưởng và phát triển ở sinh vật
+### Bài 37. Ứng dụng sinh trưởng và phát triển ở sinh vật vào thực tiễn
+### Bài 38. Thực hành: Quan sát, mô tả sự sinh trưởng và phát triển ở một số sinh vật
+## Chương X. Sinh sản ở sinh vật
+### Bài 39. Sinh sản vô tính ở sinh vật
+### Bài 40. Sinh sản hữu tính ở sinh vật
+### Bài 41. Một số yếu tố ảnh hưởng và điều hòa, điều khiển sinh sản ở sinh vật
+### Bài 42. Cơ thể sinh vật là một thể thống nhất

@@ -17,6 +17,7 @@ LT: 2. Cực trị của hàm số
 - Nếu f'(x) đổi dấu từ dương sang âm khi x đi qua x₀ thì x₀ là điểm cực đại; đổi dấu từ âm sang dương thì x₀ là điểm cực tiểu.
 - f(x₀) gọi là giá trị cực đại (y_{CĐ}) hoặc giá trị cực tiểu (y_{CT}); điểm M(x₀; f(x₀)) là điểm cực trị của đồ thị.
 - Chú ý: f'(x₀) = 0 chưa đủ để x₀ là điểm cực trị. Ví dụ y = x³ có y'(0) = 0 nhưng y' không đổi dấu qua 0.
+HINH: 12-toan/bai1-cuc-tri.svg | Đồ thị y = x³ − 3x + 2: phần màu xanh hàm số đồng biến, phần màu đỏ nghịch biến; hai điểm cực trị là nơi đồ thị "đổi chiều".
 VD: Xét tính đơn điệu và tìm cực trị của hàm số y = x³ − 3x + 2.
 B: Tập xác định D = ℝ. Ta có y' = 3x² − 3; y' = 0 ⇔ x = −1 hoặc x = 1.
 B: y' > 0 trên (−∞; −1) và (1; +∞); y' < 0 trên (−1; 1).
@@ -121,6 +122,7 @@ LT: 1. Các loại đường tiệm cận
 - **Tiệm cận ngang** y = y₀ nếu lim f(x) = y₀ khi x → +∞ hoặc khi x → −∞.
 - **Tiệm cận đứng** x = x₀ nếu ít nhất một trong các giới hạn của f(x) khi x → x₀⁺ hoặc x → x₀⁻ bằng +∞ hoặc −∞.
 - **Tiệm cận xiên** y = ax + b (a ≠ 0) nếu lim [f(x) − (ax + b)] = 0 khi x → +∞ hoặc x → −∞. Khi đó a = lim f(x)/x và b = lim [f(x) − ax].
+HINH: 12-toan/bai3-tiem-can.svg | Đồ thị y = (2x − 1)/(x + 1) tiến sát hai đường tiệm cận nhưng không bao giờ chạm tới.
 LT: 2. Trường hợp thường gặp
 - y = (ax + b)/(cx + d) với c ≠ 0, ad − bc ≠ 0: tiệm cận đứng x = −d/c, tiệm cận ngang y = a/c.
 - y = (ax² + bx + c)/(mx + n): chia đa thức được y = px + q + r/(mx + n); nếu r ≠ 0 thì có tiệm cận đứng x = −n/m và tiệm cận xiên y = px + q.
@@ -173,6 +175,7 @@ LT: 2. Đặc điểm một số dạng đồ thị
 - Hàm bậc ba y = ax³ + bx² + cx + d (a ≠ 0): có hai cực trị khi y' = 0 có hai nghiệm phân biệt; đồ thị nhận điểm có hoành độ là nghiệm của y'' = 0 làm tâm đối xứng.
 - Hàm y = (ax + b)/(cx + d): có tiệm cận đứng, tiệm cận ngang; đồ thị nhận giao điểm hai tiệm cận làm tâm đối xứng.
 - Số nghiệm của phương trình f(x) = m bằng số giao điểm của đồ thị y = f(x) với đường thẳng y = m.
+HINH: 12-toan/bai4-bien-luan.svg | Số nghiệm của x³ − 3x² + 2 = m bằng số giao điểm của đồ thị với đường thẳng nằm ngang y = m.
 VD: Khảo sát và vẽ đồ thị hàm số y = x³ − 3x² + 2.
 B: D = ℝ; y' = 3x² − 6x = 0 ⇔ x = 0 hoặc x = 2.
 B: Đồng biến trên (−∞; 0) và (2; +∞), nghịch biến trên (0; 2). Cực đại (0; 2), cực tiểu (2; −2).
@@ -268,6 +271,7 @@ LT: 1. Các phép toán
 - Quy tắc ba điểm: AB→ + BC→ = AC→; quy tắc hiệu: OB→ − OA→ = AB→.
 - **Quy tắc hình hộp**: với hình hộp ABCD.A'B'C'D' thì AB→ + AD→ + AA'→ = AC'→.
 - I là trung điểm AB ⇔ IA→ + IB→ = 0→; G là trọng tâm tứ diện ABCD ⇔ GA→ + GB→ + GC→ + GD→ = 0→.
+HINH: 12-toan/bai6-hinh-hop.svg | Quy tắc hình hộp: tổng ba vectơ chung gốc theo ba cạnh bằng vectơ đường chéo.
 LT: 2. Tích vô hướng
 - u→·v→ = |u→|·|v→|·cos(u→, v→); u→ ⊥ v→ ⇔ u→·v→ = 0; u→² = |u→|².
 - Góc giữa hai vectơ được xác định bằng cách đưa về cùng một điểm gốc.
@@ -407,6 +411,7 @@ LT: 2. Khoảng tứ phân vị
 - Tứ phân vị thứ nhất: Q₁ = u_m + [(n/4 − C)/n_m]·(u_{m+1} − u_m), trong đó [u_m; u_{m+1}) là nhóm chứa phần tử thứ n/4, n_m là tần số nhóm đó, C là tổng tần số các nhóm đứng trước.
 - Tứ phân vị thứ ba Q₃ tính tương tự với 3n/4 thay cho n/4.
 - Khoảng tứ phân vị ΔQ = Q₃ − Q₁ đo độ phân tán của nửa số liệu ở giữa, ít bị ảnh hưởng bởi giá trị bất thường.
+HINH: 12-toan/bai9-tu-phan-vi.svg | Biểu đồ tần số của mẫu ghép nhóm: khoảng tứ phân vị là độ rộng của "nửa giữa" số liệu.
 VD: Thời gian tự học (phút) của 40 học sinh: [0; 10): 4; [10; 20): 10; [20; 30): 14; [30; 40): 8; [40; 50): 4. Tính R và ΔQ.
 B: R = 50 − 0 = 50 (phút).
 B: n/4 = 10, tần số tích lũy 4; 14 nên Q₁ thuộc [10; 20): Q₁ = 10 + (10 − 4)/10·10 = 16.
@@ -538,6 +543,7 @@ LT: 1. Định nghĩa và ý nghĩa
 - ∫_{a}^{b} f(x)dx = F(b) − F(a), với F là một nguyên hàm của f trên [a; b].
 - Nếu f liên tục, không âm trên [a; b] thì ∫_{a}^{b} f(x)dx là diện tích hình thang cong giới hạn bởi y = f(x), trục Ox và hai đường thẳng x = a, x = b.
 - Quãng đường vật đi được từ thời điểm a đến b: s = ∫_{a}^{b} v(t)dt.
+HINH: 12-toan/bai12-dien-tich.svg | Tích phân của hàm không âm là diện tích phần tô màu dưới đồ thị.
 LT: 2. Tính chất
 - ∫_{a}^{a} f(x)dx = 0; ∫_{a}^{b} f(x)dx = −∫_{b}^{a} f(x)dx.
 - ∫_{a}^{b} k·f(x)dx = k∫_{a}^{b} f(x)dx; ∫_{a}^{b} [f(x) ± g(x)]dx = ∫_{a}^{b} f(x)dx ± ∫_{a}^{b} g(x)dx.
@@ -591,6 +597,7 @@ LT: 1. Diện tích hình phẳng
 LT: 2. Thể tích
 - Vật thể có diện tích thiết diện S(x) (vuông góc với Ox tại x), a ≤ x ≤ b: V = ∫_{a}^{b} S(x)dx.
 - Quay hình phẳng giới hạn bởi y = f(x), Ox, x = a, x = b quanh trục Ox: V = π∫_{a}^{b} f²(x)dx.
+HINH: 12-toan/bai13-ung-dung.svg | Trái: hình phẳng giữa y = x và y = x². Phải: quay đồ thị y = √x quanh Ox tạo khối tròn xoay, mỗi thiết diện là một hình tròn.
 VD: Tính diện tích hình phẳng giới hạn bởi y = x² và y = x.
 B: x² = x ⇔ x = 0 hoặc x = 1; trên [0; 1] ta có x ≥ x².
 KQ: S = ∫_{0}^{1}(x − x²)dx = 1/2 − 1/3 = 1/6.
@@ -634,6 +641,7 @@ MT: Xét song song, vuông góc của hai mặt phẳng; tính khoảng cách t�
 LT: 1. Vectơ pháp tuyến
 - n→ ≠ 0→ là vectơ pháp tuyến (VTPT) của (P) nếu giá của n→ vuông góc với (P).
 - Nếu u→ = (u₁; u₂; u₃), v→ = (v₁; v₂; v₃) không cùng phương và có giá song song hoặc nằm trong (P) thì n→ = (u₂v₃ − u₃v₂; u₃v₁ − u₁v₃; u₁v₂ − u₂v₁) là một VTPT của (P).
+HINH: 12-toan/bai14-mat-phang.svg | Vectơ pháp tuyến vuông góc với mọi vectơ nằm trong mặt phẳng – từ đó lập được phương trình mặt phẳng.
 LT: 2. Phương trình mặt phẳng
 - Phương trình tổng quát: Ax + By + Cz + D = 0 (A² + B² + C² > 0) có VTPT n→ = (A; B; C).
 - Mặt phẳng qua M₀(x₀; y₀; z₀) có VTPT n→ = (A; B; C): A(x − x₀) + B(y − y₀) + C(z − z₀) = 0.
@@ -825,6 +833,7 @@ LT: 2. Công thức nhân và tính độc lập
 VD: Lớp có 40 học sinh, 25 nữ, trong đó 15 nữ thích môn Toán. Chọn ngẫu nhiên một học sinh, biết đó là học sinh nữ. Tính xác suất học sinh đó thích Toán.
 KQ: P = 15/25 = 0,6.
 VD: Hộp có 5 bi đỏ và 3 bi xanh. Lấy lần lượt 2 bi không hoàn lại. Tính xác suất cả hai bi đều đỏ.
+HINH: 12-toan/bai18-so-do-cay.svg | Sơ đồ hình cây: nhân các xác suất dọc theo nhánh.
 B: P(lần 1 đỏ) = 5/8; P(lần 2 đỏ | lần 1 đỏ) = 4/7.
 KQ: P = 5/8·4/7 = 5/14.
 GN: Phân biệt P(A|B) với P(B|A) – hai số này thường khác nhau.
@@ -866,6 +875,7 @@ LT: 2. Công thức Bayes
 - P(B|A) = P(B)·P(A|B)/P(A) = P(B)·P(A|B)/[P(B)·P(A|B) + P(B̄)·P(A|B̄)] (P(A) > 0).
 - Ý nghĩa: cập nhật xác suất của "nguyên nhân" B khi đã quan sát được "kết quả" A.
 VD: Máy I sản xuất 60% sản phẩm với tỉ lệ lỗi 2%, máy II sản xuất 40% với tỉ lệ lỗi 3%. Chọn ngẫu nhiên một sản phẩm. Tính xác suất sản phẩm bị lỗi; biết sản phẩm bị lỗi, tính xác suất nó do máy I sản xuất.
+HINH: 12-toan/bai19-bayes.svg | Sơ đồ hình cây cho công thức xác suất toàn phần và công thức Bayes.
 B: P(lỗi) = 0,6·0,02 + 0,4·0,03 = 0,012 + 0,012 = 0,024.
 B: P(máy I | lỗi) = 0,012/0,024 = 0,5.
 KQ: P(lỗi) = 0,024; P(máy I | lỗi) = 0,5.

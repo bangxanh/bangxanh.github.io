@@ -1,0 +1,122 @@
+// Khoa học tự nhiên 9 – SGK Kết nối tri thức (danh mục đối chiếu loigiaihay.com; nội dung chi tiết bổ sung dần)
+# 9 | khtn | Khoa học tự nhiên 9
+## Bài mở đầu
+### Bài 1. Nhận biết một số dụng cụ, hóa chất. Thuyết trình một vấn đề khoa học
+## Chương 1. Năng lượng cơ học
+### Bài 2. Động năng. Thế năng
+### Bài 3. Cơ năng
+### Bài 4. Công và công suất
+## Chương 2. Ánh sáng
+### Bài 5. Khúc xạ ánh sáng
+### Bài 6. Phản xạ toàn phần
+### Bài 7. Lăng kính
+### Bài 8. Thấu kính
+### Bài 9. Thực hành đo tiêu cự của thấu kính hội tụ
+### Bài 10. Kính lúp. Bài tập thấu kính
+## Chương 3. Điện
+### Bài 11. Điện trở. Định luật Ohm
+> Cùng một hiệu điện thế, vì sao dòng điện qua dây này mạnh, qua dây kia yếu? Điện trở và định luật Ohm sẽ trả lời.
+MT: Nêu được điện trở đặc trưng cho mức độ cản trở dòng điện; đơn vị ohm (Ω).
+MT: Phát biểu và vận dụng được định luật Ohm I = U/R.
+MT: Vận dụng được công thức R = ρ · l / S.
+LT: 1. Điện trở
+- **Điện trở** R của dây dẫn đặc trưng cho mức độ cản trở dòng điện của dây. Đơn vị: **ohm (Ω)**; 1 kΩ = 1000 Ω.
+- Với mỗi dây dẫn, tỉ số U/I không đổi và bằng R.
+- Điện trở của dây dẫn hình trụ đồng chất: **R = ρ · l / S**, với ρ là điện trở suất (Ω·m), l là chiều dài (m), S là tiết diện (m²). Dây càng dài, càng mảnh thì điện trở càng lớn.
+LT: 2. Định luật Ohm
+- Cường độ dòng điện chạy qua đoạn dây dẫn tỉ lệ thuận với hiệu điện thế đặt vào hai đầu dây và tỉ lệ nghịch với điện trở của dây: **I = U / R**.
+- Đồ thị I theo U là **đường thẳng đi qua gốc tọa độ**; đường càng dốc thì điện trở càng nhỏ.
+HINH: 9-khtn/ohm.svg | Đồ thị I – U của hai điện trở: cùng U = 6 V, dây 10 Ω cho dòng 0,6 A, dây 20 Ω chỉ cho 0,3 A.
+VD: Đặt hiệu điện thế 12 V vào hai đầu một điện trở 24 Ω. Tính cường độ dòng điện chạy qua điện trở.
+B: Áp dụng định luật Ohm: I = U / R.
+B: I = 12 / 24 = 0,5 A.
+KQ: Cường độ dòng điện là 0,5 A.
+VD: Một dây đồng dài 100 m, tiết diện 0,5 mm², điện trở suất của đồng là 1,7·10⁻⁸ Ω·m. Tính điện trở của dây.
+B: Đổi S = 0,5 mm² = 0,5·10⁻⁶ m².
+B: R = ρ · l / S = 1,7·10⁻⁸ · 100 / (0,5·10⁻⁶) = 3,4 Ω.
+KQ: Điện trở của dây đồng là 3,4 Ω.
+GN: Đổi đơn vị trước khi tính: 1 mm² = 10⁻⁶ m²; 1 mA = 0,001 A.
+GN: Điện trở không phụ thuộc U hay I; R chỉ phụ thuộc vật liệu, chiều dài, tiết diện (và nhiệt độ) của dây.
+GN: Từ I = U/R suy ra U = I · R và R = U / I.
+Q: mc | Đơn vị của điện trở là
+A) vôn (V)
+B) ampe (A)
+C) ohm (Ω) *
+D) oát (W)
+E: Điện trở đo bằng ohm, kí hiệu Ω.
+Q: mc | Đặt hiệu điện thế 6 V vào hai đầu điện trở 15 Ω. Cường độ dòng điện qua điện trở là
+A) 0,4 A *
+B) 2,5 A
+C) 90 A
+D) 0,9 A
+E: I = U / R = 6 / 15 = 0,4 A.
+Q: tf | Một dây dẫn có điện trở 20 Ω.
+a) Khi hiệu điện thế giữa hai đầu dây là 10 V thì dòng điện qua dây là 0,5 A. | Đ
+b) Khi tăng hiệu điện thế lên gấp đôi thì điện trở của dây tăng gấp đôi. | S
+c) Đồ thị cường độ dòng điện theo hiệu điện thế của dây là đường thẳng đi qua gốc tọa độ. | Đ
+d) Cắt đôi dây (giữ nguyên tiết diện) thì mỗi đoạn có điện trở 40 Ω. | S
+E: I = 10 / 20 = 0,5 A. R không đổi khi U thay đổi. Cắt đôi dây thì chiều dài giảm một nửa nên mỗi đoạn có R = 10 Ω.
+Q: sa | Dòng điện 0,25 A chạy qua điện trở 40 Ω. Hiệu điện thế giữa hai đầu điện trở bằng bao nhiêu vôn?
+ANS: 10
+E: U = I · R = 0,25 · 40 = 10 V.
+Q: sa | Hai dây nhôm cùng tiết diện; dây thứ nhất dài 2 m có điện trở 0,6 Ω. Dây thứ hai dài 10 m có điện trở bao nhiêu ohm?
+ANS: 3
+E: Cùng vật liệu, cùng tiết diện thì R tỉ lệ thuận với chiều dài: R₂ = 0,6 · 10 / 2 = 3 Ω.
+TL: Đặt hiệu điện thế 9 V vào hai đầu một bóng đèn thì dòng điện qua đèn là 0,3 A. a) Tính điện trở của đèn. b) Muốn dòng điện qua đèn là 0,2 A thì phải đặt hiệu điện thế bao nhiêu (coi điện trở đèn không đổi)?
+MAU: a) R = U / I = 9 / 0,3 = 30 Ω.
+MAU: b) U' = I' · R = 0,2 · 30 = 6 V.
+TC: Viết đúng công thức R = U / I | 1
+TC: Tính đúng R = 30 Ω | 1
+TC: Tính đúng U' = 6 V | 1
+
+### Bài 12. Đoạn mạch nối tiếp, song song
+### Bài 13. Năng lượng của dòng điện và công suất điện
+## Chương 4. Điện từ
+### Bài 14. Cảm ứng điện từ. Nguyên tắc tạo ra dòng điện xoay chiều
+### Bài 15. Tác dụng của dòng điện xoay chiều
+## Chương 5. Năng lượng với cuộc sống
+### Bài 16. Vòng năng lượng trên Trái Đất. Năng lượng hóa thạch
+### Bài 17. Một số dạng năng lượng tái tạo
+## Chương 6. Kim loại. Sự khác nhau cơ bản giữa phi kim và kim loại
+### Bài 18. Tính chất chung của kim loại
+### Bài 19. Dãy hoạt động hóa học
+### Bài 20. Tách kim loại và việc sử dụng hợp kim
+### Bài 21. Sự khác nhau cơ bản giữa phi kim và kim loại
+## Chương 7. Giới thiệu hợp chất hữu cơ. Hydrocarbon và nguồn nhiên liệu
+### Bài 22. Giới thiệu về hợp chất hữu cơ
+### Bài 23. Alkane
+### Bài 24. Alkene
+### Bài 25. Nguồn nhiên liệu
+## Chương 8. Ethylic alcohol và acetic acid
+### Bài 26. Ethylic alcohol
+### Bài 27. Acetic acid
+## Chương 9. Lipid. Carbohydrate. Protein. Polymer
+### Bài 28. Lipid
+### Bài 29. Carbohydrate. Glucose và saccharose
+### Bài 30. Tinh bột và cellulose
+### Bài 31. Protein
+### Bài 32. Polymer
+## Chương 10. Khai thác tài nguyên từ vỏ Trái Đất
+### Bài 33. Sơ lược về hóa học vỏ Trái Đất và khai thác tài nguyên từ vỏ Trái Đất
+### Bài 34. Khai thác đá vôi. Công nghiệp silicate
+### Bài 35. Khai thác nhiên liệu hóa thạch. Nguồn carbon. Chu trình carbon và sự ấm lên toàn cầu
+## Chương 11. Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền
+### Bài 36. Khái quát về di truyền học
+### Bài 37. Các quy luật di truyền của Mendel
+### Bài 38. Nucleic acid và gene
+### Bài 39. Tái bản DNA và phiên mã tạo RNA
+### Bài 40. Dịch mã và mối quan hệ từ gene đến tính trạng
+### Bài 41. Đột biến gene
+## Chương 12. Di truyền nhiễm sắc thể
+### Bài 42. Nhiễm sắc thể và bộ nhiễm sắc thể
+### Bài 43. Nguyên phân và giảm phân
+### Bài 44. Nhiễm sắc thể giới tính và cơ chế xác định giới tính
+### Bài 45. Di truyền liên kết
+### Bài 46. Đột biến nhiễm sắc thể
+## Chương 13. Di truyền học với con người và đời sống
+### Bài 47. Di truyền học với con người
+### Bài 48. Ứng dụng công nghệ di truyền vào đời sống
+## Chương 14. Tiến hóa
+### Bài 49. Khái niệm tiến hóa và các hình thức chọn lọc
+### Bài 50. Cơ chế tiến hóa
+### Bài 51. Sự phát sinh và phát triển sự sống trên Trái Đất

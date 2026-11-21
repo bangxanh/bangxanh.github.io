@@ -2,6 +2,68 @@
 # 12 | anh | Tiếng Anh 12 (Global Success)
 ## Units 1–5
 ### Unit 1. Life Stories We Admire
+> Kể về cuộc đời những người truyền cảm hứng; phân biệt và dùng đúng thì quá khứ đơn với quá khứ tiếp diễn.
+MT: Dùng được từ vựng về tiểu sử, thành tựu: achievement, biography, admire, inspire, talented, devoted, pass away…
+MT: Phân biệt và dùng đúng thì quá khứ đơn và quá khứ tiếp diễn trong câu có when / while.
+MT: Viết được đoạn văn ngắn kể về cuộc đời một người mình ngưỡng mộ.
+LT: 1. Vocabulary
+- **admire** (v): ngưỡng mộ · **inspire** (v) → **inspiring / inspirational** (adj): truyền cảm hứng
+- **achievement** (n): thành tựu · **biography** (n): tiểu sử · **legacy** (n): di sản
+- **talented** (adj): tài năng · **devoted / dedicated to** (adj): tận tụy với · **pass away** (phr. v): qua đời
+- **overcome difficulties**: vượt qua khó khăn · **win a prize / an award**: giành giải thưởng
+LT: 2. Past simple vs past continuous
+- **Past simple** (S + V2/V-ed): hành động đã hoàn tất; chuỗi hành động nối tiếp trong quá khứ. She **was born** in 1990 and **became** a doctor in 2015.
+- **Past continuous** (S + was/were + V-ing): hành động **đang diễn ra** tại một thời điểm trong quá khứ. At 8 p.m. yesterday, I **was reading** his biography.
+- Hành động đang diễn ra (quá khứ tiếp diễn) bị hành động khác **xen vào** (quá khứ đơn): She **was writing** her memoir **when** the phone **rang**.
+- Hai hành động diễn ra song song: **While** I **was cooking**, my brother **was studying**.
+HINH: 12-anh/past-tenses.svg | Hành động kéo dài "was writing" (quá khứ tiếp diễn) bị hành động ngắn "rang" (quá khứ đơn) xen vào.
+VD: Chia động từ: When the war (break) ___ out, he (study) ___ medicine in Paris.
+B: Việc "đang học y" là hành động kéo dài, làm nền ⇒ quá khứ tiếp diễn.
+B: "Chiến tranh nổ ra" là sự việc ngắn xen vào ⇒ quá khứ đơn (break → broke).
+KQ: When the war **broke** out, he **was studying** medicine in Paris.
+VD: Nối hai câu dùng while: Mozart was travelling around Europe. He composed many pieces.
+B: Hành động kéo dài đi với while + quá khứ tiếp diễn; hành động hoàn tất dùng quá khứ đơn.
+KQ: **While** Mozart **was travelling** around Europe, he **composed** many pieces.
+GN: when + quá khứ đơn (hành động ngắn xen vào); while + quá khứ tiếp diễn (hành động kéo dài).
+GN: Động từ chỉ trạng thái (know, love, believe, belong) thường không dùng ở thì tiếp diễn.
+GN: Thuộc động từ bất quy tắc: become – became, win – won, give – gave, break – broke.
+Q: mc | She ___ a novel when she met her future husband.
+A) writes
+B) was writing *
+C) has written
+D) is writing
+E: Hành động đang diễn ra (was writing) bị hành động khác xen vào (met) trong quá khứ.
+Q: mc | The word "admire" is closest in meaning to ___.
+A) look up to *
+B) look down on
+C) look after
+D) look for
+E: admire = look up to (kính trọng, ngưỡng mộ); look down on = coi thường; look after = chăm sóc; look for = tìm kiếm.
+Q: tf | Đúng hay sai?
+a) "While I was watching TV, the lights went out." là câu đúng ngữ pháp. | Đ
+b) "He was knowing the answer." là câu đúng ngữ pháp. | S
+c) "achievement" là danh từ của động từ "achieve". | Đ
+d) "pass away" nghĩa là "vượt qua". | S
+E: know là động từ chỉ trạng thái, không dùng tiếp diễn ⇒ He knew the answer. pass away = qua đời; "vượt qua" là overcome.
+Q: sa | Write the correct form of the verb: "Marie Curie ___ (win) two Nobel Prizes."
+ANS: won
+E: Sự việc đã hoàn tất trong quá khứ ⇒ quá khứ đơn; win – won – won.
+Q: mc | Choose the correct sentence.
+A) While he was climb the mountain, he took many photos.
+B) When I arrived, they was having dinner.
+C) I was walking home when it started to rain. *
+D) She was being born in 1985.
+E: C đúng: hành động đang đi bộ về nhà (was walking) bị trời mưa xen vào (started). A sai: was climbing; B sai: were having; D sai: was born.
+TL: Write a paragraph (100–120 words) about a person whose life story you admire. Use both the past simple and the past continuous.
+MAU: The person I admire most is Marie Curie, a talented scientist.
+MAU: She was born in Warsaw in 1867. While she was studying in Paris, she lived in a small, cold room and often went hungry.
+MAU: She overcame many difficulties and devoted her life to science.
+MAU: In 1903, she won the Nobel Prize in Physics, and in 1911 she won another one in Chemistry.
+MAU: Her achievements inspire me to work hard and never give up.
+TC: Bố cục rõ: giới thiệu nhân vật – các sự kiện chính – lí do ngưỡng mộ | 1
+TC: Dùng đúng quá khứ đơn và quá khứ tiếp diễn (có ít nhất một câu với when / while) | 1
+TC: Dùng từ vựng chủ đề (achievement, admire, devote, inspire…), đúng chính tả, độ dài phù hợp | 1
+
 ### Unit 2. A Multicultural World
 ### Unit 3. Green Living
 ### Unit 4. Urbanisation

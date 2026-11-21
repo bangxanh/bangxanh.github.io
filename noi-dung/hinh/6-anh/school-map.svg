@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="494.064pt" height="283.392pt" viewBox="0 0 494.064 283.392" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T05:08:18.067077</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 283.392 
+L 494.064 283.392 
+L 494.064 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 177.732 80.712 
+L 247.032 140.31 
+" clip-path="url(#p743690c70a)" style="fill: none; stroke: #2f6fde; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 316.332 80.712 
+L 247.032 140.31 
+" clip-path="url(#p743690c70a)" style="fill: none; stroke: #c93a58; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 177.732 202.68 
+L 247.032 140.31 
+" clip-path="url(#p743690c70a)" style="fill: none; stroke: #bd7a12; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 316.332 202.68 
+L 247.032 140.31 
+" clip-path="url(#p743690c70a)" style="fill: none; stroke: #55891b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 14.7384 80.712 
+L 174.4056 80.712 
+Q 177.732 80.712 177.732 77.3856 
+L 177.732 25.8264 
+Q 177.732 22.5 174.4056 22.5 
+L 14.7384 22.5 
+Q 11.412 22.5 11.412 25.8264 
+L 11.412 77.3856 
+Q 11.412 80.712 14.7384 80.712 
+z
+" clip-path="url(#p743690c70a)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 319.6584 80.712 
+L 479.3256 80.712 
+Q 482.652 80.712 482.652 77.3856 
+L 482.652 25.8264 
+Q 482.652 22.5 479.3256 22.5 
+L 319.6584 22.5 
+Q 316.332 22.5 316.332 25.8264 
+L 316.332 77.3856 
+Q 316.332 80.712 319.6584 80.712 
+z
+" clip-path="url(#p743690c70a)" style="fill: #fde9ec; stroke: #c93a58; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.7384 260.892 
+L 174.4056 260.892 
+Q 177.732 260.892 177.732 257.5656 
+L 177.732 206.0064 
+Q 177.732 202.68 174.4056 202.68 
+L 14.7384 202.68 
+Q 11.412 202.68 11.412 206.0064 
+L 11.412 257.5656 
+Q 11.412 260.892 14.7384 260.892 
+z
+" clip-path="url(#p743690c70a)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 319.6584 260.892 
+L 479.3256 260.892 
+Q 482.652 260.892 482.652 257.5656 
+L 482.652 206.0064 
+Q 482.652 202.68 479.3256 202.68 
+L 319.6584 202.68 
+Q 316.332 202.68 316.332 206.0064 
+L 316.332 257.5656 
+Q 316.332 260.892 319.6584 260.892 
+z
+" clip-path="url(#p743690c70a)" style="fill: #e8f4dc; stroke: #55891b; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 178.2864 158.328 
+L 315.7776 158.328 
+Q 319.104 158.328 319.104 155.0016 
+L 319.104 125.6184 
+Q 319.104 122.292 315.7776 122.292 
+L 178.2864 122.292 
+Q 174.96 122.292 174.96 125.6184 
+L 174.96 155.0016 
+Q 174.96 158.328 178.2864 158.328 
+z
+" clip-path="url(#p743690c70a)" style="fill: #1f5640; stroke: #1f5640; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="94.572" y="36.36" transform="rotate(-0 94.572 36.36)">School things</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(28.557156 55.181375)">pencil case · ruler · rubber</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(16.205594 70.181375)">calculator · compass · textbook</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="399.492" y="36.36" transform="rotate(-0 399.492 36.36)">Subjects</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(338.278719 55.181375)">maths · science · history</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(350.042 70.181375)">English · music · art</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="94.572" y="216.54" transform="rotate(-0 94.572 216.54)">Verbs</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(11.7845 236.330125)">have + lessons · do + homework</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(16.091531 250.361375)">study + maths · play + football</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #55891b" x="399.492" y="216.54" transform="rotate(-0 399.492 216.54)">People &amp; places</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(329.337312 235.361375)">classmate · teacher · library</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #1b2620" transform="translate(323.444344 250.361375)">school garden · gym · canteen</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="247.032" y="143.55707" transform="rotate(-0 247.032 143.55707)">MY NEW SCHOOL</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p743690c70a">
+   <rect x="8.64" y="8.64" width="476.784" height="266.112"/>
+  </clipPath>
+ </defs>
+</svg>

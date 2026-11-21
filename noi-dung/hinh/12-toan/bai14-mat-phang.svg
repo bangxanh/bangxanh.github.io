@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="387.402706pt" height="250.128pt" viewBox="0 0 387.402706 250.128" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T04:50:59.933468</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 250.128 
+L 387.402706 250.128 
+L 387.402706 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 18.9888 189.744 
+L 225.9648 189.744 
+L 298.4064 106.9536 
+L 91.4304 106.9536 
+z
+" clip-path="url(#p3647b77a02)" style="fill: #dbeafe; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 158.6976 146.351552 
+Q 158.6976 86.258584 158.6976 29.29611 
+" clip-path="url(#p3647b77a02)" style="fill: none; stroke: #c93a58; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 155.4976 35.69611 
+L 158.6976 29.29611 
+L 161.8976 35.69611 
+z
+" clip-path="url(#p3647b77a02)" style="fill: #c93a58; stroke: #c93a58; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 160.60326 147.736267 
+Q 194.917634 136.706646 226.890328 126.429709 
+" clip-path="url(#p3647b77a02)" style="fill: none; stroke: #55891b; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 219.818116 125.341676 
+L 226.890328 126.429709 
+L 221.776575 131.434659 
+z
+" clip-path="url(#p3647b77a02)" style="fill: #55891b; stroke: #55891b; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <defs>
+     <path id="mc4eb0a0ee5" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #1b2620"/>
+    </defs>
+    <g clip-path="url(#p3647b77a02)">
+     <use xlink:href="#mc4eb0a0ee5" x="158.6976" y="148.3488" style="fill: #1b2620; stroke: #1b2620"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f6fde" x="257.0112" y="171.6336" transform="rotate(-0 257.0112 171.6336)">(P)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="164.90688" y="161.2848" transform="rotate(-0 164.90688 161.2848)">M₀</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c93a58" x="166.4592" y="34.512" transform="rotate(-0 166.4592 34.512)">n→ = (A; B; C)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="205.2672" y="121.44192" transform="rotate(-0 205.2672 121.44192)">M</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2620" x="18.9888" y="228.552" transform="rotate(-0 18.9888 228.552)">M ∈ (P) ⇔ n→ · M₀M→ = 0 ⇔ A(x − x₀) + B(y − y₀) + C(z − z₀) = 0</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3647b77a02">
+   <rect x="8.64" y="8.64" width="331.1616" height="232.848"/>
+  </clipPath>
+ </defs>
+</svg>

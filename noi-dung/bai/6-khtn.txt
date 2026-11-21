@@ -1,0 +1,129 @@
+// Khoa học tự nhiên 6 – SGK Kết nối tri thức (danh mục đối chiếu loigiaihay.com; nội dung chi tiết bổ sung dần)
+# 6 | khtn | Khoa học tự nhiên 6
+## Chương I. Mở đầu về Khoa học tự nhiên
+### Bài 1. Giới thiệu về Khoa học tự nhiên
+### Bài 2. An toàn trong phòng thực hành
+### Bài 3. Sử dụng kính lúp
+### Bài 4. Sử dụng kính hiển vi quang học
+### Bài 5. Đo chiều dài
+### Bài 6. Đo khối lượng
+### Bài 7. Đo thời gian
+### Bài 8. Đo nhiệt độ
+## Chương II. Chất quanh ta
+### Bài 9. Sự đa dạng của chất
+### Bài 10. Các thể của chất và sự chuyển thể
+### Bài 11. Oxygen. Không khí
+## Chương III. Một số vật liệu, nguyên liệu, nhiên liệu, lương thực – thực phẩm thông dụng
+### Bài 12. Một số vật liệu
+### Bài 13. Một số nguyên liệu
+### Bài 14. Một số nhiên liệu
+### Bài 15. Một số lương thực, thực phẩm
+## Chương IV. Hỗn hợp. Tách chất ra khỏi hỗn hợp
+### Bài 16. Hỗn hợp các chất
+### Bài 17. Tách chất khỏi hỗn hợp
+## Chương V. Tế bào
+### Bài 18. Tế bào – Đơn vị cơ bản của sự sống
+> Mọi cơ thể sống đều được tạo nên từ tế bào – những "viên gạch" nhỏ bé xây nên sự sống.
+MT: Nêu được khái niệm tế bào và chức năng của tế bào.
+MT: Nêu được hình dạng, kích thước của một số loại tế bào.
+MT: Nhận biết được tế bào là đơn vị cấu trúc và đơn vị chức năng của cơ thể sống.
+LT: 1. Tế bào là gì?
+- **Tế bào** là đơn vị cơ bản cấu tạo nên mọi cơ thể sống (đơn vị cấu trúc).
+- Các hoạt động sống như trao đổi chất, lớn lên, sinh sản, cảm ứng… đều diễn ra trong tế bào (đơn vị chức năng).
+- Cơ thể người có hàng chục nghìn tỉ tế bào; một vi khuẩn chỉ gồm một tế bào.
+LT: 2. Hình dạng và kích thước tế bào
+- Tế bào có nhiều **hình dạng**: hình cầu (tế bào trứng), hình đĩa lõm hai mặt (hồng cầu), hình sao có nhiều tua (tế bào thần kinh), hình sợi (tế bào cơ), hình nhiều cạnh (tế bào biểu bì lá)…
+- Hình dạng phù hợp với chức năng: tế bào thần kinh có tua dài để truyền tín hiệu đi xa; hồng cầu dạng đĩa dễ di chuyển trong mạch máu.
+- Đa số tế bào rất nhỏ, khoảng 1 – 100 micrômét (1 µm = 1/1000 mm) nên phải dùng **kính hiển vi** mới quan sát được. Một số tế bào lớn nhìn được bằng mắt thường: tép cam, tép bưởi, trứng cá.
+LT: 3. Các thành phần chính của tế bào
+- Tế bào có 3 thành phần chính: **màng tế bào**, **tế bào chất** và **nhân** (hoặc vùng nhân).
+- Tế bào thực vật có thêm **thành tế bào** và **lục lạp**.
+HINH: 6-khtn/te-bao.svg | Tế bào động vật và tế bào thực vật đều có màng tế bào, tế bào chất, nhân; tế bào thực vật có thêm thành tế bào, lục lạp và không bào lớn.
+VD: Vì sao nói tế bào là đơn vị cơ bản của sự sống?
+B: Về cấu trúc: mọi cơ thể sống, từ vi khuẩn đến con người, đều được cấu tạo từ một hoặc nhiều tế bào.
+B: Về chức năng: các hoạt động sống của cơ thể (lớn lên, sinh sản, trao đổi chất) đều diễn ra trong tế bào.
+KQ: Tế bào vừa là đơn vị cấu trúc, vừa là đơn vị chức năng của cơ thể sống.
+VD: Một tế bào có đường kính 20 µm. Cần xếp thẳng hàng sát nhau bao nhiêu tế bào để được đoạn dài 1 mm?
+B: Đổi 1 mm = 1000 µm.
+B: Số tế bào = 1000 : 20 = 50 (tế bào).
+KQ: Cần 50 tế bào – vì vậy mắt thường không nhìn thấy từng tế bào riêng lẻ.
+GN: Tế bào = đơn vị cấu trúc + đơn vị chức năng của sự sống.
+GN: 1 mm = 1000 µm; đa số tế bào cần kính hiển vi để quan sát.
+GN: Hình dạng của tế bào phù hợp với chức năng của nó.
+Q: mc | Đơn vị cấu tạo nên mọi cơ thể sống là
+A) mô
+B) cơ quan
+C) tế bào *
+D) hệ cơ quan
+E: Mọi cơ thể sống đều được cấu tạo từ tế bào; mô, cơ quan, hệ cơ quan đều do nhiều tế bào tạo thành.
+Q: mc | Tế bào nào sau đây có thể quan sát bằng mắt thường?
+A) Tế bào vi khuẩn
+B) Tế bào tép bưởi *
+C) Hồng cầu người
+D) Tế bào biểu bì vảy hành
+E: Tép bưởi là tế bào có kích thước lớn, nhìn rõ bằng mắt thường. Vi khuẩn, hồng cầu, tế bào vảy hành đều cần kính hiển vi.
+Q: tf | Nhận định về tế bào:
+a) Mọi cơ thể sống đều được cấu tạo từ tế bào. | Đ
+b) Tất cả các tế bào đều có hình cầu. | S
+c) Tế bào thần kinh có nhiều tua dài, phù hợp với chức năng truyền tín hiệu. | Đ
+d) Tế bào thực vật không có màng tế bào. | S
+E: Tế bào có nhiều hình dạng khác nhau. Tế bào thực vật vẫn có màng tế bào, bên ngoài còn có thêm thành tế bào.
+Q: sa | Hồng cầu người có đường kính khoảng 8 µm. Cần xếp thẳng hàng bao nhiêu hồng cầu để được đoạn dài 2 mm?
+ANS: 250
+E: 2 mm = 2000 µm; 2000 : 8 = 250 hồng cầu.
+Q: mc | Thành phần nào chỉ có ở tế bào thực vật mà không có ở tế bào động vật?
+A) Màng tế bào
+B) Nhân
+C) Tế bào chất
+D) Lục lạp *
+E: Lục lạp (chứa diệp lục, thực hiện quang hợp) và thành tế bào chỉ có ở tế bào thực vật.
+TL: Giải thích vì sao một cây non lớn lên thành cây trưởng thành cần có sự lớn lên và sinh sản của tế bào.
+MAU: Cơ thể cây được cấu tạo từ tế bào, nên muốn cây lớn lên thì số lượng và kích thước tế bào phải tăng.
+MAU: Tế bào lớn lên đến một kích thước nhất định thì phân chia (sinh sản) tạo thành các tế bào mới.
+MAU: Nhờ tế bào lớn lên và sinh sản, cơ thể tăng kích thước, đồng thời thay thế các tế bào già, bị tổn thương.
+TC: Nêu được cơ thể được cấu tạo từ tế bào | 1
+TC: Nêu được tế bào lớn lên và phân chia làm tăng số lượng tế bào | 1
+TC: Liên hệ với sự lớn lên và thay thế tế bào của cơ thể | 1
+
+### Bài 19. Cấu tạo và chức năng các thành phần của tế bào
+### Bài 20. Sự lớn lên và sinh sản của tế bào
+### Bài 21. Thực hành: Quan sát và phân biệt một số loại tế bào
+## Chương VI. Từ tế bào đến cơ thể
+### Bài 22. Cơ thể sinh vật
+### Bài 23. Tổ chức cơ thể đa bào
+### Bài 24. Thực hành: Quan sát và mô tả cơ thể đơn bào, cơ thể đa bào
+## Chương VII. Đa dạng thế giới sống
+### Bài 25. Hệ thống phân loại sinh vật
+### Bài 26. Khóa lưỡng phân
+### Bài 27. Vi khuẩn
+### Bài 28. Thực hành: Làm sữa chua và quan sát vi khuẩn
+### Bài 29. Virus
+### Bài 30. Nguyên sinh vật
+### Bài 31. Thực hành: Quan sát nguyên sinh vật
+### Bài 32. Nấm
+### Bài 33. Thực hành: Quan sát các loại nấm
+### Bài 34. Thực vật
+### Bài 35. Thực hành: Quan sát và phân biệt một số nhóm thực vật
+### Bài 36. Động vật
+### Bài 37. Thực hành: Quan sát và nhận biết một số nhóm động vật ngoài thiên nhiên
+### Bài 38. Đa dạng sinh học
+### Bài 39. Tìm hiểu sinh vật ngoài thiên nhiên
+## Chương VIII. Lực trong đời sống
+### Bài 40. Lực là gì?
+### Bài 41. Biểu diễn lực
+### Bài 42. Biến dạng của lò xo
+### Bài 43. Trọng lượng, lực hấp dẫn
+### Bài 44. Lực ma sát
+### Bài 45. Lực cản của nước
+## Chương IX. Năng lượng
+### Bài 46. Năng lượng và sự truyền năng lượng
+### Bài 47. Một số dạng năng lượng
+### Bài 48. Sự chuyển hóa năng lượng
+### Bài 49. Năng lượng hao phí
+### Bài 50. Năng lượng tái tạo
+### Bài 51. Tiết kiệm năng lượng
+## Chương X. Trái Đất và bầu trời
+### Bài 52. Chuyển động nhìn thấy của Mặt Trời. Thiên thể
+### Bài 53. Mặt Trăng
+### Bài 54. Hệ Mặt Trời
+### Bài 55. Ngân Hà

@@ -87,7 +87,7 @@ article{background:var(--surface);border:1px solid var(--line);border-radius:12p
 .note{background:var(--surface);border-left:4px solid var(--chalk);padding:10px 14px;border-radius:0 10px 10px 0}
 .actions{display:flex;gap:10px;flex-wrap:wrap}.btn{display:inline-block;padding:10px 16px;border-radius:10px;background:var(--board);color:#fff;text-decoration:none;font-weight:600}.btn.ghost{background:transparent;color:var(--board);border:1px solid var(--line)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}.grade{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 16px}.grade small{color:var(--muted)}
-.more{margin-top:28px}ol.lessons li{margin:4px 0}ol.lessons small{color:var(--muted)}details summary{cursor:pointer;color:var(--board);font-weight:600}footer{max-width:860px;margin:0 auto;padding:0 18px 40px;color:var(--muted);font-size:.85rem}
+.more{margin-top:28px}ol.lessons li{margin:4px 0}figure{margin:10px 0;text-align:center}figure img{max-width:100%;height:auto;background:#fff;border-radius:10px}figcaption{font-size:.88rem;color:var(--muted)}ol.lessons small{color:var(--muted)}details summary{cursor:pointer;color:var(--board);font-weight:600}footer{max-width:860px;margin:0 auto;padding:0 18px 40px;color:var(--muted);font-size:.85rem}
 `);
 /* Trang tĩnh cho từng bài có bài giảng: hoc/bai/<mã bài>.html */
 fs.mkdirSync(path.join(out, 'bai'), { recursive: true });
@@ -99,13 +99,15 @@ for (const lp of lessonPages) {
   const title = name + ' – ' + b.title + ' (Kết nối tri thức) | ' + siteName;
   const desc = name + ' – ' + b.title + ': ' + (l.intro || '') + ' Lý thuyết trọng tâm, ' + l.examples.length + ' ví dụ giải mẫu, ' + l.qs.length + ' câu luyện tập có lời giải.';
   const li = (arr) => '<ul>' + arr.map((t) => '<li>' + fmt(t) + '</li>').join('') + '</ul>';
+  const figs = (arr) => (arr || []).map((f) => '<figure><img src="../../' + f.f + '" alt="' + esc(f.c || name) + '" loading="lazy">' + (f.c ? '<figcaption>' + fmt(f.c) + '</figcaption>' : '') + '</figure>').join('');
   let body = '<nav class="crumb"><a href="../">Học liệu</a> › <a href="../lop-' + g + '-' + s + '.html">' + esc(short(s, g)) + ' ' + g + '</a> › ' + esc(u.t) + '</nav>\n<h1 style="--c:' + COLOR[s] + '">' + esc(name) + '</h1>\n<p class="lead">' + esc(b.title) + ' · ' + esc(u.t) + (l.intro ? ' – ' + esc(l.intro) : '') + '</p>\n' +
     '<p class="actions"><a class="btn" href="../../#bai/' + l.id + '">Học và luyện tập có chấm điểm</a><a class="btn ghost" href="../../#in/bai/' + l.id + '">In / lưu PDF</a></p>\n';
+  if (l.figs) body += figs(l.figs);
   if (l.goals.length) body += '<section><h2>Mục tiêu</h2>' + li(l.goals) + '</section>';
-  if (l.theory.length) body += '<section><h2>Kiến thức trọng tâm</h2>' + l.theory.map((t) => '<article><h3>' + fmt(t.h) + '</h3>' + li(t.pts) + '</article>').join('') + '</section>';
-  if (l.examples.length) body += '<section><h2>Ví dụ giải mẫu</h2>' + l.examples.map((e, i) => '<article><h3>Ví dụ ' + (i + 1) + '</h3><p>' + fmt(e.q) + '</p><details><summary>Xem lời giải</summary><ol>' + e.steps.map((x) => '<li>' + fmt(x) + '</li>').join('') + '</ol>' + (e.ans ? '<p><b>Kết luận:</b> ' + fmt(e.ans) + '</p>' : '') + '</details></article>').join('') + '</section>';
+  if (l.theory.length) body += '<section><h2>Kiến thức trọng tâm</h2>' + l.theory.map((t) => '<article><h3>' + fmt(t.h) + '</h3>' + li(t.pts) + figs(t.img) + '</article>').join('') + '</section>';
+  if (l.examples.length) body += '<section><h2>Ví dụ giải mẫu</h2>' + l.examples.map((e, i) => '<article><h3>Ví dụ ' + (i + 1) + '</h3><p>' + fmt(e.q) + '</p>' + figs(e.img) + '<details><summary>Xem lời giải</summary><ol>' + e.steps.map((x) => '<li>' + fmt(x) + '</li>').join('') + '</ol>' + (e.ans ? '<p><b>Kết luận:</b> ' + fmt(e.ans) + '</p>' : '') + '</details></article>').join('') + '</section>';
   if (l.notes.length) body += '<section><h2>Ghi nhớ</h2><p class="note">' + l.notes.map(fmt).join('<br>') + '</p></section>';
-  if (l.qs.length) body += '<section><h2>Câu hỏi luyện tập</h2>' + l.qs.map((q, i) => '<article><h3>Câu ' + (i + 1) + '</h3><p>' + fmt(q.q) + '</p>' +
+  if (l.qs.length) body += '<section><h2>Câu hỏi luyện tập</h2>' + l.qs.map((q, i) => '<article><h3>Câu ' + (i + 1) + '</h3><p>' + fmt(q.q) + '</p>' + (q.img ? figs([q.img]) : '') +
     (q.t === 'mc' ? '<ol type="A">' + q.o.map((o) => '<li>' + fmt(o) + '</li>').join('') + '</ol>' : q.t === 'tf' ? '<ol type="a">' + q.o.map((o) => '<li>' + fmt(o) + '</li>').join('') + '</ol>' : '') +
     '<details><summary>Đáp án và lời giải</summary><p><b>' + esc(q.t === 'mc' ? L[q.a] : q.t === 'tf' ? q.a.map((v, k) => 'abcd'[k] + ') ' + (v ? 'Đúng' : 'Sai')).join('; ') : q.a.join(' hoặc ')) + '</b>' + (q.e ? ' – ' + fmt(q.e) : '') + '</p></details></article>').join('') + '</section>';
   body += '<p class="more">' + (lp.prev ? '← <a href="' + lp.prev.l.id + '.html">' + esc((lp.prev.l.n ? lp.prev.l.n + '. ' : '') + lp.prev.l.t) + '</a>' : '') + (lp.prev && lp.next ? ' · ' : '') + (lp.next ? '<a href="' + lp.next.l.id + '.html">' + esc((lp.next.l.n ? lp.next.l.n + '. ' : '') + lp.next.l.t) + '</a> →' : '') + '</p>';

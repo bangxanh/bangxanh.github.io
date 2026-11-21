@@ -1,0 +1,288 @@
+// Lớp 10 – Vật lí, Hóa học, Sinh học – SGK Kết nối tri thức (danh mục đối chiếu vietjack.com, loigiaihay.com; nội dung chi tiết bổ sung dần)
+# 10 | khtn | Vật lí 10
+## Chương I. Mở đầu
+### Bài 1. Làm quen với vật lí
+### Bài 2. Các quy tắc an toàn trong phòng thực hành vật lí
+### Bài 3. Thực hành tính sai số trong phép đo. Ghi kết quả đo
+## Chương II. Động học
+### Bài 4. Độ dịch chuyển và quãng đường đi được
+### Bài 5. Tốc độ và vận tốc
+### Bài 6. Thực hành: Đo tốc độ của vật chuyển động
+### Bài 7. Đồ thị độ dịch chuyển – thời gian
+### Bài 8. Chuyển động biến đổi. Gia tốc
+### Bài 9. Chuyển động thẳng biến đổi đều
+> Xe tăng tốc khi đèn xanh bật, hãm phanh khi gặp vật cản – đó là chuyển động thẳng biến đổi đều với gia tốc không đổi.
+MT: Nêu được chuyển động thẳng biến đổi đều là chuyển động thẳng có gia tốc không đổi.
+MT: Vận dụng các công thức v = v₀ + at, d = v₀t + ½at², v² − v₀² = 2ad.
+MT: Đọc được đồ thị vận tốc – thời gian; dùng diện tích dưới đồ thị để tính độ dịch chuyển.
+LT: 1. Gia tốc và vận tốc
+- **Chuyển động thẳng biến đổi đều** là chuyển động thẳng có gia tốc không đổi theo thời gian.
+- Gia tốc a = Δv / Δt (m/s²). **Nhanh dần đều**: a cùng dấu với v (a·v > 0); **chậm dần đều**: a ngược dấu với v (a·v < 0).
+- Công thức vận tốc: **v = v₀ + a·t**.
+LT: 2. Đồ thị vận tốc – thời gian
+- Đồ thị v – t là một đoạn thẳng; độ dốc của đường thẳng bằng gia tốc a.
+- **Độ dịch chuyển** trong khoảng thời gian t bằng **diện tích** hình giới hạn bởi đồ thị v – t, trục thời gian và hai đường thẳng đứng tại hai thời điểm đầu, cuối.
+HINH: 10-khtn/vt-bien-doi-deu.svg | Đồ thị v – t với v₀ = 2 m/s, a = 1,5 m/s²: phần tô màu là hình thang có diện tích bằng độ dịch chuyển trong 6 s.
+LT: 3. Độ dịch chuyển
+- **d = v₀·t + ½·a·t²**.
+- Công thức liên hệ không chứa t: **v² − v₀² = 2·a·d**.
+VD: Từ đồ thị trên (v₀ = 2 m/s, a = 1,5 m/s²), tính vận tốc và độ dịch chuyển của vật sau 6 s.
+B: v = v₀ + a·t = 2 + 1,5·6 = 11 m/s.
+B: d = v₀·t + ½·a·t² = 2·6 + 0,5·1,5·36 = 12 + 27 = 39 m.
+B: Kiểm tra bằng diện tích hình thang: (2 + 11)·6 : 2 = 39 m.
+KQ: Sau 6 s vật có vận tốc 11 m/s và đã dịch chuyển được 39 m.
+VD: Ô tô đang chạy với vận tốc 20 m/s thì hãm phanh, chuyển động chậm dần đều và dừng lại sau khi đi thêm 50 m. Tính gia tốc và thời gian hãm phanh.
+B: v² − v₀² = 2ad ⇒ 0 − 20² = 2·a·50 ⇒ a = −4 m/s².
+B: v = v₀ + at ⇒ 0 = 20 − 4t ⇒ t = 5 s.
+KQ: Gia tốc là −4 m/s² (ngược chiều chuyển động), thời gian hãm phanh là 5 s.
+GN: Chọn chiều dương là chiều chuyển động; khi đó chuyển động chậm dần đều có a < 0.
+GN: Đổi km/h sang m/s: chia cho 3,6 (ví dụ 72 km/h = 20 m/s).
+GN: Diện tích dưới đồ thị v – t = độ dịch chuyển; độ dốc của đồ thị = gia tốc.
+Q: mc | Một vật chuyển động thẳng nhanh dần đều từ trạng thái nghỉ với gia tốc 2 m/s². Vận tốc của vật sau 5 s là
+A) 2,5 m/s
+B) 7 m/s
+C) 10 m/s *
+D) 25 m/s
+E: v = v₀ + at = 0 + 2·5 = 10 m/s.
+Q: mc | Ô tô tăng tốc đều từ 10 m/s lên 20 m/s trong 4 s. Gia tốc của ô tô là
+A) 2,5 m/s² *
+B) 5 m/s²
+C) 7,5 m/s²
+D) 0,4 m/s²
+E: a = (20 − 10) : 4 = 2,5 m/s².
+Q: tf | Một vật chuyển động thẳng có vận tốc v = 4 + 2t (m/s), t tính bằng giây.
+a) Vận tốc ban đầu của vật là 4 m/s. | Đ
+b) Vật chuyển động chậm dần đều. | S
+c) Sau 3 s vận tốc của vật là 10 m/s. | Đ
+d) Độ dịch chuyển của vật trong 3 s đầu là 30 m. | S
+E: v₀ = 4 m/s, a = 2 m/s² cùng dấu với v nên vật nhanh dần đều. v(3) = 4 + 6 = 10 m/s. d = 4·3 + ½·2·9 = 12 + 9 = 21 m.
+Q: sa | Một xe đạp xuống dốc nhanh dần đều, vận tốc ở đầu dốc là 2 m/s, gia tốc 0,5 m/s², xuống hết dốc mất 10 s. Chiều dài con dốc là bao nhiêu mét?
+ANS: 45
+E: d = v₀t + ½at² = 2·10 + 0,5·0,5·100 = 20 + 25 = 45 m.
+Q: sa | Một vật đang chuyển động với vận tốc 6 m/s thì chuyển động chậm dần đều với gia tốc có độ lớn 1,5 m/s². Quãng đường vật đi được đến khi dừng lại là bao nhiêu mét?
+ANS: 12
+E: 0 − 6² = 2·(−1,5)·d ⇒ d = 36 : 3 = 12 m.
+TL: Một đoàn tàu rời ga chuyển động nhanh dần đều, sau 1 phút đạt vận tốc 54 km/h. a) Tính gia tốc của tàu. b) Tính quãng đường tàu đi được trong 1 phút đó. c) Vẽ phác đồ thị v – t trong 1 phút đầu.
+MAU: Đổi 54 km/h = 15 m/s; t = 60 s; v₀ = 0.
+MAU: a) a = (15 − 0) : 60 = 0,25 m/s².
+MAU: b) d = ½·a·t² = 0,5·0,25·3600 = 450 m (hoặc diện tích tam giác: 15·60 : 2 = 450 m).
+MAU: c) Đồ thị là đoạn thẳng đi từ gốc O(0; 0) đến điểm (60 s; 15 m/s).
+TC: Đổi đơn vị đúng và tính đúng a = 0,25 m/s² | 1
+TC: Tính đúng quãng đường 450 m | 1
+TC: Vẽ đúng dạng đồ thị v – t | 1
+
+### Bài 10. Sự rơi tự do
+### Bài 11. Thực hành: Đo gia tốc rơi tự do
+### Bài 12. Chuyển động ném
+## Chương III. Động lực học
+### Bài 13. Tổng hợp và phân tích lực. Cân bằng lực
+### Bài 14. Định luật 1 Newton
+### Bài 15. Định luật 2 Newton
+### Bài 16. Định luật 3 Newton
+### Bài 17. Trọng lực và lực căng
+### Bài 18. Lực ma sát
+### Bài 19. Lực cản và lực nâng
+### Bài 20. Một số ví dụ về cách giải các bài toán thuộc phần động lực học
+### Bài 21. Moment lực. Cân bằng của vật rắn
+### Bài 22. Thực hành: Tổng hợp lực
+## Chương IV. Năng lượng, công, công suất
+### Bài 23. Năng lượng. Công cơ học
+### Bài 24. Công suất
+### Bài 25. Động năng, thế năng
+### Bài 26. Cơ năng và định luật bảo toàn cơ năng
+### Bài 27. Hiệu suất
+## Chương V. Động lượng
+### Bài 28. Động lượng
+### Bài 29. Định luật bảo toàn động lượng
+### Bài 30. Thực hành: Xác định động lượng của vật trước và sau va chạm
+## Chương VI. Chuyển động tròn đều
+### Bài 31. Động học của chuyển động tròn đều
+### Bài 32. Lực hướng tâm và gia tốc hướng tâm
+## Chương VII. Biến dạng của vật rắn. Áp suất chất lỏng
+### Bài 33. Biến dạng của vật rắn
+### Bài 34. Khối lượng riêng. Áp suất chất lỏng
+# 10 | khtn | Hóa học 10
+## Chương 1. Cấu tạo nguyên tử
+### Bài 1. Thành phần của nguyên tử
+> Nguyên tử nhỏ đến mức hàng trăm nghìn nguyên tử xếp hàng mới dài bằng bề ngang sợi tóc – vậy bên trong nguyên tử có gì?
+MT: Trình bày được thành phần của nguyên tử: hạt nhân (proton, neutron) và lớp vỏ (electron).
+MT: Nêu được điện tích, khối lượng của các hạt; so sánh kích thước nguyên tử với hạt nhân.
+MT: Tính được số hạt p, n, e trong nguyên tử.
+LT: 1. Thành phần của nguyên tử
+- Nguyên tử gồm **hạt nhân** ở tâm và **lớp vỏ** gồm các electron chuyển động xung quanh hạt nhân.
+- Hạt nhân gồm **proton (p)** mang điện tích +1 và **neutron (n)** không mang điện. **Electron (e)** mang điện tích −1.
+- Nguyên tử trung hòa về điện: **số p = số e**.
+HINH: 10-khtn/nguyen-tu.svg | Mô hình nguyên tử carbon: hạt nhân gồm 6 proton và 6 neutron; 6 electron chuyển động ở lớp vỏ.
+LT: 2. Khối lượng và kích thước
+- m_p ≈ m_n ≈ 1 amu; m_e ≈ 0,00055 amu (rất nhỏ). Vì vậy khối lượng nguyên tử tập trung hầu hết ở **hạt nhân**; khối lượng nguyên tử ≈ số p + số n (amu).
+- 1 amu ≈ 1,661·10⁻²⁷ kg.
+- Nguyên tử có đường kính khoảng 10⁻¹⁰ m, lớn hơn đường kính hạt nhân (khoảng 10⁻¹⁴ m) khoảng **10 000 lần**: nguyên tử có cấu tạo rỗng.
+- Đơn vị độ dài: 1 nm = 10⁻⁹ m; 1 Å = 10⁻¹⁰ m.
+VD: Nguyên tử sodium (Na) có 11 proton và 12 neutron. Tính số electron, điện tích hạt nhân và khối lượng gần đúng của nguyên tử (amu).
+B: Nguyên tử trung hòa nên số e = số p = 11.
+B: Điện tích hạt nhân là +11 (theo đơn vị điện tích nguyên tố).
+B: Khối lượng ≈ 11 + 12 = 23 amu (bỏ qua khối lượng electron).
+KQ: Na có 11 electron, điện tích hạt nhân +11, khối lượng khoảng 23 amu.
+VD: Tổng số hạt p, n, e trong nguyên tử X là 40, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 12. Tìm số p, n, e.
+B: Gọi số p = số e = Z, số n = N. Ta có 2Z + N = 40 và 2Z − N = 12.
+B: Cộng hai phương trình: 4Z = 52 ⇒ Z = 13; N = 40 − 26 = 14.
+KQ: X có 13 proton, 13 electron, 14 neutron (X là aluminium).
+GN: Hạt mang điện: p và e; hạt không mang điện: n.
+GN: Khối lượng nguyên tử ≈ số p + số n (amu).
+GN: Dạng bài tổng số hạt: lập hệ 2Z + N = tổng và 2Z − N = hiệu.
+Q: mc | Hạt nào sau đây mang điện tích âm?
+A) Proton
+B) Neutron
+C) Electron *
+D) Hạt nhân
+E: Electron mang điện tích −1; proton mang +1; neutron không mang điện; hạt nhân mang điện dương.
+Q: mc | Khối lượng nguyên tử tập trung chủ yếu ở
+A) lớp vỏ electron
+B) hạt nhân *
+C) các electron lớp ngoài cùng
+D) phân bố đều trong nguyên tử
+E: Proton và neutron nặng gấp khoảng 1840 lần electron, nên khối lượng nguyên tử tập trung ở hạt nhân.
+Q: tf | Nguyên tử fluorine có 9 proton và 10 neutron.
+a) Số electron của nguyên tử fluorine là 9. | Đ
+b) Tổng số hạt trong nguyên tử fluorine là 28. | Đ
+c) Khối lượng nguyên tử fluorine xấp xỉ 19 amu. | Đ
+d) Số hạt mang điện ít hơn số hạt không mang điện. | S
+E: e = p = 9; tổng số hạt = 9 + 9 + 10 = 28; khối lượng ≈ 9 + 10 = 19 amu; số hạt mang điện là 18, nhiều hơn số hạt không mang điện là 10.
+Q: sa | Tổng số hạt proton, neutron, electron trong nguyên tử Y là 34, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 10. Số proton của Y là bao nhiêu?
+ANS: 11
+E: 2Z + N = 34 và 2Z − N = 10 ⇒ 4Z = 44 ⇒ Z = 11 (Y là sodium, N = 12).
+Q: sa | Đường kính nguyên tử khoảng 10⁻¹⁰ m, đường kính hạt nhân khoảng 10⁻¹⁴ m. Nguyên tử lớn hơn hạt nhân khoảng bao nhiêu lần?
+ANS: 10000 || 10^4 || 1e4
+E: 10⁻¹⁰ : 10⁻¹⁴ = 10⁴ = 10 000 lần. Nếu hạt nhân to bằng quả bóng bàn (4 cm) thì nguyên tử có đường kính khoảng 400 m!
+TL: Nguyên tử R có tổng số hạt proton, neutron, electron là 52, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 16. Tính số mỗi loại hạt và khối lượng gần đúng của nguyên tử R (amu).
+MAU: Gọi Z là số p (= số e), N là số n: 2Z + N = 52 và 2Z − N = 16.
+MAU: Giải hệ: 4Z = 68 ⇒ Z = 17; N = 52 − 34 = 18.
+MAU: R có 17 proton, 17 electron, 18 neutron; khối lượng ≈ 17 + 18 = 35 amu (R là chlorine).
+TC: Lập đúng hệ phương trình | 1
+TC: Giải đúng Z = 17, N = 18 | 1
+TC: Tính đúng khối lượng ≈ 35 amu | 1
+
+### Bài 2. Nguyên tố hóa học
+### Bài 3. Cấu trúc lớp vỏ electron nguyên tử
+### Bài 4. Ôn tập chương 1
+## Chương 2. Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn
+### Bài 5. Cấu tạo của bảng tuần hoàn các nguyên tố hóa học
+### Bài 6. Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm
+### Bài 7. Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì
+### Bài 8. Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hóa học
+### Bài 9. Ôn tập chương 2
+## Chương 3. Liên kết hóa học
+### Bài 10. Quy tắc octet
+### Bài 11. Liên kết ion
+### Bài 12. Liên kết cộng hóa trị
+### Bài 13. Liên kết hydrogen và tương tác van der Waals
+### Bài 14. Ôn tập chương 3
+## Chương 4. Phản ứng oxi hóa – khử
+### Bài 15. Phản ứng oxi hóa – khử
+### Bài 16. Ôn tập chương 4
+## Chương 5. Năng lượng hóa học
+### Bài 17. Biến thiên enthalpy trong các phản ứng hóa học
+### Bài 18. Ôn tập chương 5
+## Chương 6. Tốc độ phản ứng
+### Bài 19. Tốc độ phản ứng
+### Bài 20. Ôn tập chương 6
+## Chương 7. Nguyên tố nhóm halogen
+### Bài 21. Nhóm halogen
+### Bài 22. Hydrogen halide. Muối halide
+### Bài 23. Ôn tập chương 7
+# 10 | khtn | Sinh học 10
+## Phần mở đầu
+### Bài 1. Giới thiệu khái quát môn Sinh học
+### Bài 2. Phương pháp nghiên cứu và học tập môn Sinh học
+### Bài 3. Các cấp độ tổ chức của thế giới sống
+## Chương 1. Thành phần hóa học của tế bào
+### Bài 4. Các nguyên tố hóa học và nước
+### Bài 5. Các phân tử sinh học
+### Bài 6. Thực hành: Nhận biết một số phân tử sinh học
+## Chương 2. Cấu trúc tế bào
+### Bài 7. Tế bào nhân sơ
+> Vi khuẩn chỉ là một tế bào bé xíu nhưng có mặt ở khắp nơi – nhờ cấu tạo đơn giản mà hiệu quả của tế bào nhân sơ.
+MT: Nêu được đặc điểm chung của tế bào nhân sơ.
+MT: Mô tả được cấu tạo và chức năng các thành phần của tế bào nhân sơ.
+MT: Giải thích được vì sao kích thước nhỏ đem lại lợi thế cho tế bào nhân sơ.
+LT: 1. Đặc điểm chung
+- Tế bào nhân sơ **chưa có màng nhân** (vật chất di truyền nằm ở vùng nhân); tế bào chất **không có hệ thống nội màng**, không có bào quan có màng; bào quan duy nhất là **ribosome**.
+- Kích thước rất nhỏ (khoảng 1 – 5 µm), chỉ bằng khoảng 1/10 tế bào nhân thực.
+- Kích thước nhỏ ⇒ tỉ lệ **S/V (diện tích bề mặt / thể tích) lớn** ⇒ trao đổi chất nhanh, sinh trưởng và sinh sản nhanh.
+LT: 2. Cấu tạo tế bào nhân sơ (vi khuẩn)
+- **Thành tế bào** (cấu tạo từ peptidoglycan): giữ hình dạng, bảo vệ tế bào. Dựa vào thành tế bào, vi khuẩn được chia thành Gram dương và Gram âm.
+- **Màng sinh chất**: kiểm soát sự trao đổi chất giữa tế bào và môi trường.
+- **Tế bào chất**: chứa ribosome (tổng hợp protein), các hạt dự trữ; có thể có **plasmid** – phân tử DNA vòng nhỏ mang một số gene như gene kháng thuốc kháng sinh.
+- **Vùng nhân**: chứa một phân tử DNA vòng, kép, mang thông tin di truyền.
+- Một số vi khuẩn còn có **vỏ nhầy** (bảo vệ), **roi** (di chuyển), **lông** (bám dính).
+HINH: 10-khtn/te-bao-nhan-so.svg | Tế bào vi khuẩn: vùng nhân không có màng bao bọc, tế bào chất chỉ có ribosome; ngoài màng sinh chất là thành tế bào, vỏ nhầy, roi và lông.
+VD: Vì sao vi khuẩn sinh sản rất nhanh?
+B: Kích thước nhỏ nên tỉ lệ S/V lớn, các chất được trao đổi qua bề mặt tế bào rất nhanh.
+B: Tốc độ trao đổi chất cao giúp tế bào sinh trưởng nhanh và sớm đủ điều kiện để phân chia.
+KQ: Kích thước nhỏ ⇒ S/V lớn ⇒ trao đổi chất nhanh ⇒ sinh trưởng, sinh sản nhanh (trong điều kiện thuận lợi, vi khuẩn E. coli khoảng 20 phút phân chia một lần).
+VD: So sánh tỉ lệ S/V của hai tế bào hình cầu có bán kính 1 µm và 10 µm.
+B: Hình cầu: S = 4πr², V = (4/3)πr³ ⇒ S/V = 3/r.
+B: r = 1 µm: S/V = 3; r = 10 µm: S/V = 0,3.
+KQ: Tế bào nhỏ có tỉ lệ S/V lớn gấp 10 lần tế bào lớn.
+GN: Nhân sơ = chưa có màng nhân + không có bào quan có màng + chỉ có ribosome.
+GN: Thành tế bào vi khuẩn là peptidoglycan (khác thành cellulose của thực vật).
+GN: Kích thước nhỏ → S/V lớn → trao đổi chất nhanh.
+Q: mc | Đặc điểm nào sau đây có ở tế bào nhân sơ?
+A) Có màng nhân bao bọc vật chất di truyền
+B) Có ti thể và lục lạp
+C) Bào quan duy nhất là ribosome *
+D) Có hệ thống lưới nội chất
+E: Tế bào nhân sơ chưa có màng nhân, không có bào quan có màng; bào quan duy nhất là ribosome.
+Q: mc | Thành phần giúp vi khuẩn di chuyển là
+A) lông
+B) roi *
+C) vỏ nhầy
+D) plasmid
+E: Roi giúp vi khuẩn di chuyển; lông giúp vi khuẩn bám dính vào bề mặt.
+Q: tf | Về tế bào vi khuẩn:
+a) Vùng nhân chứa một phân tử DNA dạng vòng. | Đ
+b) Thành tế bào vi khuẩn được cấu tạo chủ yếu từ cellulose. | S
+c) Plasmid có thể mang gene kháng thuốc kháng sinh. | Đ
+d) Kích thước nhỏ làm tỉ lệ S/V nhỏ nên trao đổi chất chậm. | S
+E: Thành tế bào vi khuẩn cấu tạo từ peptidoglycan (cellulose là thành phần thành tế bào thực vật). Kích thước nhỏ làm S/V lớn nên trao đổi chất nhanh.
+Q: sa | Với tế bào hình cầu, S/V = 3/r. Tính tỉ lệ S/V (đơn vị 1/µm) của một vi khuẩn hình cầu có đường kính 2 µm.
+ANS: 3
+E: Đường kính 2 µm ⇒ r = 1 µm ⇒ S/V = 3 : 1 = 3.
+Q: mc | Penicillin ức chế quá trình tổng hợp thành tế bào của vi khuẩn. Thuốc này không gây hại trực tiếp cho tế bào người vì
+A) tế bào người không có màng sinh chất
+B) tế bào người không có thành peptidoglycan *
+C) tế bào người không có ribosome
+D) tế bào người không có DNA
+E: Tế bào người (tế bào động vật) không có thành tế bào peptidoglycan nên thuốc chỉ tác động lên vi khuẩn.
+TL: Vì sao khi dùng thuốc kháng sinh cần dùng đúng liều, đủ thời gian theo chỉ định của bác sĩ? Liên hệ với vai trò của plasmid ở vi khuẩn.
+MAU: Dùng thiếu liều hoặc ngừng thuốc sớm thì không tiêu diệt hết vi khuẩn; những vi khuẩn sống sót thường là những con có khả năng chống chịu thuốc.
+MAU: Gene kháng kháng sinh thường nằm trên plasmid và có thể truyền giữa các vi khuẩn, làm vi khuẩn kháng thuốc lan rộng.
+MAU: Vì vậy cần dùng kháng sinh đúng loại, đúng liều, đủ thời gian theo chỉ định của bác sĩ.
+TC: Nêu được hậu quả dùng thiếu liều: vi khuẩn chống chịu sống sót | 1
+TC: Nêu được plasmid mang gene kháng thuốc, có thể truyền sang vi khuẩn khác | 1
+TC: Kết luận về sử dụng kháng sinh hợp lí | 1
+
+### Bài 8. Tế bào nhân thực
+### Bài 9. Thực hành: Quan sát tế bào
+## Chương 3. Trao đổi chất qua màng và truyền tin tế bào
+### Bài 10. Trao đổi chất qua màng tế bào
+### Bài 11. Thực hành: Thí nghiệm co và phản co nguyên sinh
+### Bài 12. Truyền tin tế bào
+## Chương 4. Chuyển hóa năng lượng trong tế bào
+### Bài 13. Khái quát về chuyển hóa vật chất và năng lượng
+### Bài 14. Phân giải và tổng hợp các chất trong tế bào
+### Bài 15. Thực hành: Thí nghiệm phân tích ảnh hưởng của một số yếu tố đến hoạt tính của enzyme
+## Chương 5. Chu kì tế bào và phân bào
+### Bài 16. Chu kì tế bào và nguyên phân
+### Bài 17. Giảm phân
+### Bài 18. Thực hành: Làm và quan sát tiêu bản quá trình nguyên phân và giảm phân
+### Bài 19. Công nghệ tế bào
+## Chương 6. Sinh học vi sinh vật
+### Bài 20. Sự đa dạng và phương pháp nghiên cứu vi sinh vật
+### Bài 21. Trao đổi chất, sinh trưởng và sinh sản ở vi sinh vật
+### Bài 22. Vai trò và ứng dụng của vi sinh vật
+### Bài 23. Thực hành: Một số phương pháp nghiên cứu vi sinh vật thông dụng
+## Chương 7. Virus
+### Bài 24. Khái quát về virus
+### Bài 25. Một số bệnh do virus và các thành tựu nghiên cứu ứng dụng virus
+### Bài 26. Thực hành: Điều tra một số bệnh do virus và tuyên truyền phòng chống bệnh

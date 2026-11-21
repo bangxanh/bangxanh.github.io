@@ -2,6 +2,69 @@
 # 6 | anh | Tiếng Anh 6 (Global Success)
 ## Units 1–4
 ### Unit 1. My New School
+> Làm quen với từ vựng về trường học, dùng thì hiện tại đơn và trạng từ chỉ tần suất để kể về hoạt động ở trường.
+MT: Dùng đúng từ vựng về đồ dùng học tập, môn học và các cụm từ với play, do, have, study.
+MT: Dùng thì hiện tại đơn để nói về thói quen, hoạt động thường ngày; đặt đúng vị trí trạng từ tần suất.
+MT: Phát âm phân biệt /ɑː/ và /ʌ/.
+LT: 1. Từ vựng (Vocabulary)
+- School things: **pencil case** (hộp bút), **ruler** (thước kẻ), **rubber** (cục tẩy), **calculator** (máy tính cầm tay), **compass** (com-pa), **school bag** (cặp sách), **textbook** (sách giáo khoa).
+- Cụm từ: **have** lessons / breakfast; **do** homework / judo / exercise; **study** maths / science / history; **play** football / the piano.
+HINH: 6-anh/school-map.svg | Sơ đồ tư duy từ vựng Unit 1: đồ dùng học tập, môn học, động từ đi kèm, người và địa điểm ở trường.
+LT: 2. Thì hiện tại đơn (Present simple)
+- Dùng để nói về **thói quen, hoạt động lặp lại, sự thật**: I **walk** to school every day.
+- Khẳng định: I / You / We / They + **V**; He / She / It + **V-s/es** (goes, watches, studies, has).
+- Phủ định: S + **don't / doesn't** + V. Nghi vấn: **Do / Does** + S + V? – Yes, S do/does. / No, S don't/doesn't.
+- Trạng từ tần suất (always, usually, often, sometimes, never) đứng **trước động từ thường**, **sau động từ to be**: She often reads books. / He is always on time.
+LT: 3. Phát âm /ɑː/ và /ʌ/
+- /ɑː/ (âm dài): **art**, **class**, **smart**, **start**.
+- /ʌ/ (âm ngắn): **study**, **Monday**, **subject**, **brother**, **compass**.
+VD: Chia động từ trong ngoặc: My brother (study) ___ English on Mondays.
+B: Chủ ngữ "My brother" là ngôi thứ ba số ít ⇒ động từ thêm -s/es.
+B: study tận cùng bằng phụ âm + y ⇒ đổi y thành i rồi thêm -es.
+KQ: My brother **studies** English on Mondays.
+VD: Chọn động từ phù hợp: ___ judo / ___ the piano / ___ lessons.
+B: do + môn võ, bài tập (do judo, do homework); play + nhạc cụ, môn thể thao dùng bóng (play the piano, play football); have + tiết học, bữa ăn.
+KQ: **do** judo – **play** the piano – **have** lessons.
+GN: He / She / It + V-s/es; động từ have → has.
+GN: Thêm -es khi động từ tận cùng bằng o, s, x, ch, sh (goes, watches); phụ âm + y → -ies (studies).
+GN: Trạng từ tần suất đứng trước động từ thường, sau động từ to be.
+Q: mc | Choose the correct answer: She ___ to school by bike every day.
+A) go
+B) goes *
+C) going
+D) is go
+E: Chủ ngữ she (ngôi thứ ba số ít), thói quen hằng ngày ⇒ goes (go tận cùng bằng o nên thêm -es).
+Q: mc | Which verb goes with "homework"?
+A) play
+B) do *
+C) have
+D) study
+E: Cụm cố định: do homework (làm bài tập về nhà).
+Q: tf | Đúng hay sai?
+a) "We doesn't have maths on Fridays." là câu đúng. | S
+b) Trong câu "He is always on time.", trạng từ always đứng sau động từ to be. | Đ
+c) Từ "study" có âm /ʌ/. | Đ
+d) "rubber" nghĩa là cái thước kẻ. | S
+E: Chủ ngữ we dùng don't: We don't have maths on Fridays. Always đứng sau be. study /ˈstʌdi/ có âm /ʌ/. rubber = cục tẩy; ruler = thước kẻ.
+Q: sa | Viết dạng đúng của động từ: "My friend Vy ___ (have) a new compass."
+ANS: has
+E: Chủ ngữ ngôi thứ ba số ít ⇒ have → has.
+Q: mc | Chọn từ có phần nguyên âm được phát âm khác: art – class – study – smart
+A) art
+B) class
+C) study *
+D) smart
+E: art, class, smart có âm /ɑː/; study có âm /ʌ/.
+TL: Write 4–5 sentences about your school day. Use the present simple and at least two adverbs of frequency.
+MAU: I usually get up at six o'clock.
+MAU: I walk to school with my classmates.
+MAU: We have maths and English on Mondays.
+MAU: I sometimes play football at break time.
+MAU: In the evening, I always do my homework.
+TC: Dùng đúng thì hiện tại đơn (chia động từ đúng) | 1
+TC: Dùng ít nhất 2 trạng từ tần suất đúng vị trí | 1
+TC: Từ vựng về trường học phù hợp, câu đúng chính tả | 1
+
 ### Unit 2. My House
 ### Unit 3. My Friends
 ### Unit 4. My Neighbourhood

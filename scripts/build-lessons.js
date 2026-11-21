@@ -13,6 +13,8 @@ const ROOT = path.join(__dirname, '..');
 const SRC = path.resolve(process.argv[2] || path.join(ROOT, 'noi-dung', 'bai'));
 const SITE = path.resolve(process.argv[3] || path.join(ROOT, 'site'));
 const OUT = path.join(SITE, 'data', 'bai');
+const IMG_SRC = path.join(path.dirname(SRC), 'hinh');
+const IMG_OUT = path.join(SITE, 'hinh');
 const SUBJ = ['toan', 'van', 'anh', 'khtn', 'khxh'];
 
 const contentSrc = fs.readFileSync(path.join(SITE, 'data', 'content.js'), 'utf8');
@@ -79,6 +81,19 @@ function parseFile(file) {
       return;
     }
     if (t.startsWith('> ')) { if (les) les.intro = br(t.slice(2)); else if (unit) unit.d = br(t.slice(2)); return; }
+    if ((m = t.match(/^HINH:\s*(.+)$/))) {
+      if (!needLesson(i, 'HINH')) return;
+      const parts = m[1].split('|');
+      const f = parts[0].trim().replace(/^\/+/, ''), c = br(parts.slice(1).join('|'));
+      if (!/^[\w./-]+\.(svg|png|jpg|jpeg|webp)$/i.test(f) || f.includes('..')) { errors.push(where(i) + ' – tên tệp hình không hợp lệ: "' + f + '"'); return; }
+      if (!fs.existsSync(path.join(IMG_SRC, f))) { errors.push(where(i) + ' – không tìm thấy tệp hình noi-dung/hinh/' + f); return; }
+      const fig = { f: 'hinh/' + f, c };
+      if (q) q.img = fig;
+      else if (mode === 'vd' && ex) (ex.img = ex.img || []).push(fig);
+      else if (mode === 'lt' && sec) (sec.img = sec.img || []).push(fig);
+      else (les.figs = les.figs || []).push(fig);
+      return;
+    }
     if ((m = t.match(/^(MT|LT|VD|B|KQ|GN|Q|E|ANS|TL|MAU|TC):\s*(.*)$/))) {
       const tag = m[1], val = m[2];
       if (!needLesson(i, tag)) return;
@@ -153,6 +168,21 @@ function matchChapter(unitTitle, chapters, used) {
   });
   return bestScore >= 3 ? best : -1;
 }
+function bestUnit(chTitle, units) {
+  const ct = plain(chTitle), cr = chTitle.match(ROMAN);
+  const cw = ct.split(' ').filter((w) => w.length > 2);
+  let best = -1, bestScore = 0;
+  units.forEach((u, i) => {
+    let score = 0;
+    if (plain(u.t) === ct) score = 100;
+    const ur = u.t.match(ROMAN);
+    if (ur && cr && ur[2].toUpperCase() === cr[2].toUpperCase()) score += 50;
+    const uw = new Set((plain(u.t) + ' ' + u.lessons.map((l) => plain(l.t)).join(' ')).split(' '));
+    score += cw.filter((w) => uw.has(w)).length;
+    if (score > bestScore) { bestScore = score; best = i; }
+  });
+  return bestScore >= 1 ? best : -1;
+}
 function lessonReady(l) { return !!(l.theory.length || l.examples.length || l.qs.length); }
 
 const parsed = {};
@@ -171,6 +201,17 @@ if (errors.length) {
 }
 
 fs.mkdirSync(OUT, { recursive: true });
+function copyDir(a, b) {
+  if (!fs.existsSync(a)) return 0;
+  fs.mkdirSync(b, { recursive: true });
+  let n = 0;
+  for (const e of fs.readdirSync(a, { withFileTypes: true })) {
+    if (e.isDirectory()) n += copyDir(path.join(a, e.name), path.join(b, e.name));
+    else { fs.copyFileSync(path.join(a, e.name), path.join(b, e.name)); n++; }
+  }
+  return n;
+}
+const nImg = copyDir(IMG_SRC, IMG_OUT);
 const index = { updatedAt: new Date().toISOString(), list: [], search: [] };
 let totalLessons = 0, totalReady = 0;
 const hash = crypto.createHash('sha1');
@@ -188,13 +229,13 @@ for (let g = 1; g <= 12; g++) {
       const ob = { title: cb.title, note: cb.note || '', units: [] };
       if (sb >= 0) {
         usedSrc.add(sb);
-        const used = new Set();
-        srcBooks[sb].units.forEach((u) => {
-          const ci = matchChapter(u.t, cb.chapters || [], used);
-          if (ci >= 0) used.add(ci);
-          ob.units.push({ t: u.t, d: u.d || '', pts: (u.pts || []).concat(ci >= 0 ? cb.chapters[ci].items : []), lessons: u.lessons });
+        /* Danh mục bài trong noi-dung là chuẩn; kiến thức trọng tâm của từng chương/chủ đề cũ
+           được gắn vào chương mới gần nhất (không tạo chương trùng lặp). */
+        srcBooks[sb].units.forEach((u) => ob.units.push({ t: u.t, d: u.d || '', pts: (u.pts || []).slice(), lessons: u.lessons }));
+        (cb.chapters || []).forEach((c) => {
+          const ui = bestUnit(c.t, ob.units);
+          if (ui >= 0) ob.units[ui].pts = ob.units[ui].pts.concat(c.items);
         });
-        (cb.chapters || []).forEach((c, ci) => { if (!used.has(ci)) ob.units.push({ t: c.t, d: '', pts: c.items, lessons: [] }); });
       } else {
         (cb.chapters || []).forEach((c) => ob.units.push({ t: c.t, d: '', pts: c.items, lessons: [] }));
       }
@@ -227,4 +268,4 @@ try {
   const h = hash.digest('hex').slice(0, 12);
   if (v.lessons !== h) { v.lessons = h; fs.writeFileSync(vf, JSON.stringify(v)); }
 } catch (e) { console.warn('Không ghi được version.json: ' + e.message); }
-console.log('Đã tạo dữ liệu bài học: ' + index.list.length + ' lớp – môn, ' + totalLessons + ' bài (' + totalReady + ' bài có nội dung chi tiết).');
+console.log('Đã tạo dữ liệu bài học: ' + index.list.length + ' lớp – môn, ' + totalLessons + ' bài (' + totalReady + ' bài có nội dung chi tiết), ' + nImg + ' hình minh họa.');

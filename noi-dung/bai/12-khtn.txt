@@ -1,0 +1,70 @@
+// Lớp 12 – Vật lí, Hóa học – SGK Kết nối tri thức (Vật lí đối chiếu loigiaihay.com; Hóa học đối chiếu cấu trúc 8 chương – 30 bài, tên bài cần soát lại). Sinh học 12: danh mục sẽ bổ sung sau khi đối chiếu.
+# 12 | khtn | Vật lí 12
+## Chương I. Vật lí nhiệt
+### Bài 1. Cấu trúc của chất. Sự chuyển thể
+### Bài 2. Nội năng. Định luật I của nhiệt động lực học
+### Bài 3. Nhiệt độ. Thang nhiệt độ – nhiệt kế
+### Bài 4. Nhiệt dung riêng
+### Bài 5. Nhiệt nóng chảy riêng
+### Bài 6. Nhiệt hóa hơi riêng
+### Bài 7. Bài tập về vật lí nhiệt
+## Chương II. Khí lí tưởng
+### Bài 8. Mô hình động học phân tử chất khí
+### Bài 9. Định luật Boyle
+### Bài 10. Định luật Charles
+### Bài 11. Phương trình trạng thái của khí lí tưởng
+### Bài 12. Áp suất khí theo mô hình động học phân tử. Quan hệ giữa động năng phân tử và nhiệt độ
+### Bài 13. Bài tập về khí lí tưởng
+## Chương III. Từ trường
+### Bài 14. Từ trường
+### Bài 15. Lực từ tác dụng lên dây dẫn mang dòng điện. Cảm ứng từ
+### Bài 16. Từ thông. Hiện tượng cảm ứng điện từ
+### Bài 17. Máy phát điện xoay chiều
+### Bài 18. Ứng dụng hiện tượng cảm ứng điện từ
+### Bài 19. Điện từ trường. Mô hình sóng điện từ
+### Bài 20. Bài tập về từ trường
+## Chương IV. Vật lí hạt nhân và phóng xạ
+### Bài 21. Cấu trúc hạt nhân
+### Bài 22. Phản ứng hạt nhân và năng lượng liên kết
+### Bài 23. Hiện tượng phóng xạ
+### Bài 24. Công nghiệp hạt nhân
+### Bài 25. Bài tập về vật lí hạt nhân
+# 12 | khtn | Hóa học 12
+## Chương 1. Ester – Lipid
+### Bài 1. Ester – Lipid
+### Bài 2. Xà phòng và chất giặt rửa
+### Bài 3. Ôn tập chương 1
+## Chương 2. Carbohydrate
+### Bài 4. Giới thiệu về carbohydrate. Glucose và fructose
+### Bài 5. Saccharose và maltose
+### Bài 6. Tinh bột và cellulose
+### Bài 7. Ôn tập chương 2
+## Chương 3. Hợp chất chứa nitrogen
+### Bài 8. Amine
+### Bài 9. Amino acid và peptide
+### Bài 10. Protein và enzyme
+### Bài 11. Ôn tập chương 3
+## Chương 4. Polymer
+### Bài 12. Đại cương về polymer
+### Bài 13. Vật liệu polymer
+### Bài 14. Ôn tập chương 4
+## Chương 5. Pin điện và điện phân
+### Bài 15. Thế điện cực và nguồn điện hóa học
+### Bài 16. Điện phân
+### Bài 17. Ôn tập chương 5
+## Chương 6. Đại cương về kim loại
+### Bài 18. Cấu tạo và liên kết trong tinh thể kim loại
+### Bài 19. Tính chất vật lí và tính chất hóa học của kim loại
+### Bài 20. Kim loại trong tự nhiên và phương pháp tách kim loại
+### Bài 21. Hợp kim
+### Bài 22. Sự ăn mòn kim loại
+### Bài 23. Ôn tập chương 6
+## Chương 7. Nguyên tố nhóm IA và nhóm IIA
+### Bài 24. Nguyên tố nhóm IA
+### Bài 25. Nguyên tố nhóm IIA
+### Bài 26. Ôn tập chương 7
+## Chương 8. Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất
+### Bài 27. Đại cương về kim loại chuyển tiếp dãy thứ nhất
+### Bài 28. Sơ lược về phức chất
+### Bài 29. Một số tính chất và ứng dụng của phức chất
+### Bài 30. Ôn tập chương 8

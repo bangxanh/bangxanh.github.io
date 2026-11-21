@@ -34,10 +34,19 @@ E: Lời giải
 Q: sa | Câu trả lời ngắn
 ANS: 2,5 || 5/2                              ← các đáp án được chấp nhận, ngăn bằng ||
 E: Lời giải
+HINH: 12-toan/bai1-cuc-tri.svg | Chú thích   ← hình minh họa (tệp trong noi-dung/hinh/). Đặt sau mục LT → hình của mục đó;
+                                              sau dòng VD → hình của ví dụ; sau dòng Q → hình của câu hỏi.
 TL: Đề bài tự luận
 MAU: Dòng đáp án mẫu (mỗi bước một dòng)
 TC: Tiêu chí chấm | 1                        ← số điểm của tiêu chí
 ```
+
+## Hình minh họa
+
+- Tệp hình đặt trong `noi-dung/hinh/<lớp>-<môn>/`, ưu tiên SVG (nhẹ, nét). Hình phải **tự vẽ** – không chép ảnh có bản quyền.
+- Bộ công cụ vẽ thống nhất màu sắc, phông chữ: `scripts/hinh/bx_hinh.py` (Python + matplotlib); ví dụ cách dùng ở `scripts/hinh/toan12.py` (đồ thị, hình không gian) và `scripts/hinh/khtn_anh.py` (sơ đồ tế bào, thí nghiệm, sơ đồ tư duy từ vựng, trục thời gian ngữ pháp).
+- Mỗi bài nên có ít nhất 1 hình giúp học sinh hình dung: đồ thị, sơ đồ, hình vẽ thí nghiệm, sơ đồ tư duy từ vựng…
+- Chú thích ngắn, nói hình cho thấy điều gì.
 
 ## Quy ước
 

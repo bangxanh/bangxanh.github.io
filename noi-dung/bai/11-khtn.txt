@@ -1,0 +1,122 @@
+// Lớp 11 – Vật lí, Hóa học – SGK Kết nối tri thức (danh mục đối chiếu loigiaihay.com). Sinh học 11: danh mục sẽ bổ sung sau khi đối chiếu.
+# 11 | khtn | Vật lí 11
+## Chương I. Dao động
+### Bài 1. Dao động điều hòa
+> Con lắc đồng hồ, dây đàn rung, pít-tông động cơ… đều chuyển động qua lại quanh một vị trí cân bằng. Dạng dao động đơn giản nhất là dao động điều hòa.
+MT: Nêu được khái niệm dao động cơ, dao động tuần hoàn, dao động tự do.
+MT: Nêu được dao động điều hòa là dao động có li độ biến thiên theo hàm cos (sin) của thời gian.
+MT: Đọc được biên độ, li độ, chu kì từ đồ thị li độ – thời gian.
+LT: 1. Dao động cơ
+- **Dao động cơ** là chuyển động qua lại quanh một vị trí đặc biệt gọi là **vị trí cân bằng**.
+- **Dao động tuần hoàn**: trạng thái chuyển động được lặp lại như cũ sau những khoảng thời gian bằng nhau.
+- **Dao động tự do**: sau khi được kích thích ban đầu, vật chỉ dao động dưới tác dụng của nội lực (ví dụ con lắc lò xo khi bỏ qua ma sát).
+LT: 2. Dao động điều hòa
+- **Dao động điều hòa** là dao động trong đó li độ của vật là một hàm cos (hoặc sin) của thời gian: **x = A·cos(ωt + φ)**.
+- **Li độ x**: tọa độ của vật tính từ vị trí cân bằng (có thể âm hoặc dương). **Biên độ A**: độ lớn cực đại của li độ (A > 0).
+- Vật dao động giữa hai vị trí biên −A và +A; chiều dài quỹ đạo **L = 2A**.
+LT: 3. Đồ thị li độ – thời gian
+- Đồ thị x – t của dao động điều hòa là **đường hình sin**.
+- **Chu kì T**: thời gian vật thực hiện một dao động toàn phần (khoảng cách giữa hai đỉnh liên tiếp của đồ thị). Tần số f = 1/T (Hz); tần số góc ω = 2π/T (rad/s).
+HINH: 11-khtn/dao-dong.svg | Đồ thị x = 5cos(πt): biên độ 5 cm (độ cao của đỉnh), chu kì 2 s (khoảng cách giữa hai đỉnh liên tiếp).
+VD: Từ đồ thị trên, xác định biên độ, chu kì, tần số và li độ của vật tại các thời điểm t = 0; t = 0,5 s; t = 1 s.
+B: Biên độ A = 5 cm; chu kì T = 2 s ⇒ tần số f = 1/T = 0,5 Hz.
+B: t = 0: x = 5 cm (vật ở biên dương); t = 0,5 s: x = 0 (vật qua vị trí cân bằng); t = 1 s: x = −5 cm (vật ở biên âm).
+KQ: A = 5 cm, T = 2 s, f = 0,5 Hz; li độ lần lượt là 5 cm, 0 và −5 cm.
+VD: Pít-tông của một động cơ dao động điều hòa trên đoạn thẳng dài 16 cm. Tính biên độ dao động.
+B: Chiều dài quỹ đạo L = 2A.
+B: A = L : 2 = 16 : 2 = 8 cm.
+KQ: Biên độ dao động là 8 cm.
+GN: Biên độ A luôn dương; li độ x có thể âm hoặc dương và |x| ≤ A.
+GN: Quỹ đạo dài L = 2A; trong một chu kì vật đi được quãng đường 4A.
+GN: f = 1/T; ω = 2π/T = 2πf.
+Q: mc | Đồ thị li độ – thời gian của một vật dao động điều hòa có dạng
+A) đường thẳng
+B) đường parabol
+C) đường hình sin *
+D) đường elip
+E: Li độ là hàm cos (sin) của thời gian nên đồ thị x – t là đường hình sin.
+Q: mc | Một vật dao động điều hòa, trong 1 phút thực hiện được 30 dao động. Chu kì dao động là
+A) 0,5 s
+B) 2 s *
+C) 30 s
+D) 1 s
+E: T = 60 s : 30 = 2 s.
+Q: tf | Một vật dao động điều hòa với phương trình x = 4cos(2πt) (cm).
+a) Biên độ dao động là 4 cm. | Đ
+b) Chu kì dao động là 2 s. | S
+c) Tại t = 0 vật ở vị trí biên dương. | Đ
+d) Chiều dài quỹ đạo là 8 cm. | Đ
+E: A = 4 cm; ω = 2π rad/s ⇒ T = 2π/ω = 1 s. Tại t = 0: x = 4cos0 = 4 cm (biên dương). L = 2A = 8 cm.
+Q: sa | Một vật dao động điều hòa với biên độ 6 cm. Quãng đường vật đi được trong một chu kì là bao nhiêu cm?
+ANS: 24
+E: Trong một chu kì vật đi được quãng đường 4A = 4 · 6 = 24 cm.
+Q: sa | Một vật dao động điều hòa với tần số 5 Hz. Chu kì dao động bằng bao nhiêu giây?
+ANS: 0,2 || 1/5
+E: T = 1/f = 1/5 = 0,2 s.
+TL: Một con lắc dao động điều hòa, li độ cực đại là 3 cm; khoảng thời gian giữa hai lần liên tiếp vật ở biên dương là 1,5 s. a) Tính biên độ, chu kì, tần số. b) Tính quãng đường vật đi được trong 6 s.
+MAU: a) A = 3 cm; khoảng thời gian giữa hai lần liên tiếp vật ở biên dương là một chu kì: T = 1,5 s; f = 1/T ≈ 0,67 Hz.
+MAU: b) 6 s = 4T ⇒ quãng đường s = 4 · 4A = 16 · 3 = 48 cm.
+TC: Xác định đúng A = 3 cm và T = 1,5 s | 1
+TC: Tính đúng tần số f ≈ 0,67 Hz | 1
+TC: Tính đúng quãng đường 48 cm | 1
+
+### Bài 2. Mô tả dao động điều hòa
+### Bài 3. Vận tốc, gia tốc trong dao động điều hòa
+### Bài 4. Bài tập về dao động điều hòa
+### Bài 5. Động năng. Thế năng. Sự chuyển hóa năng lượng trong dao động điều hòa
+### Bài 6. Dao động tắt dần. Dao động cưỡng bức. Hiện tượng cộng hưởng
+### Bài 7. Bài tập về sự chuyển hóa năng lượng trong dao động điều hòa
+## Chương II. Sóng
+### Bài 8. Mô tả sóng
+### Bài 9. Sóng ngang. Sóng dọc. Sự truyền năng lượng của sóng cơ
+### Bài 10. Thực hành: Đo tần số của sóng âm
+### Bài 11. Sóng điện từ
+### Bài 12. Giao thoa sóng
+### Bài 13. Sóng dừng
+### Bài 14. Bài tập về sóng
+### Bài 15. Thực hành: Đo tốc độ truyền âm
+## Chương III. Điện trường
+### Bài 16. Lực tương tác giữa hai điện tích
+### Bài 17. Khái niệm điện trường
+### Bài 18. Điện trường đều
+### Bài 19. Thế năng điện
+### Bài 20. Điện thế
+### Bài 21. Tụ điện
+## Chương IV. Dòng điện. Mạch điện
+### Bài 22. Cường độ dòng điện
+### Bài 23. Điện trở. Định luật Ohm
+### Bài 24. Nguồn điện
+### Bài 25. Năng lượng và công suất điện
+### Bài 26. Thực hành: Đo suất điện động và điện trở trong của pin điện hóa
+# 11 | khtn | Hóa học 11
+## Chương 1. Cân bằng hóa học
+### Bài 1. Khái niệm về cân bằng hóa học
+### Bài 2. Cân bằng trong dung dịch nước
+### Bài 3. Ôn tập chương 1
+## Chương 2. Nitrogen và sulfur
+### Bài 4. Nitrogen
+### Bài 5. Ammonia. Muối ammonium
+### Bài 6. Một số hợp chất của nitrogen với oxygen
+### Bài 7. Sulfur và sulfur dioxide
+### Bài 8. Sulfuric acid và muối sulfate
+### Bài 9. Ôn tập chương 2
+## Chương 3. Đại cương về hóa học hữu cơ
+### Bài 10. Hợp chất hữu cơ và hóa học hữu cơ
+### Bài 11. Phương pháp tách biệt và tinh chế hợp chất hữu cơ
+### Bài 12. Công thức phân tử hợp chất hữu cơ
+### Bài 13. Cấu tạo hóa học hợp chất hữu cơ
+### Bài 14. Ôn tập chương 3
+## Chương 4. Hydrocarbon
+### Bài 15. Alkane
+### Bài 16. Hydrocarbon không no
+### Bài 17. Arene (Hydrocarbon thơm)
+### Bài 18. Ôn tập chương 4
+## Chương 5. Dẫn xuất halogen – Alcohol – Phenol
+### Bài 19. Dẫn xuất halogen
+### Bài 20. Alcohol
+### Bài 21. Phenol
+### Bài 22. Ôn tập chương 5
+## Chương 6. Hợp chất carbonyl – Carboxylic acid
+### Bài 23. Hợp chất carbonyl
+### Bài 24. Carboxylic acid
+### Bài 25. Ôn tập chương 6
