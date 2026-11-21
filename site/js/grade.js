@@ -34,9 +34,11 @@
   function maxPoints(q) {
     if (q.t === 'tf') return 1;
     if (q.t === 'sa') return q.s === 'toan' ? 0.5 : 0.25;
+    if (q.t === 'match') return 0.5;
     return 0.25;
   }
-  /* given: mc → số thứ tự đáp án; tf → mảng 4 phần tử true/false/null; sa → chuỗi */
+  /* given: mc → số thứ tự đáp án; tf → mảng 4 phần tử true/false/null; sa → chuỗi;
+     ord → mảng chỉ số các mục theo thứ tự em xếp; match → mảng: vế trái k nối với vế phải số given[k] */
   function gradeOne(q, given) {
     var max = maxPoints(q), pts = 0, ok = false, nRight = 0, answered = false;
     if (q.t === 'mc') {
@@ -51,6 +53,19 @@
       }
       pts = TF_SCALE[nRight];
       ok = nRight === 4;
+    } else if (q.t === 'ord') {
+      var seq = Array.isArray(given) ? given : [];
+      answered = seq.length > 0;
+      ok = seq.length === q.o.length && seq.every(function (v, k) { return Number(v) === k || q.o[Number(v)] === q.o[k]; });
+      pts = ok ? max : 0;
+    } else if (q.t === 'match') {
+      var mm = Array.isArray(given) ? given : [];
+      for (var j = 0; j < q.o.length; j++) {
+        if (mm[j] !== undefined && mm[j] !== null && mm[j] !== '') answered = true;
+        if (Number(mm[j]) === j || (mm[j] !== null && mm[j] !== undefined && q.r[Number(mm[j])] === q.r[j])) nRight++;
+      }
+      ok = nRight === q.o.length;
+      pts = Math.round(max * nRight / Math.max(1, q.o.length) * 100) / 100;
     } else {
       answered = given !== undefined && given !== null && String(given).trim() !== '';
       ok = shortOk(given, q.a || []);

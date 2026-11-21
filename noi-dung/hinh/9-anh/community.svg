@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="497.16pt" height="279.032727pt" viewBox="0 0 497.16 279.032727" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T07:47:12.804268</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 279.032727 
+L 497.16 279.032727 
+L 497.16 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 188.595 79.531364 
+L 248.58 138.153068 
+" clip-path="url(#pb2ce0a6ad2)" style="fill: none; stroke: #2f6fde; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 308.565 79.531364 
+L 248.58 138.153068 
+" clip-path="url(#pb2ce0a6ad2)" style="fill: none; stroke: #c93a58; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 188.595 199.501364 
+L 248.58 138.153068 
+" clip-path="url(#pb2ce0a6ad2)" style="fill: none; stroke: #bd7a12; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 308.565 199.501364 
+L 248.58 138.153068 
+" clip-path="url(#pb2ce0a6ad2)" style="fill: none; stroke: #55891b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 14.6385 79.531364 
+L 185.323091 79.531364 
+Q 188.595 79.531364 188.595 76.259455 
+L 188.595 25.544864 
+Q 188.595 22.272955 185.323091 22.272955 
+L 14.6385 22.272955 
+Q 11.366591 22.272955 11.366591 25.544864 
+L 11.366591 76.259455 
+Q 11.366591 79.531364 14.6385 79.531364 
+z
+" clip-path="url(#pb2ce0a6ad2)" style="fill: #e3eefc; stroke: #2f6fde; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 311.836909 79.531364 
+L 482.5215 79.531364 
+Q 485.793409 79.531364 485.793409 76.259455 
+L 485.793409 25.544864 
+Q 485.793409 22.272955 482.5215 22.272955 
+L 311.836909 22.272955 
+Q 308.565 22.272955 308.565 25.544864 
+L 308.565 76.259455 
+Q 308.565 79.531364 311.836909 79.531364 
+z
+" clip-path="url(#pb2ce0a6ad2)" style="fill: #fde9ec; stroke: #c93a58; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.6385 256.759773 
+L 185.323091 256.759773 
+Q 188.595 256.759773 188.595 253.487864 
+L 188.595 202.773273 
+Q 188.595 199.501364 185.323091 199.501364 
+L 14.6385 199.501364 
+Q 11.366591 199.501364 11.366591 202.773273 
+L 11.366591 253.487864 
+Q 11.366591 256.759773 14.6385 256.759773 
+z
+" clip-path="url(#pb2ce0a6ad2)" style="fill: #fdf0dc; stroke: #bd7a12; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 311.836909 256.759773 
+L 482.5215 256.759773 
+Q 485.793409 256.759773 485.793409 253.487864 
+L 485.793409 202.773273 
+Q 485.793409 199.501364 482.5215 199.501364 
+L 311.836909 199.501364 
+Q 308.565 199.501364 308.565 202.773273 
+L 308.565 253.487864 
+Q 308.565 256.759773 311.836909 256.759773 
+z
+" clip-path="url(#pb2ce0a6ad2)" style="fill: #e8f4dc; stroke: #55891b; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 170.054182 155.875909 
+L 327.105818 155.875909 
+Q 330.377727 155.875909 330.377727 152.604 
+L 330.377727 123.702136 
+Q 330.377727 120.430227 327.105818 120.430227 
+L 170.054182 120.430227 
+Q 166.782273 120.430227 166.782273 123.702136 
+L 166.782273 152.604 
+Q 166.782273 155.875909 170.054182 155.875909 
+z
+" clip-path="url(#pb2ce0a6ad2)" style="fill: #1f5640; stroke: #1f5640; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="99.980795" y="35.905909" transform="rotate(-0 99.980795 35.905909)">Facilities</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'" transform="translate(49.874139 54.673151)">library · sports centre</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'" transform="translate(36.487952 68.623151)">community centre · market</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="397.179205" y="35.905909" transform="rotate(-0 397.179205 35.905909)">Community helpers</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'" transform="translate(339.775681 54.673151)">firefighter · police officer</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'" transform="translate(315.865236 68.623151)">delivery person · garbage collector</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #bd7a12" x="99.980795" y="213.134318" transform="rotate(-0 99.980795 213.134318)">Handicrafts</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'" transform="translate(18.68717 231.90156)">pottery · lacquerware · embroidery</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'" transform="translate(22.117999 245.85156)">conical hat · artisan · craft village</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #55891b" x="397.179205" y="213.134318" transform="rotate(-0 397.179205 213.134318)">Phrasal verbs</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'" transform="translate(321.655212 231.90156)">pass down · set up · look around</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'" transform="translate(316.814126 246.752497)">take care of · find out · close down</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="248.58" y="141.400138" transform="rotate(-0 248.58 141.400138)">LOCAL COMMUNITY</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb2ce0a6ad2">
+   <rect x="8.64" y="8.64" width="479.88" height="261.752727"/>
+  </clipPath>
+ </defs>
+</svg>

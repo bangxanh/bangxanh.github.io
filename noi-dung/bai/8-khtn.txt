@@ -4,6 +4,76 @@
 ### Bài 1. Sử dụng một số hóa chất, thiết bị cơ bản trong phòng thí nghiệm
 ## Chương I. Phản ứng hóa học
 ### Bài 2. Phản ứng hóa học
+> Sắt bị gỉ, gas cháy, thức ăn bị chua… đều là phản ứng hóa học: các nguyên tử sắp xếp lại để tạo thành chất mới.
+MT: Phân biệt được biến đổi vật lí và biến đổi hóa học.
+MT: Nêu được khái niệm phản ứng hóa học, chất phản ứng, sản phẩm; mô tả được diễn biến của phản ứng.
+MT: Nêu được dấu hiệu nhận biết phản ứng; phân biệt phản ứng tỏa nhiệt và thu nhiệt.
+LT: 1. Biến đổi vật lí và biến đổi hóa học
+- **Biến đổi vật lí**: chất thay đổi trạng thái, hình dạng nhưng **không tạo thành chất mới** (nước đá tan, cắt giấy, hòa tan đường).
+- **Biến đổi hóa học**: có **chất mới tạo thành** (đốt cháy than, sắt bị gỉ, cơm bị thiu).
+LT: 2. Phản ứng hóa học và diễn biến
+- **Phản ứng hóa học** là quá trình biến đổi từ chất này thành chất khác. Chất ban đầu là **chất phản ứng**, chất mới là **sản phẩm**.
+- Ghi bằng sơ đồ chữ: hydrogen + oxygen → nước.
+- Trong phản ứng, **liên kết giữa các nguyên tử thay đổi** làm phân tử này biến thành phân tử khác; số nguyên tử mỗi nguyên tố được giữ nguyên.
+HINH: 8-khtn/phan-ung.svg | Phản ứng giữa hydrogen và oxygen: các nguyên tử H và O liên kết lại theo cách khác để tạo phân tử nước; số nguyên tử mỗi loại không đổi.
+LT: 3. Dấu hiệu nhận biết và năng lượng của phản ứng
+- Dấu hiệu có chất mới: thay đổi màu, mùi; tạo **chất khí** (sủi bọt), tạo **kết tủa** (chất rắn không tan); tỏa nhiệt, phát sáng.
+- **Phản ứng tỏa nhiệt**: giải phóng năng lượng dạng nhiệt (đốt cháy nhiên liệu). **Phản ứng thu nhiệt**: nhận năng lượng (nung đá vôi, quang hợp).
+DB: Dạng 1. Phân biệt biến đổi vật lí – biến đổi hóa học
+- Tự hỏi: có chất mới tạo thành không?
+- Chỉ đổi trạng thái, hình dạng, kích thước → vật lí; có chất mới → hóa học.
+DB: Dạng 2. Xác định chất phản ứng, sản phẩm và viết sơ đồ chữ
+- Chất có lúc đầu và bị mất đi là chất phản ứng; chất mới sinh ra là sản phẩm.
+- Viết: tên chất phản ứng → tên sản phẩm (nối các chất bằng dấu "+").
+DB: Dạng 3. Nhận biết phản ứng xảy ra qua dấu hiệu
+- Quan sát màu sắc, khí thoát ra, kết tủa, nhiệt, ánh sáng.
+- Kết luận phản ứng có xảy ra và tỏa hay thu nhiệt.
+VD: Trong các quá trình sau, quá trình nào là biến đổi hóa học: (1) cồn để trong lọ hở bị bay hơi; (2) đốt cháy cồn; (3) dây sắt bị cắt nhỏ; (4) dây sắt để ngoài trời bị gỉ?
+B: (1) cồn chỉ chuyển từ lỏng sang hơi – vật lí; (3) sắt chỉ đổi hình dạng – vật lí.
+B: (2) cồn cháy tạo khí carbon dioxide và hơi nước – có chất mới; (4) gỉ sắt là chất mới.
+KQ: Biến đổi hóa học: (2) và (4).
+VD: Nhỏ giấm vào đá vôi thấy sủi bọt khí. Viết sơ đồ chữ biết sản phẩm là calcium acetate, nước và khí carbon dioxide.
+B: Chất phản ứng: calcium carbonate (đá vôi) và acetic acid (có trong giấm).
+B: Sản phẩm: calcium acetate, nước, carbon dioxide.
+KQ: calcium carbonate + acetic acid → calcium acetate + nước + carbon dioxide (dấu hiệu: sủi bọt khí).
+GN: Hòa tan, nóng chảy, bay hơi… là biến đổi vật lí vì không tạo chất mới.
+GN: Trong phản ứng hóa học, nguyên tử không mất đi mà chỉ liên kết lại theo cách khác.
+GN: Một dấu hiệu có thể không đủ kết luận (nước sôi cũng sủi bọt nhưng là biến đổi vật lí) – phải xét có chất mới hay không.
+Q: mc | Hiện tượng nào sau đây là biến đổi hóa học?
+A) Nước đá tan thành nước lỏng
+B) Hòa tan muối ăn vào nước
+C) Đốt cháy tờ giấy *
+D) Cắt nhỏ quả táo
+E: Giấy cháy tạo thành chất mới (khí carbon dioxide, hơi nước, tro). Các hiện tượng còn lại không tạo chất mới.
+Q: mc | Trong phản ứng giữa hydrogen và oxygen tạo thành nước, điều gì thay đổi?
+A) Số nguyên tử hydrogen
+B) Số nguyên tử oxygen
+C) Liên kết giữa các nguyên tử *
+D) Khối lượng mỗi nguyên tử
+E: Trong phản ứng, liên kết giữa các nguyên tử thay đổi; số nguyên tử và khối lượng mỗi nguyên tử giữ nguyên.
+Q: tf | Khi nung nóng đá vôi (calcium carbonate) thu được vôi sống (calcium oxide) và khí carbon dioxide; phản ứng cần cung cấp nhiệt liên tục.
+a) Đá vôi là chất phản ứng. | Đ
+b) Khí carbon dioxide là sản phẩm. | Đ
+c) Đây là phản ứng tỏa nhiệt. | S
+d) Đây là biến đổi vật lí vì chỉ cần đun nóng. | S
+E: Đá vôi biến thành hai chất mới nên là biến đổi hóa học; phản ứng cần cung cấp nhiệt liên tục nên là phản ứng thu nhiệt.
+Q: sa | Phân tử nước có 2 nguyên tử H và 1 nguyên tử O. Khi tạo thành 2 phân tử nước thì cần tổng cộng bao nhiêu nguyên tử hydrogen?
+ANS: 4
+E: Mỗi phân tử nước có 2 nguyên tử H ⇒ 2 phân tử cần 4 nguyên tử H (từ 2 phân tử H₂).
+Q: match | Nối mỗi thí nghiệm với dấu hiệu cho biết có phản ứng hóa học xảy ra:
+1) Nhỏ giấm vào đá vôi | Sủi bọt khí
+2) Đốt cồn trong đĩa sứ | Tỏa nhiệt và phát sáng
+3) Để đinh sắt ngoài trời ẩm lâu ngày | Xuất hiện lớp gỉ màu nâu đỏ
+4) Thổi hơi thở vào nước vôi trong | Nước vôi trong vẩn đục do tạo chất rắn không tan
+E: Mỗi dấu hiệu (khí, nhiệt – ánh sáng, đổi màu, kết tủa) đều cho thấy có chất mới tạo thành.
+TL: Khi đốt nến, nến vừa chảy lỏng vừa cháy. Hãy chỉ ra giai đoạn nào là biến đổi vật lí, giai đoạn nào là biến đổi hóa học và giải thích.
+MAU: Nến (paraffin) rắn nóng chảy thành lỏng, lỏng chuyển thành hơi: biến đổi vật lí vì không tạo chất mới.
+MAU: Hơi paraffin cháy trong oxygen tạo khí carbon dioxide và hơi nước, tỏa nhiệt và phát sáng: biến đổi hóa học vì có chất mới.
+MAU: Như vậy khi đốt nến xảy ra đồng thời cả hai loại biến đổi.
+TC: Chỉ đúng giai đoạn biến đổi vật lí và giải thích | 1
+TC: Chỉ đúng giai đoạn biến đổi hóa học, nêu sản phẩm | 1
+TC: Kết luận đầy đủ | 1
+
 ### Bài 3. Mol và tỉ khối chất khí
 ### Bài 4. Dung dịch và nồng độ
 ### Bài 5. Định luật bảo toàn khối lượng và phương trình hóa học

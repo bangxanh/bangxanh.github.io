@@ -49,6 +49,12 @@ function parseFile(file) {
       if (q.o.length !== 4) errors.push(at + ' – câu Đúng/Sai cần đúng 4 ý a) b) c) d), hiện có ' + q.o.length);
     } else if (q.t === 'sa') {
       if (!q.a.length) errors.push(at + ' – câu trả lời ngắn thiếu dòng ANS:');
+    } else if (q.t === 'ord') {
+      if (q.o.length < 3) errors.push(at + ' – câu sắp xếp cần ít nhất 3 mục "1) …" viết theo ĐÚNG thứ tự');
+      delete q.r;
+    } else if (q.t === 'match') {
+      if (q.o.length < 3) errors.push(at + ' – câu nối cột cần ít nhất 3 cặp "1) vế trái | vế phải"');
+      if (q.r.length !== q.o.length || q.r.some((x) => !x)) errors.push(at + ' – mỗi dòng nối cột phải có dạng "1) vế trái | vế phải"');
     }
     delete q._at;
     q = null;
@@ -70,7 +76,7 @@ function parseFile(file) {
       if (!unit) { unit = { t: 'Nội dung', lessons: [] }; book.units.push(unit); }
       const full = t.slice(4).trim();
       const mm = full.match(/^((?:Bài|Unit|Chủ đề|Tiết|Lesson|Review|Ôn tập)\s*[\dA-Za-z]*)\s*[.:–-]?\s*(.*)$/i);
-      les = { n: mm && mm[2] ? mm[1].trim() : '', t: mm && mm[2] ? mm[2].trim() : full, intro: '', goals: [], theory: [], examples: [], notes: [], qs: [], essays: [] };
+      les = { n: mm && mm[2] ? mm[1].trim() : '', t: mm && mm[2] ? mm[2].trim() : full, intro: '', goals: [], theory: [], types: [], examples: [], notes: [], qs: [], essays: [] };
       unit.lessons.push(les); mode = ''; sec = null; ex = null; essay = null;
       return;
     }
@@ -94,21 +100,23 @@ function parseFile(file) {
       else (les.figs = les.figs || []).push(fig);
       return;
     }
-    if ((m = t.match(/^(MT|LT|VD|B|KQ|GN|Q|E|ANS|TL|MAU|TC):\s*(.*)$/))) {
+    if ((m = t.match(/^(MT|LT|DB|VD|B|KQ|GN|Q|E|ANS|TL|MAU|TC):\s*(.*)$/))) {
       const tag = m[1], val = m[2];
       if (!needLesson(i, tag)) return;
       if (tag !== 'E' && tag !== 'ANS' && q) closeQ();
       if (tag === 'MT') { les.goals.push(br(val)); mode = ''; }
       else if (tag === 'LT') { sec = { h: br(val), pts: [] }; les.theory.push(sec); mode = 'lt'; }
+      else if (tag === 'DB') { const pp = val.split('|'); sec = { h: br(pp[0].trim()), pts: pp[1] ? [br(pp.slice(1).join('|').trim())] : [] }; les.types.push(sec); mode = 'db'; }
       else if (tag === 'VD') { ex = { q: br(val), steps: [], ans: '' }; les.examples.push(ex); mode = 'vd'; }
       else if (tag === 'B') { if (!ex) errors.push(where(i) + ' – dòng B: phải nằm sau một dòng VD:'); else ex.steps.push(br(val)); }
       else if (tag === 'KQ') { if (!ex) errors.push(where(i) + ' – dòng KQ: phải nằm sau một dòng VD:'); else ex.ans = br(val); }
       else if (tag === 'GN') { les.notes.push(br(val)); mode = ''; }
       else if (tag === 'Q') {
-        const qm = val.match(/^(mc|tf|sa)\s*\|\s*(.+)$/i);
-        if (!qm) { errors.push(where(i) + ' – câu hỏi phải có dạng "Q: mc | nội dung" (mc, tf hoặc sa)'); return; }
+        const qm = val.match(/^(mc|tf|sa|ord|match)\s*\|\s*(.+)$/i);
+        if (!qm) { errors.push(where(i) + ' – câu hỏi phải có dạng "Q: mc | nội dung" (mc, tf, sa, ord hoặc match)'); return; }
         const type = qm[1].toLowerCase();
         q = { t: type, q: br(qm[2]), o: [], a: type === 'mc' ? -1 : [], e: '', _at: where(i) };
+        if (type === 'match') q.r = [];
         les.qs.push(q); mode = 'q';
       } else if (tag === 'E') {
         if (!q) { errors.push(where(i) + ' – dòng E: (lời giải) phải nằm sau một câu hỏi'); return; }
@@ -137,6 +145,12 @@ function parseFile(file) {
       q.a.push(/^(Đ|D|Đúng|T)$/i.test(m[3]));
       return;
     }
+    if (q && (q.t === 'ord' || q.t === 'match') && (m = t.match(/^(\d+)[).]\s*(.+)$/))) {
+      if (q.t === 'ord') q.o.push(br(m[2].trim()));
+      else { const pr = m[2].split('|'); q.o.push(br(pr[0].trim())); q.r.push(pr[1] ? br(pr.slice(1).join('|').trim()) : ''); }
+      return;
+    }
+    if (t.startsWith('- ') && mode === 'db' && sec) { sec.pts.push(br(t.slice(2))); return; }
     if (t.startsWith('- ')) {
       if (!les) { if (unit) { unit.pts = unit.pts || []; unit.pts.push(br(t.slice(2))); } return; }
       if (mode !== 'lt' || !sec) { sec = { h: 'Kiến thức cần nhớ', pts: [] }; les.theory.push(sec); mode = 'lt'; }
@@ -184,6 +198,7 @@ function bestUnit(chTitle, units) {
   return bestScore >= 1 ? best : -1;
 }
 function lessonReady(l) { return !!(l.theory.length || l.examples.length || l.qs.length); }
+/* Các dạng câu hỏi: mc, tf, sa dùng chung với ngân hàng đề; ord (sắp xếp) và match (nối cột) chỉ dùng trong trang bài học. */
 
 const parsed = {};
 if (fs.existsSync(SRC)) {

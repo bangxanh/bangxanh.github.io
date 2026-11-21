@@ -1,13 +1,17 @@
 /* Bảng Xanh – máy chủ trung gian cho Trợ lý AI (Cloudflare Worker, gói miễn phí).
-   - Giữ kín khóa API Claude (biến bí mật ANTHROPIC_API_KEY), trang web không bao giờ thấy khóa.
+   - Mặc định dùng mô hình AI miễn phí của Cloudflare Workers AI (biến liên kết AI, không cần khóa).
+   - Nếu có biến bí mật ANTHROPIC_API_KEY thì dùng Claude (chất lượng tốt hơn); trang web không bao giờ thấy khóa.
    - Chỉ nhận yêu cầu từ trang của mình (ALLOWED_ORIGINS).
    - Giới hạn số câu hỏi mỗi địa chỉ IP (mặc định 30 câu/giờ) để tránh bị lạm dụng.
    - Lời dặn hệ thống an toàn cho học sinh: chỉ hỗ trợ học tập, ngôn ngữ phù hợp lứa tuổi,
      không hỏi/lưu thông tin cá nhân, luôn nói rõ mình là AI.
    - Không lưu nội dung trò chuyện.
-   Biến môi trường (Settings → Variables): ANTHROPIC_API_KEY (bí mật, bắt buộc),
-   ALLOWED_ORIGINS (mặc định https://bangxanh.github.io), MODEL (mặc định claude-haiku-5-5),
-   RATE_PER_HOUR (mặc định 30). */
+   Cấu hình (Settings → Bindings / Variables):
+     AI               liên kết Workers AI (bắt buộc nếu không dùng Claude)
+     ANTHROPIC_API_KEY (bí mật, tùy chọn) – có thì dùng Claude, MODEL mặc định claude-haiku-5-5
+     CF_MODEL         mô hình Workers AI, mặc định @cf/google/gemma-4-26b-a4b-it
+     ALLOWED_ORIGINS  mặc định https://bangxanh.github.io
+     RATE_PER_HOUR    mặc định 30 */
 
 const SAFETY = `Bạn là "Trợ lý AI Bảng Xanh", trợ lý học tập của trang học miễn phí Bảng Xanh dành cho học sinh Việt Nam từ lớp 1 đến lớp 12 (chương trình GDPT 2018, sách Kết nối tri thức với cuộc sống). Người dùng có thể là trẻ em và thanh thiếu niên.
 
@@ -63,7 +67,7 @@ export default {
     if (request.method === 'GET' && url.pathname === '/') return json({ ok: true, service: 'Bảng Xanh AI' }, 200, h);
     if (request.method !== 'POST' || url.pathname !== '/ask') return json({ error: 'Không tìm thấy.' }, 404, h);
     if (!allowed.includes(origin)) return json({ error: 'Trang này không được phép dùng trợ lý.' }, 403, h);
-    if (!env.ANTHROPIC_API_KEY) return json({ error: 'Trợ lý AI chưa được cấu hình.' }, 503, h);
+    if (!env.ANTHROPIC_API_KEY && !env.AI) return json({ error: 'Trợ lý AI chưa được cấu hình.' }, 503, h);
     const ip = request.headers.get('CF-Connecting-IP') || 'x';
     if (limited(ip, Number(env.RATE_PER_HOUR || 30))) return json({ error: 'Em đã hỏi nhiều quá, nghỉ một lát (khoảng 1 giờ) rồi hỏi tiếp nhé.' }, 429, h);
 
@@ -87,17 +91,36 @@ export default {
       if (!messages.length) return json({ error: 'Em chưa nhập câu hỏi.' }, 400, h);
     }
 
+    const maxTok = mode === 'grade' ? 1400 : 1000;
     try {
-      const r = await fetch('https://api.anthropic.com/v1/messages', {
-        method: 'POST',
-        headers: { 'x-api-key': env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' },
-        body: JSON.stringify({ model: env.MODEL || 'claude-haiku-5-5', max_tokens: mode === 'grade' ? 1200 : 900, system, messages })
+      if (env.ANTHROPIC_API_KEY) {
+        const r = await fetch('https://api.anthropic.com/v1/messages', {
+          method: 'POST',
+          headers: { 'x-api-key': env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' },
+          body: JSON.stringify({ model: env.MODEL || 'claude-haiku-5-5', max_tokens: maxTok, system, messages })
+        });
+        const j = await r.json();
+        if (!r.ok) return json({ error: r.status === 429 ? 'Trợ lý AI đang quá tải, em thử lại sau ít phút.' : 'Trợ lý AI tạm thời gặp lỗi, em thử lại sau.' }, 502, h);
+        const text = (j.content || []).filter((c) => c.type === 'text').map((c) => c.text).join('\n').trim();
+        return json({ text, by: 'claude' }, 200, h);
+      }
+      const model = env.CF_MODEL || '@cf/google/gemma-4-26b-a4b-it';
+      const out = await env.AI.run(model, {
+        messages: [{ role: 'system', content: system }].concat(messages),
+        max_completion_tokens: maxTok,
+        temperature: 0.4
       });
-      const j = await r.json();
-      if (!r.ok) return json({ error: r.status === 429 ? 'Trợ lý AI đang quá tải, em thử lại sau ít phút.' : 'Trợ lý AI tạm thời gặp lỗi, em thử lại sau.' }, 502, h);
-      const text = (j.content || []).filter((c) => c.type === 'text').map((c) => c.text).join('\n').trim();
-      return json({ text }, 200, h);
+      let text = '';
+      if (out && Array.isArray(out.choices) && out.choices[0]) {
+        const m = out.choices[0].message || {};
+        text = typeof m.content === 'string' ? m.content : Array.isArray(m.content) ? m.content.map((c) => c.text || '').join('') : '';
+      } else if (out && typeof out.response === 'string') text = out.response;
+      text = text.replace(/<think>[\s\S]*?<\/think>/g, '').trim();
+      if (!text) return json({ error: 'Trợ lý AI chưa trả lời được, em hỏi lại theo cách khác nhé.' }, 502, h);
+      return json({ text, by: 'workers-ai' }, 200, h);
     } catch (e) {
+      const msg = String(e && e.message || e);
+      if (/limit|quota|neuron|429|capacity/i.test(msg)) return json({ error: 'Hôm nay trợ lý AI đã dùng hết lượt miễn phí, em quay lại vào ngày mai nhé.' }, 429, h);
       return json({ error: 'Không kết nối được tới trợ lý AI.' }, 502, h);
     }
   }

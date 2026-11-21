@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="205.776pt" viewBox="0 0 460.8 205.776" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T07:47:12.828985</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 205.776 
+L 460.8 205.776 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 21.730696 113.976 
+Q 230.40156 113.976 437.059964 113.976 
+" clip-path="url(#p211f0622c4)" style="fill: none; stroke: #1b2620; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 430.659964 110.776 
+L 437.059964 113.976 
+L 430.659964 117.176 
+z
+" clip-path="url(#p211f0622c4)" style="fill: #1b2620; stroke: #1b2620; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 305.244 125.064 
+L 393.948 125.064 
+Q 402.264 125.064 402.264 116.748 
+L 402.264 111.204 
+Q 402.264 102.888 393.948 102.888 
+L 305.244 102.888 
+Q 296.928 102.888 296.928 111.204 
+L 296.928 116.748 
+Q 296.928 125.064 305.244 125.064 
+z
+" clip-path="url(#p211f0622c4)" style="fill: #fde9ec; opacity: 0.9; stroke: #c93a58; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 69.624 113.976 
+" clip-path="url(#p211f0622c4)" style="fill: none; stroke: #2f6fde; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="m4307d2f6c6" d="M 0 4.5 
+C 1.193414 4.5 2.338109 4.025852 3.181981 3.181981 
+C 4.025852 2.338109 4.5 1.193414 4.5 0 
+C 4.5 -1.193414 4.025852 -2.338109 3.181981 -3.181981 
+C 2.338109 -4.025852 1.193414 -4.5 0 -4.5 
+C -1.193414 -4.5 -2.338109 -4.025852 -3.181981 -3.181981 
+C -4.025852 -2.338109 -4.5 -1.193414 -4.5 0 
+C -4.5 1.193414 -4.025852 2.338109 -3.181981 3.181981 
+C -2.338109 4.025852 -1.193414 4.5 0 4.5 
+z
+" style="stroke: #2f6fde"/>
+    </defs>
+    <g clip-path="url(#p211f0622c4)">
+     <use xlink:href="#m4307d2f6c6" x="69.624" y="113.976" style="fill: #2f6fde; stroke: #2f6fde"/>
+    </g>
+   </g>
+   <g id="line2d_2">
+    <path d="M 152.784 113.976 
+" clip-path="url(#p211f0622c4)" style="fill: none; stroke: #2f6fde; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p211f0622c4)">
+     <use xlink:href="#m4307d2f6c6" x="152.784" y="113.976" style="fill: #2f6fde; stroke: #2f6fde"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <path d="M 235.944 113.976 
+" clip-path="url(#p211f0622c4)" style="fill: none; stroke: #2f6fde; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p211f0622c4)">
+     <use xlink:href="#m4307d2f6c6" x="235.944" y="113.976" style="fill: #2f6fde; stroke: #2f6fde"/>
+    </g>
+   </g>
+   <g id="line2d_4">
+    <path d="M 319.104 113.976 
+" clip-path="url(#p211f0622c4)" style="fill: none; stroke: #2f6fde; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p211f0622c4)">
+     <use xlink:href="#m4307d2f6c6" x="319.104" y="113.976" style="fill: #2f6fde; stroke: #2f6fde"/>
+    </g>
+   </g>
+   <g id="line2d_5">
+    <path d="M 402.264 113.976 
+" clip-path="url(#p211f0622c4)" style="fill: none; stroke: #2f6fde; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p211f0622c4)">
+     <use xlink:href="#m4307d2f6c6" x="402.264" y="113.976" style="fill: #2f6fde; stroke: #2f6fde"/>
+    </g>
+   </g>
+   <g id="line2d_6">
+    <path d="M 349.596 133.38 
+L 349.596 94.572 
+" clip-path="url(#p211f0622c4)" style="fill: none; stroke: #c93a58; stroke-width: 2.4; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #6b7a72" x="435.528" y="130.608" transform="rotate(-0 435.528 130.608)">time</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="235.944" y="33.588" transform="rotate(-0 235.944 33.588)">Present simple: My mum cooks dinner every day.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fde" x="235.944" y="52.992" transform="rotate(-0 235.944 52.992)">lặp lại đều đặn – thói quen (every day, usually, often…)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="349.596" y="116.833422" transform="rotate(-0 349.596 116.833422)">now</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="235.944" y="158.328" transform="rotate(-0 235.944 158.328)">Present continuous: Look! Dad is cooking dinner now.</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c93a58" x="235.944" y="177.732" transform="rotate(-0 235.944 177.732)">đang diễn ra lúc nói (now, at the moment, Look!, Listen!)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p211f0622c4">
+   <rect x="8.64" y="8.64" width="443.52" height="188.496"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -3,7 +3,7 @@
   'use strict';
   var U = window.UI, App = window.App, esc = U.esc, fmt = U.fmt, icon = U.icon;
   var TYPE_LABEL = { mc: 'Trắc nghiệm nhiều lựa chọn', tf: 'Trắc nghiệm Đúng/Sai', sa: 'Trả lời ngắn' };
-  var TYPE_SHORT = { mc: 'Nhiều lựa chọn', tf: 'Đúng/Sai', sa: 'Trả lời ngắn' };
+  var TYPE_SHORT = { mc: 'Nhiều lựa chọn', tf: 'Đúng/Sai', sa: 'Trả lời ngắn', ord: 'Sắp xếp', match: 'Nối cột' };
   var LETTERS = ['A', 'B', 'C', 'D'];
   App.TYPE_LABEL = TYPE_LABEL; App.TYPE_SHORT = TYPE_SHORT;
 

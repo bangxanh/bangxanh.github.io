@@ -680,21 +680,46 @@ b.good{color:var(--good)} b.bad{color:var(--bad)} b.fair{color:var(--fair)}
   .p-break{break-before:page}
   a{color:inherit;text-decoration:none}
 }
+/* Dạng bài: sắp xếp, nối cột, các dạng bài tập */
+.ord-line{display:flex;flex-wrap:wrap;gap:6px;min-height:44px;padding:8px;border:1.5px dashed var(--line);border-radius:12px;margin:6px 0 10px;background:var(--surface-2)}
+.ord-line.right{border-color:var(--good);border-style:solid} .ord-line.wrong{border-color:var(--bad);border-style:solid}
+.ord-ph{color:var(--muted);font-size:.9rem;align-self:center}
+.ord-pool{display:flex;flex-wrap:wrap;gap:8px}
+.chip-btn{font:inherit;padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer;position:relative}
+.chip-btn:hover{border-color:var(--c,var(--good))} .chip-btn.on{opacity:.45} .chip-btn:disabled{cursor:default}
+.chip-btn.on::after{content:attr(data-pos);position:absolute;top:-8px;right:-6px;background:var(--c,var(--good));color:#fff;border-radius:999px;font-size:.7rem;min-width:18px;height:18px;display:grid;place-items:center;padding:0 4px}
+.ord-it{display:inline-flex;align-items:center;gap:6px;padding:5px 10px;border-radius:999px;background:var(--surface);border:1px solid var(--line);margin:2px}
+.ord-it small{background:color-mix(in srgb,var(--c,var(--good)) 18%,transparent);border-radius:999px;padding:0 6px;font-weight:600}
+.ord-key{margin-top:6px}
+.match{display:flex;flex-direction:column;gap:8px}
+.m-row{display:grid;grid-template-columns:1fr minmax(160px,46%);gap:10px;align-items:center;padding:8px 10px;border:1px solid var(--line);border-radius:12px}
+.m-row.right{border-color:var(--good);background:color-mix(in srgb,var(--good) 7%,transparent)} .m-row.wrong{border-color:var(--bad);background:color-mix(in srgb,var(--bad) 6%,transparent)}
+.m-row .tf-res{grid-column:1/-1}
+@media (max-width:640px){.m-row{grid-template-columns:1fr}}
+.types{display:flex;flex-direction:column;gap:8px}
+.dtype{border:1px solid var(--line);border-radius:12px;padding:10px 14px;background:var(--surface)}
+.dtype[open]{border-color:color-mix(in srgb,var(--c,var(--good)) 45%,var(--line))}
+.dtype summary{cursor:pointer;font-weight:600;display:flex;gap:10px;align-items:center;list-style:none}
+.dtype summary::-webkit-details-marker{display:none}
+.dt-no{flex:none;width:26px;height:26px;border-radius:8px;display:grid;place-items:center;background:color-mix(in srgb,var(--c,var(--good)) 16%,transparent);color:var(--c,var(--good));font-size:.85rem}
+.dtype .steps{margin:8px 0 2px}
+.p-chip{display:inline-block;border:1px solid #999;border-radius:12px;padding:1px 8px;margin:2px}
+
 </style>
 </head>
 <body>
 <div id="app"><div class="boot">Đang tải trang học tập…</div></div>
 <noscript><div class="page"><h1>Bảng Xanh – Học tập miễn phí lớp 1 – 12</h1><p>Trang cần bật JavaScript để làm trắc nghiệm. Bạn vẫn có thể đọc kiến thức trọng tâm theo từng lớp, từng môn tại <a href="hoc/">mục lục học liệu</a>.</p></div></noscript>
-<script src="config.js?v=1.2.1"></script>
-<script src="data/content.js?v=1.2.1"></script>
-<script src="js/grade.js?v=1.2.1"></script>
-<script src="js/ui.js?v=1.2.1"></script>
-<script src="js/store.js?v=1.2.1"></script>
-<script src="js/app.js?v=1.2.1"></script>
-<script src="js/quiz.js?v=1.2.1"></script>
-<script src="js/tools.js?v=1.2.1"></script>
-<script src="js/admin.js?v=1.2.1"></script>
-<script src="js/lessons.js?v=1.2.1"></script>
-<script src="js/ai.js?v=1.2.1"></script>
+<script src="config.js?v=1.3.0"></script>
+<script src="data/content.js?v=1.3.0"></script>
+<script src="js/grade.js?v=1.3.0"></script>
+<script src="js/ui.js?v=1.3.0"></script>
+<script src="js/store.js?v=1.3.0"></script>
+<script src="js/app.js?v=1.3.0"></script>
+<script src="js/quiz.js?v=1.3.0"></script>
+<script src="js/tools.js?v=1.3.0"></script>
+<script src="js/admin.js?v=1.3.0"></script>
+<script src="js/lessons.js?v=1.3.0"></script>
+<script src="js/ai.js?v=1.3.0"></script>
 </body>
 </html>

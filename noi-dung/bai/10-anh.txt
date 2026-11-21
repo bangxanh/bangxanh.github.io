@@ -2,6 +2,88 @@
 # 10 | anh | Tiếng Anh 10 (Global Success)
 ## Units 1–5
 ### Unit 1. Family Life
+> Chia sẻ việc nhà – chuyện nhỏ mà gắn kết cả gia đình. Unit 1 giúp em nói về việc nhà và phân biệt thì hiện tại đơn với hiện tại tiếp diễn.
+MT: Dùng được từ vựng về việc nhà và vai trò trong gia đình.
+MT: Phân biệt và dùng đúng thì hiện tại đơn và hiện tại tiếp diễn.
+MT: Phát âm đúng các cụm phụ âm /br/, /kr/, /tr/.
+LT: 1. Vocabulary
+- Household chores: **do the laundry** (giặt quần áo), **do the washing-up** (rửa bát), **put out the rubbish** (đổ rác), **shop for groceries** (mua thực phẩm), **do the heavy lifting** (làm việc nặng), **clean the house**.
+- Family roles: **breadwinner** (trụ cột kiếm tiền), **homemaker** (người nội trợ); **share the housework** (chia sẻ việc nhà); **benefit** (lợi ích); **strengthen family bonds** (gắn kết gia đình).
+LT: 2. Present simple vs present continuous
+- **Present simple** (S + V/V-s): thói quen, sự thật, lịch trình. My mother **cooks** dinner every day.
+- **Present continuous** (S + am/is/are + V-ing): hành động **đang diễn ra** lúc nói hoặc quanh thời điểm hiện tại. Look! Dad **is cooking** dinner now.
+- Dấu hiệu: every day, usually, often, always, on Sundays (hiện tại đơn) – now, at the moment, right now, Look!, Listen!, these days (hiện tại tiếp diễn).
+- Động từ chỉ trạng thái (like, love, want, know, need, believe) thường không chia tiếp diễn.
+HINH: 10-anh/present-tenses.svg | Hiện tại đơn – thói quen lặp lại mỗi ngày; hiện tại tiếp diễn – việc đang diễn ra ngay lúc nói.
+LT: 3. Pronunciation: /br/, /kr/, /tr/
+- /br/: **br**eadwinner, **br**other, **br**eakfast · /kr/: **cr**eate, in**cr**ease, **cr**ash · /tr/: **tr**ash, **tr**ee, ex**tr**a.
+DB: Dạng 1. Chia động từ: hiện tại đơn hay hiện tại tiếp diễn
+- Tìm dấu hiệu thời gian trong câu.
+- Thói quen, sự thật → hiện tại đơn; đang diễn ra → hiện tại tiếp diễn.
+- Kiểm tra động từ chỉ trạng thái và chủ ngữ ngôi thứ ba số ít.
+DB: Dạng 2. Từ vựng – cụm từ cố định về việc nhà
+- Học theo cụm: do the laundry / do the washing-up / put out the rubbish / shop for groceries.
+- Chú ý động từ đi kèm (do, put out, shop for) thường bị hỏi.
+DB: Dạng 3. Phát âm cụm phụ âm
+- Đọc to từng từ, tách âm đầu: /b/ + /r/, /k/ + /r/, /t/ + /r/.
+- Lưu ý chữ "c" có thể đọc /k/ (create) hoặc /s/ (city).
+VD: Choose the correct form: "Look! My brother (does / is doing) the washing-up."
+B: "Look!" cho biết hành động đang diễn ra ngay lúc nói.
+B: Dùng hiện tại tiếp diễn: is + V-ing.
+KQ: Look! My brother **is doing** the washing-up.
+VD: Complete: "My dad usually ______ (do) the heavy lifting, but this week he ______ (work) abroad."
+B: "usually" → thói quen → hiện tại đơn, chủ ngữ số ít: does.
+B: "this week" → việc tạm thời quanh hiện tại → hiện tại tiếp diễn: is working.
+KQ: My dad usually **does** the heavy lifting, but this week he **is working** abroad.
+GN: Hiện tại đơn ngôi thứ ba số ít: do → does, have → has, go → goes.
+GN: "these days", "this week" thường đi với hiện tại tiếp diễn (việc tạm thời).
+GN: Không viết "I am liking", "She is knowing".
+Q: mc | Every Sunday, my sister ______ for groceries.
+A) shop
+B) shops *
+C) is shopping
+D) are shopping
+E: "Every Sunday" → thói quen → hiện tại đơn; chủ ngữ số ít ⇒ shops.
+Q: mc | Which word has the underlined part pronounced /kr/? (phần đầu từ)
+A) create *
+B) city
+C) chore
+D) cheap
+E: create /kriˈeɪt/ bắt đầu bằng /kr/. city /s/, chore và cheap /tʃ/.
+Q: tf | Đúng hay sai?
+a) "Listen! Somebody is knocking at the door." đúng ngữ pháp. | Đ
+b) "I am needing your help now." đúng ngữ pháp. | S
+c) "breadwinner" là người kiếm tiền chính trong gia đình. | Đ
+d) "do the washing-up" nghĩa là giặt quần áo. | S
+E: need là động từ trạng thái → I need your help now. do the washing-up = rửa bát; giặt quần áo là do the laundry.
+Q: sa | Write the correct form: "My mother ______ (cook) dinner at the moment."
+ANS: is cooking || 's cooking
+E: "at the moment" → hiện tại tiếp diễn; chủ ngữ số ít ⇒ is cooking.
+Q: match | Match the chores with their meanings:
+1) do the laundry | giặt quần áo
+2) put out the rubbish | đổ rác
+3) shop for groceries | đi mua thực phẩm
+4) do the washing-up | rửa bát
+E: Học thuộc theo cụm vì động từ đi kèm cố định.
+Q: ord | Put the words in the correct order:
+1) Everyone
+2) in
+3) my
+4) family
+5) shares
+6) the
+7) housework.
+E: Everyone in my family shares the housework. – Everyone đi với động từ số ít (shares).
+TL: Write a paragraph (100–120 words) about how your family members share the housework and the benefits of doing so.
+MAU: In my family, everyone shares the housework.
+MAU: My father usually does the heavy lifting and repairs things around the house.
+MAU: My mother cooks and shops for groceries, while my brother puts out the rubbish every evening.
+MAU: I do the washing-up after dinner and clean my room at weekends. This week I am also helping my mother with the laundry because she is very busy.
+MAU: Sharing the housework teaches us responsibility and strengthens family bonds.
+TC: Đúng chủ đề, nêu được ai làm việc gì và lợi ích | 1
+TC: Dùng đúng hiện tại đơn và hiện tại tiếp diễn | 1
+TC: Dùng từ vựng về việc nhà; đúng chính tả, ngữ pháp | 1
+
 ### Unit 2. Humans and the Environment
 ### Unit 3. Music
 ### Unit 4. For a Better Community

@@ -2,6 +2,76 @@
 # 4 | anh | Tiếng Anh 4 (Global Success)
 ## Units 1–5: My friends · Time and daily routines · My week · My birthday party · Things we can do
 ### Unit 1. My friends
+> Làm quen bạn mới từ khắp nơi: hỏi bạn đến từ đâu và bạn là người nước nào.
+MT: Hỏi và trả lời về đất nước: Where are you from? – I'm from …
+MT: Hỏi và trả lời về quốc tịch: What nationality are you? – I'm …
+MT: Đọc và viết đúng tên một số nước và quốc tịch.
+LT: 1. Từ vựng (Vocabulary)
+- Đất nước: **Viet Nam**, **America** (Mỹ), **Australia** (Úc), **Japan** (Nhật Bản), **Malaysia**, **Singapore**, **Thailand** (Thái Lan), **Britain** (Anh).
+- Quốc tịch: **Vietnamese**, **American**, **Australian**, **Japanese**, **Malaysian**, **Singaporean**, **Thai**, **British**.
+LT: 2. Mẫu câu (Sentence patterns)
+- Hỏi đất nước: **Where are you from?** – **I'm from** Japan.
+- Hỏi quốc tịch: **What nationality are you?** – **I'm** Japanese.
+- Tên nước và quốc tịch luôn **viết hoa** chữ cái đầu.
+HINH: 4-anh/where-from.svg | Các bạn nhỏ giới thiệu mình đến từ đâu: I'm from Viet Nam – I'm Vietnamese.
+DB: Dạng 1. Chọn câu trả lời đúng cho câu hỏi
+- "Where …?" hỏi nơi chốn → trả lời "I'm from + tên nước".
+- "What nationality …?" hỏi quốc tịch → trả lời "I'm + quốc tịch".
+DB: Dạng 2. Nối tên nước với quốc tịch
+- Ghi nhớ theo cặp: Japan – Japanese, America – American, Thailand – Thai, Britain – British.
+DB: Dạng 3. Sắp xếp từ thành câu
+- Câu hỏi bắt đầu bằng từ để hỏi (Where, What) và kết thúc bằng dấu "?".
+VD: Hoàn thành: A: Where are you from? – B: I'm ______ Australia.
+B: Trả lời câu hỏi "Where are you from?" dùng mẫu "I'm from + tên nước".
+KQ: I'm **from** Australia.
+VD: Tom đến từ nước Mỹ (America). Tom là người nước nào?
+B: America → quốc tịch American.
+KQ: He's **American**.
+GN: Hỏi nước: Where are you from? Hỏi quốc tịch: What nationality are you?
+GN: Tên nước, quốc tịch luôn viết hoa: Japan, Japanese.
+GN: Viet Nam → Vietnamese; Thailand → Thai.
+Q: mc | Where are you from?
+A) I'm Japanese.
+B) I'm from Japan. *
+C) I'm nine.
+D) I'm fine.
+E: Câu hỏi "Where are you from?" trả lời bằng "I'm from + tên nước".
+Q: mc | Akio is from Japan. He is ______.
+A) Japan
+B) American
+C) Japanese *
+D) Thai
+E: Japan → Japanese (người Nhật).
+Q: tf | Đúng hay sai?
+a) "What nationality are you?" hỏi về quốc tịch. | Đ
+b) Người đến từ Thái Lan là "Thai". | Đ
+c) "britain" viết đúng chính tả, không cần viết hoa. | S
+d) "I'm from Vietnamese." là câu đúng. | S
+E: Tên nước viết hoa: Britain. Sau "from" là tên nước: I'm from Viet Nam. / I'm Vietnamese.
+Q: sa | Điền một từ: "I'm from Australia. I'm ______." (quốc tịch)
+ANS: Australian
+E: Australia → Australian (người Úc).
+Q: match | Nối tên nước với quốc tịch:
+1) Viet Nam | Vietnamese
+2) America | American
+3) Britain | British
+4) Thailand | Thai
+E: Ghi nhớ theo cặp tên nước – quốc tịch.
+Q: ord | Sắp xếp các từ thành câu hỏi đúng:
+1) What
+2) nationality
+3) are
+4) you?
+E: What nationality are you? – Bạn là người nước nào?
+TL: Viết 3–4 câu giới thiệu một người bạn nước ngoài (tên, đất nước, quốc tịch).
+MAU: This is my friend Lucy.
+MAU: She is from Britain.
+MAU: She is British.
+MAU: She is nine years old.
+TC: Giới thiệu được tên bạn | 1
+TC: Dùng đúng "from + tên nước" và quốc tịch | 1
+TC: Viết hoa, dấu câu đúng | 1
+
 ### Unit 2. Time and daily routines
 ### Unit 3. My week
 ### Unit 4. My birthday party

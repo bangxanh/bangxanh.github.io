@@ -1,0 +1,93 @@
+// Địa lí 12 – theo chủ đề của chương trình; chủ đề Kĩ năng địa lí học theo DẠNG BÀI. Số liệu trong bài tập là số liệu giả định để luyện kĩ năng.
+# 12 | khxh | Địa lí 12
+## Địa lí tự nhiên Việt Nam
+### Chủ đề. Vị trí địa lí và phạm vi lãnh thổ
+### Chủ đề. Thiên nhiên nhiệt đới ẩm gió mùa
+### Chủ đề. Sự phân hóa đa dạng của thiên nhiên
+## Địa lí dân cư
+### Chủ đề. Dân số, lao động và việc làm
+### Chủ đề. Đô thị hóa
+## Địa lí các ngành kinh tế
+### Chủ đề. Chuyển dịch cơ cấu kinh tế
+### Chủ đề. Nông nghiệp, công nghiệp, dịch vụ
+## Địa lí các vùng kinh tế
+### Chủ đề. Khai thác thế mạnh của các vùng kinh tế
+## Kĩ năng địa lí
+### Chuyên đề 1. Biểu đồ: nhận dạng, vẽ và nhận xét
+> Dạng bài biểu đồ có mặt trong hầu hết đề kiểm tra Địa lí: chọn đúng loại biểu đồ, vẽ chính xác và nhận xét có số liệu.
+MT: Chọn đúng loại biểu đồ dựa vào từ khóa trong đề và đặc điểm bảng số liệu.
+MT: Nắm các bước vẽ và các lỗi trình bày thường gặp.
+MT: Nhận xét biểu đồ theo trình tự: chung → chi tiết → kết luận, có dẫn số liệu.
+LT: 1. Bốn loại biểu đồ thường gặp
+- **Biểu đồ cột**: so sánh độ lớn giữa các đối tượng hoặc qua các năm (sản lượng, diện tích, dân số…).
+- **Biểu đồ đường**: thể hiện **tốc độ tăng trưởng**, sự thay đổi liên tục qua nhiều năm.
+- **Biểu đồ tròn**: thể hiện **cơ cấu** (%) khi có ít mốc thời gian (1 – 3 năm).
+- **Biểu đồ miền**: thể hiện **sự chuyển dịch cơ cấu** qua nhiều năm (từ 4 năm trở lên).
+HINH: 12-khxh/bieu-do.svg | Bốn loại biểu đồ cơ bản và từ khóa nhận dạng: cột – so sánh; đường – tốc độ tăng trưởng; tròn – cơ cấu ít năm; miền – chuyển dịch cơ cấu nhiều năm.
+LT: 2. Công thức xử lí số liệu
+- **Tỉ trọng (%)** = giá trị thành phần : tổng × 100.
+- **Tốc độ tăng trưởng (%)** = giá trị năm sau : giá trị năm gốc × 100 (năm gốc = 100%).
+- **Bình quân đầu người** = tổng giá trị : số dân; **mật độ dân số** = số dân : diện tích (người/km²).
+DB: Dạng 1. Chọn loại biểu đồ thích hợp
+- Gạch chân từ khóa trong đề: "cơ cấu", "chuyển dịch", "tốc độ tăng trưởng", "so sánh"…
+- Đếm số năm và số đối tượng trong bảng số liệu.
+- Đối chiếu: cơ cấu ít năm → tròn; chuyển dịch nhiều năm → miền; tăng trưởng → đường; so sánh quy mô → cột.
+DB: Dạng 2. Xử lí số liệu trước khi vẽ
+- Xác định cần tính gì (tỉ trọng, tốc độ tăng trưởng…).
+- Áp dụng công thức, làm tròn đến một chữ số thập phân; tổng các thành phần phải bằng 100%.
+- Lập bảng số liệu đã xử lí, ghi rõ đơn vị.
+DB: Dạng 3. Nhận xét biểu đồ, bảng số liệu
+- Nhận xét chung: xu hướng tăng, giảm hay biến động.
+- Nhận xét chi tiết: từng đối tượng tăng/giảm bao nhiêu, gấp bao nhiêu lần (luôn dẫn số liệu).
+- So sánh các đối tượng, rút ra kết luận và giải thích ngắn gọn (nếu đề yêu cầu).
+VD: Cơ cấu giá trị sản xuất của một địa phương năm 2024: nông nghiệp 30 tỉ đồng, công nghiệp 50 tỉ đồng, dịch vụ 120 tỉ đồng (số liệu giả định). Tính cơ cấu và chọn biểu đồ thích hợp.
+B: Tổng = 30 + 50 + 120 = 200 tỉ đồng.
+B: Tỉ trọng: nông nghiệp 30 : 200 × 100 = 15%; công nghiệp 25%; dịch vụ 60%.
+B: Đề yêu cầu thể hiện cơ cấu của một năm → chọn biểu đồ tròn.
+KQ: Cơ cấu: 15% – 25% – 60%; vẽ biểu đồ tròn (hình tròn có các hình quạt 54°, 90°, 216°).
+VD: Sản lượng lúa của tỉnh A năm 2015 là 2,0 triệu tấn, năm 2025 là 2,6 triệu tấn (số liệu giả định). Tính tốc độ tăng trưởng năm 2025 so với năm 2015.
+B: Lấy năm gốc 2015 = 100%.
+B: Tốc độ tăng trưởng = 2,6 : 2,0 × 100 = 130%.
+KQ: Năm 2025 sản lượng lúa bằng 130% năm 2015, tức tăng thêm 30%.
+GN: Biểu đồ phải có tên, chú giải, đơn vị, số liệu; khoảng cách năm trên trục hoành đúng tỉ lệ (biểu đồ đường, miền).
+GN: 1% tương ứng 3,6° trên biểu đồ tròn.
+GN: Nhận xét luôn kèm số liệu; tránh viết chung chung "tăng nhanh".
+Q: mc | Để thể hiện sự chuyển dịch cơ cấu GDP của nước ta qua 5 năm (2000, 2005, 2010, 2015, 2020), biểu đồ thích hợp nhất là
+A) biểu đồ cột
+B) biểu đồ đường
+C) biểu đồ tròn
+D) biểu đồ miền *
+E: "Chuyển dịch cơ cấu" qua nhiều năm (từ 4 năm trở lên) → biểu đồ miền.
+Q: match | Nối từ khóa trong đề với loại biểu đồ thích hợp:
+1) Tốc độ tăng trưởng qua các năm | Biểu đồ đường
+2) Cơ cấu dân số theo nhóm tuổi năm 2024 | Biểu đồ tròn
+3) So sánh diện tích các vùng | Biểu đồ cột
+4) Chuyển dịch cơ cấu lao động 2010 – 2025 | Biểu đồ miền
+E: Đường – tăng trưởng; tròn – cơ cấu ít năm; cột – so sánh độ lớn; miền – chuyển dịch cơ cấu nhiều năm.
+Q: tf | Một bảng số liệu cho biết số dân thành thị và nông thôn của nước ta qua 6 năm.
+a) Muốn thể hiện sự thay đổi cơ cấu dân số thành thị – nông thôn, nên vẽ biểu đồ miền. | Đ
+b) Muốn so sánh số dân thành thị và nông thôn qua các năm, có thể vẽ biểu đồ cột ghép. | Đ
+c) Biểu đồ tròn là lựa chọn tốt nhất để thể hiện số liệu 6 năm. | S
+d) Khi vẽ biểu đồ miền, khoảng cách các năm trên trục hoành không cần đúng tỉ lệ. | S
+E: 6 năm và yêu cầu cơ cấu → biểu đồ miền; so sánh quy mô → cột ghép; biểu đồ tròn chỉ hợp với ít năm; trục thời gian phải đúng tỉ lệ.
+Q: sa | Một tỉnh có tổng diện tích gieo trồng 400 nghìn ha, trong đó lúa 260 nghìn ha. Tỉ trọng diện tích lúa là bao nhiêu phần trăm?
+ANS: 65
+E: 260 : 400 × 100 = 65%.
+Q: ord | Sắp xếp các bước vẽ biểu đồ tròn theo đúng trình tự:
+1) Xử lí số liệu (tính tỉ trọng %) nếu bảng chưa cho %
+2) Vẽ hình tròn, chia hình quạt theo tỉ lệ (1% = 3,6°), bắt đầu từ tia 12 giờ
+3) Ghi số liệu, kí hiệu cho từng thành phần
+4) Lập chú giải và ghi tên biểu đồ
+E: Phải có số liệu % trước khi chia hình quạt; sau khi vẽ xong mới ghi số liệu, kí hiệu, chú giải và tên biểu đồ.
+TL: Cho bảng số liệu (giả định) về cơ cấu lao động của một tỉnh: năm 2015 – nông nghiệp 60%, công nghiệp 20%, dịch vụ 20%; năm 2025 – nông nghiệp 40%, công nghiệp 30%, dịch vụ 30%. Nêu loại biểu đồ thích hợp và nhận xét sự chuyển dịch cơ cấu lao động.
+MAU: Hai năm, yêu cầu cơ cấu → biểu đồ tròn (hai hình tròn); nếu đề yêu cầu chuyển dịch và có nhiều năm thì dùng biểu đồ miền.
+MAU: Nhận xét chung: cơ cấu lao động chuyển dịch theo hướng giảm tỉ trọng nông nghiệp, tăng tỉ trọng công nghiệp và dịch vụ.
+MAU: Chi tiết: nông nghiệp giảm 20 điểm phần trăm (60% → 40%); công nghiệp tăng 10 điểm phần trăm (20% → 30%); dịch vụ tăng 10 điểm phần trăm (20% → 30%).
+MAU: Kết luận: chuyển dịch phù hợp xu hướng công nghiệp hóa, hiện đại hóa.
+TC: Chọn đúng loại biểu đồ và giải thích lí do | 1
+TC: Nhận xét chung đúng xu hướng | 0,5
+TC: Nhận xét chi tiết có số liệu (đơn vị điểm phần trăm) | 1
+TC: Kết luận hợp lí | 0,5
+
+### Chuyên đề 2. Xử lí bảng số liệu và tính toán địa lí
+### Chuyên đề 3. Khai thác bản đồ, lược đồ địa lí

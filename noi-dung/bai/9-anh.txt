@@ -2,6 +2,90 @@
 # 9 | anh | Tiếng Anh 9 (Global Success)
 ## Units 1–4
 ### Unit 1. Local Community
+> Nói về cộng đồng nơi em sống: các tiện ích, những người phục vụ cộng đồng và nghề thủ công truyền thống; dùng cụm động từ và "từ để hỏi + to V".
+MT: Dùng được từ vựng về tiện ích, người phục vụ cộng đồng, làng nghề thủ công.
+MT: Dùng đúng cấu trúc từ để hỏi + to-infinitive (what to do, where to go…).
+MT: Hiểu và dùng một số cụm động từ thông dụng (pass down, set up, take care of…).
+LT: 1. Vocabulary
+- Community facilities: **library** (thư viện), **sports centre** (trung tâm thể thao), **community centre** (nhà văn hóa), **park**, **market**.
+- Community helpers: **firefighter** (lính cứu hỏa), **police officer** (cảnh sát), **delivery person** (nhân viên giao hàng), **garbage collector** (công nhân thu gom rác).
+- Handicrafts: **craft village** (làng nghề), **artisan** /ˌɑːtɪˈzæn/ (nghệ nhân), **pottery** (đồ gốm), **lacquerware** (đồ sơn mài), **conical hat** (nón lá), **embroidery** (tranh thêu).
+HINH: 9-anh/community.svg | Sơ đồ từ vựng Unit 1: tiện ích, người phục vụ cộng đồng, nghề thủ công và cụm động từ.
+LT: 2. Question words + to-infinitive
+- Cấu trúc: **S + V + what / where / when / how / who + to V**, dùng sau các động từ như know, ask, decide, wonder, learn, show, tell.
+- I don't know **where to buy** a conical hat. = I don't know where I can/should buy a conical hat.
+- My grandma showed me **how to make** a paper fan.
+- Lưu ý: KHÔNG dùng "why + to V".
+LT: 3. Phrasal verbs (cụm động từ)
+- **pass down** (truyền lại): The skill is passed down from generation to generation.
+- **set up** (thành lập), **take care of** (chăm sóc), **look around** (tham quan), **find out** (tìm ra), **turn up** (xuất hiện), **close down** (đóng cửa hẳn).
+DB: Dạng 1. Chọn từ vựng theo ngữ cảnh
+- Đọc cả câu, xác định từ loại cần điền (danh từ, động từ, tính từ).
+- Dựa vào từ khóa xung quanh (nghề, địa điểm, đồ vật) để chọn nghĩa phù hợp.
+DB: Dạng 2. Viết lại câu với từ để hỏi + to V
+- Tìm động từ chính (know, decide, ask…) và mệnh đề có "can/should".
+- Bỏ chủ ngữ và "can/should", giữ từ để hỏi, đổi động từ thành "to V".
+DB: Dạng 3. Chọn cụm động từ đúng
+- Hiểu nghĩa cả cụm (động từ + giới từ/trạng từ), không dịch từng từ.
+- Chú ý chia động từ theo thì và thể bị động (is passed down).
+VD: Rewrite: "I don't know what I should do with this old lacquerware." → I don't know ______.
+B: Động từ chính "know" + mệnh đề "what I should do".
+B: Bỏ "I should", đổi "do" thành "to do".
+KQ: I don't know **what to do** with this old lacquerware.
+VD: Choose the correct phrasal verb: "The pottery village was ______ more than 500 years ago." (set up / find out / turn up)
+B: Câu nói về sự ra đời của làng nghề → nghĩa "thành lập".
+B: Câu ở thể bị động quá khứ: was + V3 → set up (set – set – set).
+KQ: The pottery village was **set up** more than 500 years ago.
+GN: Từ để hỏi + to V thay cho mệnh đề có "can/should"; không dùng với "why".
+GN: Cụm động từ có thể đổi nghĩa hoàn toàn so với động từ gốc (turn up ≠ turn).
+GN: artisan = người làm nghề thủ công giỏi; craftsman cũng có nghĩa tương tự.
+Q: mc | A person who collects rubbish from houses is a ______.
+A) firefighter
+B) garbage collector *
+C) delivery person
+D) police officer
+E: garbage collector = công nhân thu gom rác.
+Q: mc | My dad showed me ______ the bamboo basket.
+A) how to weave *
+B) how weave
+C) how weaving
+D) why to weave
+E: Cấu trúc từ để hỏi + to V: how to weave (cách đan). Không dùng "why + to V".
+Q: tf | Đúng hay sai?
+a) "This craft is passed down from parents to children." dùng đúng cụm động từ. | Đ
+b) "artisan" nghĩa là "khách du lịch". | S
+c) "I can't decide what to wear." là câu đúng ngữ pháp. | Đ
+d) "take care of" nghĩa là "thành lập". | S
+E: artisan = nghệ nhân; take care of = chăm sóc; "set up" mới là thành lập.
+Q: sa | Fill in ONE word: "We'll ______ around the craft village after lunch." (tham quan)
+ANS: look
+E: look around = đi tham quan, nhìn quanh.
+Q: match | Match the words with their meanings:
+1) pottery | đồ gốm
+2) lacquerware | đồ sơn mài
+3) embroidery | tranh thêu, đồ thêu
+4) conical hat | nón lá
+E: Nhớ từ vựng nghề thủ công: pottery – gốm, lacquerware – sơn mài, embroidery – thêu, conical hat – nón lá.
+Q: ord | Put the words in the correct order to make a sentence:
+1) Can
+2) you
+3) tell
+4) me
+5) where
+6) to
+7) buy
+8) silk?
+E: Can you tell me where to buy silk? – câu hỏi lịch sự dùng "tell me + where to V".
+TL: Write a paragraph (80–100 words) about a craft or a place in your local community. Use at least one "question word + to V" and two phrasal verbs.
+MAU: In my hometown, there is a famous conical hat village.
+MAU: The craft has been passed down from generation to generation.
+MAU: Last summer, my aunt showed me how to choose good palm leaves and how to sew them neatly.
+MAU: Many tourists come to look around the village and buy hats as souvenirs.
+MAU: I hope young people will take care of this tradition so it will never die out.
+TC: Nội dung đúng chủ đề, có ý giới thiệu – mô tả – cảm nghĩ | 1
+TC: Dùng đúng "question word + to V" và ít nhất hai cụm động từ | 1
+TC: Từ vựng phù hợp, đúng ngữ pháp, chính tả | 1
+
 ### Unit 2. City Life
 ### Unit 3. Healthy Living for Teens
 ### Unit 4. Remembering the Past

@@ -36,10 +36,19 @@
     },
     allQuestions: function (data) {
       var qs = [];
-      Lessons.flat(data).forEach(function (x) { qs = qs.concat(x.l.qs || []); });
+      Lessons.flat(data).forEach(function (x) { qs = qs.concat((x.l.qs || []).filter(isQuizType)); });
       return qs;
     }
   };
+  function isQuizType(q) { return q && (q.t === 'mc' || q.t === 'tf' || q.t === 'sa'); }
+  App.isQuizType = isQuizType;
+  function hashStr(t) { var h = 7; t = String(t || ''); for (var i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) % 100003; return h + 1; }
+  function mixOrder(n, seed) {
+    var idx = []; for (var i = 0; i < n; i++) idx.push(i);
+    var a = shuffleSeeded(idx, seed);
+    if (n > 1 && a.every(function (v, k) { return v === k; })) a.push(a.shift());
+    return a;
+  }
   App.lessonKey = function (id) { return 'L:' + id; };
   App.isLessonDone = function (id) { return !!App.progress[App.lessonKey(id)]; };
   async function setDone(key, on) {
@@ -82,8 +91,21 @@
         return '<div class="tf-row" data-tfrow="' + name + '-' + k + '"><span class="tf-l">' + 'abcd'[k] + ')</span><span class="tf-text">' + fmt(o) + '</span><span class="tf-btns"><button type="button" class="tfb yes" data-tf="' + name + '" data-k="' + k + '" data-v="1">Đúng</button><button type="button" class="tfb no" data-tf="' + name + '" data-k="' + k + '" data-v="0">Sai</button></span></div>';
       }).join('') + '</div>';
     }
+    if (q.t === 'ord') {
+      return '<div class="ord" data-ordbox="' + name + '"><p class="small muted">Bấm lần lượt các mục theo đúng thứ tự (bấm lại vào mục đã chọn để bỏ).</p>' +
+        '<div class="ord-line" id="' + name + '-line"><span class="ord-ph">Thứ tự em chọn sẽ hiện ở đây</span></div>' +
+        '<div class="ord-pool">' + mixOrder(q.o.length, hashStr(q.id || q.q)).map(function (k) { return '<button type="button" class="chip-btn" data-ord="' + name + '" data-k="' + k + '">' + fmt(q.o[k]) + '</button>'; }).join('') + '</div></div>';
+    }
+    if (q.t === 'match') {
+      var rs = mixOrder(q.r.length, hashStr((q.id || q.q) + 'r'));
+      return '<div class="match">' + q.o.map(function (o, k) {
+        return '<div class="m-row" data-mrow="' + name + '-' + k + '"><span class="m-l"><b>' + (k + 1) + '.</b> ' + fmt(o) + '</span><select class="input m-sel" data-match="' + name + '" data-k="' + k + '" aria-label="Nối mục ' + (k + 1) + '"><option value="">– chọn –</option>' +
+          rs.map(function (r, j) { return '<option value="' + r + '">' + 'ABCDEFGH'[j] + '. ' + esc(stripTags(q.r[r])) + '</option>'; }).join('') + '</select></div>';
+      }).join('') + '</div>';
+    }
     return '<div class="sa-wrap"><input class="input sa-in" data-sa="' + name + '" placeholder="Nhập đáp số (vd: 2,5 hoặc 1/2)" inputmode="decimal" autocomplete="off"></div>';
   }
+  function stripTags(t) { return String(t == null ? '' : t).replace(/\*\*/g, '').replace(/<[^>]*>/g, ''); }
   function practiceBlock(qs, prefix) {
     return '<ol class="lp-list">' + qs.map(function (q, i) {
       return '<li class="lp" id="' + prefix + 'q' + i + '"><div class="lp-head"><span class="rv-no">Câu ' + (i + 1) + '</span><span class="badge">' + (App.TYPE_SHORT ? App.TYPE_SHORT[q.t] : q.t) + '</span></div>' +
@@ -110,6 +132,24 @@
         U.$$('[data-tf="' + prefix + i + '"][data-k="' + k + '"]', root).forEach(function (x) { x.classList.toggle('on', x === b); });
       };
     });
+    U.$$('[data-ord]', root).forEach(function (b) {
+      b.onclick = function () {
+        var i = Number(b.getAttribute('data-ord').slice(prefix.length)); if (res[i]) return;
+        var k = Number(b.getAttribute('data-k')), seq = ans[i] || [], at = seq.indexOf(k);
+        if (at >= 0) seq.splice(at, 1); else seq.push(k);
+        ans[i] = seq;
+        U.$$('[data-ord="' + prefix + i + '"]', root).forEach(function (x) { var kk = Number(x.getAttribute('data-k')), pos = seq.indexOf(kk); x.classList.toggle('on', pos >= 0); x.setAttribute('data-pos', pos >= 0 ? pos + 1 : ''); });
+        var line = U.$('#' + prefix + i + '-line', root), q = qs[i];
+        line.innerHTML = seq.length ? seq.map(function (kk, n) { return '<span class="ord-it"><small>' + (n + 1) + '</small>' + fmt(q.o[kk]) + '</span>'; }).join('') : '<span class="ord-ph">Thứ tự em chọn sẽ hiện ở đây</span>';
+      };
+    });
+    U.$$('[data-match]', root).forEach(function (sel) {
+      sel.onchange = function () {
+        var i = Number(sel.getAttribute('data-match').slice(prefix.length)); if (res[i]) return;
+        var k = Number(sel.getAttribute('data-k')), arr = ans[i] || qs[i].o.map(function () { return null; });
+        arr[k] = sel.value === '' ? null : Number(sel.value); ans[i] = arr;
+      };
+    });
     U.$$('[data-sa]', root).forEach(function (inp) {
       inp.oninput = function () { ans[Number(inp.getAttribute('data-sa').slice(prefix.length))] = inp.value; };
       inp.onkeydown = function (e) { if (e.key === 'Enter') { var i = Number(inp.getAttribute('data-sa').slice(prefix.length)); check(i); } };
@@ -117,8 +157,10 @@
     function check(i) {
       if (res[i]) return;
       var q = qs[i], given = ans[i];
-      var empty = given === undefined || given === null || (q.t === 'sa' && String(given).trim() === '') || (q.t === 'tf' && !given.some(function (x) { return x === true || x === false; }));
+      var empty = given === undefined || given === null || (q.t === 'sa' && String(given).trim() === '') || (q.t === 'tf' && !given.some(function (x) { return x === true || x === false; })) ||
+        (q.t === 'match' && !given.some(function (x) { return x !== null && x !== undefined; }));
       if (empty) { U.toast('Em hãy trả lời trước rồi bấm Kiểm tra.', 'warn'); return; }
+      if (q.t === 'ord' && given.length < q.o.length) { U.toast('Em hãy xếp đủ ' + q.o.length + ' mục rồi bấm Kiểm tra.', 'warn'); return; }
       var r = window.Grade.gradeOne(q, given);
       res[i] = r;
       var li = U.$('#' + prefix + 'q' + i, root);
@@ -126,13 +168,15 @@
       if (q.t === 'mc') U.$$('[data-mc="' + prefix + i + '"]', root).forEach(function (x) { var k = Number(x.getAttribute('data-k')); if (k === q.a) x.classList.add('right'); else if (k === given) x.classList.add('wrong'); x.disabled = true; });
       if (q.t === 'tf') q.a.forEach(function (v, k) { var row = U.$('[data-tfrow="' + prefix + i + '-' + k + '"]', root); if (row) { row.classList.add(given[k] === v ? 'right' : 'wrong'); row.insertAdjacentHTML('beforeend', '<span class="tf-res">Đáp án: <b>' + (v ? 'Đúng' : 'Sai') + '</b></span>'); } U.$$('[data-tf="' + prefix + i + '"]', root).forEach(function (x) { x.disabled = true; }); });
       if (q.t === 'sa') { var inp = U.$('[data-sa="' + prefix + i + '"]', root); inp.disabled = true; inp.classList.add(r.ok ? 'right' : 'wrong'); }
-      var verdict = r.ok ? '<b class="good">Chính xác!</b>' : q.t === 'tf' ? '<b class="' + (r.nRight >= 3 ? 'fair' : 'bad') + '">Đúng ' + r.nRight + '/4 ý</b>' : '<b class="bad">Chưa đúng.</b>';
-      var right = q.t === 'sa' ? ' Đáp án: <b>' + esc((q.a || []).join(' hoặc ')) + '</b>.' : q.t === 'mc' ? ' Đáp án đúng: <b>' + LETTERS[q.a] + '</b>.' : '';
+      if (q.t === 'ord') { U.$$('[data-ord="' + prefix + i + '"]', root).forEach(function (x) { x.disabled = true; }); U.$('#' + prefix + i + '-line', root).classList.add(r.ok ? 'right' : 'wrong'); }
+      if (q.t === 'match') q.o.forEach(function (o, k) { var row = U.$('[data-mrow="' + prefix + i + '-' + k + '"]', root), sel = U.$('[data-match="' + prefix + i + '"][data-k="' + k + '"]', root); if (sel) sel.disabled = true; var good = given[k] === k || (given[k] !== null && given[k] !== undefined && q.r[given[k]] === q.r[k]); if (row) { row.classList.add(good ? 'right' : 'wrong'); if (!good) row.insertAdjacentHTML('beforeend', '<span class="tf-res">Đáp án: <b>' + fmt(q.r[k]) + '</b></span>'); } });
+      var verdict = r.ok ? '<b class="good">Chính xác!</b>' : q.t === 'tf' ? '<b class="' + (r.nRight >= 3 ? 'fair' : 'bad') + '">Đúng ' + r.nRight + '/4 ý</b>' : q.t === 'match' ? '<b class="' + (r.nRight >= q.o.length - 1 ? 'fair' : 'bad') + '">Nối đúng ' + r.nRight + '/' + q.o.length + ' cặp</b>' : '<b class="bad">Chưa đúng.</b>';
+      var right = q.t === 'sa' ? ' Đáp án: <b>' + esc((q.a || []).join(' hoặc ')) + '</b>.' : q.t === 'mc' ? ' Đáp án đúng: <b>' + LETTERS[q.a] + '</b>.' : q.t === 'ord' && !r.ok ? '<div class="ord-key">Thứ tự đúng: ' + q.o.map(function (o, k) { return '<span class="ord-it"><small>' + (k + 1) + '</small>' + fmt(o) + '</span>'; }).join('') + '</div>' : '';
       U.$('#' + prefix + 'fb' + i, root).innerHTML = '<div class="explain">' + verdict + right + (q.e ? '<div class="sol"><b>Chữa bài:</b> ' + fmt(q.e) + '</div>' : '') +
         (!r.ok && opts.review ? '<div class="small muted">Gợi ý ôn lại: ' + esc(opts.review) + '</div>' : '') + '</div>';
       var hb = U.$('[data-hint="' + i + '"]', li); if (hb) hb.textContent = r.ok ? 'Hỏi trợ lý AI thêm' : 'Nhờ trợ lý AI giải thích';
       var cb = U.$('[data-check="' + i + '"]', li); if (cb) cb.remove();
-      Mistakes.record([q], [{ qid: q.id, ok: r.ok }]);
+      if (isQuizType(q)) Mistakes.record([q], [{ qid: q.id, ok: r.ok }]);
       var done = Object.keys(res).length;
       if (done === qs.length) {
         var all = window.Grade.gradeAll(qs, qs.reduce(function (o, qq, k) { o[qq.id] = ans[k]; return o; }, {}));
@@ -155,11 +199,15 @@
     var t = q.q;
     if (q.t === 'mc') t += '\n' + q.o.map(function (o, k) { return LETTERS[k] + '. ' + o; }).join('\n');
     if (q.t === 'tf') t += '\n' + q.o.map(function (o, k) { return 'abcd'[k] + ') ' + o; }).join('\n');
+    if (q.t === 'ord') t += '\nCác mục cần sắp xếp: ' + mixOrder(q.o.length, hashStr(q.id || q.q)).map(function (k) { return q.o[k]; }).join(' / ');
+    if (q.t === 'match') t += '\nCột A: ' + q.o.map(function (o, k) { return (k + 1) + ') ' + o; }).join('; ') + '\nCột B: ' + q.r.join('; ');
     return t;
   }
   function givenText(q, g) {
     if (q.t === 'mc') return g === undefined ? '(bỏ trống)' : LETTERS[g];
     if (q.t === 'tf') return (g || []).map(function (v, k) { return 'abcd'[k] + ')' + (v === true ? 'Đ' : v === false ? 'S' : '–'); }).join(' ');
+    if (q.t === 'ord') return (g || []).map(function (k) { return q.o[k]; }).join(' → ');
+    if (q.t === 'match') return (g || []).map(function (v, k) { return (k + 1) + '–' + (v === null || v === undefined ? '?' : q.r[v]); }).join('; ');
     return String(g || '');
   }
   App.qText = qText;
@@ -342,6 +390,8 @@
     var sec = [];
     if (l.goals.length) sec.push(['goals', 'Mục tiêu']);
     if (l.theory.length) sec.push(['theory', 'Lý thuyết']);
+    var types = l.types || [];
+    if (types.length) sec.push(['types', 'Dạng bài tập']);
     if (l.examples.length) sec.push(['ex', 'Ví dụ giải mẫu']);
     if (l.notes.length) sec.push(['notes', 'Ghi nhớ']);
     if (l.qs.length) sec.push(['practice', 'Luyện tập']);
@@ -360,6 +410,9 @@
     if (l.figs && l.figs.length) h += '<section class="card figs-card">' + figs(l.figs) + '</section>';
     if (l.goals.length) h += '<section class="card" id="sec-goals"><h2>Mục tiêu bài học</h2><ul class="goals">' + l.goals.map(function (x) { return '<li>' + fmt(x) + '</li>'; }).join('') + '</ul></section>';
     if (l.theory.length) h += '<section class="card" id="sec-theory"><h2>Kiến thức trọng tâm</h2>' + l.theory.map(function (t) { return '<div class="th"><h3>' + fmt(t.h) + '</h3>' + (t.pts.length ? '<ul class="points">' + t.pts.map(function (x) { return '<li>' + fmt(x) + '</li>'; }).join('') + '</ul>' : '') + figs(t.img) + '</div>'; }).join('') + '</section>';
+    if (types.length) h += '<section class="card" id="sec-types"><h2>Các dạng bài tập thường gặp</h2><p class="muted small">Nhận dạng bài và cách giải từng dạng – đọc trước khi làm ví dụ và luyện tập.</p><div class="types">' + types.map(function (t, i) {
+      return '<details class="dtype"' + (i === 0 ? ' open' : '') + '><summary><span class="dt-no">' + (i + 1) + '</span>' + fmt(t.h) + '</summary>' + (t.pts.length ? '<ol class="steps">' + t.pts.map(function (x) { return '<li>' + fmt(x) + '</li>'; }).join('') + '</ol>' : '') + '</details>';
+    }).join('') + '</div></section>';
     if (l.examples.length) h += '<section class="card" id="sec-ex"><h2>Ví dụ giải mẫu</h2><p class="muted small">Em tự làm trước, sau đó bấm để xem lời giải từng bước.</p>' + l.examples.map(function (e, i) {
       return '<article class="example"><p class="ex-q"><b>Ví dụ ' + (i + 1) + '.</b> ' + fmt(e.q) + '</p>' + figs(e.img) + '<button type="button" class="btn sm ghost" data-reveal="' + i + '">Xem lời giải</button>' +
         '<div class="ex-sol" id="exs' + i + '" hidden>' + (e.steps.length ? '<ol class="steps">' + e.steps.map(function (x) { return '<li>' + fmt(x) + '</li>'; }).join('') + '</ol>' : '') + (e.ans ? '<p class="ex-ans"><b>Kết luận:</b> ' + fmt(e.ans) + '</p>' : '') + '</div></article>';
@@ -390,7 +443,9 @@
           } });
       };
       mount();
-      U.$('#ls-timed', main).onclick = function () { App.startRun({ mode: 'practice', title: 'Kiểm tra · ' + (l.n ? l.n + '. ' : '') + l.t, qs: l.qs, limit: Math.max(5, l.qs.length * 2) * 60, g: g, s: s }); };
+      var tqs = l.qs.filter(isQuizType);
+      if (tqs.length < 2) U.$('#ls-timed', main).remove();
+      else U.$('#ls-timed', main).onclick = function () { App.startRun({ mode: 'practice', title: 'Kiểm tra · ' + (l.n ? l.n + '. ' : '') + l.t, qs: tqs, limit: Math.max(5, tqs.length * 2) * 60, g: g, s: s }); };
     }
     if (l.essays.length) bindEssays(main, l.essays, ctx);
   };
@@ -405,11 +460,14 @@
     var body = '';
     if (q.t === 'mc') body = '<ol class="p-opts" type="A">' + q.o.map(function (o) { return '<li>' + fmt(o) + '</li>'; }).join('') + '</ol>';
     else if (q.t === 'tf') body = '<table class="p-tf"><tbody>' + q.o.map(function (o, k) { return '<tr><td>' + 'abcd'[k] + ')</td><td>' + fmt(o) + '</td><td class="p-box">Đ ☐ S ☐</td></tr>'; }).join('') + '</tbody></table>';
+    else if (q.t === 'ord') body = '<p>' + mixOrder(q.o.length, hashStr(q.id || q.q)).map(function (k) { return '<span class="p-chip">' + fmt(q.o[k]) + '</span>'; }).join(' ') + '</p><p class="p-line">Thứ tự: ……………………………………</p>';
+    else if (q.t === 'match') { var rs = mixOrder(q.r.length, hashStr((q.id || q.q) + 'r')); body = '<table class="p-tf"><tbody>' + q.o.map(function (o, k) { return '<tr><td>' + (k + 1) + '. ' + fmt(o) + '</td><td>' + 'ABCDEFGH'[k] + '. ' + fmt(q.r[rs[k]]) + '</td></tr>'; }).join('') + '</tbody></table><p class="p-line">Nối: 1–…  2–…  3–…' + (q.o.length > 3 ? '  4–…' : '') + '</p>'; }
     else body = '<p class="p-line">Đáp số: ……………………</p>';
     return '<li class="p-q"><div>' + fmt(q.q) + '</div>' + (q.img ? figs([q.img]) : '') + body + '</li>';
   }
   function printKey(q, i) {
-    var a = q.t === 'mc' ? LETTERS[q.a] : q.t === 'tf' ? q.a.map(function (v, k) { return 'abcd'[k] + ')' + (v ? 'Đ' : 'S'); }).join(' ') : (q.a || []).join(' hoặc ');
+    var a = q.t === 'mc' ? LETTERS[q.a] : q.t === 'tf' ? q.a.map(function (v, k) { return 'abcd'[k] + ')' + (v ? 'Đ' : 'S'); }).join(' ') :
+      q.t === 'ord' ? stripTags(q.o.join(' → ')) : q.t === 'match' ? (function () { var rs = mixOrder(q.r.length, hashStr((q.id || q.q) + 'r')); return q.o.map(function (o, k) { return (k + 1) + '–' + 'ABCDEFGH'[rs.indexOf(k)]; }).join(', '); })() : (q.a || []).join(' hoặc ');
     return '<li><b>' + esc(a) + '</b>' + (q.e ? ' – ' + fmt(q.e) : '') + '</li>';
   }
   App.views.in = async function (main, alive) {
@@ -424,6 +482,7 @@
       body = '<p class="p-sub">' + esc(x.b.title + ' · ' + x.u.t) + '</p>' +
         (l.goals.length ? '<h2>Mục tiêu</h2><ul>' + l.goals.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' : '') +
         (l.figs ? figs(l.figs) : '') + (l.theory.length ? '<h2>Kiến thức trọng tâm</h2>' + l.theory.map(function (t) { return '<h3>' + fmt(t.h) + '</h3><ul>' + t.pts.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' + figs(t.img); }).join('') : (x.u.pts && x.u.pts.length ? '<h2>Kiến thức trọng tâm của chương</h2><ul>' + x.u.pts.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' : '')) +
+        ((l.types || []).length ? '<h2>Các dạng bài tập</h2>' + l.types.map(function (t, i) { return '<h3>' + (i + 1) + '. ' + fmt(t.h) + '</h3><ol>' + t.pts.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ol>'; }).join('') : '') +
         (l.examples.length ? '<h2>Ví dụ giải mẫu</h2>' + l.examples.map(function (e, i) { return '<div class="p-ex"><p><b>Ví dụ ' + (i + 1) + '.</b> ' + fmt(e.q) + '</p>' + figs(e.img) + '<ol>' + e.steps.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ol>' + (e.ans ? '<p><b>Kết luận:</b> ' + fmt(e.ans) + '</p>' : '') + '</div>'; }).join('') : '') +
         (l.notes.length ? '<h2>Ghi nhớ</h2><ul>' + l.notes.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' : '') +
         (l.qs.length ? '<h2>Bài tập</h2><ol class="p-qs">' + l.qs.map(printQ).join('') + '</ol>' : '') +
@@ -442,6 +501,7 @@
             var inner = (u.pts && u.pts.length ? '<ul>' + u.pts.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' : '');
             u.lessons.filter(function (ll) { return ll.ready; }).forEach(function (ll) {
               inner += '<h4>' + esc((ll.n ? ll.n + '. ' : '') + ll.t) + '</h4>' + ll.theory.map(function (t) { return '<p class="p-h">' + fmt(t.h) + '</p><ul>' + t.pts.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>'; }).join('') +
+                ((ll.types || []).length ? '<p class="p-h">Các dạng bài tập</p><ul>' + ll.types.map(function (t) { return '<li><b>' + fmt(t.h) + '</b>' + (t.pts.length ? ': ' + t.pts.map(fmt).join(' ') : '') + '</li>'; }).join('') + '</ul>' : '') +
                 (ll.notes.length ? '<p class="p-h">Ghi nhớ</p><ul>' + ll.notes.map(function (z) { return '<li>' + fmt(z) + '</li>'; }).join('') + '</ul>' : '');
             });
             return '<section class="p-unit"><h3>' + esc(u.t) + '</h3>' + inner + '</section>';

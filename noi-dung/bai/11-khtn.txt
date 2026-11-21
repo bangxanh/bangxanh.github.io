@@ -91,6 +91,77 @@ TC: Tính đúng quãng đường 48 cm | 1
 # 11 | khtn | Hóa học 11
 ## Chương 1. Cân bằng hóa học
 ### Bài 1. Khái niệm về cân bằng hóa học
+> Nhiều phản ứng không xảy ra "đến cùng" mà tiến tới trạng thái cân bằng – hiểu cân bằng hóa học giúp điều khiển sản xuất ammonia, sulfuric acid… hiệu quả hơn.
+MT: Phân biệt phản ứng một chiều và phản ứng thuận nghịch; nêu được trạng thái cân bằng hóa học.
+MT: Viết được biểu thức hằng số cân bằng K_C và tính K_C.
+MT: Vận dụng nguyên lí chuyển dịch cân bằng Le Chatelier khi thay đổi nồng độ, nhiệt độ, áp suất.
+LT: 1. Phản ứng thuận nghịch và trạng thái cân bằng
+- **Phản ứng một chiều** chỉ xảy ra theo chiều tạo sản phẩm (dùng mũi tên →). **Phản ứng thuận nghịch** xảy ra theo hai chiều ngược nhau trong cùng điều kiện (dùng mũi tên ⇌).
+- Ban đầu tốc độ phản ứng thuận lớn, tốc độ phản ứng nghịch nhỏ; theo thời gian v_thuận giảm, v_nghịch tăng.
+- **Cân bằng hóa học** là trạng thái **v_thuận = v_nghịch**; nồng độ các chất không đổi nhưng phản ứng vẫn diễn ra (cân bằng động).
+HINH: 11-khtn/can-bang.svg | Tốc độ phản ứng thuận giảm dần, tốc độ phản ứng nghịch tăng dần; từ thời điểm hai tốc độ bằng nhau, hệ đạt trạng thái cân bằng.
+LT: 2. Hằng số cân bằng K_C
+- Với phản ứng aA + bB ⇌ cC + dD: **K_C = [C]^c·[D]^d / ([A]^a·[B]^b)** (nồng độ mol/L lúc cân bằng).
+- Không đưa chất rắn vào biểu thức K_C. K_C chỉ phụ thuộc nhiệt độ.
+- K_C càng lớn thì phản ứng thuận càng chiếm ưu thế.
+LT: 3. Chuyển dịch cân bằng – nguyên lí Le Chatelier
+- Khi một hệ đang cân bằng chịu tác động từ bên ngoài (nồng độ, nhiệt độ, áp suất), cân bằng **chuyển dịch theo chiều làm giảm tác động đó**.
+- Tăng nồng độ chất phản ứng → chuyển dịch chiều thuận. Tăng nhiệt độ → chuyển dịch theo chiều **thu nhiệt** (Δ_rH° > 0).
+- Tăng áp suất → chuyển dịch theo chiều **giảm tổng số mol khí**. Chất xúc tác **không** làm chuyển dịch cân bằng.
+DB: Dạng 1. Viết biểu thức và tính hằng số cân bằng K_C
+- Viết phương trình cân bằng, xác định các chất khí/dung dịch (bỏ chất rắn).
+- Thay nồng độ lúc cân bằng vào biểu thức, chú ý số mũ là hệ số tỉ lượng.
+DB: Dạng 2. Xác định chiều chuyển dịch cân bằng
+- Xác định tác động: thêm/bớt chất, tăng/giảm nhiệt độ, áp suất.
+- Áp dụng Le Chatelier: hệ chống lại tác động; với nhiệt độ cần biết chiều thuận tỏa hay thu nhiệt; với áp suất so sánh số mol khí hai vế.
+DB: Dạng 3. Tính nồng độ lúc cân bằng (lập bảng ban đầu – phản ứng – cân bằng)
+- Gọi x là nồng độ chất phản ứng đã chuyển hóa, lập bảng ba dòng.
+- Thay vào K_C để tìm x rồi suy ra nồng độ các chất.
+VD: Cho cân bằng N₂(g) + 3H₂(g) ⇌ 2NH₃(g), Δ_rH° < 0. Để thu được nhiều NH₃ hơn nên thay đổi nhiệt độ và áp suất thế nào?
+B: Chiều thuận tỏa nhiệt (Δ_rH° < 0) ⇒ giảm nhiệt độ thì cân bằng chuyển dịch theo chiều thuận (tỏa nhiệt).
+B: Vế trái có 1 + 3 = 4 mol khí, vế phải có 2 mol khí ⇒ tăng áp suất làm cân bằng chuyển dịch theo chiều giảm số mol khí – chiều thuận.
+KQ: Giảm nhiệt độ và tăng áp suất. (Trong thực tế vẫn dùng nhiệt độ khoảng 400 – 450 °C cùng chất xúc tác để phản ứng đủ nhanh.)
+VD: Ở nhiệt độ T, cân bằng H₂(g) + I₂(g) ⇌ 2HI(g) có [H₂] = 0,1 M; [I₂] = 0,1 M; [HI] = 0,8 M. Tính K_C.
+B: K_C = [HI]² / ([H₂]·[I₂]).
+B: K_C = 0,8² / (0,1 · 0,1) = 0,64 / 0,01 = 64.
+KQ: K_C = 64 ở nhiệt độ T.
+GN: Chất xúc tác giúp nhanh đạt cân bằng nhưng không làm chuyển dịch cân bằng.
+GN: Áp suất không ảnh hưởng khi tổng số mol khí hai vế bằng nhau.
+GN: K_C chỉ thay đổi khi nhiệt độ thay đổi.
+Q: mc | Trạng thái cân bằng hóa học là trạng thái mà
+A) phản ứng dừng lại hoàn toàn
+B) tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch *
+C) nồng độ chất phản ứng bằng nồng độ sản phẩm
+D) chỉ còn sản phẩm
+E: Ở cân bằng, v_thuận = v_nghịch; phản ứng vẫn diễn ra theo hai chiều (cân bằng động), nồng độ các chất không đổi (nhưng không nhất thiết bằng nhau).
+Q: mc | Cho cân bằng 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), Δ_rH° < 0. Tác động nào làm cân bằng chuyển dịch theo chiều thuận?
+A) Tăng nhiệt độ
+B) Giảm áp suất
+C) Thêm khí O₂ *
+D) Thêm chất xúc tác V₂O₅
+E: Thêm O₂ (chất phản ứng) → cân bằng chuyển dịch theo chiều làm giảm O₂, tức chiều thuận. Tăng nhiệt độ → chiều nghịch (thu nhiệt); giảm áp suất → chiều tăng số mol khí (nghịch); xúc tác không làm chuyển dịch cân bằng.
+Q: tf | Xét cân bằng CaCO₃(s) ⇌ CaO(s) + CO₂(g), Δ_rH° > 0.
+a) Biểu thức hằng số cân bằng là K_C = [CO₂]. | Đ
+b) Tăng nhiệt độ, cân bằng chuyển dịch theo chiều thuận. | Đ
+c) Thêm CaCO₃ rắn vào hệ làm cân bằng chuyển dịch theo chiều thuận. | S
+d) Tăng áp suất, cân bằng chuyển dịch theo chiều thuận. | S
+E: Chất rắn không có trong K_C nên K_C = [CO₂]; thêm chất rắn không làm chuyển dịch cân bằng. Chiều thuận thu nhiệt nên tăng nhiệt độ → chiều thuận. Tăng áp suất → chiều giảm số mol khí, tức chiều nghịch.
+Q: sa | Cho cân bằng A(g) + B(g) ⇌ 2C(g). Lúc cân bằng [A] = 0,2 M; [B] = 0,5 M; [C] = 0,4 M. Tính K_C.
+ANS: 1,6 || 1.6 || 8/5
+E: K_C = [C]² / ([A]·[B]) = 0,16 / 0,1 = 1,6.
+Q: match | Nối mỗi tác động với chiều chuyển dịch của cân bằng N₂(g) + 3H₂(g) ⇌ 2NH₃(g), Δ_rH° < 0:
+1) Tăng nhiệt độ | Chuyển dịch theo chiều nghịch
+2) Tăng áp suất | Chuyển dịch theo chiều thuận
+3) Thêm chất xúc tác | Không chuyển dịch
+E: Tăng nhiệt độ → chiều thu nhiệt (nghịch); tăng áp suất → chiều giảm số mol khí (thuận, 4 mol → 2 mol); xúc tác không làm chuyển dịch cân bằng.
+TL: Cho cân bằng H₂(g) + I₂(g) ⇌ 2HI(g) có K_C = 64 ở nhiệt độ T. Ban đầu cho 1 mol H₂ và 1 mol I₂ vào bình kín dung tích 1 L. Tính nồng độ các chất lúc cân bằng.
+MAU: Gọi x (M) là nồng độ H₂ đã phản ứng: lúc cân bằng [H₂] = [I₂] = 1 − x; [HI] = 2x.
+MAU: K_C = (2x)² / (1 − x)² = 64 ⇒ 2x / (1 − x) = 8 (lấy giá trị dương) ⇒ 2x = 8 − 8x ⇒ x = 0,8.
+MAU: Lúc cân bằng: [H₂] = [I₂] = 0,2 M; [HI] = 1,6 M.
+TC: Lập đúng bảng nồng độ ban đầu – phản ứng – cân bằng | 1
+TC: Thay vào K_C, giải đúng x = 0,8 | 1
+TC: Kết luận đúng nồng độ các chất | 1
+
 ### Bài 2. Cân bằng trong dung dịch nước
 ### Bài 3. Ôn tập chương 1
 ## Chương 2. Nitrogen và sulfur

@@ -14,6 +14,9 @@ Nếu viết sai định dạng, lượt xuất bản sẽ báo lỗi ở thẻ 
 MT: Mục tiêu (mỗi dòng một ý)
 LT: 1. Tên mục lý thuyết
 - Ý lý thuyết (mỗi dòng một ý, **in đậm** bằng hai dấu sao)
+DB: Dạng 1. Tên dạng bài tập                 ← "Các dạng bài tập thường gặp": mỗi bài 2–4 dạng
+- Bước 1: cách nhận dạng / bước giải         ← các bước phương pháp giải của dạng đó
+- Bước 2: …
 VD: Đề ví dụ
 B: Bước giải 1
 B: Bước giải 2
@@ -34,12 +37,27 @@ E: Lời giải
 Q: sa | Câu trả lời ngắn
 ANS: 2,5 || 5/2                              ← các đáp án được chấp nhận, ngăn bằng ||
 E: Lời giải
+Q: ord | Sắp xếp … theo đúng thứ tự          ← câu SẮP XẾP (từ thành câu, các bước giải, sự kiện theo thời gian…)
+1) Mục đứng đầu                              ← viết các mục theo ĐÚNG thứ tự; trang tự xáo trộn khi hiển thị
+2) Mục thứ hai
+3) …                                         ← 3–7 mục
+E: Lời giải
+Q: match | Nối mỗi ý ở cột A với một ý ở cột B   ← câu NỐI CỘT
+1) Vế trái | vế phải tương ứng               ← 3–6 cặp; trang tự xáo trộn cột B
+2) … | …
+E: Lời giải
 HINH: 12-toan/bai1-cuc-tri.svg | Chú thích   ← hình minh họa (tệp trong noi-dung/hinh/). Đặt sau mục LT → hình của mục đó;
                                               sau dòng VD → hình của ví dụ; sau dòng Q → hình của câu hỏi.
 TL: Đề bài tự luận
 MAU: Dòng đáp án mẫu (mỗi bước một dòng)
 TC: Tiêu chí chấm | 1                        ← số điểm của tiêu chí
 ```
+
+Ghi chú dạng câu hỏi: mc, tf, sa dùng được cả trong bài kiểm tra, phiếu bài tập và Sổ lỗi sai; ord và match
+chỉ dùng trong phần Luyện tập của bài học (chấm, chữa ngay; nối cột được điểm theo số cặp đúng). Mỗi bài nên có
+đủ: 1–2 mc, 1 tf, 1 sa và thêm 1 ord hoặc match khi phù hợp (Tiếng Anh: sắp xếp từ thành câu, nối từ – nghĩa;
+Ngữ văn: sắp xếp câu thành đoạn, nối biện pháp tu từ – ví dụ; Toán: sắp xếp các bước giải; KHTN, Lịch sử,
+Địa lí: sắp xếp quá trình, sự kiện; nối khái niệm – định nghĩa).
 
 ## Hình minh họa
 

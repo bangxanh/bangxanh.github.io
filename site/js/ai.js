@@ -1,5 +1,6 @@
 /* Bảng Xanh – Trợ lý AI cho học sinh.
-   Trang gọi tới một máy chủ trung gian (Cloudflare Worker, mã ở thư mục worker/) giữ kín khóa API Claude.
+   Trang gọi tới một máy chủ trung gian (Cloudflare Worker, mã ở thư mục worker/): mặc định dùng mô hình AI
+   miễn phí của Cloudflare Workers AI; nếu thầy/cô thêm khóa Claude vào máy chủ thì tự chuyển sang Claude.
    Bật bằng cách điền địa chỉ máy chủ vào config.js:  window.BX_CONFIG.ai = { endpoint: 'https://….workers.dev' }.
    Khi chưa bật, các nút AI vẫn hiện nhưng báo "sắp ra mắt". Nội dung trò chuyện không được lưu. */
 (function () {
@@ -26,8 +27,12 @@
   }
 
   /* Hiển thị câu trả lời: xuống dòng, **đậm**, danh sách đơn giản */
+  function tidy(text) {
+    return String(text || '').replace(/^#{1,6}\s*/gm, '').replace(/\\[()\[\]]/g, '').replace(/\$\$?/g, '')
+      .replace(/\\frac\{([^{}]+)\}\{([^{}]+)\}/g, '($1)/($2)').replace(/\\sqrt\{([^{}]+)\}/g, '√($1)').replace(/\\(cdot|times)/g, '·').replace(/\\(le|leq)\b/g, '≤').replace(/\\(ge|geq)\b/g, '≥').replace(/\\pi\b/g, 'π').replace(/\^\{?2\}?/g, '²').replace(/\^\{?3\}?/g, '³');
+  }
   function render(text) {
-    return String(text || '').split(/\n{2,}/).map(function (para) {
+    return tidy(text).split(/\n{2,}/).map(function (para) {
       var lines = para.split('\n');
       if (lines.every(function (l) { return /^\s*([-*•]|\d+[.)])\s+/.test(l); })) {
         return '<ul>' + lines.map(function (l) { return '<li>' + fmt(l.replace(/^\s*([-*•]|\d+[.)])\s+/, '')) + '</li>'; }).join('') + '</ul>';

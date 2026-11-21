@@ -1,0 +1,169 @@
+// Ngữ văn 12 – học theo thể loại và DẠNG BÀI (bám Chương trình GDPT 2018, SGK Kết nối tri thức). Văn bản minh họa trong bài do Bảng Xanh tự biên soạn.
+# 12 | van | Ngữ văn 12
+## Tiểu thuyết hiện đại
+### Chuyên đề. Đọc hiểu tiểu thuyết hiện đại
+## Thơ hiện đại
+### Chuyên đề. Đọc hiểu thơ hiện đại
+## Kịch hiện đại
+### Chuyên đề. Đọc hiểu kịch hiện đại
+## Tác gia Hồ Chí Minh
+### Chuyên đề. Tác gia Hồ Chí Minh: cuộc đời, sự nghiệp, phong cách nghệ thuật
+## Kí, phóng sự, hồi kí và nghị luận
+### Chuyên đề. Đọc hiểu kí, phóng sự, hồi kí
+### Chuyên đề. Đọc hiểu văn bản nghị luận
+## Tiếng Việt
+### Chuyên đề. Biện pháp tu từ và hiệu quả biểu đạt
+### Chuyên đề. Lỗi diễn đạt và cách sửa
+## Viết – Nói và nghe
+### Chuyên đề 1. Viết đoạn văn nghị luận văn học (khoảng 200 chữ)
+> Dạng bài viết ngắn rất hay gặp trong đề kiểm tra và đề thi theo chương trình mới: viết một đoạn văn khoảng 200 chữ phân tích, đánh giá một khía cạnh của văn bản đã đọc.
+MT: Nhận diện đúng yêu cầu đề: đối tượng nghị luận, thao tác (phân tích, đánh giá), dung lượng.
+MT: Viết được đoạn văn đúng hình thức, có câu chủ đề, lí lẽ, dẫn chứng và lời đánh giá.
+MT: Tránh các lỗi thường gặp: kể lại tác phẩm, khen chung chung, tách nhiều đoạn.
+LT: 1. Yêu cầu về hình thức
+- Viết **một đoạn văn duy nhất** (không xuống dòng, không gạch đầu dòng), dung lượng **khoảng 200 chữ** (thường 10 – 14 câu).
+- Có thể triển khai theo cấu trúc **diễn dịch** (câu chủ đề ở đầu), **quy nạp** (câu chủ đề ở cuối) hoặc **tổng – phân – hợp**. Diễn dịch là cách an toàn nhất khi làm bài thi.
+LT: 2. Yêu cầu về nội dung
+- **Câu chủ đề**: nêu đúng đối tượng (nhân vật, hình ảnh, đoạn thơ, chi tiết…) và nhận định khái quát về nó.
+- **Thân đoạn**: 2 – 3 ý; mỗi ý gồm lí lẽ + **dẫn chứng** (trích từ ngữ, chi tiết trong văn bản, đặt trong ngoặc kép) + **phân tích** tác dụng của từ ngữ, biện pháp nghệ thuật.
+- **Câu kết**: đánh giá giá trị nội dung – nghệ thuật, thông điệp; có thể liên hệ ngắn.
+HINH: 12-van/doan-van-200.svg | Cấu trúc đoạn văn nghị luận văn học khoảng 200 chữ: câu chủ đề – các ý phân tích có dẫn chứng – câu kết đánh giá.
+DB: Dạng 1. Phân tích, đánh giá một nhân vật
+- Nêu đặc điểm nổi bật của nhân vật qua ngoại hình, hành động, lời nói, nội tâm.
+- Chỉ ra nghệ thuật xây dựng nhân vật: điểm nhìn, ngôn ngữ, chi tiết tiêu biểu.
+- Đánh giá ý nghĩa của nhân vật đối với chủ đề tác phẩm.
+DB: Dạng 2. Phân tích một đoạn thơ, một hình ảnh thơ
+- Xác định mạch cảm xúc và hình ảnh trung tâm.
+- Phân tích từ ngữ, biện pháp tu từ, nhịp điệu, vần → làm rõ cảm xúc, thông điệp.
+- Đánh giá nét đặc sắc của đoạn thơ.
+DB: Dạng 3. Đánh giá một chi tiết, một nét đặc sắc nghệ thuật
+- Nêu vị trí, nội dung của chi tiết hoặc nét nghệ thuật.
+- Phân tích tác dụng: khắc họa nhân vật, thể hiện chủ đề, tạo sức hấp dẫn cho văn bản.
+- Kết luận về tài năng, phong cách của tác giả.
+VD: Cho đoạn thơ (Bảng Xanh tự biên soạn): "Mẹ gánh nắng qua bao mùa gặt cũ / Vai gầy nghiêng về phía bờ đê / Con lớn lên bằng lời ru của mẹ / Thơm mùi rơm những buổi chiều về". Lập dàn ý đoạn văn khoảng 200 chữ phân tích hình ảnh người mẹ.
+B: Câu chủ đề: Đoạn thơ khắc họa hình ảnh người mẹ tảo tần, lặng lẽ hi sinh vì con qua những chi tiết bình dị của làng quê.
+B: Ý 1 – Sự vất vả: "gánh nắng", "vai gầy nghiêng" – cách nói ẩn dụ và hình ảnh tạo hình gợi gánh nặng mưu sinh mẹ mang qua năm tháng.
+B: Ý 2 – Tình yêu thương: "lời ru", "thơm mùi rơm" – giữa nhọc nhằn, mẹ vẫn dành cho con sự bình yên, ấm áp; con "lớn lên" nhờ tình mẹ.
+B: Ý 3 – Nghệ thuật: giọng thơ thủ thỉ, hình ảnh giản dị gần gũi, ẩn dụ giàu sức gợi.
+KQ: Câu kết: Hình ảnh người mẹ khơi dậy lòng biết ơn, nhắc mỗi người trân trọng những hi sinh thầm lặng của mẹ.
+VD: Nhận xét và sửa câu mở đoạn sau: "Bài thơ rất hay và em rất thích bài thơ này."
+B: Câu chưa đạt: không nêu đối tượng nghị luận, chỉ bày tỏ cảm xúc chung chung, không có nhận định.
+B: Sửa: nêu rõ đối tượng (hình ảnh người mẹ) + nhận định (tảo tần, giàu đức hi sinh).
+KQ: "Đoạn thơ đã khắc họa cảm động hình ảnh người mẹ tảo tần, giàu đức hi sinh trong cuộc sống lao động nơi làng quê."
+GN: Đoạn văn chỉ có **một đoạn**; viết liền, không xuống dòng.
+GN: Mỗi nhận xét phải có dẫn chứng từ văn bản; phân tích = dẫn chứng + nghệ thuật + tác dụng.
+GN: Tránh kể lại nội dung và tránh lời khen chung chung như "rất hay", "rất ấn tượng".
+Q: mc | Câu nào phù hợp nhất làm câu chủ đề cho đoạn văn phân tích hình ảnh người mẹ trong đoạn thơ ở Ví dụ 1?
+A) Mẹ là người quan trọng nhất trong cuộc đời mỗi người.
+B) Đoạn thơ khắc họa hình ảnh người mẹ tảo tần, lặng lẽ hi sinh vì con qua những chi tiết bình dị. *
+C) Tác giả đã sử dụng rất nhiều biện pháp tu từ.
+D) Em rất thích đoạn thơ này vì nó rất hay.
+E: Câu chủ đề phải nêu đúng đối tượng (hình ảnh người mẹ trong đoạn thơ) và nhận định khái quát. A là nhận định xã hội chung, C chỉ nói về nghệ thuật, D là cảm xúc chung chung.
+Q: ord | Sắp xếp các câu sau thành một đoạn văn diễn dịch mạch lạc:
+1) Đoạn thơ khắc họa hình ảnh người mẹ tảo tần, giàu đức hi sinh.
+2) Hình ảnh ẩn dụ "gánh nắng" gợi những nhọc nhằn mẹ mang qua bao mùa gặt.
+3) Dù vất vả, mẹ vẫn dành cho con những lời ru thơm "mùi rơm" bình yên.
+4) Qua đó, đoạn thơ nhắc ta biết ơn những hi sinh thầm lặng của mẹ.
+E: Câu chủ đề (1) đứng đầu; câu (2) nói về sự vất vả, câu (3) mở đầu bằng "Dù vất vả" nên phải đứng sau (2); câu (4) có "Qua đó" là câu kết đánh giá.
+Q: match | Nối mỗi thành phần với vai trò của nó trong đoạn văn nghị luận văn học:
+1) Câu chủ đề | Nêu đối tượng và nhận định khái quát
+2) Dẫn chứng | Trích từ ngữ, chi tiết trong văn bản
+3) Phân tích | Chỉ ra tác dụng của từ ngữ, biện pháp nghệ thuật
+4) Câu kết | Đánh giá giá trị, thông điệp của văn bản
+E: Câu chủ đề định hướng cả đoạn; dẫn chứng là bằng chứng lấy từ văn bản; phân tích giải thích dẫn chứng có tác dụng gì; câu kết khái quát, đánh giá.
+Q: tf | Khi viết đoạn văn nghị luận văn học khoảng 200 chữ:
+a) Có thể chia thành nhiều đoạn nhỏ cho dễ đọc. | S
+b) Cần có câu chủ đề nêu rõ đối tượng nghị luận. | Đ
+c) Nên kể lại toàn bộ nội dung tác phẩm để người đọc hiểu. | S
+d) Mỗi nhận xét cần có dẫn chứng từ văn bản. | Đ
+E: Yêu cầu là MỘT đoạn văn; không kể lại tác phẩm mà phân tích, đánh giá; nhận xét luôn đi kèm dẫn chứng.
+Q: sa | Trong cụm từ "gánh nắng" ở Ví dụ 1, tác giả dùng biện pháp tu từ gì? (ghi tên biện pháp)
+ANS: ẩn dụ || ẩn dụ chuyển đổi cảm giác || phép ẩn dụ
+E: "Nắng" vốn không thể "gánh"; cách nói ẩn dụ (chuyển đổi cảm giác) biến cái nắng thành gánh nặng hữu hình, gợi sự vất vả của mẹ.
+TL: Viết đoạn văn (khoảng 200 chữ) phân tích hình ảnh người mẹ trong đoạn thơ ở Ví dụ 1.
+MAU: Đoạn thơ đã khắc họa cảm động hình ảnh người mẹ tảo tần, lặng lẽ hi sinh vì con qua những chi tiết bình dị của làng quê.
+MAU: Trước hết, đó là người mẹ vất vả: cách nói ẩn dụ "gánh nắng" biến cái nắng vô hình thành gánh nặng hữu hình, còn hình ảnh "vai gầy nghiêng về phía bờ đê" gợi dáng mẹ nhỏ bé, oằn mình qua "bao mùa gặt cũ".
+MAU: Nhưng giữa bao nhọc nhằn ấy, mẹ vẫn dành cho con cả một khoảng trời bình yên: con "lớn lên bằng lời ru của mẹ", lời ru ấy thấm đẫm mùi rơm những buổi chiều quê.
+MAU: Sự đối lập giữa gian lao của mẹ và sự êm ả mẹ trao cho con làm nổi bật đức hi sinh thầm lặng.
+MAU: Với giọng thơ thủ thỉ, hình ảnh giản dị mà giàu sức gợi, đoạn thơ không chỉ ngợi ca người mẹ mà còn nhắc mỗi chúng ta biết trân trọng, đền đáp công ơn mẹ bằng những việc làm cụ thể mỗi ngày.
+TC: Đúng hình thức một đoạn văn, dung lượng khoảng 200 chữ | 0,5
+TC: Câu chủ đề nêu rõ đối tượng và nhận định | 0,5
+TC: Phân tích có dẫn chứng, chỉ ra nghệ thuật và tác dụng | 0,75
+TC: Đánh giá, liên hệ; diễn đạt mạch lạc, đúng chính tả | 0,25
+
+### Chuyên đề 2. Viết bài văn nghị luận xã hội (khoảng 600 chữ)
+> Bài văn nghị luận xã hội khoảng 600 chữ là phần có số điểm lớn trong đề thi: cần dàn ý chặt chẽ, lí lẽ thuyết phục và dẫn chứng thực tế.
+MT: Phân biệt ba dạng nghị luận xã hội thường gặp và cách triển khai từng dạng.
+MT: Lập được dàn ý đủ ba phần, thân bài có giải thích – bàn luận – phản đề – bài học.
+MT: Biết lấy dẫn chứng thực tế, tiêu biểu, ngắn gọn.
+LT: 1. Bố cục bài văn khoảng 600 chữ
+- **Mở bài** (khoảng 60 – 80 chữ): dẫn dắt và nêu vấn đề nghị luận.
+- **Thân bài** (khoảng 400 – 450 chữ): giải thích → bàn luận (biểu hiện, ý nghĩa hoặc nguyên nhân, hậu quả) → dẫn chứng → phản đề, mở rộng → giải pháp, bài học.
+- **Kết bài** (khoảng 60 – 80 chữ): khẳng định vấn đề, liên hệ bản thân.
+HINH: 12-van/dan-y-nlxh.svg | Dàn ý bài văn nghị luận xã hội khoảng 600 chữ: mở bài – thân bài 5 bước – kết bài, kèm dung lượng gợi ý.
+LT: 2. Lí lẽ và dẫn chứng
+- Lí lẽ phải trả lời được câu hỏi **"vì sao?"**; mỗi đoạn thân bài nên có một câu chủ đề rõ ràng.
+- Dẫn chứng **thực tế, tiêu biểu, có thật** (tấm gương, sự kiện, số liệu đáng tin cậy), nêu ngắn gọn rồi phân tích ý nghĩa; không bịa số liệu.
+DB: Dạng 1. Nghị luận về một tư tưởng, đạo lí (ví dụ: lòng biết ơn, ý chí, sự tử tế)
+- Giải thích khái niệm, ý nghĩa câu nói hoặc phẩm chất.
+- Bàn luận: vì sao đúng, biểu hiện, ý nghĩa với cá nhân và xã hội; dẫn chứng.
+- Phản đề: phê phán biểu hiện trái ngược; rút ra bài học nhận thức và hành động.
+DB: Dạng 2. Nghị luận về một hiện tượng đời sống (ví dụ: nghiện mạng xã hội, sống ảo)
+- Nêu và mô tả thực trạng (có số liệu, ví dụ cụ thể).
+- Phân tích nguyên nhân (chủ quan, khách quan) và hậu quả.
+- Đề xuất giải pháp cho bản thân, gia đình, nhà trường, xã hội.
+DB: Dạng 3. Nghị luận về một vấn đề cần giải quyết (ví dụ: làm thế nào để tự học hiệu quả)
+- Xác định vấn đề và vì sao cần giải quyết.
+- Đưa ra các giải pháp khả thi, mỗi giải pháp kèm lí lẽ, dẫn chứng.
+- Đánh giá tính khả thi, rút ra hành động cụ thể của bản thân.
+VD: Lập dàn ý cho đề: "Viết bài văn (khoảng 600 chữ) trình bày suy nghĩ của anh/chị về ý chí tự học của người trẻ trong thời đại số."
+B: Mở bài: Thời đại số mở ra kho tri thức khổng lồ; nhưng điều quyết định thành công của người học là ý chí tự học.
+B: Giải thích: tự học là chủ động tìm kiếm, tiếp nhận, rèn luyện kiến thức mà không cần ai thúc ép; ý chí tự học là sự kiên trì, kỉ luật trong việc đó.
+B: Bàn luận: tự học giúp hiểu sâu, nhớ lâu, rèn tính chủ động; trong thời đại số, người có ý chí tự học biết biến điện thoại, internet thành công cụ học tập. Dẫn chứng: tấm gương học sinh tự học đạt giải cao, người tự học lập trình, ngoại ngữ qua các khóa học trực tuyến miễn phí.
+B: Phản đề: phê phán lối học thụ động, học đối phó, lạm dụng công cụ để chép bài; mở rộng: tự học không có nghĩa là học một mình, vẫn cần thầy cô, bạn bè.
+B: Bài học: lập kế hoạch, đặt mục tiêu nhỏ, hạn chế mạng xã hội khi học, tự kiểm tra kiến thức thường xuyên.
+KQ: Kết bài: Ý chí tự học là "chìa khóa" để người trẻ làm chủ tri thức; bản thân cần rèn luyện từ những thói quen nhỏ mỗi ngày.
+GN: Đọc kĩ đề để xác định đúng dạng: tư tưởng đạo lí, hiện tượng đời sống hay vấn đề cần giải quyết.
+GN: Dẫn chứng phải có thật, nêu ngắn gọn và luôn kèm lời phân tích.
+GN: Phân bố thời gian: khoảng 5 phút lập dàn ý trước khi viết; viết thân bài thành nhiều đoạn, mỗi đoạn một ý.
+Q: mc | Đề "Suy nghĩ về hiện tượng nhiều bạn trẻ dành quá nhiều thời gian cho mạng xã hội" thuộc dạng nào?
+A) Nghị luận về một tư tưởng, đạo lí
+B) Nghị luận về một hiện tượng đời sống *
+C) Nghị luận về một tác phẩm văn học
+D) Nghị luận về một vấn đề cần giải quyết
+E: Đề nêu một hiện tượng đang diễn ra trong đời sống, cần phân tích thực trạng – nguyên nhân – hậu quả – giải pháp.
+Q: ord | Sắp xếp các bước triển khai thân bài nghị luận về một tư tưởng, đạo lí theo trình tự hợp lí:
+1) Giải thích khái niệm, ý nghĩa vấn đề
+2) Bàn luận vì sao đúng, biểu hiện, ý nghĩa
+3) Nêu dẫn chứng thực tế và phân tích
+4) Phản đề: phê phán biểu hiện trái ngược
+5) Rút ra bài học nhận thức và hành động
+E: Thân bài đi từ hiểu vấn đề (giải thích) → chứng minh vấn đề đúng (bàn luận, dẫn chứng) → nhìn từ phía ngược lại (phản đề) → hành động (bài học).
+Q: match | Nối mỗi đề bài với dạng nghị luận xã hội tương ứng:
+1) Lòng biết ơn trong cuộc sống | Tư tưởng, đạo lí
+2) Hiện tượng "sống ảo" của giới trẻ | Hiện tượng đời sống
+3) Làm thế nào để giảm rác thải nhựa trong trường học? | Vấn đề cần giải quyết
+E: Phẩm chất, đạo lí → dạng 1; sự việc đang diễn ra trong đời sống → dạng 2; câu hỏi "làm thế nào…" đòi hỏi đề xuất giải pháp → dạng 3.
+Q: tf | Về dẫn chứng trong bài văn nghị luận xã hội:
+a) Dẫn chứng cần có thật và tiêu biểu. | Đ
+b) Có thể tự đặt ra số liệu để bài viết thuyết phục hơn. | S
+c) Sau dẫn chứng cần có lời phân tích, đánh giá. | Đ
+d) Càng nhiều dẫn chứng thì bài càng hay, không cần chọn lọc. | S
+E: Dẫn chứng phải trung thực, chọn lọc và gắn với lí lẽ; bịa số liệu làm mất uy tín bài viết.
+Q: sa | Một bài văn khoảng 600 chữ có mở bài 70 chữ và kết bài 80 chữ. Thân bài khoảng bao nhiêu chữ?
+ANS: 450
+E: 600 − 70 − 80 = 450 chữ – thân bài chiếm phần lớn dung lượng.
+TL: Viết bài văn (khoảng 600 chữ) trình bày suy nghĩ của anh/chị về ý chí tự học của người trẻ trong thời đại số.
+MAU: Mở bài: dẫn dắt từ thời đại số với kho tri thức mở; nêu vấn đề ý chí tự học.
+MAU: Giải thích: tự học và ý chí tự học là gì.
+MAU: Bàn luận: vai trò của tự học (hiểu sâu, chủ động, thích ứng); biểu hiện của người có ý chí tự học; dẫn chứng tiêu biểu có thật.
+MAU: Phản đề: phê phán học thụ động, học đối phó, lạm dụng công nghệ để chép bài; mở rộng: tự học vẫn cần sự hướng dẫn.
+MAU: Bài học: lập kế hoạch, đặt mục tiêu, quản lí thời gian, tự kiểm tra.
+MAU: Kết bài: khẳng định ý nghĩa của ý chí tự học và hành động của bản thân.
+TC: Bố cục đủ ba phần, đúng dạng đề, dung lượng khoảng 600 chữ | 0,5
+TC: Giải thích đúng, bàn luận có lí lẽ chặt chẽ | 1,25
+TC: Dẫn chứng thực tế, tiêu biểu, có phân tích | 1
+TC: Phản đề và bài học hợp lí | 0,75
+TC: Diễn đạt mạch lạc, sáng tạo, đúng chính tả – ngữ pháp | 0,5
+
+### Chuyên đề 3. Thuyết trình, thảo luận về một vấn đề xã hội

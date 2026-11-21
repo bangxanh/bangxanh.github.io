@@ -2,6 +2,73 @@
 # 9 | toan | Toán 9
 ## Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn
 ### Bài 1. Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn
+> Bài toán "vừa gà vừa chó" quen thuộc thực chất là một hệ hai phương trình bậc nhất hai ẩn – công cụ giải rất nhiều bài toán thực tế.
+MT: Nhận biết phương trình bậc nhất hai ẩn ax + by = c và nghiệm của nó.
+MT: Nhận biết hệ hai phương trình bậc nhất hai ẩn; kiểm tra một cặp số có là nghiệm của hệ hay không.
+MT: Biểu diễn tập nghiệm bằng đường thẳng; lập được hệ phương trình từ bài toán thực tế.
+LT: 1. Phương trình bậc nhất hai ẩn
+- Có dạng **ax + by = c**, trong đó a, b, c là các số đã biết, a ≠ 0 hoặc b ≠ 0.
+- Cặp số (x₀; y₀) là **nghiệm** nếu ax₀ + by₀ = c. Phương trình bậc nhất hai ẩn luôn có **vô số nghiệm**.
+- Tập nghiệm được biểu diễn bởi một **đường thẳng** trên mặt phẳng tọa độ.
+LT: 2. Hệ hai phương trình bậc nhất hai ẩn
+- Dạng { ax + by = c ; a'x + b'y = c' }. Cặp số (x₀; y₀) là nghiệm của hệ nếu nó là nghiệm của **cả hai** phương trình.
+- Về hình học: nghiệm của hệ là **tọa độ giao điểm** của hai đường thẳng.
+HINH: 9-toan/he-pt.svg | Hai đường thẳng x + y = 5 và 2x − y = 1 cắt nhau tại điểm (2; 3) – đó là nghiệm duy nhất của hệ.
+DB: Dạng 1. Kiểm tra một cặp số có là nghiệm của phương trình, của hệ
+- Thay x = x₀, y = y₀ vào từng phương trình.
+- Thỏa mãn mọi phương trình của hệ thì là nghiệm; chỉ cần một phương trình không thỏa mãn thì không là nghiệm.
+DB: Dạng 2. Viết nghiệm tổng quát, vẽ đường thẳng biểu diễn tập nghiệm
+- Rút y theo x (hoặc x theo y) để viết nghiệm tổng quát.
+- Tìm hai điểm thuộc đường thẳng (thường cho x = 0 rồi y = 0) và vẽ.
+DB: Dạng 3. Lập hệ phương trình từ bài toán thực tế
+- Chọn ẩn, đặt điều kiện cho ẩn.
+- Biểu diễn hai dữ kiện của đề thành hai phương trình.
+VD: Cặp số (2; 3) có phải là nghiệm của hệ { x + y = 5 ; 2x − y = 1 } không?
+B: Thay vào phương trình thứ nhất: 2 + 3 = 5 (đúng).
+B: Thay vào phương trình thứ hai: 2·2 − 3 = 1 (đúng).
+KQ: (2; 3) là nghiệm của hệ.
+VD: Lập hệ phương trình cho bài toán dân gian: "Vừa gà vừa chó, bó lại cho tròn, ba mươi sáu con, một trăm chân chẵn."
+B: Gọi x là số gà, y là số chó (x, y nguyên dương).
+B: Tổng số con: x + y = 36; tổng số chân: 2x + 4y = 100.
+KQ: Hệ { x + y = 36 ; 2x + 4y = 100 } – có nghiệm x = 22, y = 14 (22 gà, 14 chó).
+GN: Phương trình bậc nhất hai ẩn có vô số nghiệm; hệ hai phương trình có thể có một nghiệm, vô nghiệm hoặc vô số nghiệm.
+GN: Nghiệm viết theo thứ tự (x; y).
+GN: Bài toán thực tế phải đặt điều kiện cho ẩn và đối chiếu điều kiện khi kết luận.
+Q: mc | Phương trình nào sau đây là phương trình bậc nhất hai ẩn?
+A) x² + y = 3
+B) 2x − 3y = 5 *
+C) xy + x = 1
+D) 1/x + y = 2
+E: 2x − 3y = 5 có dạng ax + by = c (a = 2, b = −3). Các phương trình còn lại chứa x², xy hoặc 1/x.
+Q: mc | Cặp số nào là nghiệm của phương trình 3x + y = 7?
+A) (1; 3)
+B) (2; 1) *
+C) (0; 5)
+D) (3; 1)
+E: 3·2 + 1 = 7. Các cặp còn lại cho 6, 5, 10.
+Q: tf | Cho hệ { x − y = 1 ; x + 2y = 7 }.
+a) Cặp số (3; 2) là nghiệm của hệ. | Đ
+b) Cặp số (2; 1) là nghiệm của phương trình thứ nhất. | Đ
+c) Cặp số (2; 1) là nghiệm của hệ. | S
+d) Hai đường thẳng biểu diễn hai phương trình cắt nhau tại điểm (3; 2). | Đ
+E: (3; 2): 3 − 2 = 1 và 3 + 4 = 7. (2; 1) thỏa mãn x − y = 1 nhưng 2 + 2 = 4 ≠ 7. Nghiệm duy nhất của hệ là giao điểm (3; 2).
+Q: sa | Tìm m để cặp số (1; 2) là nghiệm của phương trình mx + 3y = 10.
+ANS: 4
+E: m·1 + 3·2 = 10 ⇒ m = 4.
+Q: match | Nối mỗi phương trình với một nghiệm của nó:
+1) x + y = 4 | (1; 3)
+2) 2x − y = 0 | (2; 4)
+3) x − 3y = 1 | (4; 1)
+E: 1 + 3 = 4; 2·2 − 4 = 0; 4 − 3·1 = 1. Mỗi cặp số chỉ thỏa mãn đúng một phương trình.
+TL: Một cửa hàng bán hai loại vở: loại A giá 8 nghìn đồng/quyển, loại B giá 12 nghìn đồng/quyển. Bạn Lan mua 10 quyển hết 96 nghìn đồng. Lập hệ phương trình và tìm số vở mỗi loại.
+MAU: Gọi x, y lần lượt là số vở loại A, loại B (x, y nguyên dương).
+MAU: Hệ: x + y = 10 và 8x + 12y = 96.
+MAU: Từ x + y = 10 rút y = 10 − x, thế vào: 8x + 120 − 12x = 96 ⇒ x = 6, y = 4.
+MAU: Lan mua 6 quyển loại A và 4 quyển loại B.
+TC: Chọn ẩn, đặt điều kiện | 0,5
+TC: Lập đúng hệ phương trình | 1
+TC: Giải đúng và kết luận | 1,5
+
 ### Bài 2. Giải hệ hai phương trình bậc nhất hai ẩn
 ### Bài 3. Giải bài toán bằng cách lập hệ phương trình
 ## Chương II. Phương trình và bất phương trình bậc nhất một ẩn

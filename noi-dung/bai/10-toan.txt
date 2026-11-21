@@ -2,6 +2,75 @@
 # 10 | toan | Toán 10
 ## Chương I. Mệnh đề và tập hợp
 ### Bài 1. Mệnh đề
+> Toán học cần những câu khẳng định rõ ràng đúng hoặc sai – đó là mệnh đề, nền tảng của mọi lập luận chặt chẽ.
+MT: Nhận biết mệnh đề, mệnh đề chứa biến; xác định tính đúng sai của mệnh đề.
+MT: Lập mệnh đề phủ định, mệnh đề kéo theo, mệnh đề đảo, mệnh đề tương đương; dùng thuật ngữ điều kiện cần, điều kiện đủ.
+MT: Sử dụng kí hiệu ∀, ∃ và phủ định mệnh đề chứa các kí hiệu này.
+LT: 1. Mệnh đề và mệnh đề chứa biến
+- **Mệnh đề** là câu khẳng định có tính đúng hoặc sai (không thể vừa đúng vừa sai). Câu hỏi, câu cảm thán không phải là mệnh đề.
+- **Mệnh đề chứa biến** (ví dụ "x > 3") chưa xác định đúng sai; thay biến bằng giá trị cụ thể thì được một mệnh đề.
+- **Mệnh đề phủ định** của P, kí hiệu P̄: P đúng thì P̄ sai và ngược lại.
+LT: 2. Mệnh đề kéo theo, đảo, tương đương
+- **P ⇒ Q** ("Nếu P thì Q") chỉ **sai** khi P đúng và Q sai.
+- Mệnh đề đảo của P ⇒ Q là Q ⇒ P. Nếu cả hai cùng đúng ta có P ⇔ Q (P khi và chỉ khi Q).
+- Khi P ⇒ Q đúng: P là **điều kiện đủ** để có Q; Q là **điều kiện cần** để có P.
+HINH: 10-toan/menh-de.svg | Bảng chân trị của mệnh đề kéo theo P ⇒ Q: chỉ sai duy nhất khi P đúng mà Q sai.
+LT: 3. Kí hiệu ∀ và ∃
+- "∀x ∈ X, P(x)": mọi x thuộc X đều thỏa mãn P(x). Phủ định: "∃x ∈ X, P̄(x)".
+- "∃x ∈ X, P(x)": có ít nhất một x thuộc X thỏa mãn P(x). Phủ định: "∀x ∈ X, P̄(x)".
+DB: Dạng 1. Nhận biết mệnh đề, xét tính đúng sai
+- Kiểm tra câu có phải câu khẳng định có tính đúng sai hay không.
+- Xét đúng sai bằng kiến thức đã học; muốn chứng tỏ một mệnh đề "với mọi" là sai chỉ cần một phản ví dụ.
+DB: Dạng 2. Lập mệnh đề phủ định
+- Thêm hoặc bỏ "không"; đổi "=" thành "≠", ">" thành "≤", "<" thành "≥".
+- Với mệnh đề chứa kí hiệu: đổi ∀ thành ∃, ∃ thành ∀ rồi phủ định tính chất phía sau.
+DB: Dạng 3. Phát biểu bằng điều kiện cần, điều kiện đủ
+- Viết mệnh đề về dạng P ⇒ Q và kiểm tra nó đúng.
+- P là điều kiện đủ để có Q; Q là điều kiện cần để có P; nếu thêm Q ⇒ P đúng thì là điều kiện cần và đủ.
+VD: Phủ định mệnh đề "∀x ∈ ℝ, x² + 1 > 0" và xét tính đúng sai của mệnh đề phủ định.
+B: Phủ định: "∃x ∈ ℝ, x² + 1 ≤ 0".
+B: Vì x² ≥ 0 nên x² + 1 ≥ 1 > 0 với mọi x: mệnh đề ban đầu đúng.
+KQ: Mệnh đề phủ định "∃x ∈ ℝ, x² + 1 ≤ 0" là mệnh đề sai.
+VD: Cho P: "Tứ giác ABCD là hình vuông", Q: "Tứ giác ABCD là hình chữ nhật". Phát biểu P ⇒ Q, mệnh đề đảo và xét tính đúng sai.
+B: P ⇒ Q: "Nếu ABCD là hình vuông thì ABCD là hình chữ nhật" – đúng.
+B: Mệnh đề đảo Q ⇒ P: "Nếu ABCD là hình chữ nhật thì ABCD là hình vuông" – sai (hình chữ nhật có hai cạnh kề không bằng nhau).
+KQ: P ⇒ Q đúng, mệnh đề đảo sai; "là hình vuông" là điều kiện đủ (nhưng không cần) để "là hình chữ nhật".
+GN: Phủ định của ">" là "≤", không phải "<".
+GN: P ⇒ Q đúng không có nghĩa mệnh đề đảo Q ⇒ P đúng.
+GN: Một phản ví dụ đủ để bác bỏ mệnh đề "với mọi".
+Q: mc | Câu nào sau đây là mệnh đề?
+A) Hôm nay trời đẹp quá!
+B) Bạn có đi học không?
+C) 7 là số nguyên tố. *
+D) x + 2 = 5.
+E: "7 là số nguyên tố" là câu khẳng định (đúng). A là câu cảm thán, B là câu hỏi, D là mệnh đề chứa biến.
+Q: mc | Phủ định của mệnh đề "∃x ∈ ℕ, x² = 2" là
+A) ∀x ∈ ℕ, x² ≠ 2 *
+B) ∃x ∈ ℕ, x² ≠ 2
+C) ∀x ∈ ℕ, x² = 2
+D) ∃x ∈ ℕ, x² > 2
+E: Đổi ∃ thành ∀ và phủ định "x² = 2" thành "x² ≠ 2".
+Q: tf | Xét mệnh đề P ⇒ Q: "Nếu một số tự nhiên chia hết cho 6 thì số đó chia hết cho 3".
+a) Mệnh đề P ⇒ Q đúng. | Đ
+b) Mệnh đề đảo "Nếu một số tự nhiên chia hết cho 3 thì số đó chia hết cho 6" đúng. | S
+c) "Chia hết cho 3" là điều kiện cần để một số tự nhiên chia hết cho 6. | Đ
+d) "Chia hết cho 6" là điều kiện cần và đủ để một số tự nhiên chia hết cho 3. | S
+E: 6 = 2·3 nên chia hết cho 6 thì chia hết cho 3; mệnh đề đảo sai (phản ví dụ: 9). Q là điều kiện cần của P; vì mệnh đề đảo sai nên không phải điều kiện cần và đủ.
+Q: sa | Cho mệnh đề chứa biến P(n): "n² + n chia hết cho 3". Có bao nhiêu số tự nhiên n với 1 ≤ n ≤ 6 làm cho P(n) đúng?
+ANS: 4
+E: n² + n = n(n + 1) chia hết cho 3 khi n hoặc n + 1 chia hết cho 3, tức n ∈ {2; 3; 5; 6} – có 4 số.
+Q: match | Nối mỗi mệnh đề chứa biến với mệnh đề phủ định của nó:
+1) x > 2 | x ≤ 2
+2) x = 2 | x ≠ 2
+3) x ≥ 2 | x < 2
+E: Phủ định của ">" là "≤"; của "=" là "≠"; của "≥" là "<".
+TL: Cho mệnh đề "Với mọi số thực x, nếu x > 1 thì x² > 1". a) Mệnh đề này đúng hay sai? Giải thích. b) Phát biểu mệnh đề đảo và xét tính đúng sai.
+MAU: a) Đúng: với x > 1 thì x > 0, nhân hai vế của x > 1 với x > 0 được x² > x > 1.
+MAU: b) Mệnh đề đảo: "Với mọi số thực x, nếu x² > 1 thì x > 1" – sai. Phản ví dụ: x = −2 có x² = 4 > 1 nhưng −2 < 1.
+TC: Kết luận đúng và giải thích được câu a | 1,5
+TC: Phát biểu đúng mệnh đề đảo | 0,5
+TC: Chỉ ra phản ví dụ và kết luận đúng | 1
+
 ### Bài 2. Tập hợp và các phép toán trên tập hợp
 ## Chương II. Bất phương trình và hệ bất phương trình bậc nhất hai ẩn
 ### Bài 3. Bất phương trình bậc nhất hai ẩn

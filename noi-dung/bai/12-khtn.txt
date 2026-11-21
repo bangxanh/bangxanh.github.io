@@ -2,6 +2,78 @@
 # 12 | khtn | Vật lí 12
 ## Chương I. Vật lí nhiệt
 ### Bài 1. Cấu trúc của chất. Sự chuyển thể
+> Vì sao nước đá tan, nước sôi bay hơi, băng phiến "biến mất" dần? Mô hình động học phân tử giải thích cấu trúc của chất và mọi quá trình chuyển thể.
+MT: Nêu được nội dung cơ bản của mô hình động học phân tử về cấu tạo chất.
+MT: Giải thích được đặc điểm của chất rắn, lỏng, khí dựa vào khoảng cách, lực tương tác và chuyển động của phân tử.
+MT: Gọi tên và giải thích được các quá trình chuyển thể: nóng chảy, đông đặc, hóa hơi, ngưng tụ, thăng hoa, ngưng kết.
+LT: 1. Mô hình động học phân tử về cấu tạo chất
+- Các chất được cấu tạo từ các hạt riêng biệt là **phân tử** (hoặc nguyên tử).
+- Các phân tử **chuyển động hỗn loạn không ngừng**; nhiệt độ càng cao, phân tử chuyển động càng nhanh.
+- Giữa các phân tử có **lực hút và lực đẩy**; lực tương tác phụ thuộc khoảng cách giữa chúng.
+LT: 2. Cấu trúc của chất rắn, lỏng, khí
+- **Rắn**: phân tử rất gần nhau, lực tương tác mạnh, dao động quanh vị trí cân bằng cố định → có hình dạng và thể tích riêng.
+- **Lỏng**: phân tử gần nhau, lực tương tác yếu hơn, dao động và có thể di chuyển → có thể tích riêng, hình dạng theo bình chứa.
+- **Khí**: phân tử rất xa nhau, lực tương tác rất yếu, chuyển động hỗn loạn tự do → không có hình dạng và thể tích riêng, dễ nén.
+HINH: 12-khtn/chuyen-the.svg | Sự sắp xếp phân tử ở ba thể rắn – lỏng – khí và tên sáu quá trình chuyển thể giữa chúng.
+LT: 3. Sự chuyển thể
+- **Nóng chảy** (rắn → lỏng) và **đông đặc** (lỏng → rắn); chất rắn kết tinh nóng chảy ở nhiệt độ xác định.
+- **Hóa hơi** (lỏng → khí) gồm **bay hơi** (ở mặt thoáng, mọi nhiệt độ) và **sôi** (trong lòng và mặt thoáng, ở nhiệt độ sôi); **ngưng tụ** (khí → lỏng).
+- **Thăng hoa** (rắn → khí) và **ngưng kết** (khí → rắn), ví dụ băng phiến, nước đá khô (CO₂ rắn).
+DB: Dạng 1. Giải thích tính chất của các thể bằng mô hình phân tử
+- Nêu khoảng cách, lực tương tác, kiểu chuyển động của phân tử ở thể đang xét.
+- Liên hệ với tính chất vĩ mô: hình dạng, thể tích, khả năng nén, khuếch tán.
+DB: Dạng 2. Gọi tên quá trình chuyển thể trong hiện tượng thực tế
+- Xác định thể ban đầu và thể lúc sau.
+- Đối chiếu với sáu quá trình; chú ý quá trình thu nhiệt (nóng chảy, hóa hơi, thăng hoa) hay tỏa nhiệt (đông đặc, ngưng tụ, ngưng kết).
+DB: Dạng 3. Đọc đồ thị nhiệt độ – thời gian khi chuyển thể
+- Đoạn nằm ngang: đang chuyển thể, nhiệt độ không đổi.
+- Đoạn xiên lên: chất ở một thể đang nóng lên.
+VD: Vì sao chất khí dễ bị nén còn chất rắn, chất lỏng rất khó nén?
+B: Ở thể khí, khoảng cách giữa các phân tử rất lớn so với kích thước phân tử, lực tương tác rất yếu.
+B: Khi nén, các phân tử khí dễ dàng lại gần nhau; ở rắn và lỏng các phân tử đã rất gần nhau, lực đẩy mạnh khi bị ép lại.
+KQ: Chất khí dễ nén vì giữa các phân tử có nhiều khoảng trống; chất rắn, lỏng gần như không nén được.
+VD: Gọi tên quá trình chuyển thể: (1) hơi nước đọng thành giọt trên nắp nồi; (2) cục nước đá khô "bốc khói" và nhỏ dần.
+B: (1) Hơi nước (khí) → giọt nước (lỏng): ngưng tụ.
+B: (2) CO₂ rắn → CO₂ khí, không qua thể lỏng: thăng hoa.
+KQ: (1) ngưng tụ; (2) thăng hoa.
+GN: Trong khi nóng chảy hoặc sôi, nhiệt độ của chất kết tinh/chất lỏng nguyên chất không đổi.
+GN: Bay hơi xảy ra ở mọi nhiệt độ; sôi chỉ xảy ra ở nhiệt độ sôi (phụ thuộc áp suất).
+GN: Nóng chảy, hóa hơi, thăng hoa cần thu nhiệt; quá trình ngược lại tỏa nhiệt.
+Q: mc | Đặc điểm nào sau đây là của phân tử chất khí?
+A) Sắp xếp có trật tự, dao động quanh vị trí cố định
+B) Khoảng cách rất lớn, chuyển động hỗn loạn tự do *
+C) Lực tương tác rất mạnh, không di chuyển được
+D) Đứng yên khi nhiệt độ thấp
+E: Phân tử khí ở xa nhau, lực tương tác rất yếu nên chuyển động hỗn loạn, tự do. Phân tử luôn chuyển động, không bao giờ đứng yên.
+Q: mc | Băng phiến để lâu trong tủ quần áo nhỏ dần rồi hết. Đó là hiện tượng
+A) nóng chảy
+B) bay hơi
+C) thăng hoa *
+D) ngưng kết
+E: Băng phiến chuyển trực tiếp từ thể rắn sang thể khí: thăng hoa.
+Q: tf | Về cấu trúc của chất và sự chuyển thể:
+a) Các phân tử chuyển động không ngừng, nhiệt độ càng cao chuyển động càng nhanh. | Đ
+b) Chất lỏng có hình dạng riêng và thể tích riêng. | S
+c) Sự bay hơi chỉ xảy ra ở nhiệt độ sôi. | S
+d) Ngưng tụ là quá trình tỏa nhiệt. | Đ
+E: Chất lỏng có thể tích riêng nhưng hình dạng theo bình chứa. Bay hơi xảy ra ở mọi nhiệt độ. Ngưng tụ (ngược với hóa hơi) tỏa nhiệt.
+Q: sa | Có bao nhiêu quá trình thu nhiệt trong các quá trình sau: nóng chảy, đông đặc, hóa hơi, ngưng tụ, thăng hoa, ngưng kết?
+ANS: 3
+E: Thu nhiệt: nóng chảy, hóa hơi, thăng hoa (3 quá trình); ba quá trình ngược lại tỏa nhiệt.
+Q: match | Nối hiện tượng với quá trình chuyển thể:
+1) Sương đọng trên lá cây buổi sáng | Ngưng tụ
+2) Nước đá trong cốc tan dần | Nóng chảy
+3) Nước muối phơi nắng để lại muối | Bay hơi
+4) Nước trong khay tủ đá thành đá | Đông đặc
+E: Hơi nước → giọt sương: ngưng tụ; đá → nước: nóng chảy; nước bay hơi để lại muối; nước → đá: đông đặc.
+TL: Dùng mô hình động học phân tử, giải thích vì sao khi đun nước, nhiệt độ tăng dần nhưng trong suốt thời gian nước sôi thì nhiệt độ không tăng dù vẫn tiếp tục đun.
+MAU: Trước khi sôi, nhiệt lượng nhận vào làm các phân tử nước chuyển động nhanh hơn nên nhiệt độ tăng.
+MAU: Khi sôi, nhiệt lượng nhận vào được dùng để các phân tử thắng lực tương tác, tách ra khỏi khối chất lỏng chuyển thành hơi.
+MAU: Năng lượng không làm tăng tốc độ chuyển động trung bình của phân tử nên nhiệt độ giữ nguyên ở nhiệt độ sôi.
+TC: Giải thích đúng giai đoạn nhiệt độ tăng | 1
+TC: Nêu được nhiệt lượng dùng để phân tử thắng lực liên kết khi sôi | 1
+TC: Kết luận nhiệt độ không đổi khi sôi | 1
+
 ### Bài 2. Nội năng. Định luật I của nhiệt động lực học
 ### Bài 3. Nhiệt độ. Thang nhiệt độ – nhiệt kế
 ### Bài 4. Nhiệt dung riêng

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="380.277813pt" height="255.520937pt" viewBox="0 0 380.277813 255.520937" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T07:47:12.873618</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 255.520937 
+L 380.277813 255.520937 
+L 380.277813 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 25.677813 230.4 
+L 371.637813 230.4 
+L 371.637813 8.64 
+L 25.677813 8.64 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="text_1">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="198.657813" y="243.998125" transform="rotate(-0 198.657813 243.998125)">Thời gian</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="text_2">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2620" x="18.795" y="119.52" transform="rotate(-90 18.795 119.52)">Tốc độ phản ứng</text>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <path d="M 25.677813 21.192453 
+L 29.154797 29.74278 
+L 32.631782 37.833301 
+L 36.108767 45.488743 
+L 39.585752 52.732503 
+L 43.062737 59.586719 
+L 46.539722 66.07234 
+L 50.016707 72.209188 
+L 53.493692 78.016019 
+L 56.970677 83.510578 
+L 60.447662 88.70966 
+L 63.924647 93.629155 
+L 67.401632 98.284096 
+L 70.878617 102.688711 
+L 76.094094 108.855522 
+L 81.309571 114.531637 
+L 86.525049 119.756103 
+L 91.740526 124.564857 
+L 96.956003 128.990977 
+L 102.171481 133.06491 
+L 107.386958 136.814679 
+L 112.602436 140.266078 
+L 117.817913 143.442849 
+L 123.03339 146.366843 
+L 128.248868 149.058174 
+L 133.464345 151.535356 
+L 138.679823 153.815427 
+L 145.633792 156.575834 
+L 152.587762 159.047334 
+L 159.541732 161.260164 
+L 166.495702 163.241398 
+L 173.449672 165.015274 
+L 182.142134 166.973864 
+L 190.834596 168.679664 
+L 199.527059 170.1653 
+L 209.958014 171.697194 
+L 220.388968 172.995 
+L 232.558416 174.260657 
+L 244.727863 175.303681 
+L 258.635802 176.273007 
+L 274.282235 177.13565 
+L 291.667159 177.87325 
+L 312.529069 178.527246 
+L 336.867963 179.060826 
+L 366.422335 179.484228 
+L 371.637813 179.540401 
+L 371.637813 179.540401 
+" clip-path="url(#p00933c7523)" style="fill: none; stroke: #2f6fde; stroke-width: 2.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 25.677813 230.4 
+L 30.89329 226.404794 
+L 36.108767 222.727487 
+L 41.324245 219.342785 
+L 46.539722 216.227404 
+L 51.755199 213.359915 
+L 56.970677 210.720592 
+L 62.186154 208.291281 
+L 67.401632 206.055271 
+L 74.355601 203.348207 
+L 81.309571 200.924468 
+L 88.263541 198.7544 
+L 95.217511 196.811452 
+L 102.171481 195.071856 
+L 110.863943 193.151114 
+L 119.556405 191.478278 
+L 128.248868 190.021351 
+L 138.679823 188.519061 
+L 149.110777 187.246334 
+L 161.280225 186.005135 
+L 173.449672 184.982267 
+L 187.357611 184.031672 
+L 203.004044 183.1857 
+L 220.388968 182.462354 
+L 241.250878 181.820995 
+L 265.589772 181.297727 
+L 296.882637 180.863635 
+L 336.867963 180.54683 
+L 371.637813 180.395385 
+L 371.637813 180.395385 
+" clip-path="url(#p00933c7523)" style="fill: none; stroke: #c93a58; stroke-width: 2.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 240.173013 230.4 
+L 240.173013 8.64 
+" clip-path="url(#p00933c7523)" style="fill: none; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #6b7a72; stroke-width: 1.2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 25.677813 230.4 
+L 25.677813 8.64 
+" style="fill: none; stroke: #1b2620; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 25.677813 230.4 
+L 371.637813 230.4 
+" style="fill: none; stroke: #1b2620; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f5640" transform="translate(245.362413 37.458638)">Trạng thái cân bằng:</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f5640" transform="translate(245.362413 50.481509)">v thuận = v nghịch</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_4">
+     <path d="M 275.956563 109.677187 
+L 287.956563 109.677187 
+L 299.956563 109.677187 
+" style="fill: none; stroke: #2f6fde; stroke-width: 2.6; stroke-linecap: square"/>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="309.556563" y="113.877187" transform="rotate(-0 309.556563 113.877187)">v thuận</text>
+    </g>
+    <g id="line2d_5">
+     <path d="M 275.956563 127.678125 
+L 287.956563 127.678125 
+L 299.956563 127.678125 
+" style="fill: none; stroke: #c93a58; stroke-width: 2.6; stroke-linecap: square"/>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="309.556563" y="131.878125" transform="rotate(-0 309.556563 131.878125)">v nghịch</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p00933c7523">
+   <rect x="25.677813" y="8.64" width="345.96" height="221.76"/>
+  </clipPath>
+ </defs>
+</svg>
